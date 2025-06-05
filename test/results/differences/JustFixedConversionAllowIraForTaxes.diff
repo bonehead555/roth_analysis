@@ -1,0 +1,324 @@
+MODIFIED
+Result  (2): "2025/01,Withdraw,IRA,10000.0,1090000.0,Monthly ROTH conversion"
+Verified(2): "2025/01,Withdraw,IRA,10000.0,1090000.0,"
+MODIFIED
+Result  (5): "2025/02,Withdraw,IRA,10000.0,1080000.0,Monthly ROTH conversion"
+Verified(5): "2025/02,Withdraw,IRA,10000.0,1080000.0,"
+MODIFIED
+Result  (8): "2025/03,Withdraw,IRA,10000.0,1070000.0,Monthly ROTH conversion"
+Verified(8): "2025/03,Withdraw,IRA,10000.0,1070000.0,"
+MODIFIED
+Result  (11): "2025/04,Withdraw,IRA,10000.0,1060000.0,Monthly ROTH conversion"
+Verified(11): "2025/04,Withdraw,IRA,10000.0,1060000.0,"
+MODIFIED
+Result  (14): "2025/05,Withdraw,IRA,10000.0,1050000.0,Monthly ROTH conversion"
+Verified(14): "2025/05,Withdraw,IRA,10000.0,1050000.0,"
+MODIFIED
+Result  (17): "2025/06,Withdraw,IRA,10000.0,1040000.0,Monthly ROTH conversion"
+Verified(17): "2025/06,Withdraw,IRA,10000.0,1040000.0,"
+MODIFIED
+Result  (20): "2025/07,Withdraw,IRA,10000.0,1030000.0,Monthly ROTH conversion"
+Verified(20): "2025/07,Withdraw,IRA,10000.0,1030000.0,"
+MODIFIED
+Result  (23): "2025/08,Withdraw,IRA,10000.0,1020000.0,Monthly ROTH conversion"
+Verified(23): "2025/08,Withdraw,IRA,10000.0,1020000.0,"
+MODIFIED
+Result  (26): "2025/09,Withdraw,IRA,10000.0,1010000.0,Monthly ROTH conversion"
+Verified(26): "2025/09,Withdraw,IRA,10000.0,1010000.0,"
+MODIFIED
+Result  (29): "2025/10,Withdraw,IRA,10000.0,1000000.0,Monthly ROTH conversion"
+Verified(29): "2025/10,Withdraw,IRA,10000.0,1000000.0,"
+MODIFIED
+Result  (32): "2025/11,Withdraw,IRA,10000.0,990000.0,Monthly ROTH conversion"
+Verified(32): "2025/11,Withdraw,IRA,10000.0,990000.0,"
+MODIFIED
+Result  (35): "2025/12,Withdraw,IRA,10000.0,980000.0,Monthly ROTH conversion"
+Verified(35): "2025/12,Withdraw,IRA,10000.0,980000.0,"
+MODIFIED
+Result  (49): "2026/01,Withdraw,IRA,10000.0,970000.0,Monthly ROTH conversion"
+Verified(49): "2026/01,Withdraw,IRA,10000.0,970000.0,"
+MODIFIED
+Result  (52): "2026/02,Withdraw,IRA,10000.0,960000.0,Monthly ROTH conversion"
+Verified(52): "2026/02,Withdraw,IRA,10000.0,960000.0,"
+MODIFIED
+Result  (55): "2026/03,Withdraw,IRA,10000.0,950000.0,Monthly ROTH conversion"
+Verified(55): "2026/03,Withdraw,IRA,10000.0,950000.0,"
+MODIFIED
+Result  (58): "2026/04,Withdraw,IRA,10000.0,940000.0,Monthly ROTH conversion"
+Verified(58): "2026/04,Withdraw,IRA,10000.0,940000.0,"
+MODIFIED
+Result  (61): "2026/05,Withdraw,IRA,10000.0,930000.0,Monthly ROTH conversion"
+Verified(61): "2026/05,Withdraw,IRA,10000.0,930000.0,"
+MODIFIED
+Result  (64): "2026/06,Withdraw,IRA,10000.0,920000.0,Monthly ROTH conversion"
+Verified(64): "2026/06,Withdraw,IRA,10000.0,920000.0,"
+MODIFIED
+Result  (67): "2026/07,Withdraw,IRA,10000.0,910000.0,Monthly ROTH conversion"
+Verified(67): "2026/07,Withdraw,IRA,10000.0,910000.0,"
+MODIFIED
+Result  (70): "2026/08,Withdraw,IRA,10000.0,900000.0,Monthly ROTH conversion"
+Verified(70): "2026/08,Withdraw,IRA,10000.0,900000.0,"
+MODIFIED
+Result  (73): "2026/09,Withdraw,IRA,10000.0,890000.0,Monthly ROTH conversion"
+Verified(73): "2026/09,Withdraw,IRA,10000.0,890000.0,"
+MODIFIED
+Result  (76): "2026/10,Withdraw,IRA,10000.0,880000.0,Monthly ROTH conversion"
+Verified(76): "2026/10,Withdraw,IRA,10000.0,880000.0,"
+MODIFIED
+Result  (79): "2026/11,Withdraw,IRA,10000.0,870000.0,Monthly ROTH conversion"
+Verified(79): "2026/11,Withdraw,IRA,10000.0,870000.0,"
+MODIFIED
+Result  (82): "2026/12,Withdraw,IRA,10000.0,860000.0,Monthly ROTH conversion"
+Verified(82): "2026/12,Withdraw,IRA,10000.0,860000.0,"
+MODIFIED
+Result  (96): "2027/01,Withdraw,IRA,10000.0,850000.0,Monthly ROTH conversion"
+Verified(96): "2027/01,Withdraw,IRA,10000.0,850000.0,"
+MODIFIED
+Result  (99): "2027/02,Withdraw,IRA,10000.0,840000.0,Monthly ROTH conversion"
+Verified(99): "2027/02,Withdraw,IRA,10000.0,840000.0,"
+MODIFIED
+Result  (102): "2027/03,Withdraw,IRA,10000.0,830000.0,Monthly ROTH conversion"
+Verified(102): "2027/03,Withdraw,IRA,10000.0,830000.0,"
+MODIFIED
+Result  (105): "2027/04,Withdraw,IRA,10000.0,820000.0,Monthly ROTH conversion"
+Verified(105): "2027/04,Withdraw,IRA,10000.0,820000.0,"
+MODIFIED
+Result  (108): "2027/05,Withdraw,IRA,10000.0,810000.0,Monthly ROTH conversion"
+Verified(108): "2027/05,Withdraw,IRA,10000.0,810000.0,"
+MODIFIED
+Result  (111): "2027/06,Withdraw,IRA,10000.0,800000.0,Monthly ROTH conversion"
+Verified(111): "2027/06,Withdraw,IRA,10000.0,800000.0,"
+MODIFIED
+Result  (114): "2027/07,Withdraw,IRA,10000.0,790000.0,Monthly ROTH conversion"
+Verified(114): "2027/07,Withdraw,IRA,10000.0,790000.0,"
+MODIFIED
+Result  (117): "2027/08,Withdraw,IRA,10000.0,780000.0,Monthly ROTH conversion"
+Verified(117): "2027/08,Withdraw,IRA,10000.0,780000.0,"
+MODIFIED
+Result  (122): "2027/09,Withdraw,IRA,10000.0,769668.25,Monthly ROTH conversion"
+Verified(122): "2027/09,Withdraw,IRA,10000.0,769668.25,"
+MODIFIED
+Result  (127): "2027/10,Withdraw,IRA,10000.0,758068.5,Monthly ROTH conversion"
+Verified(127): "2027/10,Withdraw,IRA,10000.0,758068.5,"
+MODIFIED
+Result  (132): "2027/11,Withdraw,IRA,10000.0,746469.25,Monthly ROTH conversion"
+Verified(132): "2027/11,Withdraw,IRA,10000.0,746469.25,"
+MODIFIED
+Result  (137): "2027/12,Withdraw,IRA,10000.0,734869.0,Monthly ROTH conversion"
+Verified(137): "2027/12,Withdraw,IRA,10000.0,734869.0,"
+MODIFIED
+Result  (153): "2028/01,Withdraw,IRA,10000.0,722899.08,Monthly ROTH conversion"
+Verified(153): "2028/01,Withdraw,IRA,10000.0,722899.08,"
+MODIFIED
+Result  (158): "2028/02,Withdraw,IRA,10000.0,710929.16,Monthly ROTH conversion"
+Verified(158): "2028/02,Withdraw,IRA,10000.0,710929.16,"
+MODIFIED
+Result  (163): "2028/03,Withdraw,IRA,10000.0,698959.24,Monthly ROTH conversion"
+Verified(163): "2028/03,Withdraw,IRA,10000.0,698959.24,"
+MODIFIED
+Result  (168): "2028/04,Withdraw,IRA,10000.0,686989.32,Monthly ROTH conversion"
+Verified(168): "2028/04,Withdraw,IRA,10000.0,686989.32,"
+MODIFIED
+Result  (173): "2028/05,Withdraw,IRA,10000.0,675019.65,Monthly ROTH conversion"
+Verified(173): "2028/05,Withdraw,IRA,10000.0,675019.65,"
+MODIFIED
+Result  (178): "2028/06,Withdraw,IRA,10000.0,663049.99,Monthly ROTH conversion"
+Verified(178): "2028/06,Withdraw,IRA,10000.0,663049.99,"
+MODIFIED
+Result  (183): "2028/07,Withdraw,IRA,10000.0,651080.16,Monthly ROTH conversion"
+Verified(183): "2028/07,Withdraw,IRA,10000.0,651080.16,"
+MODIFIED
+Result  (188): "2028/08,Withdraw,IRA,10000.0,639110.33,Monthly ROTH conversion"
+Verified(188): "2028/08,Withdraw,IRA,10000.0,639110.33,"
+MODIFIED
+Result  (193): "2028/09,Withdraw,IRA,10000.0,627140.25,Monthly ROTH conversion"
+Verified(193): "2028/09,Withdraw,IRA,10000.0,627140.25,"
+MODIFIED
+Result  (198): "2028/10,Withdraw,IRA,10000.0,615170.17,Monthly ROTH conversion"
+Verified(198): "2028/10,Withdraw,IRA,10000.0,615170.17,"
+MODIFIED
+Result  (203): "2028/11,Withdraw,IRA,10000.0,603201.09,Monthly ROTH conversion"
+Verified(203): "2028/11,Withdraw,IRA,10000.0,603201.09,"
+MODIFIED
+Result  (208): "2028/12,Withdraw,IRA,10000.0,591230.0,Monthly ROTH conversion"
+Verified(208): "2028/12,Withdraw,IRA,10000.0,591230.0,"
+MODIFIED
+Result  (224): "2029/01,Withdraw,IRA,10000.0,579260.08,Monthly ROTH conversion"
+Verified(224): "2029/01,Withdraw,IRA,10000.0,579260.08,"
+MODIFIED
+Result  (229): "2029/02,Withdraw,IRA,10000.0,567290.16,Monthly ROTH conversion"
+Verified(229): "2029/02,Withdraw,IRA,10000.0,567290.16,"
+MODIFIED
+Result  (234): "2029/03,Withdraw,IRA,10000.0,555320.24,Monthly ROTH conversion"
+Verified(234): "2029/03,Withdraw,IRA,10000.0,555320.24,"
+MODIFIED
+Result  (239): "2029/04,Withdraw,IRA,10000.0,543350.32,Monthly ROTH conversion"
+Verified(239): "2029/04,Withdraw,IRA,10000.0,543350.32,"
+MODIFIED
+Result  (244): "2029/05,Withdraw,IRA,10000.0,531380.65,Monthly ROTH conversion"
+Verified(244): "2029/05,Withdraw,IRA,10000.0,531380.65,"
+MODIFIED
+Result  (249): "2029/06,Withdraw,IRA,10000.0,519410.99,Monthly ROTH conversion"
+Verified(249): "2029/06,Withdraw,IRA,10000.0,519410.99,"
+MODIFIED
+Result  (254): "2029/07,Withdraw,IRA,10000.0,507441.16,Monthly ROTH conversion"
+Verified(254): "2029/07,Withdraw,IRA,10000.0,507441.16,"
+MODIFIED
+Result  (259): "2029/08,Withdraw,IRA,10000.0,495471.33,Monthly ROTH conversion"
+Verified(259): "2029/08,Withdraw,IRA,10000.0,495471.33,"
+MODIFIED
+Result  (264): "2029/09,Withdraw,IRA,10000.0,483501.25,Monthly ROTH conversion"
+Verified(264): "2029/09,Withdraw,IRA,10000.0,483501.25,"
+MODIFIED
+Result  (269): "2029/10,Withdraw,IRA,10000.0,471531.17,Monthly ROTH conversion"
+Verified(269): "2029/10,Withdraw,IRA,10000.0,471531.17,"
+MODIFIED
+Result  (274): "2029/11,Withdraw,IRA,10000.0,459562.09,Monthly ROTH conversion"
+Verified(274): "2029/11,Withdraw,IRA,10000.0,459562.09,"
+MODIFIED
+Result  (279): "2029/12,Withdraw,IRA,10000.0,447591.0,Monthly ROTH conversion"
+Verified(279): "2029/12,Withdraw,IRA,10000.0,447591.0,"
+MODIFIED
+Result  (295): "2030/01,Withdraw,IRA,10000.0,435621.08,Monthly ROTH conversion"
+Verified(295): "2030/01,Withdraw,IRA,10000.0,435621.08,"
+MODIFIED
+Result  (300): "2030/02,Withdraw,IRA,10000.0,423651.16,Monthly ROTH conversion"
+Verified(300): "2030/02,Withdraw,IRA,10000.0,423651.16,"
+MODIFIED
+Result  (305): "2030/03,Withdraw,IRA,10000.0,411681.24,Monthly ROTH conversion"
+Verified(305): "2030/03,Withdraw,IRA,10000.0,411681.24,"
+MODIFIED
+Result  (310): "2030/04,Withdraw,IRA,10000.0,399711.32,Monthly ROTH conversion"
+Verified(310): "2030/04,Withdraw,IRA,10000.0,399711.32,"
+MODIFIED
+Result  (315): "2030/05,Withdraw,IRA,10000.0,387741.65,Monthly ROTH conversion"
+Verified(315): "2030/05,Withdraw,IRA,10000.0,387741.65,"
+MODIFIED
+Result  (320): "2030/06,Withdraw,IRA,10000.0,375771.99,Monthly ROTH conversion"
+Verified(320): "2030/06,Withdraw,IRA,10000.0,375771.99,"
+MODIFIED
+Result  (325): "2030/07,Withdraw,IRA,10000.0,363802.16,Monthly ROTH conversion"
+Verified(325): "2030/07,Withdraw,IRA,10000.0,363802.16,"
+MODIFIED
+Result  (330): "2030/08,Withdraw,IRA,10000.0,351832.33,Monthly ROTH conversion"
+Verified(330): "2030/08,Withdraw,IRA,10000.0,351832.33,"
+MODIFIED
+Result  (335): "2030/09,Withdraw,IRA,10000.0,339862.25,Monthly ROTH conversion"
+Verified(335): "2030/09,Withdraw,IRA,10000.0,339862.25,"
+MODIFIED
+Result  (340): "2030/10,Withdraw,IRA,10000.0,327892.17,Monthly ROTH conversion"
+Verified(340): "2030/10,Withdraw,IRA,10000.0,327892.17,"
+MODIFIED
+Result  (345): "2030/11,Withdraw,IRA,10000.0,315923.09,Monthly ROTH conversion"
+Verified(345): "2030/11,Withdraw,IRA,10000.0,315923.09,"
+MODIFIED
+Result  (350): "2030/12,Withdraw,IRA,10000.0,303952.0,Monthly ROTH conversion"
+Verified(350): "2030/12,Withdraw,IRA,10000.0,303952.0,"
+MODIFIED
+Result  (366): "2031/01,Withdraw,IRA,10000.0,291982.08,Monthly ROTH conversion"
+Verified(366): "2031/01,Withdraw,IRA,10000.0,291982.08,"
+MODIFIED
+Result  (371): "2031/02,Withdraw,IRA,10000.0,280012.16,Monthly ROTH conversion"
+Verified(371): "2031/02,Withdraw,IRA,10000.0,280012.16,"
+MODIFIED
+Result  (376): "2031/03,Withdraw,IRA,10000.0,268042.24,Monthly ROTH conversion"
+Verified(376): "2031/03,Withdraw,IRA,10000.0,268042.24,"
+MODIFIED
+Result  (381): "2031/04,Withdraw,IRA,10000.0,256072.32,Monthly ROTH conversion"
+Verified(381): "2031/04,Withdraw,IRA,10000.0,256072.32,"
+MODIFIED
+Result  (386): "2031/05,Withdraw,IRA,10000.0,244102.65,Monthly ROTH conversion"
+Verified(386): "2031/05,Withdraw,IRA,10000.0,244102.65,"
+MODIFIED
+Result  (391): "2031/06,Withdraw,IRA,10000.0,232132.99,Monthly ROTH conversion"
+Verified(391): "2031/06,Withdraw,IRA,10000.0,232132.99,"
+MODIFIED
+Result  (396): "2031/07,Withdraw,IRA,10000.0,220163.16,Monthly ROTH conversion"
+Verified(396): "2031/07,Withdraw,IRA,10000.0,220163.16,"
+MODIFIED
+Result  (401): "2031/08,Withdraw,IRA,10000.0,208193.33,Monthly ROTH conversion"
+Verified(401): "2031/08,Withdraw,IRA,10000.0,208193.33,"
+MODIFIED
+Result  (406): "2031/09,Withdraw,IRA,10000.0,196223.25,Monthly ROTH conversion"
+Verified(406): "2031/09,Withdraw,IRA,10000.0,196223.25,"
+MODIFIED
+Result  (411): "2031/10,Withdraw,IRA,10000.0,184253.17,Monthly ROTH conversion"
+Verified(411): "2031/10,Withdraw,IRA,10000.0,184253.17,"
+MODIFIED
+Result  (416): "2031/11,Withdraw,IRA,10000.0,172284.09,Monthly ROTH conversion"
+Verified(416): "2031/11,Withdraw,IRA,10000.0,172284.09,"
+MODIFIED
+Result  (421): "2031/12,Withdraw,IRA,10000.0,160313.0,Monthly ROTH conversion"
+Verified(421): "2031/12,Withdraw,IRA,10000.0,160313.0,"
+MODIFIED
+Result  (437): "2032/01,Withdraw,IRA,10000.0,148343.08,Monthly ROTH conversion"
+Verified(437): "2032/01,Withdraw,IRA,10000.0,148343.08,"
+MODIFIED
+Result  (442): "2032/02,Withdraw,IRA,10000.0,136373.16,Monthly ROTH conversion"
+Verified(442): "2032/02,Withdraw,IRA,10000.0,136373.16,"
+MODIFIED
+Result  (447): "2032/03,Withdraw,IRA,10000.0,124403.24,Monthly ROTH conversion"
+Verified(447): "2032/03,Withdraw,IRA,10000.0,124403.24,"
+MODIFIED
+Result  (452): "2032/04,Withdraw,IRA,10000.0,112433.32,Monthly ROTH conversion"
+Verified(452): "2032/04,Withdraw,IRA,10000.0,112433.32,"
+MODIFIED
+Result  (457): "2032/05,Withdraw,IRA,10000.0,100463.65,Monthly ROTH conversion"
+Verified(457): "2032/05,Withdraw,IRA,10000.0,100463.65,"
+MODIFIED
+Result  (462): "2032/06,Withdraw,IRA,10000.0,88493.99,Monthly ROTH conversion"
+Verified(462): "2032/06,Withdraw,IRA,10000.0,88493.99,"
+MODIFIED
+Result  (467): "2032/07,Withdraw,IRA,10000.0,76524.16,Monthly ROTH conversion"
+Verified(467): "2032/07,Withdraw,IRA,10000.0,76524.16,"
+MODIFIED
+Result  (472): "2032/08,Withdraw,IRA,10000.0,64554.33,Monthly ROTH conversion"
+Verified(472): "2032/08,Withdraw,IRA,10000.0,64554.33,"
+MODIFIED
+Result  (477): "2032/09,Withdraw,IRA,10000.0,52584.25,Monthly ROTH conversion"
+Verified(477): "2032/09,Withdraw,IRA,10000.0,52584.25,"
+MODIFIED
+Result  (482): "2032/10,Withdraw,IRA,10000.0,40614.17,Monthly ROTH conversion"
+Verified(482): "2032/10,Withdraw,IRA,10000.0,40614.17,"
+MODIFIED
+Result  (487): "2032/11,Withdraw,IRA,10000.0,28645.09,Monthly ROTH conversion"
+Verified(487): "2032/11,Withdraw,IRA,10000.0,28645.09,"
+MODIFIED
+Result  (492): "2032/12,Withdraw,IRA,10000.0,16674.0,Monthly ROTH conversion"
+Verified(492): "2032/12,Withdraw,IRA,10000.0,16674.0,"
+MODIFIED
+Result  (509): "2033/01,Withdraw,IRA,1328.13,15293.44,Monthly ROTH conversion"
+Verified(509): "2033/01,Withdraw,IRA,1328.13,15293.44,"
+MODIFIED
+Result  (514): "2033/02,Withdraw,IRA,1328.12,13912.89,Monthly ROTH conversion"
+Verified(514): "2033/02,Withdraw,IRA,1328.12,13912.89,"
+MODIFIED
+Result  (519): "2033/03,Withdraw,IRA,1328.13,12532.33,Monthly ROTH conversion"
+Verified(519): "2033/03,Withdraw,IRA,1328.13,12532.33,"
+MODIFIED
+Result  (524): "2033/04,Withdraw,IRA,1328.12,11151.78,Monthly ROTH conversion"
+Verified(524): "2033/04,Withdraw,IRA,1328.12,11151.78,"
+MODIFIED
+Result  (529): "2033/05,Withdraw,IRA,1328.13,9771.22,Monthly ROTH conversion"
+Verified(529): "2033/05,Withdraw,IRA,1328.13,9771.22,"
+MODIFIED
+Result  (534): "2033/06,Withdraw,IRA,1328.12,8390.67,Monthly ROTH conversion"
+Verified(534): "2033/06,Withdraw,IRA,1328.12,8390.67,"
+MODIFIED
+Result  (539): "2033/07,Withdraw,IRA,1328.13,7010.11,Monthly ROTH conversion"
+Verified(539): "2033/07,Withdraw,IRA,1328.13,7010.11,"
+MODIFIED
+Result  (544): "2033/08,Withdraw,IRA,1328.12,5629.56,Monthly ROTH conversion"
+Verified(544): "2033/08,Withdraw,IRA,1328.12,5629.56,"
+MODIFIED
+Result  (549): "2033/09,Withdraw,IRA,1328.13,4249.0,Monthly ROTH conversion"
+Verified(549): "2033/09,Withdraw,IRA,1328.13,4249.0,"
+MODIFIED
+Result  (554): "2033/10,Withdraw,IRA,1328.12,2868.45,Monthly ROTH conversion"
+Verified(554): "2033/10,Withdraw,IRA,1328.12,2868.45,"
+MODIFIED
+Result  (559): "2033/11,Withdraw,IRA,1328.12,1487.9,Monthly ROTH conversion"
+Verified(559): "2033/11,Withdraw,IRA,1328.12,1487.9,"
+MODIFIED
+Result  (564): "2033/12,Withdraw,IRA,1328.13,107.29,Monthly ROTH conversion"
+Verified(564): "2033/12,Withdraw,IRA,1328.13,107.29,"

@@ -1,0 +1,505 @@
+Date, Type, Account, Amount, Balance, Memo
+2025/01,Deposit,Savings,2500.0,12500.0,Monthly Employment income for Self
+2025/01,Payment,Savings,155.0,12345.0,FICA taxes for Self
+2025/01,Payment,Savings,36.25,12308.75,Medicare taxes for Self
+2025/01,Payment,Savings,119.17,12189.58,Federal Income taxes for Self
+2025/01,Payment,Savings,100.0,12089.58,State Income taxes for Self
+2025/01,Payment,Savings,25.0,12064.58,Local Income taxes for Self
+2025/02,Deposit,Savings,2500.0,14564.58,Monthly Employment income for Self
+2025/02,Payment,Savings,155.0,14409.58,FICA taxes for Self
+2025/02,Payment,Savings,36.25,14373.33,Medicare taxes for Self
+2025/02,Payment,Savings,119.17,14254.16,Federal Income taxes for Self
+2025/02,Payment,Savings,100.0,14154.16,State Income taxes for Self
+2025/02,Payment,Savings,25.0,14129.16,Local Income taxes for Self
+2025/03,Deposit,Savings,2500.0,16629.16,Monthly Employment income for Self
+2025/03,Payment,Savings,155.0,16474.16,FICA taxes for Self
+2025/03,Payment,Savings,36.25,16437.91,Medicare taxes for Self
+2025/03,Payment,Savings,119.17,16318.74,Federal Income taxes for Self
+2025/03,Payment,Savings,100.0,16218.74,State Income taxes for Self
+2025/03,Payment,Savings,25.0,16193.74,Local Income taxes for Self
+2025/04,Deposit,Savings,2500.0,18693.74,Monthly Employment income for Self
+2025/04,Payment,Savings,155.0,18538.74,FICA taxes for Self
+2025/04,Payment,Savings,36.25,18502.49,Medicare taxes for Self
+2025/04,Payment,Savings,119.17,18383.32,Federal Income taxes for Self
+2025/04,Payment,Savings,100.0,18283.32,State Income taxes for Self
+2025/04,Payment,Savings,25.0,18258.32,Local Income taxes for Self
+2025/05,Deposit,Savings,2500.0,20758.32,Monthly Employment income for Self
+2025/05,Payment,Savings,155.0,20603.32,FICA taxes for Self
+2025/05,Payment,Savings,36.25,20567.07,Medicare taxes for Self
+2025/05,Payment,Savings,119.17,20447.9,Federal Income taxes for Self
+2025/05,Payment,Savings,100.0,20347.9,State Income taxes for Self
+2025/05,Payment,Savings,25.0,20322.9,Local Income taxes for Self
+2025/06,Deposit,Savings,2500.0,22822.9,Monthly Employment income for Self
+2025/06,Payment,Savings,155.0,22667.9,FICA taxes for Self
+2025/06,Payment,Savings,36.25,22631.65,Medicare taxes for Self
+2025/06,Payment,Savings,119.17,22512.48,Federal Income taxes for Self
+2025/06,Payment,Savings,100.0,22412.48,State Income taxes for Self
+2025/06,Payment,Savings,25.0,22387.48,Local Income taxes for Self
+2025/07,Deposit,Savings,2500.0,24887.48,Monthly Employment income for Self
+2025/07,Payment,Savings,155.0,24732.48,FICA taxes for Self
+2025/07,Payment,Savings,36.25,24696.23,Medicare taxes for Self
+2025/07,Payment,Savings,119.17,24577.06,Federal Income taxes for Self
+2025/07,Payment,Savings,100.0,24477.06,State Income taxes for Self
+2025/07,Payment,Savings,25.0,24452.06,Local Income taxes for Self
+2025/08,Deposit,Savings,2500.0,26952.06,Monthly Employment income for Self
+2025/08,Payment,Savings,155.0,26797.06,FICA taxes for Self
+2025/08,Payment,Savings,36.25,26760.81,Medicare taxes for Self
+2025/08,Payment,Savings,119.17,26641.64,Federal Income taxes for Self
+2025/08,Payment,Savings,100.0,26541.64,State Income taxes for Self
+2025/08,Payment,Savings,25.0,26516.64,Local Income taxes for Self
+2025/09,Deposit,Savings,2500.0,29016.64,Monthly Employment income for Self
+2025/09,Payment,Savings,155.0,28861.64,FICA taxes for Self
+2025/09,Payment,Savings,36.25,28825.39,Medicare taxes for Self
+2025/09,Payment,Savings,119.17,28706.22,Federal Income taxes for Self
+2025/09,Payment,Savings,100.0,28606.22,State Income taxes for Self
+2025/09,Payment,Savings,25.0,28581.22,Local Income taxes for Self
+2025/10,Deposit,Savings,2500.0,31081.22,Monthly Employment income for Self
+2025/10,Payment,Savings,155.0,30926.22,FICA taxes for Self
+2025/10,Payment,Savings,36.25,30889.97,Medicare taxes for Self
+2025/10,Payment,Savings,119.17,30770.8,Federal Income taxes for Self
+2025/10,Payment,Savings,100.0,30670.8,State Income taxes for Self
+2025/10,Payment,Savings,25.0,30645.8,Local Income taxes for Self
+2025/11,Deposit,Savings,2500.0,33145.8,Monthly Employment income for Self
+2025/11,Payment,Savings,155.0,32990.8,FICA taxes for Self
+2025/11,Payment,Savings,36.25,32954.55,Medicare taxes for Self
+2025/11,Payment,Savings,119.17,32835.38,Federal Income taxes for Self
+2025/11,Payment,Savings,100.0,32735.38,State Income taxes for Self
+2025/11,Payment,Savings,25.0,32710.38,Local Income taxes for Self
+2025/12,Deposit,Savings,2500.0,35210.38,Monthly Employment income for Self
+2025/12,Payment,Savings,155.0,35055.38,FICA taxes for Self
+2025/12,Payment,Savings,36.25,35019.13,Medicare taxes for Self
+2025/12,Payment,Savings,119.13,34900.0,Federal Income taxes for Self
+2025/12,Payment,Savings,100.0,34800.0,State Income taxes for Self
+2025/12,Payment,Savings,25.0,34775.0,Local Income taxes for Self
+2025/00,AccountInfo,Savings,,34775.0,Account balance
+2025/00,AccountInfo,Brokerage,,100000.0,Account balance
+2025/00,AccountInfo,IRA,,1000000.0,Account balance
+2025/00,AccountInfo,Roth,,20000.0,Account balance
+2025/00,TaxInfo,FICA,,1860.0,FICA Tax
+2025/00,TaxInfo,Medicare,,435.0,Medicare Tax
+2025/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2025/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2025/00,TaxInfo,AGI,,30000.0,Adjusted Gross Income
+2025/00,TaxInfo,FederalTax,,1430.0,Federal income tax
+2025/00,TaxInfo,StateTax,,1200.0,State income tax
+2025/00,TaxInfo,LocalTax,,300.0,Local income tax
+2026/01,Deposit,Savings,5000.0,39775.0,Monthly Self-Employment income for Self
+2026/01,Payment,Savings,572.57,39202.43,FICA taxes for Self
+2026/01,Payment,Savings,133.91,39068.52,Medicare taxes for Self
+2026/01,Payment,Savings,419.17,38649.35,Federal Income taxes for Self
+2026/01,Payment,Savings,200.0,38449.35,State Income taxes for Self
+2026/01,Payment,Savings,50.0,38399.35,Local Income taxes for Self
+2026/02,Deposit,Savings,5000.0,43399.35,Monthly Self-Employment income for Self
+2026/02,Payment,Savings,572.57,42826.78,FICA taxes for Self
+2026/02,Payment,Savings,133.91,42692.87,Medicare taxes for Self
+2026/02,Payment,Savings,419.17,42273.7,Federal Income taxes for Self
+2026/02,Payment,Savings,200.0,42073.7,State Income taxes for Self
+2026/02,Payment,Savings,50.0,42023.7,Local Income taxes for Self
+2026/03,Deposit,Savings,5000.0,47023.7,Monthly Self-Employment income for Self
+2026/03,Payment,Savings,572.57,46451.13,FICA taxes for Self
+2026/03,Payment,Savings,133.91,46317.22,Medicare taxes for Self
+2026/03,Payment,Savings,419.17,45898.05,Federal Income taxes for Self
+2026/03,Payment,Savings,200.0,45698.05,State Income taxes for Self
+2026/03,Payment,Savings,50.0,45648.05,Local Income taxes for Self
+2026/04,Deposit,Savings,5000.0,50648.05,Monthly Self-Employment income for Self
+2026/04,Payment,Savings,572.57,50075.48,FICA taxes for Self
+2026/04,Payment,Savings,133.91,49941.57,Medicare taxes for Self
+2026/04,Payment,Savings,419.17,49522.4,Federal Income taxes for Self
+2026/04,Payment,Savings,200.0,49322.4,State Income taxes for Self
+2026/04,Payment,Savings,50.0,49272.4,Local Income taxes for Self
+2026/05,Deposit,Savings,5000.0,54272.4,Monthly Self-Employment income for Self
+2026/05,Payment,Savings,572.57,53699.83,FICA taxes for Self
+2026/05,Payment,Savings,133.91,53565.92,Medicare taxes for Self
+2026/05,Payment,Savings,419.17,53146.75,Federal Income taxes for Self
+2026/05,Payment,Savings,200.0,52946.75,State Income taxes for Self
+2026/05,Payment,Savings,50.0,52896.75,Local Income taxes for Self
+2026/06,Deposit,Savings,5000.0,57896.75,Monthly Self-Employment income for Self
+2026/06,Payment,Savings,572.57,57324.18,FICA taxes for Self
+2026/06,Payment,Savings,133.91,57190.27,Medicare taxes for Self
+2026/06,Payment,Savings,419.17,56771.1,Federal Income taxes for Self
+2026/06,Payment,Savings,200.0,56571.1,State Income taxes for Self
+2026/06,Payment,Savings,50.0,56521.1,Local Income taxes for Self
+2026/07,Deposit,Savings,5000.0,61521.1,Monthly Self-Employment income for Self
+2026/07,Payment,Savings,572.57,60948.53,FICA taxes for Self
+2026/07,Payment,Savings,133.91,60814.62,Medicare taxes for Self
+2026/07,Payment,Savings,419.17,60395.45,Federal Income taxes for Self
+2026/07,Payment,Savings,200.0,60195.45,State Income taxes for Self
+2026/07,Payment,Savings,50.0,60145.45,Local Income taxes for Self
+2026/08,Deposit,Savings,5000.0,65145.45,Monthly Self-Employment income for Self
+2026/08,Payment,Savings,572.57,64572.88,FICA taxes for Self
+2026/08,Payment,Savings,133.91,64438.97,Medicare taxes for Self
+2026/08,Payment,Savings,419.17,64019.8,Federal Income taxes for Self
+2026/08,Payment,Savings,200.0,63819.8,State Income taxes for Self
+2026/08,Payment,Savings,50.0,63769.8,Local Income taxes for Self
+2026/09,Deposit,Savings,5000.0,68769.8,Monthly Self-Employment income for Self
+2026/09,Payment,Savings,572.57,68197.23,FICA taxes for Self
+2026/09,Payment,Savings,133.91,68063.32,Medicare taxes for Self
+2026/09,Payment,Savings,419.17,67644.15,Federal Income taxes for Self
+2026/09,Payment,Savings,200.0,67444.15,State Income taxes for Self
+2026/09,Payment,Savings,50.0,67394.15,Local Income taxes for Self
+2026/10,Deposit,Savings,5000.0,72394.15,Monthly Self-Employment income for Self
+2026/10,Payment,Savings,572.57,71821.58,FICA taxes for Self
+2026/10,Payment,Savings,133.91,71687.67,Medicare taxes for Self
+2026/10,Payment,Savings,419.17,71268.5,Federal Income taxes for Self
+2026/10,Payment,Savings,200.0,71068.5,State Income taxes for Self
+2026/10,Payment,Savings,50.0,71018.5,Local Income taxes for Self
+2026/11,Deposit,Savings,5000.0,76018.5,Monthly Self-Employment income for Self
+2026/11,Payment,Savings,572.57,75445.93,FICA taxes for Self
+2026/11,Payment,Savings,133.91,75312.02,Medicare taxes for Self
+2026/11,Payment,Savings,419.17,74892.85,Federal Income taxes for Self
+2026/11,Payment,Savings,200.0,74692.85,State Income taxes for Self
+2026/11,Payment,Savings,50.0,74642.85,Local Income taxes for Self
+2026/12,Deposit,Savings,5000.0,79642.85,Monthly Self-Employment income for Self
+2026/12,Payment,Savings,572.57,79070.28,FICA taxes for Self
+2026/12,Payment,Savings,133.88,78936.4,Medicare taxes for Self
+2026/12,Payment,Savings,419.13,78517.27,Federal Income taxes for Self
+2026/12,Payment,Savings,200.0,78317.27,State Income taxes for Self
+2026/12,Payment,Savings,50.0,78267.27,Local Income taxes for Self
+2026/00,AccountInfo,Savings,,78267.27,Account balance
+2026/00,AccountInfo,Brokerage,,100000.0,Account balance
+2026/00,AccountInfo,IRA,,1000000.0,Account balance
+2026/00,AccountInfo,Roth,,20000.0,Account balance
+2026/00,TaxInfo,FICA,,6870.84,FICA Tax
+2026/00,TaxInfo,Medicare,,1606.89,Medicare Tax
+2026/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2026/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2026/00,TaxInfo,AGI,,60000.0,Adjusted Gross Income
+2026/00,TaxInfo,FederalTax,,5030.0,Federal income tax
+2026/00,TaxInfo,StateTax,,2400.0,State income tax
+2026/00,TaxInfo,LocalTax,,600.0,Local income tax
+2027/01,Deposit,Savings,7500.0,85767.27,Monthly Pension income for Self
+2027/01,Payment,Savings,941.67,84825.6,Federal Income taxes for Self
+2027/02,Deposit,Savings,7500.0,92325.6,Monthly Pension income for Self
+2027/02,Payment,Savings,941.67,91383.93,Federal Income taxes for Self
+2027/03,Deposit,Savings,7500.0,98883.93,Monthly Pension income for Self
+2027/03,Payment,Savings,941.67,97942.26,Federal Income taxes for Self
+2027/04,Deposit,Savings,7500.0,105442.26,Monthly Pension income for Self
+2027/04,Payment,Savings,941.67,104500.59,Federal Income taxes for Self
+2027/05,Deposit,Savings,7500.0,112000.59,Monthly Pension income for Self
+2027/05,Payment,Savings,941.67,111058.92,Federal Income taxes for Self
+2027/06,Deposit,Savings,7500.0,118558.92,Monthly Pension income for Self
+2027/06,Payment,Savings,941.66,117617.26,Federal Income taxes for Self
+2027/07,Deposit,Savings,7500.0,125117.26,Monthly Pension income for Self
+2027/07,Payment,Savings,941.66,124175.6,Federal Income taxes for Self
+2027/08,Deposit,Savings,7500.0,131675.6,Monthly Pension income for Self
+2027/08,Payment,Savings,941.66,130733.94,Federal Income taxes for Self
+2027/09,Deposit,Savings,7500.0,138233.94,Monthly Pension income for Self
+2027/09,Payment,Savings,941.66,137292.28,Federal Income taxes for Self
+2027/10,Deposit,Savings,7500.0,144792.28,Monthly Pension income for Self
+2027/10,Payment,Savings,941.66,143850.62,Federal Income taxes for Self
+2027/11,Deposit,Savings,7500.0,151350.62,Monthly Pension income for Self
+2027/11,Payment,Savings,941.66,150408.96,Federal Income taxes for Self
+2027/12,Deposit,Savings,7500.0,157908.96,Monthly Pension income for Self
+2027/12,Payment,Savings,941.69,156967.27,Federal Income taxes for Self
+2027/00,AccountInfo,Savings,,156967.27,Account balance
+2027/00,AccountInfo,Brokerage,,100000.0,Account balance
+2027/00,AccountInfo,IRA,,1000000.0,Account balance
+2027/00,AccountInfo,Roth,,20000.0,Account balance
+2027/00,TaxInfo,FICA,,0.0,FICA Tax
+2027/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2027/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2027/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2027/00,TaxInfo,AGI,,90000.0,Adjusted Gross Income
+2027/00,TaxInfo,FederalTax,,11300.0,Federal income tax
+2027/00,TaxInfo,StateTax,,0.0,State income tax
+2027/00,TaxInfo,LocalTax,,0.0,Local income tax
+2028/01,Deposit,Savings,2500.0,159467.27,Monthly Social Security income for Self
+2028/02,Deposit,Savings,2500.0,161967.27,Monthly Social Security income for Self
+2028/03,Deposit,Savings,2500.0,164467.27,Monthly Social Security income for Self
+2028/04,Deposit,Savings,2500.0,166967.27,Monthly Social Security income for Self
+2028/05,Deposit,Savings,2500.0,169467.27,Monthly Social Security income for Self
+2028/06,Deposit,Savings,2500.0,171967.27,Monthly Social Security income for Self
+2028/07,Deposit,Savings,2500.0,174467.27,Monthly Social Security income for Self
+2028/08,Deposit,Savings,2500.0,176967.27,Monthly Social Security income for Self
+2028/09,Deposit,Savings,2500.0,179467.27,Monthly Social Security income for Self
+2028/10,Deposit,Savings,2500.0,181967.27,Monthly Social Security income for Self
+2028/11,Deposit,Savings,2500.0,184467.27,Monthly Social Security income for Self
+2028/12,Deposit,Savings,2500.0,186967.27,Monthly Social Security income for Self
+2028/00,AccountInfo,Savings,,186967.27,Account balance
+2028/00,AccountInfo,Brokerage,,100000.0,Account balance
+2028/00,AccountInfo,IRA,,1000000.0,Account balance
+2028/00,AccountInfo,Roth,,20000.0,Account balance
+2028/00,TaxInfo,FICA,,0.0,FICA Tax
+2028/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2028/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2028/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2028/00,TaxInfo,AGI,,0.0,Adjusted Gross Income
+2028/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2028/00,TaxInfo,StateTax,,0.0,State income tax
+2028/00,TaxInfo,LocalTax,,0.0,Local income tax
+2029/01,Deposit,Savings,2500.0,189467.27,Monthly Social Security income for Self
+2029/02,Deposit,Savings,2500.0,191967.27,Monthly Social Security income for Self
+2029/03,Deposit,Savings,2500.0,194467.27,Monthly Social Security income for Self
+2029/04,Deposit,Savings,2500.0,196967.27,Monthly Social Security income for Self
+2029/05,Deposit,Savings,2500.0,199467.27,Monthly Social Security income for Self
+2029/06,Deposit,Savings,2500.0,201967.27,Monthly Social Security income for Self
+2029/07,Deposit,Savings,2500.0,204467.27,Monthly Social Security income for Self
+2029/08,Deposit,Savings,2500.0,206967.27,Monthly Social Security income for Self
+2029/09,Deposit,Savings,2500.0,209467.27,Monthly Social Security income for Self
+2029/10,Deposit,Savings,2500.0,211967.27,Monthly Social Security income for Self
+2029/11,Deposit,Savings,2500.0,214467.27,Monthly Social Security income for Self
+2029/12,Deposit,Savings,2500.0,216967.27,Monthly Social Security income for Self
+2029/00,AccountInfo,Savings,,216967.27,Account balance
+2029/00,AccountInfo,Brokerage,,100000.0,Account balance
+2029/00,AccountInfo,IRA,,1000000.0,Account balance
+2029/00,AccountInfo,Roth,,20000.0,Account balance
+2029/00,TaxInfo,FICA,,0.0,FICA Tax
+2029/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2029/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2029/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2029/00,TaxInfo,AGI,,0.0,Adjusted Gross Income
+2029/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2029/00,TaxInfo,StateTax,,0.0,State income tax
+2029/00,TaxInfo,LocalTax,,0.0,Local income tax
+2030/01,Deposit,Savings,2500.0,219467.27,Monthly Social Security income for Self
+2030/02,Deposit,Savings,2500.0,221967.27,Monthly Social Security income for Self
+2030/03,Deposit,Savings,2500.0,224467.27,Monthly Social Security income for Self
+2030/04,Deposit,Savings,2500.0,226967.27,Monthly Social Security income for Self
+2030/05,Deposit,Savings,2500.0,229467.27,Monthly Social Security income for Self
+2030/06,Deposit,Savings,2500.0,231967.27,Monthly Social Security income for Self
+2030/07,Deposit,Savings,2500.0,234467.27,Monthly Social Security income for Self
+2030/08,Deposit,Savings,2500.0,236967.27,Monthly Social Security income for Self
+2030/09,Deposit,Savings,2500.0,239467.27,Monthly Social Security income for Self
+2030/10,Deposit,Savings,2500.0,241967.27,Monthly Social Security income for Self
+2030/11,Deposit,Savings,2500.0,244467.27,Monthly Social Security income for Self
+2030/12,Deposit,Savings,2500.0,246967.27,Monthly Social Security income for Self
+2030/00,AccountInfo,Savings,,246967.27,Account balance
+2030/00,AccountInfo,Brokerage,,100000.0,Account balance
+2030/00,AccountInfo,IRA,,1000000.0,Account balance
+2030/00,AccountInfo,Roth,,20000.0,Account balance
+2030/00,TaxInfo,FICA,,0.0,FICA Tax
+2030/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2030/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2030/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2030/00,TaxInfo,AGI,,0.0,Adjusted Gross Income
+2030/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2030/00,TaxInfo,StateTax,,0.0,State income tax
+2030/00,TaxInfo,LocalTax,,0.0,Local income tax
+2031/01,Deposit,Savings,2500.0,249467.27,Monthly Social Security income for Self
+2031/02,Deposit,Savings,2500.0,251967.27,Monthly Social Security income for Self
+2031/03,Deposit,Savings,2500.0,254467.27,Monthly Social Security income for Self
+2031/04,Deposit,Savings,2500.0,256967.27,Monthly Social Security income for Self
+2031/05,Deposit,Savings,2500.0,259467.27,Monthly Social Security income for Self
+2031/06,Deposit,Savings,2500.0,261967.27,Monthly Social Security income for Self
+2031/07,Deposit,Savings,2500.0,264467.27,Monthly Social Security income for Self
+2031/08,Deposit,Savings,2500.0,266967.27,Monthly Social Security income for Self
+2031/09,Deposit,Savings,2500.0,269467.27,Monthly Social Security income for Self
+2031/10,Deposit,Savings,2500.0,271967.27,Monthly Social Security income for Self
+2031/11,Deposit,Savings,2500.0,274467.27,Monthly Social Security income for Self
+2031/12,Deposit,Savings,2500.0,276967.27,Monthly Social Security income for Self
+2031/00,AccountInfo,Savings,,276967.27,Account balance
+2031/00,AccountInfo,Brokerage,,100000.0,Account balance
+2031/00,AccountInfo,IRA,,1000000.0,Account balance
+2031/00,AccountInfo,Roth,,20000.0,Account balance
+2031/00,TaxInfo,FICA,,0.0,FICA Tax
+2031/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2031/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2031/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2031/00,TaxInfo,AGI,,0.0,Adjusted Gross Income
+2031/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2031/00,TaxInfo,StateTax,,0.0,State income tax
+2031/00,TaxInfo,LocalTax,,0.0,Local income tax
+2032/01,Deposit,Savings,2500.0,279467.27,Monthly Social Security income for Self
+2032/02,Deposit,Savings,2500.0,281967.27,Monthly Social Security income for Self
+2032/03,Deposit,Savings,2500.0,284467.27,Monthly Social Security income for Self
+2032/04,Deposit,Savings,2500.0,286967.27,Monthly Social Security income for Self
+2032/05,Deposit,Savings,2500.0,289467.27,Monthly Social Security income for Self
+2032/06,Deposit,Savings,2500.0,291967.27,Monthly Social Security income for Self
+2032/07,Deposit,Savings,2500.0,294467.27,Monthly Social Security income for Self
+2032/08,Deposit,Savings,2500.0,296967.27,Monthly Social Security income for Self
+2032/09,Deposit,Savings,2500.0,299467.27,Monthly Social Security income for Self
+2032/10,Deposit,Savings,2500.0,301967.27,Monthly Social Security income for Self
+2032/11,Deposit,Savings,2500.0,304467.27,Monthly Social Security income for Self
+2032/12,Deposit,Savings,2500.0,306967.27,Monthly Social Security income for Self
+2032/00,AccountInfo,Savings,,306967.27,Account balance
+2032/00,AccountInfo,Brokerage,,100000.0,Account balance
+2032/00,AccountInfo,IRA,,1000000.0,Account balance
+2032/00,AccountInfo,Roth,,20000.0,Account balance
+2032/00,TaxInfo,FICA,,0.0,FICA Tax
+2032/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2032/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2032/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2032/00,TaxInfo,AGI,,0.0,Adjusted Gross Income
+2032/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2032/00,TaxInfo,StateTax,,0.0,State income tax
+2032/00,TaxInfo,LocalTax,,0.0,Local income tax
+2033/01,Deposit,Savings,2500.0,309467.27,Monthly Social Security income for Self
+2033/01,Withdraw,IRA,3144.65,996855.35,RMD Withdraw
+2033/01,Deposit,Savings,3144.65,312611.92,RMD fully allocated into long-term investments
+2033/01,Payment,Savings,404.25,312207.67,Federal Income taxes for Self
+2033/02,Deposit,Savings,2500.0,314707.67,Monthly Social Security income for Self
+2033/02,Withdraw,IRA,3144.65,993710.7,RMD Withdraw
+2033/02,Deposit,Savings,3144.65,317852.32,RMD fully allocated into long-term investments
+2033/02,Payment,Savings,404.25,317448.07,Federal Income taxes for Self
+2033/03,Deposit,Savings,2500.0,319948.07,Monthly Social Security income for Self
+2033/03,Withdraw,IRA,3144.65,990566.05,RMD Withdraw
+2033/03,Deposit,Savings,3144.65,323092.72,RMD fully allocated into long-term investments
+2033/03,Payment,Savings,404.25,322688.47,Federal Income taxes for Self
+2033/04,Deposit,Savings,2500.0,325188.47,Monthly Social Security income for Self
+2033/04,Withdraw,IRA,3144.65,987421.4,RMD Withdraw
+2033/04,Deposit,Savings,3144.65,328333.12,RMD fully allocated into long-term investments
+2033/04,Payment,Savings,404.25,327928.87,Federal Income taxes for Self
+2033/05,Deposit,Savings,2500.0,330428.87,Monthly Social Security income for Self
+2033/05,Withdraw,IRA,3144.65,984276.75,RMD Withdraw
+2033/05,Deposit,Savings,3144.65,333573.52,RMD fully allocated into long-term investments
+2033/05,Payment,Savings,404.25,333169.27,Federal Income taxes for Self
+2033/06,Deposit,Savings,2500.0,335669.27,Monthly Social Security income for Self
+2033/06,Withdraw,IRA,3144.65,981132.1,RMD Withdraw
+2033/06,Deposit,Savings,3144.65,338813.92,RMD fully allocated into long-term investments
+2033/06,Payment,Savings,404.25,338409.67,Federal Income taxes for Self
+2033/07,Deposit,Savings,2500.0,340909.67,Monthly Social Security income for Self
+2033/07,Withdraw,IRA,3144.65,977987.45,RMD Withdraw
+2033/07,Deposit,Savings,3144.65,344054.32,RMD fully allocated into long-term investments
+2033/07,Payment,Savings,404.25,343650.07,Federal Income taxes for Self
+2033/08,Deposit,Savings,2500.0,346150.07,Monthly Social Security income for Self
+2033/08,Withdraw,IRA,3144.65,974842.8,RMD Withdraw
+2033/08,Deposit,Savings,3144.65,349294.72,RMD fully allocated into long-term investments
+2033/08,Payment,Savings,404.25,348890.47,Federal Income taxes for Self
+2033/09,Deposit,Savings,2500.0,351390.47,Monthly Social Security income for Self
+2033/09,Withdraw,IRA,3144.65,971698.15,RMD Withdraw
+2033/09,Deposit,Savings,3144.65,354535.12,RMD fully allocated into long-term investments
+2033/09,Payment,Savings,404.25,354130.87,Federal Income taxes for Self
+2033/10,Deposit,Savings,2500.0,356630.87,Monthly Social Security income for Self
+2033/10,Withdraw,IRA,3144.65,968553.5,RMD Withdraw
+2033/10,Deposit,Savings,3144.65,359775.52,RMD fully allocated into long-term investments
+2033/10,Payment,Savings,404.25,359371.27,Federal Income taxes for Self
+2033/11,Deposit,Savings,2500.0,361871.27,Monthly Social Security income for Self
+2033/11,Withdraw,IRA,3144.65,965408.85,RMD Withdraw
+2033/11,Deposit,Savings,3144.65,365015.92,RMD fully allocated into long-term investments
+2033/11,Payment,Savings,404.25,364611.67,Federal Income taxes for Self
+2033/12,Deposit,Savings,2500.0,367111.67,Monthly Social Security income for Self
+2033/12,Withdraw,IRA,3144.7,962264.15,RMD Withdraw
+2033/12,Deposit,Savings,3144.7,370256.37,RMD fully allocated into long-term investments
+2033/12,Payment,Savings,404.25,369852.12,Federal Income taxes for Self
+2033/00,AccountInfo,Savings,,369852.12,Account balance
+2033/00,AccountInfo,Brokerage,,100000.0,Account balance
+2033/00,AccountInfo,IRA,,962264.15,Account balance
+2033/00,AccountInfo,Roth,,20000.0,Account balance
+2033/00,TaxInfo,FICA,,0.0,FICA Tax
+2033/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2033/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2033/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2033/00,TaxInfo,AGI,,58510.85,Adjusted Gross Income
+2033/00,TaxInfo,FederalTax,,4851.0,Federal income tax
+2033/00,TaxInfo,StateTax,,0.0,State income tax
+2033/00,TaxInfo,LocalTax,,0.0,Local income tax
+2034/01,Deposit,Savings,2500.0,372352.12,Monthly Social Security income for Self
+2034/01,Withdraw,IRA,3144.65,959119.5,RMD Withdraw
+2034/01,Deposit,Savings,3144.65,375496.77,RMD fully allocated into long-term investments
+2034/01,Payment,Savings,404.25,375092.52,Federal Income taxes for Self
+2034/02,Deposit,Savings,2500.0,377592.52,Monthly Social Security income for Self
+2034/02,Withdraw,IRA,3144.65,955974.85,RMD Withdraw
+2034/02,Deposit,Savings,3144.65,380737.17,RMD fully allocated into long-term investments
+2034/02,Payment,Savings,404.25,380332.92,Federal Income taxes for Self
+2034/03,Deposit,Savings,2500.0,382832.92,Monthly Social Security income for Self
+2034/03,Withdraw,IRA,3144.65,952830.2,RMD Withdraw
+2034/03,Deposit,Savings,3144.65,385977.57,RMD fully allocated into long-term investments
+2034/03,Payment,Savings,404.25,385573.32,Federal Income taxes for Self
+2034/04,Deposit,Savings,2500.0,388073.32,Monthly Social Security income for Self
+2034/04,Withdraw,IRA,3144.65,949685.55,RMD Withdraw
+2034/04,Deposit,Savings,3144.65,391217.97,RMD fully allocated into long-term investments
+2034/04,Payment,Savings,404.25,390813.72,Federal Income taxes for Self
+2034/05,Deposit,Savings,2500.0,393313.72,Monthly Social Security income for Self
+2034/05,Withdraw,IRA,3144.65,946540.9,RMD Withdraw
+2034/05,Deposit,Savings,3144.65,396458.37,RMD fully allocated into long-term investments
+2034/05,Payment,Savings,404.25,396054.12,Federal Income taxes for Self
+2034/06,Deposit,Savings,2500.0,398554.12,Monthly Social Security income for Self
+2034/06,Withdraw,IRA,3144.65,943396.25,RMD Withdraw
+2034/06,Deposit,Savings,3144.65,401698.77,RMD fully allocated into long-term investments
+2034/06,Payment,Savings,404.25,401294.52,Federal Income taxes for Self
+2034/07,Deposit,Savings,2500.0,403794.52,Monthly Social Security income for Self
+2034/07,Withdraw,IRA,3144.65,940251.6,RMD Withdraw
+2034/07,Deposit,Savings,3144.65,406939.17,RMD fully allocated into long-term investments
+2034/07,Payment,Savings,404.25,406534.92,Federal Income taxes for Self
+2034/08,Deposit,Savings,2500.0,409034.92,Monthly Social Security income for Self
+2034/08,Withdraw,IRA,3144.65,937106.95,RMD Withdraw
+2034/08,Deposit,Savings,3144.65,412179.57,RMD fully allocated into long-term investments
+2034/08,Payment,Savings,404.25,411775.32,Federal Income taxes for Self
+2034/09,Deposit,Savings,2500.0,414275.32,Monthly Social Security income for Self
+2034/09,Withdraw,IRA,3144.65,933962.3,RMD Withdraw
+2034/09,Deposit,Savings,3144.65,417419.97,RMD fully allocated into long-term investments
+2034/09,Payment,Savings,404.25,417015.72,Federal Income taxes for Self
+2034/10,Deposit,Savings,2500.0,419515.72,Monthly Social Security income for Self
+2034/10,Withdraw,IRA,3144.65,930817.65,RMD Withdraw
+2034/10,Deposit,Savings,3144.65,422660.37,RMD fully allocated into long-term investments
+2034/10,Payment,Savings,404.25,422256.12,Federal Income taxes for Self
+2034/11,Deposit,Savings,2500.0,424756.12,Monthly Social Security income for Self
+2034/11,Withdraw,IRA,3144.65,927673.0,RMD Withdraw
+2034/11,Deposit,Savings,3144.65,427900.77,RMD fully allocated into long-term investments
+2034/11,Payment,Savings,404.25,427496.52,Federal Income taxes for Self
+2034/12,Deposit,Savings,2500.0,429996.52,Monthly Social Security income for Self
+2034/12,Withdraw,IRA,3144.7,924528.3,RMD Withdraw
+2034/12,Deposit,Savings,3144.7,433141.22,RMD fully allocated into long-term investments
+2034/12,Payment,Savings,404.25,432736.97,Federal Income taxes for Self
+2034/00,AccountInfo,Savings,,432736.97,Account balance
+2034/00,AccountInfo,Brokerage,,100000.0,Account balance
+2034/00,AccountInfo,IRA,,924528.3,Account balance
+2034/00,AccountInfo,Roth,,20000.0,Account balance
+2034/00,TaxInfo,FICA,,0.0,FICA Tax
+2034/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2034/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2034/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2034/00,TaxInfo,AGI,,58510.85,Adjusted Gross Income
+2034/00,TaxInfo,FederalTax,,4851.0,Federal income tax
+2034/00,TaxInfo,StateTax,,0.0,State income tax
+2034/00,TaxInfo,LocalTax,,0.0,Local income tax
+2035/01,Deposit,Savings,2500.0,435236.97,Monthly Social Security income for Self
+2035/01,Withdraw,IRA,3131.87,921396.43,RMD Withdraw
+2035/01,Deposit,Savings,3131.87,438368.84,RMD fully allocated into long-term investments
+2035/01,Payment,Savings,401.42,437967.42,Federal Income taxes for Self
+2035/02,Deposit,Savings,2500.0,440467.42,Monthly Social Security income for Self
+2035/02,Withdraw,IRA,3131.87,918264.56,RMD Withdraw
+2035/02,Deposit,Savings,3131.87,443599.29,RMD fully allocated into long-term investments
+2035/02,Payment,Savings,401.42,443197.87,Federal Income taxes for Self
+2035/03,Deposit,Savings,2500.0,445697.87,Monthly Social Security income for Self
+2035/03,Withdraw,IRA,3131.87,915132.69,RMD Withdraw
+2035/03,Deposit,Savings,3131.87,448829.74,RMD fully allocated into long-term investments
+2035/03,Payment,Savings,401.42,448428.32,Federal Income taxes for Self
+2035/04,Deposit,Savings,2500.0,450928.32,Monthly Social Security income for Self
+2035/04,Withdraw,IRA,3131.87,912000.82,RMD Withdraw
+2035/04,Deposit,Savings,3131.87,454060.19,RMD fully allocated into long-term investments
+2035/04,Payment,Savings,401.42,453658.77,Federal Income taxes for Self
+2035/05,Deposit,Savings,2500.0,456158.77,Monthly Social Security income for Self
+2035/05,Withdraw,IRA,3131.87,908868.95,RMD Withdraw
+2035/05,Deposit,Savings,3131.87,459290.64,RMD fully allocated into long-term investments
+2035/05,Payment,Savings,401.42,458889.22,Federal Income taxes for Self
+2035/06,Deposit,Savings,2500.0,461389.22,Monthly Social Security income for Self
+2035/06,Withdraw,IRA,3131.87,905737.08,RMD Withdraw
+2035/06,Deposit,Savings,3131.87,464521.09,RMD fully allocated into long-term investments
+2035/06,Payment,Savings,401.42,464119.67,Federal Income taxes for Self
+2035/07,Deposit,Savings,2500.0,466619.67,Monthly Social Security income for Self
+2035/07,Withdraw,IRA,3131.87,902605.21,RMD Withdraw
+2035/07,Deposit,Savings,3131.87,469751.54,RMD fully allocated into long-term investments
+2035/07,Payment,Savings,401.42,469350.12,Federal Income taxes for Self
+2035/08,Deposit,Savings,2500.0,471850.12,Monthly Social Security income for Self
+2035/08,Withdraw,IRA,3131.87,899473.34,RMD Withdraw
+2035/08,Deposit,Savings,3131.87,474981.99,RMD fully allocated into long-term investments
+2035/08,Payment,Savings,401.42,474580.57,Federal Income taxes for Self
+2035/09,Deposit,Savings,2500.0,477080.57,Monthly Social Security income for Self
+2035/09,Withdraw,IRA,3131.87,896341.47,RMD Withdraw
+2035/09,Deposit,Savings,3131.87,480212.44,RMD fully allocated into long-term investments
+2035/09,Payment,Savings,401.42,479811.02,Federal Income taxes for Self
+2035/10,Deposit,Savings,2500.0,482311.02,Monthly Social Security income for Self
+2035/10,Withdraw,IRA,3131.87,893209.6,RMD Withdraw
+2035/10,Deposit,Savings,3131.87,485442.89,RMD fully allocated into long-term investments
+2035/10,Payment,Savings,401.42,485041.47,Federal Income taxes for Self
+2035/11,Deposit,Savings,2500.0,487541.47,Monthly Social Security income for Self
+2035/11,Withdraw,IRA,3131.87,890077.73,RMD Withdraw
+2035/11,Deposit,Savings,3131.87,490673.34,RMD fully allocated into long-term investments
+2035/11,Payment,Savings,401.42,490271.92,Federal Income taxes for Self
+2035/12,Deposit,Savings,2500.0,492771.92,Monthly Social Security income for Self
+2035/12,Withdraw,IRA,3131.88,886945.85,RMD Withdraw
+2035/12,Deposit,Savings,3131.88,495903.8,RMD fully allocated into long-term investments
+2035/12,Payment,Savings,401.38,495502.42,Federal Income taxes for Self
+2035/00,AccountInfo,Savings,,495502.42,Account balance
+2035/00,AccountInfo,Brokerage,,100000.0,Account balance
+2035/00,AccountInfo,IRA,,886945.85,Account balance
+2035/00,AccountInfo,Roth,,20000.0,Account balance
+2035/00,TaxInfo,FICA,,0.0,FICA Tax
+2035/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2035/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2035/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2035/00,TaxInfo,AGI,,58227.45,Adjusted Gross Income
+2035/00,TaxInfo,FederalTax,,4817.0,Federal income tax
+2035/00,TaxInfo,StateTax,,0.0,State income tax
+2035/00,TaxInfo,LocalTax,,0.0,Local income tax

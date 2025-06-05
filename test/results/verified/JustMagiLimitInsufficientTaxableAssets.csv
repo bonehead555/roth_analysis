@@ -1,0 +1,495 @@
+Date, Type, Account, Amount, Balance, Memo
+2025/01,Withdraw,IRA,12475.59,1087524.41,Monthly ROTH conversion
+2025/01,Deposit,Roth,12475.59,32475.59,Monthly ROTH conversion
+2025/01,Payment,Savings,2091.33,47908.67,Federal Income taxes for Self
+2025/02,Withdraw,IRA,12475.59,1075048.82,Monthly ROTH conversion
+2025/02,Deposit,Roth,12475.59,44951.18,Monthly ROTH conversion
+2025/02,Payment,Savings,2091.33,45817.34,Federal Income taxes for Self
+2025/03,Withdraw,IRA,12475.59,1062573.23,Monthly ROTH conversion
+2025/03,Deposit,Roth,12475.59,57426.77,Monthly ROTH conversion
+2025/03,Payment,Savings,2091.33,43726.01,Federal Income taxes for Self
+2025/04,Withdraw,IRA,12475.59,1050097.64,Monthly ROTH conversion
+2025/04,Deposit,Roth,12475.59,69902.36,Monthly ROTH conversion
+2025/04,Payment,Savings,2091.33,41634.68,Federal Income taxes for Self
+2025/05,Withdraw,IRA,12475.59,1037622.05,Monthly ROTH conversion
+2025/05,Deposit,Roth,12475.59,82377.95,Monthly ROTH conversion
+2025/05,Payment,Savings,2091.34,39543.34,Federal Income taxes for Self
+2025/06,Withdraw,IRA,12475.59,1025146.46,Monthly ROTH conversion
+2025/06,Deposit,Roth,12475.59,94853.54,Monthly ROTH conversion
+2025/06,Payment,Savings,2091.34,37452.0,Federal Income taxes for Self
+2025/07,Withdraw,IRA,12475.59,1012670.87,Monthly ROTH conversion
+2025/07,Deposit,Roth,12475.59,107329.13,Monthly ROTH conversion
+2025/07,Payment,Savings,2091.34,35360.66,Federal Income taxes for Self
+2025/08,Withdraw,IRA,12475.59,1000195.28,Monthly ROTH conversion
+2025/08,Deposit,Roth,12475.59,119804.72,Monthly ROTH conversion
+2025/08,Payment,Savings,2091.34,33269.32,Federal Income taxes for Self
+2025/09,Withdraw,IRA,12475.59,987719.69,Monthly ROTH conversion
+2025/09,Deposit,Roth,12475.59,132280.31,Monthly ROTH conversion
+2025/09,Payment,Savings,2091.34,31177.98,Federal Income taxes for Self
+2025/10,Withdraw,IRA,12475.59,975244.1,Monthly ROTH conversion
+2025/10,Deposit,Roth,12475.59,144755.9,Monthly ROTH conversion
+2025/10,Payment,Savings,2091.34,29086.64,Federal Income taxes for Self
+2025/11,Withdraw,IRA,12475.59,962768.51,Monthly ROTH conversion
+2025/11,Deposit,Roth,12475.59,157231.49,Monthly ROTH conversion
+2025/11,Payment,Savings,2091.34,26995.3,Federal Income taxes for Self
+2025/12,Withdraw,IRA,12475.54,950292.97,Monthly ROTH conversion
+2025/12,Deposit,Roth,12475.54,169707.03,Monthly ROTH conversion
+2025/12,Payment,Savings,2091.3,24904.0,Federal Income taxes for Self
+2025/00,AccountInfo,Savings,,24904.0,Account balance
+2025/00,AccountInfo,IRA,,950292.97,Account balance
+2025/00,AccountInfo,Roth,,169707.03,Account balance
+2025/00,TaxInfo,FICA,,0.0,FICA Tax
+2025/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2025/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2025/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2025/00,TaxInfo,AGI,,149707.03,Adjusted Gross Income
+2025/00,TaxInfo,FederalTax,,25096.0,Federal income tax
+2025/00,TaxInfo,StateTax,,0.0,State income tax
+2025/00,TaxInfo,LocalTax,,0.0,Local income tax
+2026/01,Withdraw,IRA,12402.34,937890.63,Monthly ROTH conversion
+2026/01,Deposit,Roth,12402.34,182109.37,Monthly ROTH conversion
+2026/01,Payment,Savings,2073.75,22830.25,Federal Income taxes for Self
+2026/02,Withdraw,IRA,12402.34,925488.29,Monthly ROTH conversion
+2026/02,Deposit,Roth,12402.34,194511.71,Monthly ROTH conversion
+2026/02,Payment,Savings,2073.75,20756.5,Federal Income taxes for Self
+2026/03,Withdraw,IRA,12402.34,913085.95,Monthly ROTH conversion
+2026/03,Deposit,Roth,12402.34,206914.05,Monthly ROTH conversion
+2026/03,Payment,Savings,2073.75,18682.75,Federal Income taxes for Self
+2026/04,Withdraw,IRA,12402.34,900683.61,Monthly ROTH conversion
+2026/04,Deposit,Roth,12402.34,219316.39,Monthly ROTH conversion
+2026/04,Payment,Savings,2073.75,16609.0,Federal Income taxes for Self
+2026/05,Withdraw,IRA,12402.34,888281.27,Monthly ROTH conversion
+2026/05,Deposit,Roth,12402.34,231718.73,Monthly ROTH conversion
+2026/05,Payment,Savings,2073.75,14535.25,Federal Income taxes for Self
+2026/06,Withdraw,IRA,12402.34,875878.93,Monthly ROTH conversion
+2026/06,Deposit,Roth,12402.34,244121.07,Monthly ROTH conversion
+2026/06,Payment,Savings,2073.75,12461.5,Federal Income taxes for Self
+2026/07,Withdraw,IRA,12402.34,863476.59,Monthly ROTH conversion
+2026/07,Deposit,Roth,12402.34,256523.41,Monthly ROTH conversion
+2026/07,Payment,Savings,2073.75,10387.75,Federal Income taxes for Self
+2026/08,Withdraw,IRA,12402.34,851074.25,Monthly ROTH conversion
+2026/08,Deposit,Roth,12402.34,268925.75,Monthly ROTH conversion
+2026/08,Payment,Savings,2073.75,8314.0,Federal Income taxes for Self
+2026/09,Withdraw,IRA,12402.34,838671.91,Monthly ROTH conversion
+2026/09,Deposit,Roth,12402.34,281328.09,Monthly ROTH conversion
+2026/09,Payment,Savings,2073.75,6240.25,Federal Income taxes for Self
+2026/10,Withdraw,IRA,12402.34,826269.57,Monthly ROTH conversion
+2026/10,Deposit,Roth,12402.34,293730.43,Monthly ROTH conversion
+2026/10,Payment,Savings,2073.75,4166.5,Federal Income taxes for Self
+2026/11,Withdraw,IRA,12402.34,813867.23,Monthly ROTH conversion
+2026/11,Deposit,Roth,12402.34,306132.77,Monthly ROTH conversion
+2026/11,Payment,Savings,2073.75,2092.75,Federal Income taxes for Self
+2026/12,Withdraw,IRA,12402.39,801464.84,Monthly ROTH conversion
+2026/12,Deposit,Roth,12402.39,318535.16,Monthly ROTH conversion
+2026/12,Payment,Savings,2073.75,19.0,Federal Income taxes for Self
+2026/00,AccountInfo,Savings,,19.0,Account balance
+2026/00,AccountInfo,IRA,,801464.84,Account balance
+2026/00,AccountInfo,Roth,,318535.16,Account balance
+2026/00,TaxInfo,FICA,,0.0,FICA Tax
+2026/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2026/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2026/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2026/00,TaxInfo,AGI,,148828.13,Adjusted Gross Income
+2026/00,TaxInfo,FederalTax,,24885.0,Federal income tax
+2026/00,TaxInfo,StateTax,,0.0,State income tax
+2026/00,TaxInfo,LocalTax,,0.0,Local income tax
+2027/01,Withdraw,IRA,1342.77,800122.07,Monthly ROTH conversion
+2027/01,Deposit,Roth,1342.77,319877.93,Monthly ROTH conversion
+2027/02,Withdraw,IRA,1342.77,798779.3,Monthly ROTH conversion
+2027/02,Deposit,Roth,1342.77,321220.7,Monthly ROTH conversion
+2027/03,Withdraw,IRA,1342.77,797436.53,Monthly ROTH conversion
+2027/03,Deposit,Roth,1342.77,322563.47,Monthly ROTH conversion
+2027/04,Withdraw,IRA,1342.77,796093.76,Monthly ROTH conversion
+2027/04,Deposit,Roth,1342.77,323906.24,Monthly ROTH conversion
+2027/05,Withdraw,IRA,1342.78,794750.98,Monthly ROTH conversion
+2027/05,Deposit,Roth,1342.78,325249.02,Monthly ROTH conversion
+2027/06,Withdraw,IRA,1342.77,793408.21,Monthly ROTH conversion
+2027/06,Deposit,Roth,1342.77,326591.79,Monthly ROTH conversion
+2027/07,Withdraw,IRA,1342.77,792065.44,Monthly ROTH conversion
+2027/07,Deposit,Roth,1342.77,327934.56,Monthly ROTH conversion
+2027/08,Withdraw,IRA,1342.77,790722.67,Monthly ROTH conversion
+2027/08,Deposit,Roth,1342.77,329277.33,Monthly ROTH conversion
+2027/09,Withdraw,IRA,1342.77,789379.9,Monthly ROTH conversion
+2027/09,Deposit,Roth,1342.77,330620.1,Monthly ROTH conversion
+2027/10,Withdraw,IRA,1342.77,788037.13,Monthly ROTH conversion
+2027/10,Deposit,Roth,1342.77,331962.87,Monthly ROTH conversion
+2027/11,Withdraw,IRA,1342.77,786694.36,Monthly ROTH conversion
+2027/11,Deposit,Roth,1342.77,333305.64,Monthly ROTH conversion
+2027/12,Withdraw,IRA,1342.8,785351.56,Monthly ROTH conversion
+2027/12,Deposit,Roth,1342.8,334648.44,Monthly ROTH conversion
+2027/00,AccountInfo,Savings,,19.0,Account balance
+2027/00,AccountInfo,IRA,,785351.56,Account balance
+2027/00,AccountInfo,Roth,,334648.44,Account balance
+2027/00,TaxInfo,FICA,,0.0,FICA Tax
+2027/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2027/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2027/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2027/00,TaxInfo,AGI,,16113.28,Adjusted Gross Income
+2027/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2027/00,TaxInfo,StateTax,,0.0,State income tax
+2027/00,TaxInfo,LocalTax,,0.0,Local income tax
+2028/01,Withdraw,IRA,1342.77,784008.79,Monthly ROTH conversion
+2028/01,Deposit,Roth,1342.77,335991.21,Monthly ROTH conversion
+2028/02,Withdraw,IRA,1342.77,782666.02,Monthly ROTH conversion
+2028/02,Deposit,Roth,1342.77,337333.98,Monthly ROTH conversion
+2028/03,Withdraw,IRA,1342.77,781323.25,Monthly ROTH conversion
+2028/03,Deposit,Roth,1342.77,338676.75,Monthly ROTH conversion
+2028/04,Withdraw,IRA,1342.77,779980.48,Monthly ROTH conversion
+2028/04,Deposit,Roth,1342.77,340019.52,Monthly ROTH conversion
+2028/05,Withdraw,IRA,1342.78,778637.7,Monthly ROTH conversion
+2028/05,Deposit,Roth,1342.78,341362.3,Monthly ROTH conversion
+2028/06,Withdraw,IRA,1342.77,777294.93,Monthly ROTH conversion
+2028/06,Deposit,Roth,1342.77,342705.07,Monthly ROTH conversion
+2028/07,Withdraw,IRA,1342.77,775952.16,Monthly ROTH conversion
+2028/07,Deposit,Roth,1342.77,344047.84,Monthly ROTH conversion
+2028/08,Withdraw,IRA,1342.77,774609.39,Monthly ROTH conversion
+2028/08,Deposit,Roth,1342.77,345390.61,Monthly ROTH conversion
+2028/09,Withdraw,IRA,1342.77,773266.62,Monthly ROTH conversion
+2028/09,Deposit,Roth,1342.77,346733.38,Monthly ROTH conversion
+2028/10,Withdraw,IRA,1342.77,771923.85,Monthly ROTH conversion
+2028/10,Deposit,Roth,1342.77,348076.15,Monthly ROTH conversion
+2028/11,Withdraw,IRA,1342.77,770581.08,Monthly ROTH conversion
+2028/11,Deposit,Roth,1342.77,349418.92,Monthly ROTH conversion
+2028/12,Withdraw,IRA,1342.8,769238.28,Monthly ROTH conversion
+2028/12,Deposit,Roth,1342.8,350761.72,Monthly ROTH conversion
+2028/00,AccountInfo,Savings,,19.0,Account balance
+2028/00,AccountInfo,IRA,,769238.28,Account balance
+2028/00,AccountInfo,Roth,,350761.72,Account balance
+2028/00,TaxInfo,FICA,,0.0,FICA Tax
+2028/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2028/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2028/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2028/00,TaxInfo,AGI,,16113.28,Adjusted Gross Income
+2028/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2028/00,TaxInfo,StateTax,,0.0,State income tax
+2028/00,TaxInfo,LocalTax,,0.0,Local income tax
+2029/01,Withdraw,IRA,1342.77,767895.51,Monthly ROTH conversion
+2029/01,Deposit,Roth,1342.77,352104.49,Monthly ROTH conversion
+2029/02,Withdraw,IRA,1342.77,766552.74,Monthly ROTH conversion
+2029/02,Deposit,Roth,1342.77,353447.26,Monthly ROTH conversion
+2029/03,Withdraw,IRA,1342.77,765209.97,Monthly ROTH conversion
+2029/03,Deposit,Roth,1342.77,354790.03,Monthly ROTH conversion
+2029/04,Withdraw,IRA,1342.77,763867.2,Monthly ROTH conversion
+2029/04,Deposit,Roth,1342.77,356132.8,Monthly ROTH conversion
+2029/05,Withdraw,IRA,1342.78,762524.42,Monthly ROTH conversion
+2029/05,Deposit,Roth,1342.78,357475.58,Monthly ROTH conversion
+2029/06,Withdraw,IRA,1342.77,761181.65,Monthly ROTH conversion
+2029/06,Deposit,Roth,1342.77,358818.35,Monthly ROTH conversion
+2029/07,Withdraw,IRA,1342.77,759838.88,Monthly ROTH conversion
+2029/07,Deposit,Roth,1342.77,360161.12,Monthly ROTH conversion
+2029/08,Withdraw,IRA,1342.77,758496.11,Monthly ROTH conversion
+2029/08,Deposit,Roth,1342.77,361503.89,Monthly ROTH conversion
+2029/09,Withdraw,IRA,1342.77,757153.34,Monthly ROTH conversion
+2029/09,Deposit,Roth,1342.77,362846.66,Monthly ROTH conversion
+2029/10,Withdraw,IRA,1342.77,755810.57,Monthly ROTH conversion
+2029/10,Deposit,Roth,1342.77,364189.43,Monthly ROTH conversion
+2029/11,Withdraw,IRA,1342.77,754467.8,Monthly ROTH conversion
+2029/11,Deposit,Roth,1342.77,365532.2,Monthly ROTH conversion
+2029/12,Withdraw,IRA,1342.8,753125.0,Monthly ROTH conversion
+2029/12,Deposit,Roth,1342.8,366875.0,Monthly ROTH conversion
+2029/00,AccountInfo,Savings,,19.0,Account balance
+2029/00,AccountInfo,IRA,,753125.0,Account balance
+2029/00,AccountInfo,Roth,,366875.0,Account balance
+2029/00,TaxInfo,FICA,,0.0,FICA Tax
+2029/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2029/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2029/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2029/00,TaxInfo,AGI,,16113.28,Adjusted Gross Income
+2029/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2029/00,TaxInfo,StateTax,,0.0,State income tax
+2029/00,TaxInfo,LocalTax,,0.0,Local income tax
+2030/01,Withdraw,IRA,1342.77,751782.23,Monthly ROTH conversion
+2030/01,Deposit,Roth,1342.77,368217.77,Monthly ROTH conversion
+2030/02,Withdraw,IRA,1342.77,750439.46,Monthly ROTH conversion
+2030/02,Deposit,Roth,1342.77,369560.54,Monthly ROTH conversion
+2030/03,Withdraw,IRA,1342.77,749096.69,Monthly ROTH conversion
+2030/03,Deposit,Roth,1342.77,370903.31,Monthly ROTH conversion
+2030/04,Withdraw,IRA,1342.77,747753.92,Monthly ROTH conversion
+2030/04,Deposit,Roth,1342.77,372246.08,Monthly ROTH conversion
+2030/05,Withdraw,IRA,1342.78,746411.14,Monthly ROTH conversion
+2030/05,Deposit,Roth,1342.78,373588.86,Monthly ROTH conversion
+2030/06,Withdraw,IRA,1342.77,745068.37,Monthly ROTH conversion
+2030/06,Deposit,Roth,1342.77,374931.63,Monthly ROTH conversion
+2030/07,Withdraw,IRA,1342.77,743725.6,Monthly ROTH conversion
+2030/07,Deposit,Roth,1342.77,376274.4,Monthly ROTH conversion
+2030/08,Withdraw,IRA,1342.77,742382.83,Monthly ROTH conversion
+2030/08,Deposit,Roth,1342.77,377617.17,Monthly ROTH conversion
+2030/09,Withdraw,IRA,1342.77,741040.06,Monthly ROTH conversion
+2030/09,Deposit,Roth,1342.77,378959.94,Monthly ROTH conversion
+2030/10,Withdraw,IRA,1342.77,739697.29,Monthly ROTH conversion
+2030/10,Deposit,Roth,1342.77,380302.71,Monthly ROTH conversion
+2030/11,Withdraw,IRA,1342.77,738354.52,Monthly ROTH conversion
+2030/11,Deposit,Roth,1342.77,381645.48,Monthly ROTH conversion
+2030/12,Withdraw,IRA,1342.8,737011.72,Monthly ROTH conversion
+2030/12,Deposit,Roth,1342.8,382988.28,Monthly ROTH conversion
+2030/00,AccountInfo,Savings,,19.0,Account balance
+2030/00,AccountInfo,IRA,,737011.72,Account balance
+2030/00,AccountInfo,Roth,,382988.28,Account balance
+2030/00,TaxInfo,FICA,,0.0,FICA Tax
+2030/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2030/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2030/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2030/00,TaxInfo,AGI,,16113.28,Adjusted Gross Income
+2030/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2030/00,TaxInfo,StateTax,,0.0,State income tax
+2030/00,TaxInfo,LocalTax,,0.0,Local income tax
+2031/01,Withdraw,IRA,1342.77,735668.95,Monthly ROTH conversion
+2031/01,Deposit,Roth,1342.77,384331.05,Monthly ROTH conversion
+2031/02,Withdraw,IRA,1342.77,734326.18,Monthly ROTH conversion
+2031/02,Deposit,Roth,1342.77,385673.82,Monthly ROTH conversion
+2031/03,Withdraw,IRA,1342.77,732983.41,Monthly ROTH conversion
+2031/03,Deposit,Roth,1342.77,387016.59,Monthly ROTH conversion
+2031/04,Withdraw,IRA,1342.77,731640.64,Monthly ROTH conversion
+2031/04,Deposit,Roth,1342.77,388359.36,Monthly ROTH conversion
+2031/05,Withdraw,IRA,1342.78,730297.86,Monthly ROTH conversion
+2031/05,Deposit,Roth,1342.78,389702.14,Monthly ROTH conversion
+2031/06,Withdraw,IRA,1342.77,728955.09,Monthly ROTH conversion
+2031/06,Deposit,Roth,1342.77,391044.91,Monthly ROTH conversion
+2031/07,Withdraw,IRA,1342.77,727612.32,Monthly ROTH conversion
+2031/07,Deposit,Roth,1342.77,392387.68,Monthly ROTH conversion
+2031/08,Withdraw,IRA,1342.77,726269.55,Monthly ROTH conversion
+2031/08,Deposit,Roth,1342.77,393730.45,Monthly ROTH conversion
+2031/09,Withdraw,IRA,1342.77,724926.78,Monthly ROTH conversion
+2031/09,Deposit,Roth,1342.77,395073.22,Monthly ROTH conversion
+2031/10,Withdraw,IRA,1342.77,723584.01,Monthly ROTH conversion
+2031/10,Deposit,Roth,1342.77,396415.99,Monthly ROTH conversion
+2031/11,Withdraw,IRA,1342.77,722241.24,Monthly ROTH conversion
+2031/11,Deposit,Roth,1342.77,397758.76,Monthly ROTH conversion
+2031/12,Withdraw,IRA,1342.8,720898.44,Monthly ROTH conversion
+2031/12,Deposit,Roth,1342.8,399101.56,Monthly ROTH conversion
+2031/00,AccountInfo,Savings,,19.0,Account balance
+2031/00,AccountInfo,IRA,,720898.44,Account balance
+2031/00,AccountInfo,Roth,,399101.56,Account balance
+2031/00,TaxInfo,FICA,,0.0,FICA Tax
+2031/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2031/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2031/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2031/00,TaxInfo,AGI,,16113.28,Adjusted Gross Income
+2031/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2031/00,TaxInfo,StateTax,,0.0,State income tax
+2031/00,TaxInfo,LocalTax,,0.0,Local income tax
+2032/01,Withdraw,IRA,1342.77,719555.67,Monthly ROTH conversion
+2032/01,Deposit,Roth,1342.77,400444.33,Monthly ROTH conversion
+2032/02,Withdraw,IRA,1342.77,718212.9,Monthly ROTH conversion
+2032/02,Deposit,Roth,1342.77,401787.1,Monthly ROTH conversion
+2032/03,Withdraw,IRA,1342.77,716870.13,Monthly ROTH conversion
+2032/03,Deposit,Roth,1342.77,403129.87,Monthly ROTH conversion
+2032/04,Withdraw,IRA,1342.77,715527.36,Monthly ROTH conversion
+2032/04,Deposit,Roth,1342.77,404472.64,Monthly ROTH conversion
+2032/05,Withdraw,IRA,1342.78,714184.58,Monthly ROTH conversion
+2032/05,Deposit,Roth,1342.78,405815.42,Monthly ROTH conversion
+2032/06,Withdraw,IRA,1342.77,712841.81,Monthly ROTH conversion
+2032/06,Deposit,Roth,1342.77,407158.19,Monthly ROTH conversion
+2032/07,Withdraw,IRA,1342.77,711499.04,Monthly ROTH conversion
+2032/07,Deposit,Roth,1342.77,408500.96,Monthly ROTH conversion
+2032/08,Withdraw,IRA,1342.77,710156.27,Monthly ROTH conversion
+2032/08,Deposit,Roth,1342.77,409843.73,Monthly ROTH conversion
+2032/09,Withdraw,IRA,1342.77,708813.5,Monthly ROTH conversion
+2032/09,Deposit,Roth,1342.77,411186.5,Monthly ROTH conversion
+2032/10,Withdraw,IRA,1342.77,707470.73,Monthly ROTH conversion
+2032/10,Deposit,Roth,1342.77,412529.27,Monthly ROTH conversion
+2032/11,Withdraw,IRA,1342.77,706127.96,Monthly ROTH conversion
+2032/11,Deposit,Roth,1342.77,413872.04,Monthly ROTH conversion
+2032/12,Withdraw,IRA,1342.8,704785.16,Monthly ROTH conversion
+2032/12,Deposit,Roth,1342.8,415214.84,Monthly ROTH conversion
+2032/00,AccountInfo,Savings,,19.0,Account balance
+2032/00,AccountInfo,IRA,,704785.16,Account balance
+2032/00,AccountInfo,Roth,,415214.84,Account balance
+2032/00,TaxInfo,FICA,,0.0,FICA Tax
+2032/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2032/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2032/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2032/00,TaxInfo,AGI,,16113.28,Adjusted Gross Income
+2032/00,TaxInfo,FederalTax,,0.0,Federal income tax
+2032/00,TaxInfo,StateTax,,0.0,State income tax
+2032/00,TaxInfo,LocalTax,,0.0,Local income tax
+2033/01,Withdraw,IRA,2216.31,702568.85,RMD Withdraw
+2033/01,Deposit,Savings,68.08,87.08,Portion of RMD allocated into savings for monthly expenses
+2033/01,Deposit,Savings,2148.23,2235.31,Portion of RMD allocated into long-term investments
+2033/01,Payment,Savings,87.08,2148.23,Federal Income taxes for Self
+2033/02,Withdraw,IRA,2216.31,700352.54,RMD Withdraw
+2033/02,Deposit,Savings,2216.31,4364.54,RMD fully allocated into long-term investments
+2033/02,Payment,Savings,87.08,4277.46,Federal Income taxes for Self
+2033/03,Withdraw,IRA,2216.31,698136.23,RMD Withdraw
+2033/03,Deposit,Savings,2216.31,6493.77,RMD fully allocated into long-term investments
+2033/03,Payment,Savings,87.08,6406.69,Federal Income taxes for Self
+2033/04,Withdraw,IRA,2216.31,695919.92,RMD Withdraw
+2033/04,Deposit,Savings,2216.31,8623.0,RMD fully allocated into long-term investments
+2033/04,Payment,Savings,87.08,8535.92,Federal Income taxes for Self
+2033/05,Withdraw,IRA,2216.31,693703.61,RMD Withdraw
+2033/05,Deposit,Savings,2216.31,10752.23,RMD fully allocated into long-term investments
+2033/05,Payment,Savings,87.09,10665.14,Federal Income taxes for Self
+2033/06,Withdraw,IRA,2216.31,691487.3,RMD Withdraw
+2033/06,Deposit,Savings,2216.31,12881.45,RMD fully allocated into long-term investments
+2033/06,Payment,Savings,87.08,12794.37,Federal Income taxes for Self
+2033/07,Withdraw,IRA,2216.31,689270.99,RMD Withdraw
+2033/07,Deposit,Savings,2216.31,15010.68,RMD fully allocated into long-term investments
+2033/07,Payment,Savings,87.09,14923.59,Federal Income taxes for Self
+2033/08,Withdraw,IRA,2216.31,687054.68,RMD Withdraw
+2033/08,Deposit,Savings,2216.31,17139.9,RMD fully allocated into long-term investments
+2033/08,Payment,Savings,87.08,17052.82,Federal Income taxes for Self
+2033/09,Withdraw,IRA,2216.31,684838.37,RMD Withdraw
+2033/09,Deposit,Savings,2216.31,19269.13,RMD fully allocated into long-term investments
+2033/09,Payment,Savings,87.08,19182.05,Federal Income taxes for Self
+2033/10,Withdraw,IRA,2216.31,682622.06,RMD Withdraw
+2033/10,Deposit,Savings,2216.31,21398.36,RMD fully allocated into long-term investments
+2033/10,Payment,Savings,87.09,21311.27,Federal Income taxes for Self
+2033/11,Withdraw,IRA,2216.31,680405.75,RMD Withdraw
+2033/11,Deposit,Savings,2216.31,23527.58,RMD fully allocated into long-term investments
+2033/11,Payment,Savings,87.08,23440.5,Federal Income taxes for Self
+2033/12,Withdraw,IRA,2216.26,678189.49,RMD Withdraw
+2033/12,Deposit,Savings,2216.26,25656.76,RMD fully allocated into long-term investments
+2033/12,Payment,Savings,87.09,25569.67,Federal Income taxes for Self
+2033/00,AccountInfo,Savings,,25569.67,Account balance
+2033/00,AccountInfo,IRA,,678189.49,Account balance
+2033/00,AccountInfo,Roth,,415214.84,Account balance
+2033/00,TaxInfo,FICA,,0.0,FICA Tax
+2033/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2033/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2033/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2033/00,TaxInfo,AGI,,26595.67,Adjusted Gross Income
+2033/00,TaxInfo,FederalTax,,1045.0,Federal income tax
+2033/00,TaxInfo,StateTax,,0.0,State income tax
+2033/00,TaxInfo,LocalTax,,0.0,Local income tax
+2034/01,Withdraw,IRA,2216.31,675973.18,RMD Withdraw
+2034/01,Deposit,Savings,2216.31,27785.98,RMD fully allocated into long-term investments
+2034/01,Withdraw,IRA,10278.32,665694.86,Monthly ROTH conversion
+2034/01,Deposit,Roth,10278.32,425493.16,Monthly ROTH conversion
+2034/01,Payment,Savings,2095.92,25690.06,Federal Income taxes for Self
+2034/02,Withdraw,IRA,2216.31,663478.55,RMD Withdraw
+2034/02,Deposit,Savings,2216.31,27906.37,RMD fully allocated into long-term investments
+2034/02,Withdraw,IRA,10278.32,653200.23,Monthly ROTH conversion
+2034/02,Deposit,Roth,10278.32,435771.48,Monthly ROTH conversion
+2034/02,Payment,Savings,2095.92,25810.45,Federal Income taxes for Self
+2034/03,Withdraw,IRA,2216.31,650983.92,RMD Withdraw
+2034/03,Deposit,Savings,2216.31,28026.76,RMD fully allocated into long-term investments
+2034/03,Withdraw,IRA,10278.32,640705.6,Monthly ROTH conversion
+2034/03,Deposit,Roth,10278.32,446049.8,Monthly ROTH conversion
+2034/03,Payment,Savings,2095.92,25930.84,Federal Income taxes for Self
+2034/04,Withdraw,IRA,2216.31,638489.29,RMD Withdraw
+2034/04,Deposit,Savings,2216.31,28147.15,RMD fully allocated into long-term investments
+2034/04,Withdraw,IRA,10278.32,628210.97,Monthly ROTH conversion
+2034/04,Deposit,Roth,10278.32,456328.12,Monthly ROTH conversion
+2034/04,Payment,Savings,2095.92,26051.23,Federal Income taxes for Self
+2034/05,Withdraw,IRA,2216.31,625994.66,RMD Withdraw
+2034/05,Deposit,Savings,2216.31,28267.54,RMD fully allocated into long-term investments
+2034/05,Withdraw,IRA,10278.32,615716.34,Monthly ROTH conversion
+2034/05,Deposit,Roth,10278.32,466606.44,Monthly ROTH conversion
+2034/05,Payment,Savings,2095.92,26171.62,Federal Income taxes for Self
+2034/06,Withdraw,IRA,2216.31,613500.03,RMD Withdraw
+2034/06,Deposit,Savings,2216.31,28387.93,RMD fully allocated into long-term investments
+2034/06,Withdraw,IRA,10278.32,603221.71,Monthly ROTH conversion
+2034/06,Deposit,Roth,10278.32,476884.76,Monthly ROTH conversion
+2034/06,Payment,Savings,2095.91,26292.02,Federal Income taxes for Self
+2034/07,Withdraw,IRA,2216.31,601005.4,RMD Withdraw
+2034/07,Deposit,Savings,2216.31,28508.33,RMD fully allocated into long-term investments
+2034/07,Withdraw,IRA,10278.32,590727.08,Monthly ROTH conversion
+2034/07,Deposit,Roth,10278.32,487163.08,Monthly ROTH conversion
+2034/07,Payment,Savings,2095.91,26412.42,Federal Income taxes for Self
+2034/08,Withdraw,IRA,2216.31,588510.77,RMD Withdraw
+2034/08,Deposit,Savings,2216.31,28628.73,RMD fully allocated into long-term investments
+2034/08,Withdraw,IRA,10278.32,578232.45,Monthly ROTH conversion
+2034/08,Deposit,Roth,10278.32,497441.4,Monthly ROTH conversion
+2034/08,Payment,Savings,2095.91,26532.82,Federal Income taxes for Self
+2034/09,Withdraw,IRA,2216.31,576016.14,RMD Withdraw
+2034/09,Deposit,Savings,2216.31,28749.13,RMD fully allocated into long-term investments
+2034/09,Withdraw,IRA,10278.32,565737.82,Monthly ROTH conversion
+2034/09,Deposit,Roth,10278.32,507719.72,Monthly ROTH conversion
+2034/09,Payment,Savings,2095.91,26653.22,Federal Income taxes for Self
+2034/10,Withdraw,IRA,2216.31,563521.51,RMD Withdraw
+2034/10,Deposit,Savings,2216.31,28869.53,RMD fully allocated into long-term investments
+2034/10,Withdraw,IRA,10278.32,553243.19,Monthly ROTH conversion
+2034/10,Deposit,Roth,10278.32,517998.04,Monthly ROTH conversion
+2034/10,Payment,Savings,2095.91,26773.62,Federal Income taxes for Self
+2034/11,Withdraw,IRA,2216.31,551026.88,RMD Withdraw
+2034/11,Deposit,Savings,2216.31,28989.93,RMD fully allocated into long-term investments
+2034/11,Withdraw,IRA,10278.32,540748.56,Monthly ROTH conversion
+2034/11,Deposit,Roth,10278.32,528276.36,Monthly ROTH conversion
+2034/11,Payment,Savings,2095.91,26894.02,Federal Income taxes for Self
+2034/12,Withdraw,IRA,2216.26,538532.3,RMD Withdraw
+2034/12,Deposit,Savings,2216.26,29110.28,RMD fully allocated into long-term investments
+2034/12,Withdraw,IRA,10278.32,528253.98,Monthly ROTH conversion
+2034/12,Deposit,Roth,10278.32,538554.68,Monthly ROTH conversion
+2034/12,Payment,Savings,2095.94,27014.34,Federal Income taxes for Self
+2034/00,AccountInfo,Savings,,27014.34,Account balance
+2034/00,AccountInfo,IRA,,528253.98,Account balance
+2034/00,AccountInfo,Roth,,538554.68,Account balance
+2034/00,TaxInfo,FICA,,0.0,FICA Tax
+2034/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2034/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2034/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2034/00,TaxInfo,AGI,,149935.51,Adjusted Gross Income
+2034/00,TaxInfo,FederalTax,,25151.0,Federal income tax
+2034/00,TaxInfo,StateTax,,0.0,State income tax
+2034/00,TaxInfo,LocalTax,,0.0,Local income tax
+2035/01,Withdraw,IRA,1789.48,526464.5,RMD Withdraw
+2035/01,Deposit,Savings,1789.48,28803.82,RMD fully allocated into long-term investments
+2035/01,Withdraw,IRA,10693.36,515771.14,Monthly ROTH conversion
+2035/01,Deposit,Roth,10693.36,549248.04,Monthly ROTH conversion
+2035/01,Payment,Savings,2093.08,26710.74,Federal Income taxes for Self
+2035/02,Withdraw,IRA,1789.48,513981.66,RMD Withdraw
+2035/02,Deposit,Savings,1789.48,28500.22,RMD fully allocated into long-term investments
+2035/02,Withdraw,IRA,10693.36,503288.3,Monthly ROTH conversion
+2035/02,Deposit,Roth,10693.36,559941.4,Monthly ROTH conversion
+2035/02,Payment,Savings,2093.08,26407.14,Federal Income taxes for Self
+2035/03,Withdraw,IRA,1789.48,501498.82,RMD Withdraw
+2035/03,Deposit,Savings,1789.48,28196.62,RMD fully allocated into long-term investments
+2035/03,Withdraw,IRA,10693.36,490805.46,Monthly ROTH conversion
+2035/03,Deposit,Roth,10693.36,570634.76,Monthly ROTH conversion
+2035/03,Payment,Savings,2093.08,26103.54,Federal Income taxes for Self
+2035/04,Withdraw,IRA,1789.48,489015.98,RMD Withdraw
+2035/04,Deposit,Savings,1789.48,27893.02,RMD fully allocated into long-term investments
+2035/04,Withdraw,IRA,10693.36,478322.62,Monthly ROTH conversion
+2035/04,Deposit,Roth,10693.36,581328.12,Monthly ROTH conversion
+2035/04,Payment,Savings,2093.08,25799.94,Federal Income taxes for Self
+2035/05,Withdraw,IRA,1789.48,476533.14,RMD Withdraw
+2035/05,Deposit,Savings,1789.48,27589.42,RMD fully allocated into long-term investments
+2035/05,Withdraw,IRA,10693.36,465839.78,Monthly ROTH conversion
+2035/05,Deposit,Roth,10693.36,592021.48,Monthly ROTH conversion
+2035/05,Payment,Savings,2093.09,25496.33,Federal Income taxes for Self
+2035/06,Withdraw,IRA,1789.48,464050.3,RMD Withdraw
+2035/06,Deposit,Savings,1789.48,27285.81,RMD fully allocated into long-term investments
+2035/06,Withdraw,IRA,10693.36,453356.94,Monthly ROTH conversion
+2035/06,Deposit,Roth,10693.36,602714.84,Monthly ROTH conversion
+2035/06,Payment,Savings,2093.09,25192.72,Federal Income taxes for Self
+2035/07,Withdraw,IRA,1789.48,451567.46,RMD Withdraw
+2035/07,Deposit,Savings,1789.48,26982.2,RMD fully allocated into long-term investments
+2035/07,Withdraw,IRA,10693.36,440874.1,Monthly ROTH conversion
+2035/07,Deposit,Roth,10693.36,613408.2,Monthly ROTH conversion
+2035/07,Payment,Savings,2093.09,24889.11,Federal Income taxes for Self
+2035/08,Withdraw,IRA,1789.48,439084.62,RMD Withdraw
+2035/08,Deposit,Savings,1789.48,26678.59,RMD fully allocated into long-term investments
+2035/08,Withdraw,IRA,10693.36,428391.26,Monthly ROTH conversion
+2035/08,Deposit,Roth,10693.36,624101.56,Monthly ROTH conversion
+2035/08,Payment,Savings,2093.09,24585.5,Federal Income taxes for Self
+2035/09,Withdraw,IRA,1789.48,426601.78,RMD Withdraw
+2035/09,Deposit,Savings,1789.48,26374.98,RMD fully allocated into long-term investments
+2035/09,Withdraw,IRA,10693.36,415908.42,Monthly ROTH conversion
+2035/09,Deposit,Roth,10693.36,634794.92,Monthly ROTH conversion
+2035/09,Payment,Savings,2093.09,24281.89,Federal Income taxes for Self
+2035/10,Withdraw,IRA,1789.48,414118.94,RMD Withdraw
+2035/10,Deposit,Savings,1789.48,26071.37,RMD fully allocated into long-term investments
+2035/10,Withdraw,IRA,10693.36,403425.58,Monthly ROTH conversion
+2035/10,Deposit,Roth,10693.36,645488.28,Monthly ROTH conversion
+2035/10,Payment,Savings,2093.09,23978.28,Federal Income taxes for Self
+2035/11,Withdraw,IRA,1789.48,401636.1,RMD Withdraw
+2035/11,Deposit,Savings,1789.48,25767.76,RMD fully allocated into long-term investments
+2035/11,Withdraw,IRA,10693.35,390942.75,Monthly ROTH conversion
+2035/11,Deposit,Roth,10693.35,656181.63,Monthly ROTH conversion
+2035/11,Payment,Savings,2093.09,23674.67,Federal Income taxes for Self
+2035/12,Withdraw,IRA,1789.46,389153.29,RMD Withdraw
+2035/12,Deposit,Savings,1789.46,25464.13,RMD fully allocated into long-term investments
+2035/12,Withdraw,IRA,10693.36,378459.93,Monthly ROTH conversion
+2035/12,Deposit,Roth,10693.36,666874.99,Monthly ROTH conversion
+2035/12,Payment,Savings,2093.05,23371.08,Federal Income taxes for Self
+2035/00,AccountInfo,Savings,,23371.08,Account balance
+2035/00,AccountInfo,IRA,,378459.93,Account balance
+2035/00,AccountInfo,Roth,,666874.99,Account balance
+2035/00,TaxInfo,FICA,,0.0,FICA Tax
+2035/00,TaxInfo,Medicare,,0.0,Medicare Tax
+2035/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
+2035/00,TaxInfo,CapGins,,0.0,Capital Gains Income
+2035/00,TaxInfo,AGI,,149794.05,Adjusted Gross Income
+2035/00,TaxInfo,FederalTax,,25117.0,Federal income tax
+2035/00,TaxInfo,StateTax,,0.0,State income tax
+2035/00,TaxInfo,LocalTax,,0.0,Local income tax
