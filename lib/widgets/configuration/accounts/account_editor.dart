@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:roth_analysis/models/data/account_info.dart';
 import 'package:roth_analysis/models/enums/account_type.dart';
@@ -30,6 +32,7 @@ class _AccountEditorState extends State<AccountEditor> {
   late AccountInfo accountInfo;
   late AccountType accountType;
   bool _showFieldErrorMesssage = false;
+  Timer? resetErrorHandler;
 
   @override
   void initState() {
@@ -234,13 +237,15 @@ class _AccountEditorState extends State<AccountEditor> {
                     formKey.currentState!.save();
                     widget.onEditComplete(accountInfo);
                   } else {
-                    setState(() {
-                      _showFieldErrorMesssage = true;
-                    });
-                    Future.delayed(const Duration(milliseconds: 2250), () {
+                    resetErrorHandler =
+                        Timer(const Duration(milliseconds: 2250), () {
+                      resetErrorHandler = null;
                       setState(() {
                         _showFieldErrorMesssage = false;
                       });
+                    });
+                    setState(() {
+                      _showFieldErrorMesssage = true;
                     });
                   }
                 },
@@ -248,7 +253,13 @@ class _AccountEditorState extends State<AccountEditor> {
               ),
               const SizedBox(width: 10),
               ElevatedButton(
-                onPressed: () => widget.onEditComplete(null),
+                onPressed: () {
+                  if (resetErrorHandler != null) {
+                    resetErrorHandler!.cancel();
+                  }
+                  resetErrorHandler = null;
+                  widget.onEditComplete(null);
+                },
                 child: const Text('Cancel'),
               )
             ],

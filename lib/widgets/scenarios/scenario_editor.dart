@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:roth_analysis/models/data/global_constants.dart';
 import 'package:roth_analysis/models/data/scenario_info.dart';
@@ -30,6 +32,7 @@ class _ScenarioEditorState extends State<ScenarioEditor> {
   final GlobalKey<FormState> formKey = GlobalKey<FormState>();
   late ScenarioInfo scenarioInfo;
   bool _showFieldErrorMesssage = false;
+  Timer? resetErrorHandler;
 
   @override
   void initState() {
@@ -327,13 +330,15 @@ class _ScenarioEditorState extends State<ScenarioEditor> {
                     formKey.currentState!.save();
                     widget.onEditComplete(scenarioInfo);
                   } else {
-                    setState(() {
-                      _showFieldErrorMesssage = true;
-                    });
-                    Future.delayed(const Duration(milliseconds: 2250), () {
+                    resetErrorHandler =
+                        Timer(const Duration(milliseconds: 2250), () {
+                      resetErrorHandler = null;
                       setState(() {
                         _showFieldErrorMesssage = false;
                       });
+                    });
+                    setState(() {
+                      _showFieldErrorMesssage = true;
                     });
                   }
                 },
@@ -341,7 +346,13 @@ class _ScenarioEditorState extends State<ScenarioEditor> {
               ),
               const SizedBox(width: 10),
               ElevatedButton(
-                onPressed: () => widget.onEditComplete(null),
+                onPressed: () {
+                  if (resetErrorHandler != null) {
+                    resetErrorHandler!.cancel();
+                  }
+                  resetErrorHandler = null;
+                  widget.onEditComplete(null);
+                },
                 child: const Text('Cancel'),
               ),
             ],

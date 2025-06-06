@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:roth_analysis/models/data/global_constants.dart';
 import 'package:roth_analysis/models/data/income_info.dart';
@@ -29,6 +31,7 @@ class _IncomeSourceEditorState extends State<IncomeSourceEditor> {
   final GlobalKey<FormState> formKey = GlobalKey<FormState>();
   late IncomeInfo incomeInfo;
   bool _showFieldErrorMesssage = false;
+  Timer? resetErrorHandler;
 
   @override
   void initState() {
@@ -203,7 +206,9 @@ class _IncomeSourceEditorState extends State<IncomeSourceEditor> {
                         setState(() {
                           _showFieldErrorMesssage = true;
                         });
-                        Future.delayed(const Duration(milliseconds: 2250), () {
+                        resetErrorHandler =
+                            Timer(const Duration(milliseconds: 2250), () {
+                          resetErrorHandler = null;
                           setState(() {
                             _showFieldErrorMesssage = false;
                           });
@@ -214,7 +219,13 @@ class _IncomeSourceEditorState extends State<IncomeSourceEditor> {
                   ),
                   const SizedBox(width: 10),
                   ElevatedButton(
-                    onPressed: () => widget.onEditComplete(null),
+                    onPressed: () {
+                      if (resetErrorHandler != null) {
+                        resetErrorHandler!.cancel();
+                      }
+                      resetErrorHandler = null;
+                      widget.onEditComplete(null);
+                    },
                     child: const Text('Cancel'),
                   )
                 ],
