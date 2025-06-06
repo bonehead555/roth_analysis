@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
 import 'package:roth_analysis/utilities/date_utilities.dart';
 import 'package:roth_analysis/widgets/utility/widget_constants.dart';
 
@@ -31,10 +30,12 @@ class _DateFieldState extends State<DateField> {
   final _controller = TextEditingController();
   final _focusNode = FocusNode();
   String? _invalidInputText;
+  DateTime? initialDate;
 
   void _datePicker() async {
     DateTime? pickedDate = await showDatePicker(
       context: context,
+      initialDate: initialDate,
       currentDate: dateFromString(_controller.text) ?? DateTime.now(),
       firstDate: widget.firstDate ?? DateTime(2000),
       lastDate: widget.lastDate ?? DateTime(2100),
@@ -45,6 +46,7 @@ class _DateFieldState extends State<DateField> {
         _controller.text = dateToString(pickedDate);
         _invalidInputText = _testForValidInputValue(pickedDate);
       });
+      if (widget.onChanged != null) widget.onChanged!(pickedDate);
     }
   }
 
@@ -61,6 +63,7 @@ class _DateFieldState extends State<DateField> {
     if (_focusNode.context != null && _focusNode.hasFocus) return;
     _controller.text =
         widget.currentDate == null ? '' : dateToString(widget.currentDate!);
+    initialDate = widget.currentDate ?? DateTime.now();
   }
 
   @override
@@ -127,10 +130,12 @@ class _DateFieldState extends State<DateField> {
           labelText: widget.labelText,
           helperText: '',
           errorText: _invalidInputText,
-          suffixIcon: const Icon(Icons.calendar_month),
+          suffixIcon: IconButton(
+            onPressed: _datePicker,
+            icon: const Icon(Icons.calendar_month),
+          ),
         ),
         controller: _controller,
-        onTap: _datePicker,
         onChanged: (text) {
           var newInvalidInputText = _testForValidInputText(text);
           if (_invalidInputText != newInvalidInputText) {
@@ -176,10 +181,12 @@ class DateFormField extends StatefulWidget {
 class _DateFormFieldState extends State<DateFormField> {
   final _controller = TextEditingController();
   final _focusNode = FocusNode();
+  DateTime? _initialDate;
 
   void _datePicker() async {
     DateTime? pickedDate = await showDatePicker(
       context: context,
+      initialDate: _initialDate,
       currentDate: DateTime.tryParse(_controller.text) ?? DateTime.now(),
       firstDate: widget.firstDate ?? DateTime(2000),
       lastDate: widget.lastDate ?? DateTime(2100),
@@ -188,26 +195,20 @@ class _DateFormFieldState extends State<DateFormField> {
     if (pickedDate != null) {
       String formattedDate = dateToString(pickedDate);
       _controller.text = formattedDate;
+      if (widget.onChanged != null) widget.onChanged!(pickedDate);
     }
-  }
-
-  /// Intializes state data from widget, used in initState() and didUpdateWidget()
-  void initStateFromWidget({DateFormField? oldWidget}) {
-    // if old widget matches the current widget then no intialization is required.
-    if (oldWidget == widget) return;
-    // if we have focus then we should not update controller.text which would
-    // result in a loss of the cursor position in the control.
-    // Otherwise we need to update controller.text to pick up any value
-    // updates passed down from the parent widget.
-    if (_focusNode.context != null && _focusNode.hasFocus) return;
-    _controller.text =
-        widget.currentDate == null ? '' : dateToString(widget.currentDate!);
   }
 
   @override
   void initState() {
     super.initState();
-    initStateFromWidget();
+
+    // Intialize TextFromField text with provided currentDate (if present).
+    _controller.text =
+        widget.currentDate == null ? '' : dateToString(widget.currentDate!);
+    // Intialize initial datePicker inital date with provided currentDate (if present).
+    _initialDate = widget.currentDate ?? DateTime.now();
+    // Watch for loss of focus
     _focusNode.addListener(
       () {
         // actions on loss of focus
@@ -216,20 +217,10 @@ class _DateFormFieldState extends State<DateFormField> {
           var currentValue = dateFromString(_controller.text);
           if (currentValue == null) return;
           // otherwise, decode the text to a date and use it to:
-          // (a) reformat / pretty up the date string
-          // (b) invoke the onChanged callback, if one was provided
-          _controller.text = dateToString(currentValue);
           if (widget.onChanged != null) widget.onChanged!(currentValue);
         }
       },
     );
-  }
-
-  /// Performs needed intializations when the widget is reloaded.
-  @override
-  void didUpdateWidget(covariant DateFormField oldWidget) {
-    super.didUpdateWidget(oldWidget);
-    initStateFromWidget(oldWidget: oldWidget);
   }
 
   @override
@@ -257,10 +248,6 @@ class _DateFormFieldState extends State<DateFormField> {
 
   @override
   Widget build(BuildContext context) {
-    _controller.text = widget.currentDate == null
-        ? ''
-        : DateFormat('yyyy-MM-dd').format(widget.currentDate!);
-
     return Padding(
       padding: WidgetConstants.defaultTextFieldPadding,
       child: TextFormField(
@@ -270,10 +257,12 @@ class _DateFormFieldState extends State<DateFormField> {
           floatingLabelBehavior: FloatingLabelBehavior.always,
           labelText: widget.labelText,
           helperText: '',
-          suffixIcon: const Icon(Icons.calendar_month),
+          suffixIcon: IconButton(
+            onPressed: _datePicker,
+            icon: const Icon(Icons.calendar_month),
+          ),
         ),
         controller: _controller,
-        onTap: _datePicker,
         autovalidateMode: AutovalidateMode.always,
         validator: (textValue) => _testForValidInputText(textValue),
         onSaved: (textValue) {
