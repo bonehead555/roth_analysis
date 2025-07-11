@@ -1,9 +1,11 @@
 import 'dart:math';
-import 'package:roth_analysis/services/tax_services/tax_filing_settings.dart';
+
 import 'package:roth_analysis/models/enums/filing_status.dart';
 import 'package:roth_analysis/utilities/number_utilities.dart';
+import '../../models/enums/owner_type.dart';
 import 'fica_tax.dart';
 import 'tax_base.dart';
+import 'tax_filing_settings.dart';
 
 /// Private utility class that represents information to support
 /// the calculation of Federal Taxes for a specifc target year
@@ -409,14 +411,45 @@ class FederalTaxByFilingStatus extends TaxBase {
       if (filingSettings.spouseInventory!.isBlind) {
         result = result + taxRules.standardDeduction.additional;
       }
+      result += seniorTaxDeduction(OwnerType.self);
+      result += seniorTaxDeduction(OwnerType.spouse);
     }
     return result;
+  }
+
+  /// Returns the allowed dedection amount based on owener's age, modifiedAdjustedGroasIncome
+  /// and targetYear.
+  /// * [ownerType] - Identifies whether calculation is for self or spouse.
+  double seniorTaxDeduction(OwnerType ownerType) {
+    // get the age based on the aspecified OwnerType, either sewlf or spouse.
+    int age = ownerType == OwnerType.self
+        ? filingSettings.selfInventory.age
+        : filingSettings.spouseInventory!.age;
+    // deduction only allowed for those 65 and older.
+    if (age < 65) {
+      return 0.0;
+    }
+    // deduction only allowed bewteen 2025 and 2028
+    if (targetYear < 2025 || targetYear > 2028) {
+      return 0.0;
+    }
+    // deduction amount must be reduced by 6% for every dollar amount for the 
+    // given filing status.
+    double maxDeduction = 6000.0;
+    double deductionBreakpoint =
+        filingSettings.filingStatus == FilingStatus.marriedFilingJointly
+            ? 150000
+            : 75000;
+    double excessIncome =
+        max(0.0, modifiedAdjustedGrossIncome - deductionBreakpoint);
+    double deductionReduction = min(maxDeduction, excessIncome * 0.06);
+    return maxDeduction - deductionReduction;
   }
 
   /// Calulates net investment income (NIIT) tax, given...
   /// * [magi] - Modified adjusted from income.
   /// * [nii] - Net investment income.
-  /// 
+  ///
   /// Your modified adjusted gross income (MAGI) determines if you owe the net investment income tax.
   /// If your MAGI is higher than the statutory threshold for your filing status,
   /// then you must pay the net investment income tax.
@@ -456,7 +489,8 @@ class FederalTaxByFilingStatus extends TaxBase {
     double result = ordinaryIncomeTax();
     // adjust based on capital gains tax
     result += capitalGainsTax();
-    result += _calcNIIT(modifiedAdjustedGrossIncome, interestIncome + dividendIncome + capitalGainsIncome);
+    result += _calcNIIT(modifiedAdjustedGrossIncome,
+        interestIncome + dividendIncome + capitalGainsIncome);
 
     // return rounded result
     return result.roundToDouble();
@@ -638,7 +672,7 @@ final _federalTaxRules2025 = FederalTaxRules(
   year: 2025,
   single: TaxRulesByFilingStatus(
     year: 2025,
-    standardDeduction: StandardDeductionRule(base: 14600, additional: 2000),
+    standardDeduction: StandardDeductionRule(base: 15750, additional: 2000),
     taxBrackets: [
       TaxBracketRule(agi: 11925, rate: 10),
       TaxBracketRule(agi: 48475, rate: 12),
@@ -658,7 +692,7 @@ final _federalTaxRules2025 = FederalTaxRules(
   ),
   marriedFilingSeparate: TaxRulesByFilingStatus(
     year: 2025,
-    standardDeduction: StandardDeductionRule(base: 14600, additional: 2000),
+    standardDeduction: StandardDeductionRule(base: 15750, additional: 2000),
     taxBrackets: [
       TaxBracketRule(agi: 11925, rate: 10),
       TaxBracketRule(agi: 48475, rate: 12),
@@ -678,7 +712,7 @@ final _federalTaxRules2025 = FederalTaxRules(
   ),
   marriedFilingJointly: TaxRulesByFilingStatus(
     year: 2025,
-    standardDeduction: StandardDeductionRule(base: 30000, additional: 1600),
+    standardDeduction: StandardDeductionRule(base: 31500, additional: 1600),
     taxBrackets: [
       TaxBracketRule(agi: 23850, rate: 10),
       TaxBracketRule(agi: 96950, rate: 12),
@@ -698,7 +732,7 @@ final _federalTaxRules2025 = FederalTaxRules(
   ),
   headOfHousehold: TaxRulesByFilingStatus(
     year: 2025,
-    standardDeduction: StandardDeductionRule(base: 22500, additional: 1550),
+    standardDeduction: StandardDeductionRule(base: 22500, additional: 2000),
     taxBrackets: [
       TaxBracketRule(agi: 17000, rate: 10),
       TaxBracketRule(agi: 64850, rate: 12),
@@ -717,7 +751,6 @@ final _federalTaxRules2025 = FederalTaxRules(
         NetInvestementIncomeRule(magiThreshold: 200000, rate: 3.8),
   ),
 );
-
 
 List<FederalTaxRules> _historicalFederalTaxRules = [
   _federalTaxRules2021,

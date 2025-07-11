@@ -234,7 +234,7 @@ class InvalidAnalysis extends AnalysisTest {
               AccountInfo(
                   type: AccountType.rothIRA, name: 'Barney', roiGain: -1.0),
               AccountInfo(
-                  type: AccountType.traditionalIRA, name: 'nameIsTooLong')
+                  type: AccountType.traditionalIRA, name: 'nameIsTooLongNow')
             ],
             incomeInfos: [
               IncomeInfo(type: IncomeType.socialSecurity),

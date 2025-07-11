@@ -91,617 +91,617 @@ Date, Type, Account, Amount, Balance, Memo
 2026/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2026/00,TaxInfo,StateTax,,0.0,State income tax
 2026/00,TaxInfo,LocalTax,,0.0,Local income tax
-2027/01,Withdraw,Brokerage,4415.67,5584.33,Cover monthly taxes & living expenses
-2027/01,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/01,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/01,Withdraw,Brokerage,4396.84,5603.16,Cover monthly taxes & living expenses
+2027/01,Deposit,Savings,4396.84,4396.84,Cover monthly taxes & living expenses
+2027/01,Payment,Savings,230.17,4166.67,Federal Income taxes for Self
 2027/01,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/02,Withdraw,Brokerage,4415.67,1168.66,Cover monthly taxes & living expenses
-2027/02,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/02,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/02,Withdraw,Brokerage,4396.84,1206.32,Cover monthly taxes & living expenses
+2027/02,Deposit,Savings,4396.84,4396.84,Cover monthly taxes & living expenses
+2027/02,Payment,Savings,230.17,4166.67,Federal Income taxes for Self
 2027/02,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/03,Withdraw,Brokerage,1168.66,0.0,Cover monthly taxes & living expenses
-2027/03,Deposit,Savings,1168.66,1168.66,Cover monthly taxes & living expenses
-2027/03,Withdraw,IRA,3247.01,996752.99,Cover monthly taxes & living expenses
-2027/03,Deposit,Savings,3247.01,4415.67,Cover monthly taxes & living expenses
-2027/03,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/03,Withdraw,Brokerage,1206.32,0.0,Cover monthly taxes & living expenses
+2027/03,Deposit,Savings,1206.32,1206.32,Cover monthly taxes & living expenses
+2027/03,Withdraw,IRA,3190.52,996809.48,Cover monthly taxes & living expenses
+2027/03,Deposit,Savings,3190.52,4396.84,Cover monthly taxes & living expenses
+2027/03,Payment,Savings,230.17,4166.67,Federal Income taxes for Self
 2027/03,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/04,Withdraw,IRA,4415.67,992337.32,Cover monthly taxes & living expenses
-2027/04,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/04,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/04,Withdraw,IRA,4396.84,992412.64,Cover monthly taxes & living expenses
+2027/04,Deposit,Savings,4396.84,4396.84,Cover monthly taxes & living expenses
+2027/04,Payment,Savings,230.17,4166.67,Federal Income taxes for Self
 2027/04,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/05,Withdraw,IRA,4415.67,987921.65,Cover monthly taxes & living expenses
-2027/05,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/05,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/05,Withdraw,IRA,4396.84,988015.8,Cover monthly taxes & living expenses
+2027/05,Deposit,Savings,4396.84,4396.84,Cover monthly taxes & living expenses
+2027/05,Payment,Savings,230.17,4166.67,Federal Income taxes for Self
 2027/05,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/06,Withdraw,IRA,4415.67,983505.98,Cover monthly taxes & living expenses
-2027/06,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/06,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/06,Withdraw,IRA,4396.83,983618.97,Cover monthly taxes & living expenses
+2027/06,Deposit,Savings,4396.83,4396.83,Cover monthly taxes & living expenses
+2027/06,Payment,Savings,230.16,4166.67,Federal Income taxes for Self
 2027/06,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/07,Withdraw,IRA,4415.67,979090.31,Cover monthly taxes & living expenses
-2027/07,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/07,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/07,Withdraw,IRA,4396.83,979222.14,Cover monthly taxes & living expenses
+2027/07,Deposit,Savings,4396.83,4396.83,Cover monthly taxes & living expenses
+2027/07,Payment,Savings,230.16,4166.67,Federal Income taxes for Self
 2027/07,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/08,Withdraw,IRA,4415.67,974674.64,Cover monthly taxes & living expenses
-2027/08,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/08,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/08,Withdraw,IRA,4397.04,974825.1,Cover monthly taxes & living expenses
+2027/08,Deposit,Savings,4397.04,4397.04,Cover monthly taxes & living expenses
+2027/08,Payment,Savings,230.37,4166.67,Federal Income taxes for Self
 2027/08,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/09,Withdraw,IRA,4415.67,970258.97,Cover monthly taxes & living expenses
-2027/09,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/09,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/09,Withdraw,IRA,4397.04,970428.06,Cover monthly taxes & living expenses
+2027/09,Deposit,Savings,4397.04,4397.04,Cover monthly taxes & living expenses
+2027/09,Payment,Savings,230.37,4166.67,Federal Income taxes for Self
 2027/09,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/10,Withdraw,IRA,4415.67,965843.3,Cover monthly taxes & living expenses
-2027/10,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/10,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/10,Withdraw,IRA,4397.03,966031.03,Cover monthly taxes & living expenses
+2027/10,Deposit,Savings,4397.03,4397.03,Cover monthly taxes & living expenses
+2027/10,Payment,Savings,230.36,4166.67,Federal Income taxes for Self
 2027/10,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/11,Withdraw,IRA,4415.67,961427.63,Cover monthly taxes & living expenses
-2027/11,Deposit,Savings,4415.67,4415.67,Cover monthly taxes & living expenses
-2027/11,Payment,Savings,249.0,4166.67,Federal Income taxes for Self
+2027/11,Withdraw,IRA,4397.03,961634.0,Cover monthly taxes & living expenses
+2027/11,Deposit,Savings,4397.03,4397.03,Cover monthly taxes & living expenses
+2027/11,Payment,Savings,230.36,4166.67,Federal Income taxes for Self
 2027/11,Payment,Savings,4166.67,0.0,Monthly living expenses
-2027/12,Withdraw,IRA,4415.63,957012.0,Cover monthly taxes & living expenses
-2027/12,Deposit,Savings,4415.63,4415.63,Cover monthly taxes & living expenses
-2027/12,Payment,Savings,249.0,4166.63,Federal Income taxes for Self
+2027/12,Withdraw,IRA,4396.0,957238.0,Cover monthly taxes & living expenses
+2027/12,Deposit,Savings,4396.0,4396.0,Cover monthly taxes & living expenses
+2027/12,Payment,Savings,229.37,4166.63,Federal Income taxes for Self
 2027/12,Payment,Savings,4166.63,0.0,Monthly living expenses
 2027/00,AccountInfo,Savings,,0.0,Account balance
 2027/00,AccountInfo,Brokerage,,0.0,Account balance
-2027/00,AccountInfo,IRA,,957012.0,Account balance
+2027/00,AccountInfo,IRA,,957238.0,Account balance
 2027/00,AccountInfo,Roth,,20000.0,Account balance
 2027/00,TaxInfo,FICA,,0.0,FICA Tax
 2027/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2027/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2027/00,TaxInfo,CapGins,,7500.01,Capital Gains Income
-2027/00,TaxInfo,AGI,,50488.01,Adjusted Gross Income
-2027/00,TaxInfo,FederalTax,,2989.0,Federal income tax
+2027/00,TaxInfo,AGI,,50262.01,Adjusted Gross Income
+2027/00,TaxInfo,FederalTax,,2763.0,Federal income tax
 2027/00,TaxInfo,StateTax,,0.0,State income tax
 2027/00,TaxInfo,LocalTax,,0.0,Local income tax
-2028/01,Withdraw,IRA,4529.25,952482.75,Cover monthly taxes & living expenses
-2028/01,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2028/01,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2028/01,Withdraw,IRA,4510.5,952727.5,Cover monthly taxes & living expenses
+2028/01,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/01,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/01,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/02,Withdraw,IRA,4529.25,947953.5,Cover monthly taxes & living expenses
-2028/02,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2028/02,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2028/02,Withdraw,IRA,4510.5,948217.0,Cover monthly taxes & living expenses
+2028/02,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/02,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/02,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/03,Withdraw,IRA,4529.25,943424.25,Cover monthly taxes & living expenses
-2028/03,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2028/03,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2028/03,Withdraw,IRA,4510.5,943706.5,Cover monthly taxes & living expenses
+2028/03,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/03,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/03,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/04,Withdraw,IRA,4529.25,938895.0,Cover monthly taxes & living expenses
-2028/04,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2028/04,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2028/04,Withdraw,IRA,4510.5,939196.0,Cover monthly taxes & living expenses
+2028/04,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/04,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/04,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/05,Withdraw,IRA,4529.25,934365.75,Cover monthly taxes & living expenses
-2028/05,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2028/05,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2028/05,Withdraw,IRA,4510.5,934685.5,Cover monthly taxes & living expenses
+2028/05,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/05,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/05,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/06,Withdraw,IRA,4529.4,929836.35,Cover monthly taxes & living expenses
-2028/06,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2028/06,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2028/06,Withdraw,IRA,4510.5,930175.0,Cover monthly taxes & living expenses
+2028/06,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/06,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/06,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/07,Withdraw,IRA,4529.4,925306.95,Cover monthly taxes & living expenses
-2028/07,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2028/07,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2028/07,Withdraw,IRA,4510.5,925664.5,Cover monthly taxes & living expenses
+2028/07,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/07,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/07,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/08,Withdraw,IRA,4529.4,920777.55,Cover monthly taxes & living expenses
-2028/08,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2028/08,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2028/08,Withdraw,IRA,4510.5,921154.0,Cover monthly taxes & living expenses
+2028/08,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/08,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/08,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/09,Withdraw,IRA,4529.4,916248.15,Cover monthly taxes & living expenses
-2028/09,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2028/09,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2028/09,Withdraw,IRA,4510.5,916643.5,Cover monthly taxes & living expenses
+2028/09,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/09,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/09,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/10,Withdraw,IRA,4529.4,911718.75,Cover monthly taxes & living expenses
-2028/10,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2028/10,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2028/10,Withdraw,IRA,4510.5,912133.0,Cover monthly taxes & living expenses
+2028/10,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2028/10,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2028/10,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/11,Withdraw,IRA,4529.4,907189.35,Cover monthly taxes & living expenses
-2028/11,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2028/11,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2028/11,Withdraw,IRA,4511.02,907621.98,Cover monthly taxes & living expenses
+2028/11,Deposit,Savings,4511.02,4511.02,Cover monthly taxes & living expenses
+2028/11,Payment,Savings,344.35,4166.67,Federal Income taxes for Self
 2028/11,Payment,Savings,4166.67,0.0,Monthly living expenses
-2028/12,Withdraw,IRA,4528.35,902661.0,Cover monthly taxes & living expenses
-2028/12,Deposit,Savings,4528.35,4528.35,Cover monthly taxes & living expenses
-2028/12,Payment,Savings,361.72,4166.63,Federal Income taxes for Self
+2028/12,Withdraw,IRA,4509.98,903112.0,Cover monthly taxes & living expenses
+2028/12,Deposit,Savings,4509.98,4509.98,Cover monthly taxes & living expenses
+2028/12,Payment,Savings,343.35,4166.63,Federal Income taxes for Self
 2028/12,Payment,Savings,4166.63,0.0,Monthly living expenses
 2028/00,AccountInfo,Savings,,0.0,Account balance
 2028/00,AccountInfo,Brokerage,,0.0,Account balance
-2028/00,AccountInfo,IRA,,902661.0,Account balance
+2028/00,AccountInfo,IRA,,903112.0,Account balance
 2028/00,AccountInfo,Roth,,20000.0,Account balance
 2028/00,TaxInfo,FICA,,0.0,FICA Tax
 2028/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2028/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2028/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2028/00,TaxInfo,AGI,,54351.0,Adjusted Gross Income
-2028/00,TaxInfo,FederalTax,,4352.0,Federal income tax
+2028/00,TaxInfo,AGI,,54126.0,Adjusted Gross Income
+2028/00,TaxInfo,FederalTax,,4127.0,Federal income tax
 2028/00,TaxInfo,StateTax,,0.0,State income tax
 2028/00,TaxInfo,LocalTax,,0.0,Local income tax
-2029/01,Withdraw,IRA,4529.25,898131.75,Cover monthly taxes & living expenses
-2029/01,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2029/01,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2029/01,Withdraw,IRA,4510.5,898601.5,Cover monthly taxes & living expenses
+2029/01,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/01,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/01,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/02,Withdraw,IRA,4529.25,893602.5,Cover monthly taxes & living expenses
-2029/02,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2029/02,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2029/02,Withdraw,IRA,4510.5,894091.0,Cover monthly taxes & living expenses
+2029/02,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/02,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/02,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/03,Withdraw,IRA,4529.25,889073.25,Cover monthly taxes & living expenses
-2029/03,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2029/03,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2029/03,Withdraw,IRA,4510.5,889580.5,Cover monthly taxes & living expenses
+2029/03,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/03,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/03,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/04,Withdraw,IRA,4529.25,884544.0,Cover monthly taxes & living expenses
-2029/04,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2029/04,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2029/04,Withdraw,IRA,4510.5,885070.0,Cover monthly taxes & living expenses
+2029/04,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/04,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/04,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/05,Withdraw,IRA,4529.25,880014.75,Cover monthly taxes & living expenses
-2029/05,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2029/05,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2029/05,Withdraw,IRA,4510.5,880559.5,Cover monthly taxes & living expenses
+2029/05,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/05,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/05,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/06,Withdraw,IRA,4529.4,875485.35,Cover monthly taxes & living expenses
-2029/06,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2029/06,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2029/06,Withdraw,IRA,4510.5,876049.0,Cover monthly taxes & living expenses
+2029/06,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/06,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/06,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/07,Withdraw,IRA,4529.4,870955.95,Cover monthly taxes & living expenses
-2029/07,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2029/07,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2029/07,Withdraw,IRA,4510.5,871538.5,Cover monthly taxes & living expenses
+2029/07,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/07,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/07,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/08,Withdraw,IRA,4529.4,866426.55,Cover monthly taxes & living expenses
-2029/08,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2029/08,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2029/08,Withdraw,IRA,4510.5,867028.0,Cover monthly taxes & living expenses
+2029/08,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/08,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/08,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/09,Withdraw,IRA,4529.4,861897.15,Cover monthly taxes & living expenses
-2029/09,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2029/09,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2029/09,Withdraw,IRA,4510.5,862517.5,Cover monthly taxes & living expenses
+2029/09,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/09,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/09,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/10,Withdraw,IRA,4529.4,857367.75,Cover monthly taxes & living expenses
-2029/10,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2029/10,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2029/10,Withdraw,IRA,4510.5,858007.0,Cover monthly taxes & living expenses
+2029/10,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2029/10,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2029/10,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/11,Withdraw,IRA,4529.4,852838.35,Cover monthly taxes & living expenses
-2029/11,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2029/11,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2029/11,Withdraw,IRA,4511.02,853495.98,Cover monthly taxes & living expenses
+2029/11,Deposit,Savings,4511.02,4511.02,Cover monthly taxes & living expenses
+2029/11,Payment,Savings,344.35,4166.67,Federal Income taxes for Self
 2029/11,Payment,Savings,4166.67,0.0,Monthly living expenses
-2029/12,Withdraw,IRA,4528.35,848310.0,Cover monthly taxes & living expenses
-2029/12,Deposit,Savings,4528.35,4528.35,Cover monthly taxes & living expenses
-2029/12,Payment,Savings,361.72,4166.63,Federal Income taxes for Self
+2029/12,Withdraw,IRA,4509.98,848986.0,Cover monthly taxes & living expenses
+2029/12,Deposit,Savings,4509.98,4509.98,Cover monthly taxes & living expenses
+2029/12,Payment,Savings,343.35,4166.63,Federal Income taxes for Self
 2029/12,Payment,Savings,4166.63,0.0,Monthly living expenses
 2029/00,AccountInfo,Savings,,0.0,Account balance
 2029/00,AccountInfo,Brokerage,,0.0,Account balance
-2029/00,AccountInfo,IRA,,848310.0,Account balance
+2029/00,AccountInfo,IRA,,848986.0,Account balance
 2029/00,AccountInfo,Roth,,20000.0,Account balance
 2029/00,TaxInfo,FICA,,0.0,FICA Tax
 2029/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2029/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2029/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2029/00,TaxInfo,AGI,,54351.0,Adjusted Gross Income
-2029/00,TaxInfo,FederalTax,,4352.0,Federal income tax
+2029/00,TaxInfo,AGI,,54126.0,Adjusted Gross Income
+2029/00,TaxInfo,FederalTax,,4127.0,Federal income tax
 2029/00,TaxInfo,StateTax,,0.0,State income tax
 2029/00,TaxInfo,LocalTax,,0.0,Local income tax
-2030/01,Withdraw,IRA,4529.25,843780.75,Cover monthly taxes & living expenses
-2030/01,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2030/01,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2030/01,Withdraw,IRA,4510.5,844475.5,Cover monthly taxes & living expenses
+2030/01,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/01,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/01,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/02,Withdraw,IRA,4529.25,839251.5,Cover monthly taxes & living expenses
-2030/02,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2030/02,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2030/02,Withdraw,IRA,4510.5,839965.0,Cover monthly taxes & living expenses
+2030/02,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/02,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/02,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/03,Withdraw,IRA,4529.25,834722.25,Cover monthly taxes & living expenses
-2030/03,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2030/03,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2030/03,Withdraw,IRA,4510.5,835454.5,Cover monthly taxes & living expenses
+2030/03,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/03,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/03,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/04,Withdraw,IRA,4529.25,830193.0,Cover monthly taxes & living expenses
-2030/04,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2030/04,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2030/04,Withdraw,IRA,4510.5,830944.0,Cover monthly taxes & living expenses
+2030/04,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/04,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/04,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/05,Withdraw,IRA,4529.25,825663.75,Cover monthly taxes & living expenses
-2030/05,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2030/05,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2030/05,Withdraw,IRA,4510.5,826433.5,Cover monthly taxes & living expenses
+2030/05,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/05,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/05,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/06,Withdraw,IRA,4529.4,821134.35,Cover monthly taxes & living expenses
-2030/06,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2030/06,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2030/06,Withdraw,IRA,4510.5,821923.0,Cover monthly taxes & living expenses
+2030/06,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/06,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/06,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/07,Withdraw,IRA,4529.4,816604.95,Cover monthly taxes & living expenses
-2030/07,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2030/07,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2030/07,Withdraw,IRA,4510.5,817412.5,Cover monthly taxes & living expenses
+2030/07,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/07,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/07,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/08,Withdraw,IRA,4529.4,812075.55,Cover monthly taxes & living expenses
-2030/08,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2030/08,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2030/08,Withdraw,IRA,4510.5,812902.0,Cover monthly taxes & living expenses
+2030/08,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/08,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/08,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/09,Withdraw,IRA,4529.4,807546.15,Cover monthly taxes & living expenses
-2030/09,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2030/09,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2030/09,Withdraw,IRA,4510.5,808391.5,Cover monthly taxes & living expenses
+2030/09,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/09,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/09,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/10,Withdraw,IRA,4529.4,803016.75,Cover monthly taxes & living expenses
-2030/10,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2030/10,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2030/10,Withdraw,IRA,4510.5,803881.0,Cover monthly taxes & living expenses
+2030/10,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2030/10,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2030/10,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/11,Withdraw,IRA,4529.4,798487.35,Cover monthly taxes & living expenses
-2030/11,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2030/11,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2030/11,Withdraw,IRA,4511.02,799369.98,Cover monthly taxes & living expenses
+2030/11,Deposit,Savings,4511.02,4511.02,Cover monthly taxes & living expenses
+2030/11,Payment,Savings,344.35,4166.67,Federal Income taxes for Self
 2030/11,Payment,Savings,4166.67,0.0,Monthly living expenses
-2030/12,Withdraw,IRA,4528.35,793959.0,Cover monthly taxes & living expenses
-2030/12,Deposit,Savings,4528.35,4528.35,Cover monthly taxes & living expenses
-2030/12,Payment,Savings,361.72,4166.63,Federal Income taxes for Self
+2030/12,Withdraw,IRA,4509.98,794860.0,Cover monthly taxes & living expenses
+2030/12,Deposit,Savings,4509.98,4509.98,Cover monthly taxes & living expenses
+2030/12,Payment,Savings,343.35,4166.63,Federal Income taxes for Self
 2030/12,Payment,Savings,4166.63,0.0,Monthly living expenses
 2030/00,AccountInfo,Savings,,0.0,Account balance
 2030/00,AccountInfo,Brokerage,,0.0,Account balance
-2030/00,AccountInfo,IRA,,793959.0,Account balance
+2030/00,AccountInfo,IRA,,794860.0,Account balance
 2030/00,AccountInfo,Roth,,20000.0,Account balance
 2030/00,TaxInfo,FICA,,0.0,FICA Tax
 2030/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2030/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2030/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2030/00,TaxInfo,AGI,,54351.0,Adjusted Gross Income
-2030/00,TaxInfo,FederalTax,,4352.0,Federal income tax
+2030/00,TaxInfo,AGI,,54126.0,Adjusted Gross Income
+2030/00,TaxInfo,FederalTax,,4127.0,Federal income tax
 2030/00,TaxInfo,StateTax,,0.0,State income tax
 2030/00,TaxInfo,LocalTax,,0.0,Local income tax
-2031/01,Withdraw,IRA,4529.25,789429.75,Cover monthly taxes & living expenses
-2031/01,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2031/01,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2031/01,Withdraw,IRA,4510.5,790349.5,Cover monthly taxes & living expenses
+2031/01,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/01,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/01,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/02,Withdraw,IRA,4529.25,784900.5,Cover monthly taxes & living expenses
-2031/02,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2031/02,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2031/02,Withdraw,IRA,4510.5,785839.0,Cover monthly taxes & living expenses
+2031/02,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/02,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/02,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/03,Withdraw,IRA,4529.25,780371.25,Cover monthly taxes & living expenses
-2031/03,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2031/03,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2031/03,Withdraw,IRA,4510.5,781328.5,Cover monthly taxes & living expenses
+2031/03,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/03,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/03,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/04,Withdraw,IRA,4529.25,775842.0,Cover monthly taxes & living expenses
-2031/04,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2031/04,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2031/04,Withdraw,IRA,4510.5,776818.0,Cover monthly taxes & living expenses
+2031/04,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/04,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/04,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/05,Withdraw,IRA,4529.25,771312.75,Cover monthly taxes & living expenses
-2031/05,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2031/05,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2031/05,Withdraw,IRA,4510.5,772307.5,Cover monthly taxes & living expenses
+2031/05,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/05,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/05,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/06,Withdraw,IRA,4529.4,766783.35,Cover monthly taxes & living expenses
-2031/06,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2031/06,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2031/06,Withdraw,IRA,4510.5,767797.0,Cover monthly taxes & living expenses
+2031/06,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/06,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/06,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/07,Withdraw,IRA,4529.4,762253.95,Cover monthly taxes & living expenses
-2031/07,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2031/07,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2031/07,Withdraw,IRA,4510.5,763286.5,Cover monthly taxes & living expenses
+2031/07,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/07,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/07,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/08,Withdraw,IRA,4529.4,757724.55,Cover monthly taxes & living expenses
-2031/08,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2031/08,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2031/08,Withdraw,IRA,4510.5,758776.0,Cover monthly taxes & living expenses
+2031/08,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/08,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/08,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/09,Withdraw,IRA,4529.4,753195.15,Cover monthly taxes & living expenses
-2031/09,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2031/09,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2031/09,Withdraw,IRA,4510.5,754265.5,Cover monthly taxes & living expenses
+2031/09,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/09,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/09,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/10,Withdraw,IRA,4529.4,748665.75,Cover monthly taxes & living expenses
-2031/10,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2031/10,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2031/10,Withdraw,IRA,4510.5,749755.0,Cover monthly taxes & living expenses
+2031/10,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2031/10,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2031/10,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/11,Withdraw,IRA,4529.4,744136.35,Cover monthly taxes & living expenses
-2031/11,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2031/11,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2031/11,Withdraw,IRA,4511.02,745243.98,Cover monthly taxes & living expenses
+2031/11,Deposit,Savings,4511.02,4511.02,Cover monthly taxes & living expenses
+2031/11,Payment,Savings,344.35,4166.67,Federal Income taxes for Self
 2031/11,Payment,Savings,4166.67,0.0,Monthly living expenses
-2031/12,Withdraw,IRA,4528.35,739608.0,Cover monthly taxes & living expenses
-2031/12,Deposit,Savings,4528.35,4528.35,Cover monthly taxes & living expenses
-2031/12,Payment,Savings,361.72,4166.63,Federal Income taxes for Self
+2031/12,Withdraw,IRA,4509.98,740734.0,Cover monthly taxes & living expenses
+2031/12,Deposit,Savings,4509.98,4509.98,Cover monthly taxes & living expenses
+2031/12,Payment,Savings,343.35,4166.63,Federal Income taxes for Self
 2031/12,Payment,Savings,4166.63,0.0,Monthly living expenses
 2031/00,AccountInfo,Savings,,0.0,Account balance
 2031/00,AccountInfo,Brokerage,,0.0,Account balance
-2031/00,AccountInfo,IRA,,739608.0,Account balance
+2031/00,AccountInfo,IRA,,740734.0,Account balance
 2031/00,AccountInfo,Roth,,20000.0,Account balance
 2031/00,TaxInfo,FICA,,0.0,FICA Tax
 2031/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2031/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2031/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2031/00,TaxInfo,AGI,,54351.0,Adjusted Gross Income
-2031/00,TaxInfo,FederalTax,,4352.0,Federal income tax
+2031/00,TaxInfo,AGI,,54126.0,Adjusted Gross Income
+2031/00,TaxInfo,FederalTax,,4127.0,Federal income tax
 2031/00,TaxInfo,StateTax,,0.0,State income tax
 2031/00,TaxInfo,LocalTax,,0.0,Local income tax
-2032/01,Withdraw,IRA,4529.25,735078.75,Cover monthly taxes & living expenses
-2032/01,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2032/01,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2032/01,Withdraw,IRA,4510.5,736223.5,Cover monthly taxes & living expenses
+2032/01,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/01,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/01,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/02,Withdraw,IRA,4529.25,730549.5,Cover monthly taxes & living expenses
-2032/02,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2032/02,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2032/02,Withdraw,IRA,4510.5,731713.0,Cover monthly taxes & living expenses
+2032/02,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/02,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/02,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/03,Withdraw,IRA,4529.25,726020.25,Cover monthly taxes & living expenses
-2032/03,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2032/03,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2032/03,Withdraw,IRA,4510.5,727202.5,Cover monthly taxes & living expenses
+2032/03,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/03,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/03,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/04,Withdraw,IRA,4529.25,721491.0,Cover monthly taxes & living expenses
-2032/04,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2032/04,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2032/04,Withdraw,IRA,4510.5,722692.0,Cover monthly taxes & living expenses
+2032/04,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/04,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/04,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/05,Withdraw,IRA,4529.25,716961.75,Cover monthly taxes & living expenses
-2032/05,Deposit,Savings,4529.25,4529.25,Cover monthly taxes & living expenses
-2032/05,Payment,Savings,362.58,4166.67,Federal Income taxes for Self
+2032/05,Withdraw,IRA,4510.5,718181.5,Cover monthly taxes & living expenses
+2032/05,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/05,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/05,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/06,Withdraw,IRA,4529.4,712432.35,Cover monthly taxes & living expenses
-2032/06,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2032/06,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2032/06,Withdraw,IRA,4510.5,713671.0,Cover monthly taxes & living expenses
+2032/06,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/06,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/06,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/07,Withdraw,IRA,4529.4,707902.95,Cover monthly taxes & living expenses
-2032/07,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2032/07,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2032/07,Withdraw,IRA,4510.5,709160.5,Cover monthly taxes & living expenses
+2032/07,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/07,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/07,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/08,Withdraw,IRA,4529.4,703373.55,Cover monthly taxes & living expenses
-2032/08,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2032/08,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2032/08,Withdraw,IRA,4510.5,704650.0,Cover monthly taxes & living expenses
+2032/08,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/08,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/08,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/09,Withdraw,IRA,4529.4,698844.15,Cover monthly taxes & living expenses
-2032/09,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2032/09,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2032/09,Withdraw,IRA,4510.5,700139.5,Cover monthly taxes & living expenses
+2032/09,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/09,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/09,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/10,Withdraw,IRA,4529.4,694314.75,Cover monthly taxes & living expenses
-2032/10,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2032/10,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2032/10,Withdraw,IRA,4510.5,695629.0,Cover monthly taxes & living expenses
+2032/10,Deposit,Savings,4510.5,4510.5,Cover monthly taxes & living expenses
+2032/10,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2032/10,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/11,Withdraw,IRA,4529.4,689785.35,Cover monthly taxes & living expenses
-2032/11,Deposit,Savings,4529.4,4529.4,Cover monthly taxes & living expenses
-2032/11,Payment,Savings,362.73,4166.67,Federal Income taxes for Self
+2032/11,Withdraw,IRA,4511.02,691117.98,Cover monthly taxes & living expenses
+2032/11,Deposit,Savings,4511.02,4511.02,Cover monthly taxes & living expenses
+2032/11,Payment,Savings,344.35,4166.67,Federal Income taxes for Self
 2032/11,Payment,Savings,4166.67,0.0,Monthly living expenses
-2032/12,Withdraw,IRA,4528.35,685257.0,Cover monthly taxes & living expenses
-2032/12,Deposit,Savings,4528.35,4528.35,Cover monthly taxes & living expenses
-2032/12,Payment,Savings,361.72,4166.63,Federal Income taxes for Self
+2032/12,Withdraw,IRA,4509.98,686608.0,Cover monthly taxes & living expenses
+2032/12,Deposit,Savings,4509.98,4509.98,Cover monthly taxes & living expenses
+2032/12,Payment,Savings,343.35,4166.63,Federal Income taxes for Self
 2032/12,Payment,Savings,4166.63,0.0,Monthly living expenses
 2032/00,AccountInfo,Savings,,0.0,Account balance
 2032/00,AccountInfo,Brokerage,,0.0,Account balance
-2032/00,AccountInfo,IRA,,685257.0,Account balance
+2032/00,AccountInfo,IRA,,686608.0,Account balance
 2032/00,AccountInfo,Roth,,20000.0,Account balance
 2032/00,TaxInfo,FICA,,0.0,FICA Tax
 2032/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2032/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2032/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2032/00,TaxInfo,AGI,,54351.0,Adjusted Gross Income
-2032/00,TaxInfo,FederalTax,,4352.0,Federal income tax
+2032/00,TaxInfo,AGI,,54126.0,Adjusted Gross Income
+2032/00,TaxInfo,FederalTax,,4127.0,Federal income tax
 2032/00,TaxInfo,StateTax,,0.0,State income tax
 2032/00,TaxInfo,LocalTax,,0.0,Local income tax
-2033/01,Withdraw,IRA,2154.9,683102.1,RMD Withdraw
-2033/01,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/01,Withdraw,IRA,2374.44,680727.66,Cover monthly taxes & living expenses
-2033/01,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/01,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/01,Withdraw,IRA,2159.15,684448.85,RMD Withdraw
+2033/01,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/01,Withdraw,IRA,2351.35,682097.5,Cover monthly taxes & living expenses
+2033/01,Deposit,Savings,2351.35,4510.5,Cover monthly taxes & living expenses
+2033/01,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2033/01,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/02,Withdraw,IRA,2154.9,678572.76,RMD Withdraw
-2033/02,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/02,Withdraw,IRA,2374.44,676198.32,Cover monthly taxes & living expenses
-2033/02,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/02,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/02,Withdraw,IRA,2159.15,679938.35,RMD Withdraw
+2033/02,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/02,Withdraw,IRA,2351.35,677587.0,Cover monthly taxes & living expenses
+2033/02,Deposit,Savings,2351.35,4510.5,Cover monthly taxes & living expenses
+2033/02,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2033/02,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/03,Withdraw,IRA,2154.9,674043.42,RMD Withdraw
-2033/03,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/03,Withdraw,IRA,2374.44,671668.98,Cover monthly taxes & living expenses
-2033/03,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/03,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/03,Withdraw,IRA,2159.15,675427.85,RMD Withdraw
+2033/03,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/03,Withdraw,IRA,2351.35,673076.5,Cover monthly taxes & living expenses
+2033/03,Deposit,Savings,2351.35,4510.5,Cover monthly taxes & living expenses
+2033/03,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2033/03,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/04,Withdraw,IRA,2154.9,669514.08,RMD Withdraw
-2033/04,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/04,Withdraw,IRA,2374.44,667139.64,Cover monthly taxes & living expenses
-2033/04,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/04,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/04,Withdraw,IRA,2159.15,670917.35,RMD Withdraw
+2033/04,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/04,Withdraw,IRA,2351.35,668566.0,Cover monthly taxes & living expenses
+2033/04,Deposit,Savings,2351.35,4510.5,Cover monthly taxes & living expenses
+2033/04,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2033/04,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/05,Withdraw,IRA,2154.9,664984.74,RMD Withdraw
-2033/05,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/05,Withdraw,IRA,2374.44,662610.3,Cover monthly taxes & living expenses
-2033/05,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/05,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/05,Withdraw,IRA,2159.15,666406.85,RMD Withdraw
+2033/05,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/05,Withdraw,IRA,2351.35,664055.5,Cover monthly taxes & living expenses
+2033/05,Deposit,Savings,2351.35,4510.5,Cover monthly taxes & living expenses
+2033/05,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2033/05,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/06,Withdraw,IRA,2154.9,660455.4,RMD Withdraw
-2033/06,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/06,Withdraw,IRA,2374.44,658080.96,Cover monthly taxes & living expenses
-2033/06,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/06,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/06,Withdraw,IRA,2159.15,661896.35,RMD Withdraw
+2033/06,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/06,Withdraw,IRA,2351.35,659545.0,Cover monthly taxes & living expenses
+2033/06,Deposit,Savings,2351.35,4510.5,Cover monthly taxes & living expenses
+2033/06,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2033/06,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/07,Withdraw,IRA,2154.9,655926.06,RMD Withdraw
-2033/07,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/07,Withdraw,IRA,2374.44,653551.62,Cover monthly taxes & living expenses
-2033/07,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/07,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/07,Withdraw,IRA,2159.15,657385.85,RMD Withdraw
+2033/07,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/07,Withdraw,IRA,2351.35,655034.5,Cover monthly taxes & living expenses
+2033/07,Deposit,Savings,2351.35,4510.5,Cover monthly taxes & living expenses
+2033/07,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2033/07,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/08,Withdraw,IRA,2154.9,651396.72,RMD Withdraw
-2033/08,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/08,Withdraw,IRA,2374.44,649022.28,Cover monthly taxes & living expenses
-2033/08,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/08,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/08,Withdraw,IRA,2159.15,652875.35,RMD Withdraw
+2033/08,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/08,Withdraw,IRA,2351.35,650524.0,Cover monthly taxes & living expenses
+2033/08,Deposit,Savings,2351.35,4510.5,Cover monthly taxes & living expenses
+2033/08,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2033/08,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/09,Withdraw,IRA,2154.9,646867.38,RMD Withdraw
-2033/09,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/09,Withdraw,IRA,2374.44,644492.94,Cover monthly taxes & living expenses
-2033/09,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/09,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/09,Withdraw,IRA,2159.15,648364.85,RMD Withdraw
+2033/09,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/09,Withdraw,IRA,2351.61,646013.24,Cover monthly taxes & living expenses
+2033/09,Deposit,Savings,2351.61,4510.76,Cover monthly taxes & living expenses
+2033/09,Payment,Savings,344.09,4166.67,Federal Income taxes for Self
 2033/09,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/10,Withdraw,IRA,2154.9,642338.04,RMD Withdraw
-2033/10,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/10,Withdraw,IRA,2374.44,639963.6,Cover monthly taxes & living expenses
-2033/10,Deposit,Savings,2374.44,4529.34,Cover monthly taxes & living expenses
-2033/10,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2033/10,Withdraw,IRA,2159.15,643854.09,RMD Withdraw
+2033/10,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/10,Withdraw,IRA,2350.94,641503.15,Cover monthly taxes & living expenses
+2033/10,Deposit,Savings,2350.94,4510.09,Cover monthly taxes & living expenses
+2033/10,Payment,Savings,343.42,4166.67,Federal Income taxes for Self
 2033/10,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/11,Withdraw,IRA,2154.9,637808.7,RMD Withdraw
-2033/11,Deposit,Savings,2154.9,2154.9,RMD fully allocated into savings for monthly expenses
-2033/11,Withdraw,IRA,2373.92,635434.78,Cover monthly taxes & living expenses
-2033/11,Deposit,Savings,2373.92,4528.82,Cover monthly taxes & living expenses
-2033/11,Payment,Savings,362.15,4166.67,Federal Income taxes for Self
+2033/11,Withdraw,IRA,2159.15,639344.0,RMD Withdraw
+2033/11,Deposit,Savings,2159.15,2159.15,RMD fully allocated into savings for monthly expenses
+2033/11,Withdraw,IRA,2351.44,636992.56,Cover monthly taxes & living expenses
+2033/11,Deposit,Savings,2351.44,4510.59,Cover monthly taxes & living expenses
+2033/11,Payment,Savings,343.92,4166.67,Federal Income taxes for Self
 2033/11,Payment,Savings,4166.67,0.0,Monthly living expenses
-2033/12,Withdraw,IRA,2154.85,633279.93,RMD Withdraw
-2033/12,Deposit,Savings,2154.85,2154.85,RMD fully allocated into savings for monthly expenses
-2033/12,Withdraw,IRA,2374.93,630905.0,Cover monthly taxes & living expenses
-2033/12,Deposit,Savings,2374.93,4529.78,Cover monthly taxes & living expenses
-2033/12,Payment,Savings,363.15,4166.63,Federal Income taxes for Self
+2033/12,Withdraw,IRA,2159.09,634833.47,RMD Withdraw
+2033/12,Deposit,Savings,2159.09,2159.09,RMD fully allocated into savings for monthly expenses
+2033/12,Withdraw,IRA,2351.47,632482.0,Cover monthly taxes & living expenses
+2033/12,Deposit,Savings,2351.47,4510.56,Cover monthly taxes & living expenses
+2033/12,Payment,Savings,343.93,4166.63,Federal Income taxes for Self
 2033/12,Payment,Savings,4166.63,0.0,Monthly living expenses
 2033/00,AccountInfo,Savings,,0.0,Account balance
 2033/00,AccountInfo,Brokerage,,0.0,Account balance
-2033/00,AccountInfo,IRA,,630905.0,Account balance
+2033/00,AccountInfo,IRA,,632482.0,Account balance
 2033/00,AccountInfo,Roth,,20000.0,Account balance
 2033/00,TaxInfo,FICA,,0.0,FICA Tax
 2033/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2033/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2033/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2033/00,TaxInfo,AGI,,54352.0,Adjusted Gross Income
-2033/00,TaxInfo,FederalTax,,4352.0,Federal income tax
+2033/00,TaxInfo,AGI,,54126.0,Adjusted Gross Income
+2033/00,TaxInfo,FederalTax,,4127.0,Federal income tax
 2033/00,TaxInfo,StateTax,,0.0,State income tax
 2033/00,TaxInfo,LocalTax,,0.0,Local income tax
-2034/01,Withdraw,IRA,2061.78,628843.22,RMD Withdraw
-2034/01,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/01,Withdraw,IRA,2467.56,626375.66,Cover monthly taxes & living expenses
-2034/01,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/01,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/01,Withdraw,IRA,2066.94,630415.06,RMD Withdraw
+2034/01,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/01,Withdraw,IRA,2443.56,627971.5,Cover monthly taxes & living expenses
+2034/01,Deposit,Savings,2443.56,4510.5,Cover monthly taxes & living expenses
+2034/01,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2034/01,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/02,Withdraw,IRA,2061.78,624313.88,RMD Withdraw
-2034/02,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/02,Withdraw,IRA,2467.56,621846.32,Cover monthly taxes & living expenses
-2034/02,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/02,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/02,Withdraw,IRA,2066.94,625904.56,RMD Withdraw
+2034/02,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/02,Withdraw,IRA,2443.56,623461.0,Cover monthly taxes & living expenses
+2034/02,Deposit,Savings,2443.56,4510.5,Cover monthly taxes & living expenses
+2034/02,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2034/02,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/03,Withdraw,IRA,2061.78,619784.54,RMD Withdraw
-2034/03,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/03,Withdraw,IRA,2467.56,617316.98,Cover monthly taxes & living expenses
-2034/03,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/03,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/03,Withdraw,IRA,2066.94,621394.06,RMD Withdraw
+2034/03,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/03,Withdraw,IRA,2443.56,618950.5,Cover monthly taxes & living expenses
+2034/03,Deposit,Savings,2443.56,4510.5,Cover monthly taxes & living expenses
+2034/03,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2034/03,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/04,Withdraw,IRA,2061.78,615255.2,RMD Withdraw
-2034/04,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/04,Withdraw,IRA,2467.56,612787.64,Cover monthly taxes & living expenses
-2034/04,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/04,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/04,Withdraw,IRA,2066.94,616883.56,RMD Withdraw
+2034/04,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/04,Withdraw,IRA,2443.56,614440.0,Cover monthly taxes & living expenses
+2034/04,Deposit,Savings,2443.56,4510.5,Cover monthly taxes & living expenses
+2034/04,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2034/04,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/05,Withdraw,IRA,2061.78,610725.86,RMD Withdraw
-2034/05,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/05,Withdraw,IRA,2467.56,608258.3,Cover monthly taxes & living expenses
-2034/05,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/05,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/05,Withdraw,IRA,2066.94,612373.06,RMD Withdraw
+2034/05,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/05,Withdraw,IRA,2443.56,609929.5,Cover monthly taxes & living expenses
+2034/05,Deposit,Savings,2443.56,4510.5,Cover monthly taxes & living expenses
+2034/05,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2034/05,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/06,Withdraw,IRA,2061.78,606196.52,RMD Withdraw
-2034/06,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/06,Withdraw,IRA,2467.56,603728.96,Cover monthly taxes & living expenses
-2034/06,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/06,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/06,Withdraw,IRA,2066.94,607862.56,RMD Withdraw
+2034/06,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/06,Withdraw,IRA,2443.56,605419.0,Cover monthly taxes & living expenses
+2034/06,Deposit,Savings,2443.56,4510.5,Cover monthly taxes & living expenses
+2034/06,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2034/06,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/07,Withdraw,IRA,2061.78,601667.18,RMD Withdraw
-2034/07,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/07,Withdraw,IRA,2467.56,599199.62,Cover monthly taxes & living expenses
-2034/07,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/07,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/07,Withdraw,IRA,2066.94,603352.06,RMD Withdraw
+2034/07,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/07,Withdraw,IRA,2443.56,600908.5,Cover monthly taxes & living expenses
+2034/07,Deposit,Savings,2443.56,4510.5,Cover monthly taxes & living expenses
+2034/07,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2034/07,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/08,Withdraw,IRA,2061.78,597137.84,RMD Withdraw
-2034/08,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/08,Withdraw,IRA,2467.56,594670.28,Cover monthly taxes & living expenses
-2034/08,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/08,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/08,Withdraw,IRA,2066.94,598841.56,RMD Withdraw
+2034/08,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/08,Withdraw,IRA,2443.56,596398.0,Cover monthly taxes & living expenses
+2034/08,Deposit,Savings,2443.56,4510.5,Cover monthly taxes & living expenses
+2034/08,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2034/08,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/09,Withdraw,IRA,2061.78,592608.5,RMD Withdraw
-2034/09,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/09,Withdraw,IRA,2467.56,590140.94,Cover monthly taxes & living expenses
-2034/09,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/09,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/09,Withdraw,IRA,2066.94,594331.06,RMD Withdraw
+2034/09,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/09,Withdraw,IRA,2443.82,591887.24,Cover monthly taxes & living expenses
+2034/09,Deposit,Savings,2443.82,4510.76,Cover monthly taxes & living expenses
+2034/09,Payment,Savings,344.09,4166.67,Federal Income taxes for Self
 2034/09,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/10,Withdraw,IRA,2061.78,588079.16,RMD Withdraw
-2034/10,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/10,Withdraw,IRA,2467.56,585611.6,Cover monthly taxes & living expenses
-2034/10,Deposit,Savings,2467.56,4529.34,Cover monthly taxes & living expenses
-2034/10,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2034/10,Withdraw,IRA,2066.94,589820.3,RMD Withdraw
+2034/10,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/10,Withdraw,IRA,2443.82,587376.48,Cover monthly taxes & living expenses
+2034/10,Deposit,Savings,2443.82,4510.76,Cover monthly taxes & living expenses
+2034/10,Payment,Savings,344.09,4166.67,Federal Income taxes for Self
 2034/10,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/11,Withdraw,IRA,2061.78,583549.82,RMD Withdraw
-2034/11,Deposit,Savings,2061.78,2061.78,RMD fully allocated into savings for monthly expenses
-2034/11,Withdraw,IRA,2467.04,581082.78,Cover monthly taxes & living expenses
-2034/11,Deposit,Savings,2467.04,4528.82,Cover monthly taxes & living expenses
-2034/11,Payment,Savings,362.15,4166.67,Federal Income taxes for Self
+2034/11,Withdraw,IRA,2066.94,585309.54,RMD Withdraw
+2034/11,Deposit,Savings,2066.94,2066.94,RMD fully allocated into savings for monthly expenses
+2034/11,Withdraw,IRA,2443.32,582866.22,Cover monthly taxes & living expenses
+2034/11,Deposit,Savings,2443.32,4510.26,Cover monthly taxes & living expenses
+2034/11,Payment,Savings,343.59,4166.67,Federal Income taxes for Self
 2034/11,Payment,Savings,4166.67,0.0,Monthly living expenses
-2034/12,Withdraw,IRA,2061.79,579020.99,RMD Withdraw
-2034/12,Deposit,Savings,2061.79,2061.79,RMD fully allocated into savings for monthly expenses
-2034/12,Withdraw,IRA,2467.99,576553.0,Cover monthly taxes & living expenses
-2034/12,Deposit,Savings,2467.99,4529.78,Cover monthly taxes & living expenses
-2034/12,Payment,Savings,363.15,4166.63,Federal Income taxes for Self
+2034/12,Withdraw,IRA,2066.88,580799.34,RMD Withdraw
+2034/12,Deposit,Savings,2066.88,2066.88,RMD fully allocated into savings for monthly expenses
+2034/12,Withdraw,IRA,2443.34,578356.0,Cover monthly taxes & living expenses
+2034/12,Deposit,Savings,2443.34,4510.22,Cover monthly taxes & living expenses
+2034/12,Payment,Savings,343.59,4166.63,Federal Income taxes for Self
 2034/12,Payment,Savings,4166.63,0.0,Monthly living expenses
 2034/00,AccountInfo,Savings,,0.0,Account balance
 2034/00,AccountInfo,Brokerage,,0.0,Account balance
-2034/00,AccountInfo,IRA,,576553.0,Account balance
+2034/00,AccountInfo,IRA,,578356.0,Account balance
 2034/00,AccountInfo,Roth,,20000.0,Account balance
 2034/00,TaxInfo,FICA,,0.0,FICA Tax
 2034/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2034/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2034/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2034/00,TaxInfo,AGI,,54352.0,Adjusted Gross Income
-2034/00,TaxInfo,FederalTax,,4352.0,Federal income tax
+2034/00,TaxInfo,AGI,,54126.0,Adjusted Gross Income
+2034/00,TaxInfo,FederalTax,,4127.0,Federal income tax
 2034/00,TaxInfo,StateTax,,0.0,State income tax
 2034/00,TaxInfo,LocalTax,,0.0,Local income tax
-2035/01,Withdraw,IRA,1953.09,574599.91,RMD Withdraw
-2035/01,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/01,Withdraw,IRA,2576.25,572023.66,Cover monthly taxes & living expenses
-2035/01,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/01,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/01,Withdraw,IRA,1959.2,576396.8,RMD Withdraw
+2035/01,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/01,Withdraw,IRA,2551.3,573845.5,Cover monthly taxes & living expenses
+2035/01,Deposit,Savings,2551.3,4510.5,Cover monthly taxes & living expenses
+2035/01,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2035/01,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/02,Withdraw,IRA,1953.09,570070.57,RMD Withdraw
-2035/02,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/02,Withdraw,IRA,2576.25,567494.32,Cover monthly taxes & living expenses
-2035/02,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/02,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/02,Withdraw,IRA,1959.2,571886.3,RMD Withdraw
+2035/02,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/02,Withdraw,IRA,2551.3,569335.0,Cover monthly taxes & living expenses
+2035/02,Deposit,Savings,2551.3,4510.5,Cover monthly taxes & living expenses
+2035/02,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2035/02,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/03,Withdraw,IRA,1953.09,565541.23,RMD Withdraw
-2035/03,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/03,Withdraw,IRA,2576.25,562964.98,Cover monthly taxes & living expenses
-2035/03,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/03,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/03,Withdraw,IRA,1959.2,567375.8,RMD Withdraw
+2035/03,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/03,Withdraw,IRA,2551.3,564824.5,Cover monthly taxes & living expenses
+2035/03,Deposit,Savings,2551.3,4510.5,Cover monthly taxes & living expenses
+2035/03,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2035/03,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/04,Withdraw,IRA,1953.09,561011.89,RMD Withdraw
-2035/04,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/04,Withdraw,IRA,2576.25,558435.64,Cover monthly taxes & living expenses
-2035/04,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/04,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/04,Withdraw,IRA,1959.2,562865.3,RMD Withdraw
+2035/04,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/04,Withdraw,IRA,2551.3,560314.0,Cover monthly taxes & living expenses
+2035/04,Deposit,Savings,2551.3,4510.5,Cover monthly taxes & living expenses
+2035/04,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2035/04,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/05,Withdraw,IRA,1953.09,556482.55,RMD Withdraw
-2035/05,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/05,Withdraw,IRA,2576.25,553906.3,Cover monthly taxes & living expenses
-2035/05,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/05,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/05,Withdraw,IRA,1959.2,558354.8,RMD Withdraw
+2035/05,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/05,Withdraw,IRA,2551.3,555803.5,Cover monthly taxes & living expenses
+2035/05,Deposit,Savings,2551.3,4510.5,Cover monthly taxes & living expenses
+2035/05,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2035/05,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/06,Withdraw,IRA,1953.09,551953.21,RMD Withdraw
-2035/06,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/06,Withdraw,IRA,2576.25,549376.96,Cover monthly taxes & living expenses
-2035/06,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/06,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/06,Withdraw,IRA,1959.2,553844.3,RMD Withdraw
+2035/06,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/06,Withdraw,IRA,2551.3,551293.0,Cover monthly taxes & living expenses
+2035/06,Deposit,Savings,2551.3,4510.5,Cover monthly taxes & living expenses
+2035/06,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2035/06,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/07,Withdraw,IRA,1953.09,547423.87,RMD Withdraw
-2035/07,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/07,Withdraw,IRA,2576.25,544847.62,Cover monthly taxes & living expenses
-2035/07,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/07,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/07,Withdraw,IRA,1959.2,549333.8,RMD Withdraw
+2035/07,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/07,Withdraw,IRA,2551.3,546782.5,Cover monthly taxes & living expenses
+2035/07,Deposit,Savings,2551.3,4510.5,Cover monthly taxes & living expenses
+2035/07,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2035/07,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/08,Withdraw,IRA,1953.09,542894.53,RMD Withdraw
-2035/08,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/08,Withdraw,IRA,2576.25,540318.28,Cover monthly taxes & living expenses
-2035/08,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/08,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/08,Withdraw,IRA,1959.2,544823.3,RMD Withdraw
+2035/08,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/08,Withdraw,IRA,2551.3,542272.0,Cover monthly taxes & living expenses
+2035/08,Deposit,Savings,2551.3,4510.5,Cover monthly taxes & living expenses
+2035/08,Payment,Savings,343.83,4166.67,Federal Income taxes for Self
 2035/08,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/09,Withdraw,IRA,1953.09,538365.19,RMD Withdraw
-2035/09,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/09,Withdraw,IRA,2576.25,535788.94,Cover monthly taxes & living expenses
-2035/09,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/09,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/09,Withdraw,IRA,1959.2,540312.8,RMD Withdraw
+2035/09,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/09,Withdraw,IRA,2551.56,537761.24,Cover monthly taxes & living expenses
+2035/09,Deposit,Savings,2551.56,4510.76,Cover monthly taxes & living expenses
+2035/09,Payment,Savings,344.09,4166.67,Federal Income taxes for Self
 2035/09,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/10,Withdraw,IRA,1953.09,533835.85,RMD Withdraw
-2035/10,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/10,Withdraw,IRA,2576.25,531259.6,Cover monthly taxes & living expenses
-2035/10,Deposit,Savings,2576.25,4529.34,Cover monthly taxes & living expenses
-2035/10,Payment,Savings,362.67,4166.67,Federal Income taxes for Self
+2035/10,Withdraw,IRA,1959.2,535802.04,RMD Withdraw
+2035/10,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/10,Withdraw,IRA,2551.56,533250.48,Cover monthly taxes & living expenses
+2035/10,Deposit,Savings,2551.56,4510.76,Cover monthly taxes & living expenses
+2035/10,Payment,Savings,344.09,4166.67,Federal Income taxes for Self
 2035/10,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/11,Withdraw,IRA,1953.09,529306.51,RMD Withdraw
-2035/11,Deposit,Savings,1953.09,1953.09,RMD fully allocated into savings for monthly expenses
-2035/11,Withdraw,IRA,2575.73,526730.78,Cover monthly taxes & living expenses
-2035/11,Deposit,Savings,2575.73,4528.82,Cover monthly taxes & living expenses
-2035/11,Payment,Savings,362.15,4166.67,Federal Income taxes for Self
+2035/11,Withdraw,IRA,1959.2,531291.28,RMD Withdraw
+2035/11,Deposit,Savings,1959.2,1959.2,RMD fully allocated into savings for monthly expenses
+2035/11,Withdraw,IRA,2551.06,528740.22,Cover monthly taxes & living expenses
+2035/11,Deposit,Savings,2551.06,4510.26,Cover monthly taxes & living expenses
+2035/11,Payment,Savings,343.59,4166.67,Federal Income taxes for Self
 2035/11,Payment,Savings,4166.67,0.0,Monthly living expenses
-2035/12,Withdraw,IRA,1953.12,524777.66,RMD Withdraw
-2035/12,Deposit,Savings,1953.12,1953.12,RMD fully allocated into savings for monthly expenses
-2035/12,Withdraw,IRA,2576.66,522201.0,Cover monthly taxes & living expenses
-2035/12,Deposit,Savings,2576.66,4529.78,Cover monthly taxes & living expenses
-2035/12,Payment,Savings,363.15,4166.63,Federal Income taxes for Self
+2035/12,Withdraw,IRA,1959.21,526781.01,RMD Withdraw
+2035/12,Deposit,Savings,1959.21,1959.21,RMD fully allocated into savings for monthly expenses
+2035/12,Withdraw,IRA,2551.01,524230.0,Cover monthly taxes & living expenses
+2035/12,Deposit,Savings,2551.01,4510.22,Cover monthly taxes & living expenses
+2035/12,Payment,Savings,343.59,4166.63,Federal Income taxes for Self
 2035/12,Payment,Savings,4166.63,0.0,Monthly living expenses
 2035/00,AccountInfo,Savings,,0.0,Account balance
 2035/00,AccountInfo,Brokerage,,0.0,Account balance
-2035/00,AccountInfo,IRA,,522201.0,Account balance
+2035/00,AccountInfo,IRA,,524230.0,Account balance
 2035/00,AccountInfo,Roth,,20000.0,Account balance
 2035/00,TaxInfo,FICA,,0.0,FICA Tax
 2035/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2035/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2035/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2035/00,TaxInfo,AGI,,54352.0,Adjusted Gross Income
-2035/00,TaxInfo,FederalTax,,4352.0,Federal income tax
+2035/00,TaxInfo,AGI,,54126.0,Adjusted Gross Income
+2035/00,TaxInfo,FederalTax,,4127.0,Federal income tax
 2035/00,TaxInfo,StateTax,,0.0,State income tax
 2035/00,TaxInfo,LocalTax,,0.0,Local income tax

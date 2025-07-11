@@ -90,7 +90,7 @@ void main() {
         interestIncome: 26450,
         regularIncome: 0,
         selfEmployment: 0,
-         expected: 29502
+        expected: 29502
       ),
       (
         ssIncome: 0,
@@ -277,7 +277,7 @@ void main() {
     // Execute the test cases
     runTestCases(settings, testCases);
   });
-  group("Federal Tax Test Cases for filingStatus: headOfHousehold, year: 2024",
+  group("Federal Tax Test Cases for filingStatus: headOfHousehold, year: 2023",
       () {
     // define the federal filing status settings
     final settings = TaxFilingSettings(
@@ -317,6 +317,66 @@ void main() {
       ),
     ];
     // Execute the test cases
+    runTestCases(settings, testCases);
+  });
+  group(
+      'Federal Tax Test Cases for filingStatus: marriedFilingJointly, year: 2025',
+      () {
+    // define the range of test cases
+    final List<TestCase> testCases = [
+      (
+        ssIncome: 0,
+        rmdIncome: 19900,
+        capGains: 0,
+        interestIncome: 26450,
+        regularIncome: 0,
+        selfEmployment: 0,
+        expected: 0.0
+      ),
+      (
+        ssIncome: 0,
+        rmdIncome: 125000,
+        capGains: 0,
+        interestIncome: 25000,
+        regularIncome: 0,
+        selfEmployment: 0,
+        expected: 12554.0
+      ),
+      (
+        ssIncome: 0,
+        rmdIncome: 172750,
+        capGains: 0,
+        interestIncome: 26450,
+        regularIncome: 0,
+        selfEmployment: 0,
+        expected: 24677
+      ),
+      (
+        ssIncome: 0,
+        rmdIncome: 329850,
+        capGains: 0,
+        interestIncome: 26450,
+        regularIncome: 0,
+        selfEmployment: 0,
+        expected: 63883.0
+      ),
+      (
+        ssIncome: 0,
+        rmdIncome: 418850,
+        capGains: 0,
+        interestIncome: 26450,
+        regularIncome: 0,
+        selfEmployment: 0,
+        expected: 86523.0
+      ),
+    ];
+    final settings = TaxFilingSettings(
+      targetYear: 2025,
+      filingStatus: FilingStatus.marriedFilingJointly,
+      filingState: FilingState.other,
+      selfInventory: PersonInventory(age: 66, isBlind: false),
+      spouseInventory: PersonInventory(age: 65, isBlind: false),
+    );
     runTestCases(settings, testCases);
   });
 }
