@@ -152,36 +152,23 @@ class _PercentInputFormFieldState extends State<PercentInputFormField> {
   final _textController = TextEditingController();
   final _focusNode = FocusNode();
 
-  /// Intializes state data from widget, used in initState() and didUpdateWidget()
-  void initStateFromWidget({PercentInputFormField? oldWidget}) {
-    // if old widget matches the current widget then no intialization is required.
-    if (oldWidget == widget) return;
-    // if there is an oldwidget and its intialValue property matches the current widget's
-    // then there is nothing to intiialize.
-    if (oldWidget != null && oldWidget.initialValue == widget.initialValue) {
-      return;
-    }
-    // if we have focus then we should not update controller.text which would
-    // result in a loss of the cursor position in the control.
-    // Otherwise we need to update controller.text to pick up any value
-    // updates passed down from the parent widget.
-    if (_focusNode.context != null && _focusNode.hasFocus) return;
-    _textController.text =
-        widget.initialValue == null ? '' : showPercentage(widget.initialValue);
-  }
-
   @override
   void initState() {
     super.initState();
-    initStateFromWidget();
+    // Intialize TextFromField text with provided initialValue (if present).
+    _textController.text =
+        widget.initialValue == null ? '' : showPercentage(widget.initialValue);
+    // Watch for loss of focus or gain of focus
     _focusNode.addListener(
       () {
         if (_focusNode.hasFocus) {
+          // Getting focus so trailing percent sign musat be removed.
           var currentValue = parsePercentage(_textController.text);
           if (currentValue == null) return;
           _textController.text =
               showPercentage(currentValue, showPercentSign: false);
         } else {
+          // Loosing focus so try to format with the trailing percent sign.
           var currentValue = parsePercentage(_textController.text);
           if (currentValue == null) return;
           _textController.text = showPercentage(currentValue);
@@ -190,12 +177,6 @@ class _PercentInputFormFieldState extends State<PercentInputFormField> {
       },
     );
     return;
-  }
-
-  @override
-  void didUpdateWidget(covariant PercentInputFormField oldWidget) {
-    super.didUpdateWidget(oldWidget);
-    if (oldWidget != widget) initStateFromWidget();
   }
 
   @override
