@@ -1,8 +1,0 @@
-Type, Message
-Error,"Plan: Missing required plan start date."
-Error,"Plan: Missing required plan end date."
-Error,"Person Self: Missing required birthdate."
-Error,"Accounts: At least one taxable savings account is required."
-Error,"Accounts: At least one self-owned traditional IRA account is required."
-Error,"Accounts: At least one self-owned ROTH IRA account is required."
-Error,"Scenarios: At least one ROTH conversion scenario is required."
