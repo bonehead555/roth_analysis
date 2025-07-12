@@ -194,11 +194,14 @@ class TransactionLog {
       String when = entry.when.toString();
       String label = entry.transactionType.label;
       String accountName = entry.accountName;
-      String amount = entry.amount.isNaN ? '': entry.amount.roundToTwoPlaces().toString();
-      String accountBalance = entry.accountBalance.roundToTwoPlaces().toString();
+      String amount =
+          entry.amount.isNaN ? '' : entry.amount.roundToTwoPlaces().toString();
+      String accountBalance =
+          entry.accountBalance.roundToTwoPlaces().toString();
       String memo = entry.memo;
       String csv = '$when,$label,$accountName,$amount,$accountBalance,$memo';
-      buffer.writeln(csv);
+      buffer.write(csv);
+      buffer.write(Platform.lineTerminator);
     }
     return buffer.toString();
   }

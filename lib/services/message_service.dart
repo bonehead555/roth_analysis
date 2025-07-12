@@ -54,13 +54,13 @@ class MessageService {
     _infoCount++;
   }
 
-   /// Adds a "warning" message to the service.
+  /// Adds a "warning" message to the service.
   void addWarning(String text) {
     _messages.add(Message(MessageSeverity.warning, text));
     _warningCount++;
   }
 
-   /// Adds an "error" message to the service.
+  /// Adds an "error" message to the service.
   void addError(String text) {
     _messages.add(Message(MessageSeverity.error, text));
     _errorCount++;
@@ -90,10 +90,12 @@ class MessageService {
   String dumpMessages() {
     StringBuffer buffer = StringBuffer();
     String header = 'Type, Message';
-    buffer.writeln(header);
+    buffer.write(header);
+    buffer.write(Platform.lineTerminator);
     for (final message in getMessages()) {
       String csvLine = '${message.severity.label},"${message.message}"';
-      buffer.writeln(csvLine);
+      buffer.write(csvLine);
+      buffer.write(Platform.lineTerminator);
     }
     return buffer.toString();
   }
