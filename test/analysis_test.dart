@@ -37,7 +37,7 @@ main() {
     test('JustIncome', () {
       expect(JustIncome().runTest(), '');
     });
-   test('JustCola', () {
+    test('JustCola', () {
       expect(JustCola().runTest(), '');
     });
     test('JustFixedConversionSufficientTaxableAssets', () {
@@ -62,7 +62,10 @@ main() {
 
   group('Single Tests', () {
     test('SingleMultipleAccountsFixedConversionSufficientTaxableAsssets', () {
-      expect(SingleMultipleAccountsFixedConversionSufficientTaxableAsssets().runTest(), '');
+      expect(
+          SingleMultipleAccountsFixedConversionSufficientTaxableAsssets()
+              .runTest(),
+          '');
     });
   });
 
@@ -74,7 +77,6 @@ main() {
       expect(MarriedFixedConversionSufficientTaxableAsssets().runTest(), '');
     });
   });
-
 
   group('Full Year Monthly Plan Test Cases; with even results', () {
     test('SimpleAnalysis', () {
@@ -97,7 +99,9 @@ abstract class AnalysisTest {
   String runTest() {
     // Build path to the file to be used to write test results.
     final String resultFilePath = p.setExtension(
-        p.join(Directory.current.path, 'test', 'results', testName), '.csv');
+        p.join(Directory.current.path, 'test', 'results', 'lastTestResults',
+            testName),
+        '.csv');
     // Build path to the file to be used to verify test results.
     final String verifiedResultsFilePath = p.setExtension(
         p.join(Directory.current.path, 'test', 'results', 'verified', testName),
@@ -161,24 +165,34 @@ abstract class AnalysisTest {
           i++;
           j++;
         } else if (line1 != null && line2 == null) {
-          resultBuffer.writeln('ADDED: $line1');
+          resultBuffer.write('ADDED: $line1');
+          resultBuffer.write(Platform.lineTerminator);
+
           i++;
         } else if (line1 != null && lines2.sublist(j).contains(line1)) {
           // line 1 is exists later in file2, so, line2 was deleted
-          resultBuffer.writeln('DELETED: $line2');
+          resultBuffer.write('DELETED: $line2');
+          resultBuffer.write(Platform.lineTerminator);
+
           j++;
         } else if (line2 != null && line1 == null) {
           // line 2 in file 2 does not exist in file1, so line 2 was deleted.
-          resultBuffer.writeln('DELETED: $line2');
+          resultBuffer.write('DELETED: $line2');
+          resultBuffer.write(Platform.lineTerminator);
+
           j++;
         } else if (line2 != null && lines1.sublist(i).contains(line2)) {
           // line 2 is exists later in file1, so, line1 was added
-          resultBuffer.writeln('ADDED: $line1');
+          resultBuffer.write('ADDED: $line1');
+          resultBuffer.write(Platform.lineTerminator);
+
           i++;
         } else {
           // Both lines are different, show both and move on
-          resultBuffer.writeln(
+          resultBuffer.write(
               'MODIFIED\nResult  (${i + 1}): "$line1"\nVerified(${j + 1}): "$line2"');
+          resultBuffer.write(Platform.lineTerminator);
+
           i++;
           j++;
         }
@@ -1228,10 +1242,12 @@ class MarriedFixedConversionSufficientTaxableAsssets extends AnalysisTest {
         );
 }
 
-class SingleMultipleAccountsFixedConversionSufficientTaxableAsssets extends AnalysisTest {
+class SingleMultipleAccountsFixedConversionSufficientTaxableAsssets
+    extends AnalysisTest {
   SingleMultipleAccountsFixedConversionSufficientTaxableAsssets()
       : super(
-          testName: 'SingleMultipleAccountsFixedConversionSufficientTaxableAsssets',
+          testName:
+              'SingleMultipleAccountsFixedConversionSufficientTaxableAsssets',
           analysisConfig: AnalysisConfig(
             planInfo: PlanInfo(
               planStartDate: DateTime(2025, 01, 01),
