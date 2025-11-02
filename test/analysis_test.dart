@@ -20,7 +20,7 @@ import 'package:roth_analysis/services/analysis_services/plan_results.dart';
 import 'package:roth_analysis/services/analysis_services/transaction_log.dart';
 import 'package:roth_analysis/services/message_service.dart';
 
-main() {
+void main() {
   group('Invalid Configuration Tests;', () {
     test('EmptyAnalysis', () {
       expect(EmptyAnalysis().runTest(), '');

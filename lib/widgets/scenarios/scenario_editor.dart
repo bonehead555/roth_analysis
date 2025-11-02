@@ -176,7 +176,7 @@ class _ScenarioEditorState extends State<ScenarioEditor> {
                             labelText: 'Plot Color',
                             border: OutlineInputBorder(),
                           ),
-                          value: scenarioInfo.colorOption,
+                          initialValue: scenarioInfo.colorOption,
                           items: [
                             for (final colorOption in ColorOption.values)
                               DropdownMenuItem<ColorOption>(
@@ -208,7 +208,7 @@ class _ScenarioEditorState extends State<ScenarioEditor> {
                             border: OutlineInputBorder(),
                             labelText: 'Amount Constraint Type',
                           ),
-                          value: scenarioInfo.amountConstraint.type,
+                          initialValue: scenarioInfo.amountConstraint.type,
                           items: [
                             for (final amountConstraintType
                                 in AmountConstraintType.values)
@@ -241,7 +241,7 @@ class _ScenarioEditorState extends State<ScenarioEditor> {
                           border: OutlineInputBorder(),
                           labelText: 'Start Date Constraint Type',
                         ),
-                        value: scenarioInfo.startDateConstraint,
+                        initialValue: scenarioInfo.startDateConstraint,
                         items: [
                           for (final startDateConstraintType
                               in ConversionStartDateConstraint.values)
@@ -272,7 +272,7 @@ class _ScenarioEditorState extends State<ScenarioEditor> {
                             border: OutlineInputBorder(),
                             labelText: 'End Date Constraint Type',
                           ),
-                          value: scenarioInfo.endDateConstraint,
+                          initialValue: scenarioInfo.endDateConstraint,
                           items: [
                             for (final endDateConstraintType
                                 in ConversionEndDateConstraint.values)

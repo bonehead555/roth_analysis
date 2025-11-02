@@ -24,7 +24,7 @@ void runTestCases(
   }
 }
 
-main() {
+void main() {
   group(
     'RMD Estimator Test Cases',
     () {

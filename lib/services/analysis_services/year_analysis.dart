@@ -424,7 +424,7 @@ class YearAnalysis {
   /// Side Effects:
   /// * Modifies filingSettings.selfInventory.prevPrevYearsMAGI
   /// * Modifies filingSettings.spouseInventory.prevPrevYearsMAGI
-  _initalizeIrmaaMagi() {
+  void _initalizeIrmaaMagi() {
     // Before we can caluclate IRMAA taxes we must get MAGI values for two years prior.
     if (prevYearsAnalysis != null &&
         prevYearsAnalysis!.prevYearsAnalysis != null) {
@@ -542,7 +542,7 @@ class YearAnalysis {
   /// Side Effects:
   /// * A number of object fileds will be intialized / updated based on the reuslts of the estimate.
   /// * See [_initializeFicaTax], [_initializeMedicareTax], [_estimateIrmaTax]
-  _initializeInvariantTaxes({OwnerType? ownerType}) {
+  void _initializeInvariantTaxes({OwnerType? ownerType}) {
     // Assume tax service interface must be updated for updated tax estimations.
     _updateTaxServiceSettings();
     _initializeFicaTax(ownerType: ownerType);
@@ -952,7 +952,7 @@ class YearAnalysis {
   }
 
   /// Logs summary/yearly tax information to the transaction log.
-  _logTaxInfo() {
+  void _logTaxInfo() {
     TransactionDate transactionDate = (year: targetYear, month: 0);
     transactionLog.add(TransactionEntry.info(
         transactionType: TransactionType.taxInfo,
@@ -1005,7 +1005,7 @@ class YearAnalysis {
   }
 
   /// Logs summary/yearly account information to the transaction log.
-  _logAccountInfo() {
+  void _logAccountInfo() {
     accountAnalysisBin.logAccountBalances();
   }
 

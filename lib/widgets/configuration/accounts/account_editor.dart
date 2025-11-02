@@ -114,7 +114,7 @@ class _AccountEditorState extends State<AccountEditor> {
                             labelText: 'Account Type',
                             border: OutlineInputBorder(),
                           ),
-                          value: accountInfo.type,
+                          initialValue: accountInfo.type,
                           items: [
                             for (final accountType in AccountType.values)
                               DropdownMenuItem<AccountType>(
@@ -137,7 +137,7 @@ class _AccountEditorState extends State<AccountEditor> {
                             border: OutlineInputBorder(),
                             labelText: 'Owner',
                           ),
-                          value: accountInfo.owner,
+                          initialValue: accountInfo.owner,
                           items: [
                             for (final ownerType in OwnerType.values)
                               DropdownMenuItem<OwnerType>(

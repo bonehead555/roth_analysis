@@ -11,7 +11,7 @@ class AppBarController {
   ActionAdditions actionAdditions = [];
 
 
-  update({String? title, ActionAdditions? actionAdditions}) {
+  void update({String? title, ActionAdditions? actionAdditions}) {
     this.title = title ?? this.title;
     this.actionAdditions = actionAdditions ?? this.actionAdditions;
     Timer(

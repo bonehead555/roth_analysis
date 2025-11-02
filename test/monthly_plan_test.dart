@@ -1,7 +1,7 @@
 import 'package:roth_analysis/services/analysis_services/monthly_plan.dart';
 import 'package:test/test.dart';
 
-main() {
+void main() {
   group('Full Year Monthly Plan Test Cases; with even results', () {
     MonthlyPlan monthlyPlan = MonthlyPlan();
     monthlyPlan.initialize(120.00);

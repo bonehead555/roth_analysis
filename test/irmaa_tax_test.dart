@@ -39,7 +39,7 @@ void runTestCases(
   }
 }
 
-main() {
+void main() {
   group(
     'IRMAA Test Cases',
     () {

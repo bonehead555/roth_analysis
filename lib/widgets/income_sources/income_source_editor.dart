@@ -102,7 +102,7 @@ class _IncomeSourceEditorState extends State<IncomeSourceEditor> {
                               labelText: 'Income Type',
                               border: OutlineInputBorder(),
                             ),
-                            value: incomeInfo.type,
+                            initialValue: incomeInfo.type,
                             items: [
                               for (final incomeType in IncomeType.values)
                                 DropdownMenuItem<IncomeType>(
@@ -124,7 +124,7 @@ class _IncomeSourceEditorState extends State<IncomeSourceEditor> {
                               border: OutlineInputBorder(),
                               labelText: 'Owner',
                             ),
-                            value: incomeInfo.owner,
+                            initialValue: incomeInfo.owner,
                             items: [
                               for (final ownerType in OwnerType.values)
                                 DropdownMenuItem<OwnerType>(
