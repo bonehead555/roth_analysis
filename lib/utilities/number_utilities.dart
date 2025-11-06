@@ -12,7 +12,7 @@ extension NumberRoudning on double {
 /// Returns a string for a dollar [value] with or without a leading dollar sign.
 /// * [value] - dollar value to show
 /// * [showDollarSign] - indicates whether or not to show leading dollar sign (defaults to true)
-/// * [showCents] - indicates whther cents should be shown ot not (defaults to false)
+/// * [showCents] - indicates whether cents should be shown ot not (defaults to false)
 String showDollarString(double? value, {bool showDollarSign = true, bool showCents = false}) {
   if (value == null) return '';
   NumberFormat dollarFormat = NumberFormat.currency(
