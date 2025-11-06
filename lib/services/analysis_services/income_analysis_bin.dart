@@ -120,12 +120,12 @@ class IncomeAnalysisBin {
     return (startMonth, finalMonth);
   }
 
-  /// Estimates/Returns the reamining income starting from [month] (for all income streams).
+  /// Estimates/Returns the remaining income starting from [month] (for all income streams).
   /// If [month] is omitted, the full year's income estimate is returned.
   double remainingIncome({int month = 1}) {
     double amount = 0.0;
     for (IncomeAnalysis incomeAnalysis in _incomeAnalyses) {
-      amount = incomeAnalysis.remainingIncome(month: month);
+      amount += incomeAnalysis.remainingIncome(month: month);
     }
     return amount;
   }
