@@ -39,6 +39,13 @@ class InvalidYearlyAmount extends MonthlyPlanException {
 
 class AccountAnalysisException implements Exception {}
 
+class NegativeDepositException extends AccountAnalysisException {
+  final String message;
+  NegativeDepositException(this.message);
+  @override
+  String toString() => 'NegativeDeposit: $message.';
+}
+
 class InsufficentAccountAssetException extends AccountAnalysisException {
   final String message;
   final int monthWhereFundsExausted;
