@@ -449,7 +449,12 @@ abstract class AccountAnalysis {
   /// Deposits [depositAmount] into the account.
   /// Logs deposit with the provided memo.
   void deposit(double depositAmount, int month, String memo) {
-    if (depositAmount <= 0.0) {
+    if (depositAmount < 0) {
+      String depositAmountString = showDollarString(depositAmount, showDollarSign: true, showCents: true);
+      throw NegativeDepositException('Into account "${accountInfo.name}" in the amount of $depositAmountString');
+    }
+
+    if (depositAmount == 0.0) {
       return;
     }
     _endingBalance += depositAmount;
@@ -705,6 +710,7 @@ class IraAccountAnalysis extends AccountAnalysis {
   /// Transfer monthly [or remaing] RMD for the target [month] to the specified accounts.
   /// * [month] - Month that the transfer is being perfromed for or starting at.
   /// * [reserveAmount] - Amount of the RMD that should be diverted to the specified [reserveAccount].
+  /// Note: If double.infinity, than 100% is diverted.
   /// * [reserveAccount] - Account to be used to transfer the [reserveAmount].
   /// Generally this is an account reserved for cash transactions.
   /// * [toAccount] - Account to transfer the balance of the RMD.
@@ -753,8 +759,8 @@ class IraAccountAnalysis extends AccountAnalysis {
     reserveAccount.deposit(reservedAmount, month, memo);
 
     // Determine the remaining portion of the RMD that will go to the toAccount and deposit it.
-    final double remainingAmount = rmdTransferAmount - reserveAmount;
-    memo = reserveAmount == 0.0
+    final double remainingAmount = rmdTransferAmount - reservedAmount;
+    memo = reservedAmount == 0.0
         ? 'RMD fully allocated into long-term investments'
         : 'Portion of RMD allocated into long-term investments';
     toAccount.deposit(remainingAmount, month, memo);
