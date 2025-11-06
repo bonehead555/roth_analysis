@@ -124,9 +124,9 @@ class AccountAnalysisBin {
   }
 
   /// Returns the most optimal [AccountAnalysis] to use as the target for Roth Conversions for spouse,
-  /// or null, if not ROTH account exists for [OwnerType.spouse].
+  /// or null, if no ROTH account exists for [OwnerType.spouse].
   AccountAnalysis? get rothAccountForSpouse {
-    return _rothAccountForSpouse!;
+    return _rothAccountForSpouse;
   }
 
   /// Returns the lowest earning taxable savings account.
@@ -234,7 +234,7 @@ class AccountAnalysisBin {
 
   /// Returns a list [IraAccountAnalysis] for all IRA accounts owned by [ownerType].
   /// If [ownerType] is omitted accounts for both self and (if married) spouse is returned.
-  List<IraAccountAnalysis> findAllIraAcconts({OwnerType? ownerType}) {
+  List<IraAccountAnalysis> findAllIraAccounts({OwnerType? ownerType}) {
     return findAllAccountsByType<IraAccountAnalysis>(AccountType.traditionalIRA,
         ownerType: ownerType);
   }
@@ -382,7 +382,7 @@ class AccountAnalysisBin {
   ///
   double transferRmds(int month, double cashAmount, AccountAnalysis toAccount,
       {bool transferRmdBalance = false}) {
-    final List<IraAccountAnalysis> iraAccounts = findAllIraAcconts();
+    final List<IraAccountAnalysis> iraAccounts = findAllIraAccounts();
     double remaimingCashNeed = cashAmount;
     for (final rmdAccount in iraAccounts) {
       final double cashReserved = rmdAccount.transferRmd(
