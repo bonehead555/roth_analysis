@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 /// Supported Graph Series
 enum SeriesSelection {
   totalAssets('Total Assets'),
+  totalValue('Total Value'),
   iraAssets('IRA Assets'),
   rothAssets('Roth Assets'),
   nonIraAssets('Non-IRA Assets'),

@@ -13,6 +13,8 @@ import 'package:roth_analysis/widgets/graph_view/total_assets_chart.dart';
 import 'package:roth_analysis/widgets/graph_view/total_taxes_chart.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';
 
+import 'total_value_chart.dart';
+
 class GraphView extends ConsumerStatefulWidget {
   final AppBarController appBarController;
   const GraphView({super.key, required this.appBarController});
@@ -48,21 +50,39 @@ class _GraphViewState extends ConsumerState<GraphView> {
   }
 
   Widget get selectedChart {
-   switch (selectedSeries) {
+    switch (selectedSeries) {
       case SeriesSelection.totalAssets:
-        return TotalAssetsChart(chartTitle: chartTitle, scenarioResults: planResults!.scenarioResults);
+        return TotalAssetsChart(
+            chartTitle: chartTitle,
+            scenarioResults: planResults!.scenarioResults);
+      case SeriesSelection.totalValue:
+        return TotalValueChart(
+            chartTitle: chartTitle,
+            scenarioResults: planResults!.scenarioResults);
       case SeriesSelection.iraAssets:
-        return IraAssetsChart(chartTitle: chartTitle, scenarioResults: planResults!.scenarioResults);
+        return IraAssetsChart(
+            chartTitle: chartTitle,
+            scenarioResults: planResults!.scenarioResults);
       case SeriesSelection.rothAssets:
-        return RothAssetsChart(chartTitle: chartTitle, scenarioResults: planResults!.scenarioResults);
+        return RothAssetsChart(
+            chartTitle: chartTitle,
+            scenarioResults: planResults!.scenarioResults);
       case SeriesSelection.nonIraAssets:
-        return NonIraAssetsChart(chartTitle: chartTitle, scenarioResults: planResults!.scenarioResults);
+        return NonIraAssetsChart(
+            chartTitle: chartTitle,
+            scenarioResults: planResults!.scenarioResults);
       case SeriesSelection.taxableAssets:
-        return TaxableAssetsChart(chartTitle: chartTitle, scenarioResults: planResults!.scenarioResults);
+        return TaxableAssetsChart(
+            chartTitle: chartTitle,
+            scenarioResults: planResults!.scenarioResults);
       case SeriesSelection.totalTaxes:
-        return TotalTaxesChart(chartTitle: chartTitle, scenarioResults: planResults!.scenarioResults);
+        return TotalTaxesChart(
+            chartTitle: chartTitle,
+            scenarioResults: planResults!.scenarioResults);
       case SeriesSelection.cumulativeTaxes:
-        return CumulativeTaxesChart(chartTitle: chartTitle, scenarioResults: planResults!.scenarioResults);
+        return CumulativeTaxesChart(
+            chartTitle: chartTitle,
+            scenarioResults: planResults!.scenarioResults);
     }
   }
 
@@ -85,12 +105,15 @@ class _GraphViewState extends ConsumerState<GraphView> {
     switch (selectedSeries) {
       case SeriesSelection.totalAssets:
         return (YearResult yearResult, _) => yearResult.totalAssets;
+      case SeriesSelection.totalValue:
+        return (YearResult yearResult, _) => yearResult.totalAssets;
       case SeriesSelection.iraAssets:
         return (YearResult yearResult, _) => yearResult.iraAssets;
       case SeriesSelection.rothAssets:
         return (YearResult yearResult, _) => yearResult.rothAssets;
       case SeriesSelection.nonIraAssets:
-        return (YearResult yearResult, _) => (yearResult.taxableAssets + yearResult.rothAssets);
+        return (YearResult yearResult, _) =>
+            (yearResult.taxableAssets + yearResult.rothAssets);
       case SeriesSelection.taxableAssets:
         return (YearResult yearResult, _) => yearResult.taxableAssets;
       case SeriesSelection.totalTaxes:
