@@ -142,7 +142,7 @@ class IrmaaTaxByFilingStatus extends TaxBase {
           ? filingSettings.selfInventory
           : filingSettings.spouseInventory!;
 
-      // Check if person is of Medicare age, if younger tehn there is no cost.
+      // Check if person is of Medicare age, if younger then there is no cost.
       if (personInventory.age < 65) {
         return 0.0;
       }
