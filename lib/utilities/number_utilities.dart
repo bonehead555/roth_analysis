@@ -3,9 +3,17 @@ import 'dart:math';
 import 'package:intl/intl.dart';
 
 extension NumberRoudning on double {
-  /// Returns result rounded to 2 decimal places
+  /// Returns result rounded to 2 decimal places.
+  /// 
+  /// Notes:
+  /// * This is an inaccurate function as the floating point cannnot necessarily represent the decimal result.
+  /// * Some cleanup is performed to try to improve when the result should be zero.
   double roundToTwoPlaces() {
-    return (this * 100.0).roundToDouble() / 100.0;
+    double result = (this * 100.0).roundToDouble() / 100.0;
+    if (result.abs() < 0.01) {
+      result = 0.0;
+    }
+    return result;
   }
 }
 
