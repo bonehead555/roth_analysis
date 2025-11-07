@@ -449,12 +449,12 @@ abstract class AccountAnalysis {
   /// Deposits [depositAmount] into the account.
   /// Logs deposit with the provided memo.
   void deposit(double depositAmount, int month, String memo) {
-    if (depositAmount < 0) {
+    if (depositAmount < -0.03) { // allow for for floating point rouding errors
       String depositAmountString = showDollarString(depositAmount, showDollarSign: true, showCents: true);
       throw NegativeDepositException('Into account "${accountInfo.name}" in the amount of $depositAmountString');
     }
 
-    if (depositAmount == 0.0) {
+    if (depositAmount <= 0.0) {
       return;
     }
     _endingBalance += depositAmount;
