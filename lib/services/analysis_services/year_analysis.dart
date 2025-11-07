@@ -79,9 +79,6 @@ class YearAnalysis {
   // Minimum ROTH conversion allowed.  Conversion amount below this will be adjusted to zero.
   final double _minimumRothConversion = 1000.0;
 
-  // Set to true should IRA assets be needed to cover expenses even when no ROTH conversion is performed.
-  bool _iraAssetsConsumedWithZeroRothConversion = false;
-
   // Information and analysis results specific to a person, i.e., either self or spouse
   final PersonAnalysis selfAnalysis;
   final PersonAnalysis spouseAnalysis;
@@ -92,9 +89,6 @@ class YearAnalysis {
 
   // Invariant Payment plans, i.e., payment plans that are invariant for the full simulation/analysis year.
   final MonthlyPlan livingExpensePaymentPlan = MonthlyPlan();
-  final MonthlyPlan ficaTaxPaymenyPlan = MonthlyPlan();
-  final MonthlyPlan medicareTaxPaymentPlan = MonthlyPlan();
-  final MonthlyPlan irmaaTaxPaymentPlan = MonthlyPlan();
 
   /// Income Tax Payment Plans (can/will be updated during the simulation/analysis year)
   final MonthlyPlan federalIncomeTaxPaymentPlan = MonthlyPlan();
@@ -154,7 +148,7 @@ class YearAnalysis {
     _initializeYearlyInvariantIncome();
 
     // Initalize yearly taxes that are invariant over the year's analysys/simulation.
-    // çannot be called before _initializeYearlyInvariantIncome has been intialized.
+    // cannot be called before _initializeYearlyInvariantIncome has been intialized.
     _initializeInvariantTaxes();
 
     // Initialize ROTH conversion constraints.
@@ -192,7 +186,7 @@ class YearAnalysis {
       selfAnalysis.monthlyRothConversion(month) +
       spouseAnalysis.monthlyRothConversion(month);
 
-  /// Returns the yearly total income for both self and spouse (if married).
+  /// Returns the yearly total social security income for both self and spouse (if married).
   double get yearlySsIncome =>
       selfAnalysis.yearlySsIncome + spouseAnalysis.yearlySsIncome;
 
@@ -292,6 +286,11 @@ class YearAnalysis {
       federalIncomeTaxPaymentPlan.remainingBalance(month) +
       stateIncomeTaxPaymentPlan.remainingBalance(month) +
       localIncomeTaxPaymentPlan.remainingBalance(month);
+
+  /// Returns the remaining IRMAA tax balance staring with and including the specifiied [month].
+  double remainingIrmaaTaxes(int month) =>
+      selfAnalysis.irmaaTaxPaymentPlan.remainingBalance(month) +
+      spouseAnalysis.irmaaTaxPaymentPlan.remainingBalance(month);
 
   /// Returns the yearly federal income tax underpayment for both the self and spouse (if married).
   double get federalIncomeTaxUnderpayment =>
@@ -485,7 +484,7 @@ class YearAnalysis {
   }
 
   /// Intializes yearly income for the specified [ownerType].
-  /// that is, income that is invariant over the year's analysys/simulation.
+  /// that is, income that is invariant over the year's analisys/simulation.
   ///
   /// Notes:
   /// * If [ownerType] is omitted, then income is intialized for both self and spouse (if married)
@@ -553,29 +552,27 @@ class YearAnalysis {
   /// Estimates the montly invariant taxes for the specified [month] and [ownerType].
   ///
   /// Notes:
-  /// * Only covers so-called invariant taxes, FICA, Medicare and IRMAA
+  /// * Only covers so-called invariant taxes, FICA and Medicare
   /// * If no [ownerType] is specified then taxes are payed for both self and spouse (if married)
   /// * Assumes monthly payment plans have been developed.
   double _estimateRemainingInvariantTaxes(int month, {OwnerType? ownerType}) {
-    double reaminingInvariantTaxes = 0.0;
+    double reaminingTaxes = 0.0;
     if (ownerType != null) {
       PersonAnalysis personAnalysis =
           ownerType.isSelf ? selfAnalysis : spouseAnalysis;
-      reaminingInvariantTaxes =
+      reaminingTaxes =
           personAnalysis.ficaTaxPaymentPlan.remainingBalance(month);
-      reaminingInvariantTaxes +=
+      reaminingTaxes +=
           personAnalysis.medicareTaxPaymentPlan.remainingBalance(month);
-      reaminingInvariantTaxes +=
-          personAnalysis.irmaaTaxPaymentPlan.remainingBalance(month);
     } else {
-      reaminingInvariantTaxes =
+      reaminingTaxes =
           _estimateRemainingInvariantTaxes(month, ownerType: OwnerType.self);
       if (analysisConfig.isMarried) {
-        reaminingInvariantTaxes += _estimateRemainingInvariantTaxes(month,
+        reaminingTaxes += _estimateRemainingInvariantTaxes(month,
             ownerType: OwnerType.spouse);
       }
     }
-    return reaminingInvariantTaxes;
+    return reaminingTaxes;
   }
 
   /// Pays the specified [amountToPay] taxes, for the specififled [month],
@@ -732,7 +729,7 @@ class YearAnalysis {
     }
   }
 
-  /// Estimates yearly Medicare tax for the specified [ownerType]
+  /// Initializes yearly Medicare tax for the specified [ownerType]
   /// If no [ownerType] is specified then income is estimated for both self and spouse (if married)
   void _initializeMedicareTax({OwnerType? ownerType}) {
     if (ownerType != null) {
@@ -756,7 +753,7 @@ class YearAnalysis {
   }
 
   /// Initialize yearly IRRMA tax for the specified [ownerType]
-  /// If no [ownerType] is specified then income is estimated for both self and spouse (if married)
+  /// If no [ownerType] is specified then IRMAA is estimated for both self and spouse (if married)
   ///
   /// Notes:
   /// * Assumes irmaaTaxService has been intialized.
@@ -789,7 +786,7 @@ class YearAnalysis {
     _updateTaxableGains(12);
     // Update yearly IRA distributions
     _updateYearlyIraWithdraws();
-    // Assume tax service interface must be updated to get updated investment account gains.
+    // Assume tax service interface must be updated so that we include updated investment account gains.
     _updateTaxServiceSettings();
     selfAnalysis.federalIncomeTax = _federalIncomeTaxService.calcIncomeTax();
     selfAnalysis.federalMAGI =
@@ -1017,14 +1014,9 @@ class YearAnalysis {
   /// * [InsufficentAccountAssetException] should we exceed available funds.
   void _simulateYear() {
     for (int month = 1; month <= 12; month++) {
-      if (targetYear >= 2026 && month == 3) {
-        stop();
-      }
-
       _simulateMonth(month);
     }
 
-    //_estimateIncomeTaxes(fullYear: true, month: 12);
     _logAccountInfo();
     _estimateIncomeTaxes();
     _logTaxInfo();
@@ -1118,7 +1110,6 @@ class YearAnalysis {
   ///
   /// Side Affects:
   /// * [rothConversionPlan]
-  /// * [simulationIraDistribution]
   /// * [federalIncomeTaxPaymentPlan]
   /// * [stateIncomeTaxPaymentPlan]
   /// * [localIncomeTaxPaymentPlan]
@@ -1127,8 +1118,6 @@ class YearAnalysis {
   void _adjustPaymentPlans(int month) {
     double allowedUpperLowerGapPercentage = 0.5; // percent
     double rothConversionAmount = 0.0;
-    bool iraAssetUseAllowed =
-        !analysisConfig.currentScenario.stopWhenTaxableIncomeUnavailible;
 
     // The process below runs a simulation that modifies account balances;  therefore, we save account state before beginning.
     accountAnalysisBin.saveState();
@@ -1138,8 +1127,8 @@ class YearAnalysis {
         _rothConversionConstraints;
 
     // Accure any account changes that will be invarient throughout this part of the simulation.
-    // I.e., remaining account investment gains/income, remaining income
-    // sands (FICA, Mediacre, IRMAA taxes), remaining RMDs
+    // I.e., remaining account investment gains, remaining income
+    // sands (FICA, Medicare, IRMAA taxes), remaining RMDs
     accountAnalysisBin.accrueRemainingAccountGains(month);
     cashAccount.deposit(
         incomeAnalysisBin.remainingIncome(month: month) -
@@ -1147,38 +1136,8 @@ class YearAnalysis {
         month,
         '');
 
-    // Determine if there is a need to consume IRA assets for expenses, even without any ROTH conversion.
-    // Note: This is performed by deposit the RMDs into a ROTH account (instead of cash) to prevent the use of
-    // the RMD assets to cover expenses which would mask the need for IRA assets,
-    // Note: This is performed with saved account state because RMDs deposits into a ROTH account
-    // is not allowed by th IRA and we must restore the accounts after.
-    if (month == 1) {
-      accountAnalysisBin.saveState();
-      accountAnalysisBin.transferRmds(
-          month, 0.0, accountAnalysisBin.rothAccountForSelf,
-          transferRmdBalance: true);
-      final (
-        :expensesWereMet,
-        :assetsRemain,
-        :rothConversionPlanIsViable,
-        :iraAssetsWereConsumed
-      ) = _validateRemainingYearlyExpenses(month, 0.0);
-      _iraAssetsConsumedWithZeroRothConversion = iraAssetsWereConsumed;
-      accountAnalysisBin.restoreState();
-    }
-
-    // If IRA assets are needed even with zero ROTH conversion and if configuration is such that
-    // use of IRA assets for conversion expenses is not allowed.  Then we cannot ROTH conversion
-    // is not allowed for this year.
-    if (_iraAssetsConsumedWithZeroRothConversion && !iraAssetUseAllowed) {
-      configuredRothConversionAmount = 0.0;
-    }
-
-    // Deposit the balance of the RMDs to either the cashAccount or the ROTH account.
-    // Note: That transfering RMDs to a ROTH account is not legal per the IRS, however we are doing this to
-    // accounts thant have been saved and will be restore later, so it is not a concern here.
-    //
-    accountAnalysisBin.transferRmds(month, 0.0, cashAccount,
+    // Deposit the balance of the RMDs into the cashAccount.
+    accountAnalysisBin.transferRmds(month, double.infinity, cashAccount,
         transferRmdBalance: true);
 
     // When the rothConversionAmount constraint for the year is below minimum allowed amount, we can shortcut the process.
@@ -1303,12 +1262,12 @@ class YearAnalysis {
   ///
   /// Inputs:
   /// * [month] - Month number being simulated (1 - 12)
-  /// * [rothConversionBalance] - Amounrt of Roth conversions that must still be met, i.e., from [month] through 12
+  /// * [rothConversionBalance] - Amount of Roth conversions that must still be met, i.e., from [month] through 12
   ///
   /// Prerequisites:
-  /// * Remaining account gains have bee estiamted and accrued to accounts.
-  /// * Remaining income minus (FICA, Mediacre, IRMAA) taxes have been estimated and deposited into accounts
-  /// * Remaining RMDs have bee tranferred to appropriate accounts???
+  /// * Remaining account gains have been estiamted and accrued to accounts.
+  /// * Remaining income minus (FICA and Medicare) taxes have been estimated and deposited into accounts
+  /// * Remaining RMDs have been tranferred to appropriate accounts???
   ///
   /// Notes:
   /// * Inaccuracies exist in this estimate! We only know starting balances for accounts.  The actual account balance fluctuates over
@@ -1334,7 +1293,6 @@ class YearAnalysis {
     accountAnalysisBin.saveState();
 
     // Perform remainingRothConversion (if possible).
-    // Limitation: Because of current restrictions, conversions are only performed in accounts owned by self.
     final (amountWithdrawnFromSelf, amountWithDrawnFromSpouse) =
         rothConversionWithdraw(rothConversionBalance, month);
     final assetsWithdrawn = amountWithdrawnFromSelf + amountWithDrawnFromSpouse;
@@ -1354,28 +1312,34 @@ class YearAnalysis {
     // Otherwise, we can deposit the withdraw into the ROTH account and continue checking to see if
     // other expenses can be met.
     accountAnalysisBin.rothAccountForSelf
-        .deposit(rothConversionBalance, month, '');
+        .deposit(amountWithdrawnFromSelf, month, '');
+    if (accountAnalysisBin.rothAccountForSpouse != null) {
+      accountAnalysisBin.rothAccountForSpouse!
+          .deposit(amountWithDrawnFromSpouse, month, '');
+    }
 
-    // Collect some accrued values that are invariant for the remainder of the algoritm.
+    // Collect some values that are invariant for the remainder of the algorithm.
     double livingExpenseBalance =
         livingExpensePaymentPlan.remainingBalance(month);
-    double accuredFederalIncomeTax =
+    double accruedFederalIncomeTax =
         federalIncomeTaxPaymentPlan.accruedAmount(month);
-    double accuredStateIncomeTax =
+    double accruedStateIncomeTax =
         stateIncomeTaxPaymentPlan.accruedAmount(month);
-    double accuredLocalIncomeTax =
+    double accruedLocalIncomeTax =
         localIncomeTaxPaymentPlan.accruedAmount(month);
+    double remainingIrmaaTax = remainingIrmaaTaxes(month);
 
-    // Estimate income taxes before additional taxable withdraws are taken below
-    // and calculate the intial value for the remaining total expenses.
+    // Estimate remaining income taxes before additional taxable withdraws are taken below
+    // and calculate the intial value for the year's remaining total expenses.
     _estimateIncomeTaxes();
     totalExpenses = livingExpenseBalance +
         federalIncomeTax -
-        accuredFederalIncomeTax +
+        accruedFederalIncomeTax +
         stateIncomeTax -
-        accuredStateIncomeTax +
+        accruedStateIncomeTax +
         localIncomeTax -
-        accuredLocalIncomeTax;
+        accruedLocalIncomeTax +
+        remainingIrmaaTax;
 
     while ((totalExpenses - lastTotalExpenses).abs() > allowedRemainingTaxes) {
       expensesWereMet = true;
@@ -1423,15 +1387,16 @@ class YearAnalysis {
       // Othewise, the expenseBalance was covered but taxable assets were consumed.
       // As a result, additional income taxes were realized, therefore, totalExpenses has increased.
       // Save the previous loop's totalExpenses as lastTotalExpenses.
-      // Calculate a new totalExpenses for the next loop iteration and allow the loop to conntinue.
+      // Calculate a new totalExpenses for the next loop iteration and allow the loop to continue.
       lastTotalExpenses = totalExpenses;
       totalExpenses = livingExpenseBalance +
           federalIncomeTax -
-          accuredFederalIncomeTax +
+          accruedFederalIncomeTax +
           stateIncomeTax -
-          accuredStateIncomeTax +
+          accruedStateIncomeTax +
           localIncomeTax -
-          accuredLocalIncomeTax;
+          accruedLocalIncomeTax +
+          remainingIrmaaTax;
       // Restore account state and rerun the loop.
       accountAnalysisBin.restoreState();
     }
@@ -1471,8 +1436,11 @@ class YearAnalysis {
   }
 
   /// Withdraws as much of the requested [iraConvertAmount] as possible
-  /// WIthdraws logged agaist month [month] with a memo of [memo]
-  /// i.e., given the availile self-owned IRA accounts and if married, spouse-owned IRA accounts.
+  /// Withdraws logged against month [month] with a memo of [memo]
+  /// i.e., given the available self-owned IRA accounts and
+  /// if married and there are spouse-owned IRA accounts, the spouse-owned IRA accounts.
+  ///
+  /// Returns the amount withdrawn from both self-owned and spouse-owned IRA accounts.
   (double amountFromSelfOwnedAccounts, double amountFromSpouseOwnedAccounts)
       rothConversionWithdraw(double iraConvertAmount, int month,
           [String memo = '']) {
@@ -1485,19 +1453,19 @@ class YearAnalysis {
     // from spousal accounts.
     final double rothConversionBalance =
         iraConvertAmount - assetsWithdrawnFromSelfOwnedIraAccounts;
-    final bool canConvertFromSpousalIraAxccounts = analysisConfig.isMarried &&
+    final bool canConvertFromSpousalIraAccounts = analysisConfig.isMarried &&
         accountAnalysisBin.hasIraAccountForSelf &&
         accountAnalysisBin.rothAccountForSpouse != null;
 
-    // If there is a ROTH conversion balance and spousal conversion id pssoible/
+    // If there is a ROTH conversion balance and spousal conversion is pssoible,
     // Withdraw as much as needed and possible from spouse-owned IRA accounts.
     double assetsWithdrawnFromSpouseOwnedIraAccounts = 0.0;
-    if (rothConversionBalance > 0.0 && canConvertFromSpousalIraAxccounts) {
+    if (rothConversionBalance > 0.0 && canConvertFromSpousalIraAccounts) {
       assetsWithdrawnFromSpouseOwnedIraAccounts = accountAnalysisBin.withdraw(
           rothConversionBalance, AccountType.traditionalIRA, month,
           ownerType: OwnerType.spouse, memo: memo);
     }
-    // Return the amount withdrawn from self ans spouspe owned IRA accounts.
+    // Return the amount withdrawn from self and spouspe owned IRA accounts.
     return (
       assetsWithdrawnFromSelfOwnedIraAccounts,
       assetsWithdrawnFromSpouseOwnedIraAccounts
