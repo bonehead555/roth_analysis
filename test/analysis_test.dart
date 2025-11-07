@@ -57,7 +57,7 @@ void main() {
     });
     test('JustMagiLimitAllowIraForTaxes', () {
       expect(JustMagiLimitAllowIraForTaxes().runTest(), '');
-    });
+    }); 
   });
 
   group('Single Tests', () {
@@ -770,7 +770,7 @@ class JustFixedConversionInsufficientTaxableAssets extends AnalysisTest {
           analysisConfig: AnalysisConfig(
             planInfo: PlanInfo(
               planStartDate: DateTime(2025, 01, 01),
-              planEndDate: DateTime(2035, 12, 31),
+              planEndDate: DateTime(2045, 12, 31),
               yearlyExpenses: 0.00,
               cola: 0.0,
             ),
@@ -942,7 +942,7 @@ class JustMagiLimitInsufficientTaxableAssets extends AnalysisTest {
           analysisConfig: AnalysisConfig(
             planInfo: PlanInfo(
               planStartDate: DateTime(2025, 01, 01),
-              planEndDate: DateTime(2035, 12, 31),
+              planEndDate: DateTime(2045, 12, 31),
               yearlyExpenses: 0.00,
               cola: 0.0,
             ),
