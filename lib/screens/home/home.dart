@@ -53,6 +53,7 @@ class HomeScreen extends ConsumerStatefulWidget {
 
 class _HomeScreenState extends ConsumerState<HomeScreen> {
   String openFilePath = '';
+  String lastSuccessfullyUsedFolder = '';
   int _selectedIndex = 0;
   late List<NavOption> _destinations;
   final int _configurationIndex = 0;
@@ -135,7 +136,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     final Directory appDocumentsDir = await getApplicationDocumentsDirectory();
     FilePickerResult? result = await FilePicker.platform.pickFiles(
       dialogTitle: 'Select Roth Configuration File',
-      initialDirectory: appDocumentsDir.path,
+      initialDirectory: lastSuccessfullyUsedFolder != '' ? lastSuccessfullyUsedFolder : appDocumentsDir.path,
       type: FileType.custom,
       allowedExtensions: ['roth'],
     );
@@ -171,6 +172,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
 
       if (messageService.errorCount == 0) {
         openFilePath = filePath;
+        lastSuccessfullyUsedFolder = p.dirname(filePath);
         _switchScreens(_configurationIndex);
       }
     }
@@ -195,11 +197,10 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
   /// * Launches appropirate file picker.
   /// * Invokes file save function.
   void fileSaveAs() async {
-    // Ask for file location to save configuration
     final Directory appDocumentsDir = await getApplicationDocumentsDirectory();
     String? filePath = await FilePicker.platform.saveFile(
       dialogTitle: 'Select Roth Configuration File to Save',
-      initialDirectory: appDocumentsDir.path,
+      initialDirectory: (lastSuccessfullyUsedFolder != '') ? lastSuccessfullyUsedFolder : appDocumentsDir.path,
       type: FileType.custom,
       allowedExtensions: ['roth'],
     );
@@ -210,6 +211,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     // check if file successfully saved and if so, update the open file path.
     if (await fileSaveWorker(filePath)) {
       openFilePath = filePath;
+      lastSuccessfullyUsedFolder = p.dirname(filePath);
     }
   }
 
@@ -240,6 +242,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
       } else {
         statusMessage = 'Configuration successfully saved to: $filePath';
         fileSaved = true;
+        lastSuccessfullyUsedFolder = p.dirname(filePath);
       }
     }
 
