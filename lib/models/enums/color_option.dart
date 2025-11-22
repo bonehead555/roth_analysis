@@ -9,7 +9,8 @@ enum ColorOption {
   green(  1, Colors.green,  'Green'),
   red(    2, Colors.red,    'Red'),
   purple( 3, Colors.purple, 'Purple'),
-  orange( 4, Colors.orange, 'Orange');
+  orange( 4, Colors.orange, 'Orange'),
+  black(  5, Colors.black, 'Black');
 
   final int colorIndex;
   final Color color;
