@@ -36,6 +36,26 @@ class ScenariosProvider extends StateNotifier<ScenarioInfos> {
     state = newInfos;
   }
 
+  /// Returns a list [ColorOption] of either
+  /// * colors used in current scenarios, when [unusedOnly] is false or ommitted
+  /// * colors unused in current scenarios, when [unusedOnly] is true
+  List<ColorOption> colors({bool unusedOnly = false}) {
+    List<ColorOption> usedColors = [];
+    for (ScenarioInfo scenario in state) {
+      usedColors.add(scenario.colorOption);
+    }
+    if (!unusedOnly) {
+      return usedColors;
+    }
+    List<ColorOption> unusedColors = [];
+    for (ColorOption color in ColorOption.values) {
+      if (!usedColors.contains(color)) {
+        unusedColors.add(color);
+      }
+    }
+    return unusedColors;
+  }
+
   /// Moves the item at [oldIndex] to the location specified at [newIndex].
   void moveInfoItem(int oldIndex, int newIndex) {
     final ScenarioInfos newInfos = [...state];
