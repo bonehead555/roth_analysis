@@ -53,6 +53,12 @@ class _RothScenariosState extends ConsumerState<RothScenarios> {
       insertAt = ref.read(scenarioInfosProvider).length;
     }
     ScenarioInfo defaultInfo = ScenarioInfo();
+    // Select an unused color.
+    List<ColorOption> unusedColors =
+        ref.read(scenarioInfosProvider.notifier).colors(unusedOnly: true);
+    if (unusedColors.isNotEmpty) {
+      defaultInfo = defaultInfo.copyWith(colorOption: unusedColors.first);
+    }
     ScenarioInfo? newInfo = await _editInfoDialog(defaultInfo, true);
     if (newInfo == null) return;
     bool wasAdded =
@@ -356,7 +362,9 @@ class _RothScenariosState extends ConsumerState<RothScenarios> {
         Tooltip(
           message: 'Add Item',
           child: IconButton(
-            onPressed: _newIncomeInfo,
+            onPressed: numIncomeItems < ColorOption.values.length
+                ? _newIncomeInfo
+                : null,
             icon: const Icon(Icons.add_sharp),
           ),
         ),
