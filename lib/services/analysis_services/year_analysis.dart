@@ -1192,7 +1192,7 @@ class YearAnalysis {
     bool moreIterationsAllowed = true;
     while (moreIterationsAllowed) {
       rothConversionAmount = (lowerBound + upperBound) / 2.0;
-      moreIterationsAllowed = (upperBound - lowerBound) >= allowedUpperLowerGap;
+      moreIterationsAllowed = (upperBound - lowerBound) > allowedUpperLowerGap;
       final double rothConversionAccrued =
           rothConversionPlan.accruedAmount(month);
       final double rothConversionBalance =
