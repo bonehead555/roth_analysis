@@ -8,7 +8,7 @@ typedef YValueMapper = num? Function(YearResult, int);
 TrackballBehavior buildTrackball() {
   return TrackballBehavior(
     enable: true,
-    hideDelay: 5000.0,
+    hideDelay: 10000.0,
     tooltipSettings: const InteractiveTooltip(
         enable: true, color: Color.fromARGB(255, 141, 198, 244)),
   );
