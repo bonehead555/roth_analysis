@@ -667,7 +667,7 @@ final _federalTaxRules2024 = FederalTaxRules(
   ),
 );
 
-/// Federal Tax Rules of the year 2024
+/// Federal Tax Rules of the year 2025
 final _federalTaxRules2025 = FederalTaxRules(
   year: 2025,
   single: TaxRulesByFilingStatus(
@@ -752,8 +752,94 @@ final _federalTaxRules2025 = FederalTaxRules(
   ),
 );
 
+/// Federal Tax Rules of the year 2026
+final _federalTaxRules2026 = FederalTaxRules(
+  year: 2026,
+  single: TaxRulesByFilingStatus(
+    year: 2026,
+    standardDeduction: StandardDeductionRule(base: 15750, additional: 2000),
+    taxBrackets: [
+      TaxBracketRule(agi: 12400, rate: 10),
+      TaxBracketRule(agi: 50400, rate: 12),
+      TaxBracketRule(agi: 105700, rate: 22),
+      TaxBracketRule(agi: 201775, rate: 24),
+      TaxBracketRule(agi: 256225, rate: 32),
+      TaxBracketRule(agi: 640600, rate: 35),
+      TaxBracketRule(agi: 0, rate: 37),
+    ],
+    capitalGainsBrackets: [
+      TaxBracketRule(agi: 48350, rate: 0),
+      TaxBracketRule(agi: 533400, rate: 15),
+      TaxBracketRule(agi: 0, rate: 20),
+    ],
+    netInvestmentIncomeTax:
+        NetInvestementIncomeRule(magiThreshold: 200000, rate: 3.8),
+  ),
+  marriedFilingSeparate: TaxRulesByFilingStatus(
+    year: 2026,
+    standardDeduction: StandardDeductionRule(base: 15750, additional: 2000),
+    taxBrackets: [
+      TaxBracketRule(agi: 12400, rate: 10),
+      TaxBracketRule(agi: 50400, rate: 12),
+      TaxBracketRule(agi: 105700, rate: 22),
+      TaxBracketRule(agi: 201775, rate: 24),
+      TaxBracketRule(agi: 256225, rate: 32),
+      TaxBracketRule(agi: 640600, rate: 35),
+      TaxBracketRule(agi: 0, rate: 37),
+    ],
+    capitalGainsBrackets: [
+      TaxBracketRule(agi: 47025, rate: 0),
+      TaxBracketRule(agi: 291850, rate: 15),
+      TaxBracketRule(agi: 0, rate: 20),
+    ],
+    netInvestmentIncomeTax:
+        NetInvestementIncomeRule(magiThreshold: 125000, rate: 3.8),
+  ),
+  marriedFilingJointly: TaxRulesByFilingStatus(
+    year: 2026,
+    standardDeduction: StandardDeductionRule(base: 31500, additional: 1600),
+    taxBrackets: [
+      TaxBracketRule(agi: 24800, rate: 10),
+      TaxBracketRule(agi: 100800, rate: 12),
+      TaxBracketRule(agi: 211400, rate: 22),
+      TaxBracketRule(agi: 403550, rate: 24),
+      TaxBracketRule(agi: 512450, rate: 32),
+      TaxBracketRule(agi: 768700, rate: 35),
+      TaxBracketRule(agi: 0, rate: 37),
+    ],
+    capitalGainsBrackets: [
+      TaxBracketRule(agi: 96700, rate: 0),
+      TaxBracketRule(agi: 600050, rate: 15),
+      TaxBracketRule(agi: 0, rate: 20),
+    ],
+    netInvestmentIncomeTax:
+        NetInvestementIncomeRule(magiThreshold: 250000, rate: 3.8),
+  ),
+  headOfHousehold: TaxRulesByFilingStatus(
+    year: 2026,
+    standardDeduction: StandardDeductionRule(base: 22500, additional: 2000),
+    taxBrackets: [
+      TaxBracketRule(agi: 17700, rate: 10),
+      TaxBracketRule(agi: 67450, rate: 12),
+      TaxBracketRule(agi: 105700, rate: 22),
+      TaxBracketRule(agi: 201775, rate: 24),
+      TaxBracketRule(agi: 256200, rate: 32),
+      TaxBracketRule(agi: 640600, rate: 35),
+      TaxBracketRule(agi: 0, rate: 37),
+    ],
+    capitalGainsBrackets: [
+      TaxBracketRule(agi: 64750, rate: 0),
+      TaxBracketRule(agi: 566700, rate: 15),
+      TaxBracketRule(agi: 0, rate: 20),
+    ],
+    netInvestmentIncomeTax:
+        NetInvestementIncomeRule(magiThreshold: 200000, rate: 3.8),
+  ),
+);
+
 List<FederalTaxRules> _historicalFederalTaxRules = [
   _federalTaxRules2021,
   _federalTaxRules2024,
   _federalTaxRules2025,
+  _federalTaxRules2026,
 ];
