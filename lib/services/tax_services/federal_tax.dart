@@ -757,7 +757,7 @@ final _federalTaxRules2026 = FederalTaxRules(
   year: 2026,
   single: TaxRulesByFilingStatus(
     year: 2026,
-    standardDeduction: StandardDeductionRule(base: 15750, additional: 2000),
+    standardDeduction: StandardDeductionRule(base: 16100, additional: 2050),
     taxBrackets: [
       TaxBracketRule(agi: 12400, rate: 10),
       TaxBracketRule(agi: 50400, rate: 12),
@@ -777,7 +777,7 @@ final _federalTaxRules2026 = FederalTaxRules(
   ),
   marriedFilingSeparate: TaxRulesByFilingStatus(
     year: 2026,
-    standardDeduction: StandardDeductionRule(base: 15750, additional: 2000),
+    standardDeduction: StandardDeductionRule(base: 16100, additional: 2050),
     taxBrackets: [
       TaxBracketRule(agi: 12400, rate: 10),
       TaxBracketRule(agi: 50400, rate: 12),
@@ -797,7 +797,7 @@ final _federalTaxRules2026 = FederalTaxRules(
   ),
   marriedFilingJointly: TaxRulesByFilingStatus(
     year: 2026,
-    standardDeduction: StandardDeductionRule(base: 31500, additional: 1600),
+    standardDeduction: StandardDeductionRule(base: 32200, additional: 1650),
     taxBrackets: [
       TaxBracketRule(agi: 24800, rate: 10),
       TaxBracketRule(agi: 100800, rate: 12),
@@ -817,7 +817,7 @@ final _federalTaxRules2026 = FederalTaxRules(
   ),
   headOfHousehold: TaxRulesByFilingStatus(
     year: 2026,
-    standardDeduction: StandardDeductionRule(base: 22500, additional: 2000),
+    standardDeduction: StandardDeductionRule(base: 24150, additional: 2050),
     taxBrackets: [
       TaxBracketRule(agi: 17700, rate: 10),
       TaxBracketRule(agi: 67450, rate: 12),
