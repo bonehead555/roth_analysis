@@ -3,8 +3,8 @@ import 'package:roth_analysis/services/analysis_services/plan_results.dart';
 import 'package:roth_analysis/widgets/graph_view/build_chart.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';
 
-const double iraNormalizationFactor = 0.6656;
-const double taxableNormalizationFactor = 0.8523;
+const double iraNormalizationFactor = 0.6109;
+const double taxableNormalizationFactor = 0.8282;
 
 class TotalValueChart extends StatefulWidget {
   final String chartTitle;
