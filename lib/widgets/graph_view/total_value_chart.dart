@@ -4,23 +4,27 @@ import 'package:roth_analysis/utilities/number_utilities.dart';
 import 'package:roth_analysis/widgets/graph_view/build_chart.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';
 
-/// Record containing normilization factors for Traditonal IRA and Taxable assets
-/// when compared to Roth IRA Assets.
+/// Record containing normilization factors for Traditonal IRA and Taxable assets.
+/// I.e., when compared to Roth IRA Assets.
 /// * iraNormalizationFactor - Factor to normalize Traditonal IRA assets to Roth IRA assets.
 /// * taxableNormalizationFactor - Factor to normalize Taxable assets to Roth IRA assets.
-/// MAGI limit was configured.
 typedef NormilizationFactors = ({
   double iraNormalizationFactor,
   double taxableNormalizationFactor,
 });
 
+/// Returns a [NormilizationFactors] tuple.
+/// 
+/// Inputs:
+/// * [targetYear] - Target year of the [iraValue].
+/// * [iraValue] - Full Traditional IRA assets for the [targetYear].
 NormilizationFactors getNorimilaztionFactors(
     {required int targetYear, required double iraValue}) {
-  // The result matrix below was designed for 2025 values
+  // The result matrix below was designed for 2025 values.
   iraValue = adjustForTime(
       valueToAdjust: iraValue, toYear: 2025, fromYear: targetYear);
 
-  // Now determine which normilization factors to use based on the size of the iraValue
+  // Now determine which normilization factors to use based on the size of the iraValue.
   switch (iraValue) {
     case < 600000:
       return (
