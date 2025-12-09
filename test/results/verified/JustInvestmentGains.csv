@@ -582,322 +582,322 @@ Date, Type, Account, Amount, Balance, Memo
 2033/01,Gain,Roth,1629.38,99392.36,Monthly income gain
 2033/01,Withdraw,IRA,6975.4,2229685.0,RMD Withdraw
 2033/01,Deposit,Brokerage,6975.4,230641.44,RMD fully allocated into long-term investments
-2033/01,Payment,Savings,990.67,9850.87,Federal Income taxes for Self
-2033/02,Gain,Savings,8.62,9859.49,Monthly income gain
+2033/01,Payment,Savings,966.5,9875.04,Federal Income taxes for Self
+2033/02,Gain,Savings,8.63,9883.67,Monthly income gain
 2033/02,Gain,Brokerage,946.47,231587.91,Monthly price gain
 2033/02,Gain,Brokerage,946.47,232534.38,Monthly income gain
 2033/02,Gain,IRA,18609.77,2248294.77,Monthly income gain
 2033/02,Gain,Roth,1656.54,101048.9,Monthly income gain
 2033/02,Withdraw,IRA,6975.4,2241319.37,RMD Withdraw
 2033/02,Deposit,Brokerage,6975.4,239509.78,RMD fully allocated into long-term investments
-2033/02,Payment,Savings,995.48,8864.01,Federal Income taxes for Self
-2033/03,Gain,Savings,7.8,8871.81,Monthly income gain
+2033/02,Payment,Savings,971.32,8912.35,Federal Income taxes for Self
+2033/03,Gain,Savings,7.83,8920.18,Monthly income gain
 2033/03,Gain,Brokerage,983.43,240493.21,Monthly price gain
 2033/03,Gain,Brokerage,983.43,241476.64,Monthly income gain
 2033/03,Gain,IRA,18706.73,2260026.1,Monthly income gain
 2033/03,Gain,Roth,1684.15,102733.05,Monthly income gain
 2033/03,Withdraw,IRA,6975.4,2253050.7,RMD Withdraw
 2033/03,Deposit,Brokerage,6975.4,248452.04,RMD fully allocated into long-term investments
-2033/03,Payment,Savings,1003.39,7868.42,Federal Income taxes for Self
-2033/04,Gain,Savings,6.98,7875.4,Monthly income gain
+2033/03,Payment,Savings,979.22,7940.96,Federal Income taxes for Self
+2033/04,Gain,Savings,7.03,7947.99,Monthly income gain
 2033/04,Gain,Brokerage,1020.68,249472.72,Monthly price gain
 2033/04,Gain,Brokerage,1020.68,250493.4,Monthly income gain
 2033/04,Gain,IRA,18804.49,2271855.19,Monthly income gain
 2033/04,Gain,Roth,1712.22,104445.27,Monthly income gain
 2033/04,Withdraw,IRA,6975.4,2264879.79,RMD Withdraw
 2033/04,Deposit,Brokerage,6975.4,257468.8,RMD fully allocated into long-term investments
-2033/04,Payment,Savings,1011.38,6864.02,Federal Income taxes for Self
-2033/05,Gain,Savings,6.14,6870.16,Monthly income gain
+2033/04,Payment,Savings,987.22,6960.77,Federal Income taxes for Self
+2033/05,Gain,Savings,6.21,6966.98,Monthly income gain
 2033/05,Gain,Brokerage,1058.25,258527.05,Monthly price gain
 2033/05,Gain,Brokerage,1058.25,259585.3,Monthly income gain
 2033/05,Gain,IRA,18903.06,2283782.85,Monthly income gain
 2033/05,Gain,Roth,1740.75,106186.02,Monthly income gain
 2033/05,Withdraw,IRA,6975.4,2276807.45,RMD Withdraw
 2033/05,Deposit,Brokerage,6975.4,266560.7,RMD fully allocated into long-term investments
-2033/05,Payment,Savings,1019.51,5850.65,Federal Income taxes for Self
-2033/06,Gain,Savings,5.3,5855.95,Monthly income gain
+2033/05,Payment,Savings,995.34,5971.64,Federal Income taxes for Self
+2033/06,Gain,Savings,5.39,5977.03,Monthly income gain
 2033/06,Gain,Brokerage,1096.14,267656.84,Monthly price gain
 2033/06,Gain,Brokerage,1096.14,268752.98,Monthly income gain
 2033/06,Gain,IRA,19002.46,2295809.91,Monthly income gain
 2033/06,Gain,Roth,1769.77,107955.79,Monthly income gain
 2033/06,Withdraw,IRA,6975.4,2288834.51,RMD Withdraw
 2033/06,Deposit,Brokerage,6975.4,275728.38,RMD fully allocated into long-term investments
-2033/06,Payment,Savings,1027.65,4828.3,Federal Income taxes for Self
-2033/07,Gain,Savings,4.45,4832.75,Monthly income gain
+2033/06,Payment,Savings,1003.49,4973.54,Federal Income taxes for Self
+2033/07,Gain,Savings,4.56,4978.1,Monthly income gain
 2033/07,Gain,Brokerage,1134.34,276862.72,Monthly price gain
 2033/07,Gain,Brokerage,1134.34,277997.06,Monthly income gain
 2033/07,Gain,IRA,19102.69,2307937.2,Monthly income gain
 2033/07,Gain,Roth,1799.26,109755.05,Monthly income gain
 2033/07,Withdraw,IRA,6975.4,2300961.8,RMD Withdraw
 2033/07,Deposit,Brokerage,6975.4,284972.46,RMD fully allocated into long-term investments
-2033/07,Payment,Savings,1035.82,3796.93,Federal Income taxes for Self
-2033/08,Gain,Savings,3.6,3800.53,Monthly income gain
+2033/07,Payment,Savings,1011.82,3966.28,Federal Income taxes for Self
+2033/08,Gain,Savings,3.73,3970.01,Monthly income gain
 2033/08,Gain,Brokerage,1172.85,286145.31,Monthly price gain
 2033/08,Gain,Brokerage,1172.85,287318.16,Monthly income gain
 2033/08,Gain,IRA,19203.75,2320165.55,Monthly income gain
 2033/08,Gain,Roth,1829.25,111584.3,Monthly income gain
 2033/08,Withdraw,IRA,6975.4,2313190.15,RMD Withdraw
 2033/08,Deposit,Brokerage,6975.4,294293.56,RMD fully allocated into long-term investments
-2033/08,Payment,Savings,1044.22,2756.31,Federal Income taxes for Self
-2033/09,Gain,Savings,2.73,2759.04,Monthly income gain
+2033/08,Payment,Savings,1020.02,2949.99,Federal Income taxes for Self
+2033/09,Gain,Savings,2.88,2952.87,Monthly income gain
 2033/09,Gain,Brokerage,1211.69,295505.25,Monthly price gain
 2033/09,Gain,Brokerage,1211.69,296716.94,Monthly income gain
 2033/09,Gain,IRA,19305.65,2332495.8,Monthly income gain
 2033/09,Gain,Roth,1859.74,113444.04,Monthly income gain
 2033/09,Withdraw,IRA,6975.4,2325520.4,RMD Withdraw
 2033/09,Deposit,Brokerage,6975.4,303692.34,RMD fully allocated into long-term investments
-2033/09,Payment,Savings,1052.47,1706.57,Federal Income taxes for Self
-2033/10,Gain,Savings,1.86,1708.43,Monthly income gain
+2033/09,Payment,Savings,1028.27,1924.6,Federal Income taxes for Self
+2033/10,Gain,Savings,2.03,1926.63,Monthly income gain
 2033/10,Gain,Brokerage,1250.85,304943.19,Monthly price gain
 2033/10,Gain,Brokerage,1250.85,306194.04,Monthly income gain
 2033/10,Gain,IRA,19408.4,2344928.8,Monthly income gain
 2033/10,Gain,Roth,1890.73,115334.77,Monthly income gain
 2033/10,Withdraw,IRA,6975.4,2337953.4,RMD Withdraw
 2033/10,Deposit,Brokerage,6975.4,313169.44,RMD fully allocated into long-term investments
-2033/10,Payment,Savings,1060.8,647.63,Federal Income taxes for Self
-2033/11,Gain,Savings,0.98,648.61,Monthly income gain
+2033/10,Payment,Savings,1036.93,889.7,Federal Income taxes for Self
+2033/11,Gain,Savings,1.17,890.87,Monthly income gain
 2033/11,Gain,Brokerage,1290.34,314459.78,Monthly price gain
 2033/11,Gain,Brokerage,1290.34,315750.12,Monthly income gain
 2033/11,Gain,IRA,19512.01,2357465.41,Monthly income gain
 2033/11,Gain,Roth,1922.25,117257.02,Monthly income gain
 2033/11,Withdraw,IRA,6975.4,2350490.01,RMD Withdraw
-2033/11,Deposit,Savings,420.7,1069.31,Portion of RMD allocated into savings for monthly expenses
-2033/11,Deposit,Brokerage,6554.7,322304.82,Portion of RMD allocated into long-term investments
-2033/11,Payment,Savings,1069.31,0.0,Federal Income taxes for Self
-2033/12,Gain,Savings,0.27,0.27,Monthly income gain
-2033/12,Gain,Brokerage,1329.28,323634.1,Monthly price gain
-2033/12,Gain,Brokerage,1329.28,324963.38,Monthly income gain
+2033/11,Deposit,Savings,154.56,1045.43,Portion of RMD allocated into savings for monthly expenses
+2033/11,Deposit,Brokerage,6820.84,322570.96,Portion of RMD allocated into long-term investments
+2033/11,Payment,Savings,1045.43,0.0,Federal Income taxes for Self
+2033/12,Gain,Savings,0.37,0.37,Monthly income gain
+2033/12,Gain,Brokerage,1329.84,323900.8,Monthly price gain
+2033/12,Gain,Brokerage,1329.84,325230.64,Monthly income gain
 2033/12,Gain,IRA,19616.48,2370106.49,Monthly income gain
 2033/12,Gain,Roth,1954.28,119211.3,Monthly income gain
 2033/12,Withdraw,IRA,6975.34,2363131.15,RMD Withdraw
-2033/12,Deposit,Savings,1078.03,1078.3,Portion of RMD allocated into savings for monthly expenses
-2033/12,Deposit,Brokerage,5897.31,330860.69,Portion of RMD allocated into long-term investments
-2033/12,Payment,Savings,1078.3,0.0,Federal Income taxes for Self
+2033/12,Deposit,Savings,1053.07,1053.44,Portion of RMD allocated into savings for monthly expenses
+2033/12,Deposit,Brokerage,5922.27,331152.91,Portion of RMD allocated into long-term investments
+2033/12,Payment,Savings,1053.44,0.0,Federal Income taxes for Self
 2033/00,AccountInfo,Savings,,0.0,Account balance
-2033/00,AccountInfo,Brokerage,,330860.69,Account balance
+2033/00,AccountInfo,Brokerage,,331152.91,Account balance
 2033/00,AccountInfo,IRA,,2363131.15,Account balance
 2033/00,AccountInfo,Roth,,119211.3,Account balance
 2033/00,TaxInfo,FICA,,0.0,FICA Tax
 2033/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2033/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2033/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2033/00,TaxInfo,AGI,,97181.06,Adjusted Gross Income
-2033/00,TaxInfo,FederalTax,,12389.0,Federal income tax
+2033/00,TaxInfo,AGI,,97182.72,Adjusted Gross Income
+2033/00,TaxInfo,FederalTax,,12099.0,Federal income tax
 2033/00,TaxInfo,StateTax,,0.0,State income tax
 2033/00,TaxInfo,LocalTax,,0.0,Local income tax
-2034/01,Gain,Brokerage,1378.59,332239.28,Monthly price gain
-2034/01,Gain,Brokerage,1378.59,333617.87,Monthly income gain
+2034/01,Gain,Brokerage,1379.8,332532.71,Monthly price gain
+2034/01,Gain,Brokerage,1379.8,333912.51,Monthly income gain
 2034/01,Gain,IRA,19692.76,2382823.91,Monthly income gain
 2034/01,Gain,Roth,1986.85,121198.15,Monthly income gain
 2034/01,Withdraw,IRA,7722.65,2375101.26,RMD Withdraw
-2034/01,Deposit,Savings,1253.0,1253.0,Portion of RMD allocated into savings for monthly expenses
-2034/01,Deposit,Brokerage,6469.65,340087.52,Portion of RMD allocated into long-term investments
-2034/01,Payment,Savings,1253.0,0.0,Federal Income taxes for Self
-2034/02,Gain,Brokerage,1403.55,341491.07,Monthly price gain
-2034/02,Gain,Brokerage,1403.55,342894.62,Monthly income gain
+2034/01,Deposit,Savings,1229.08,1229.08,Portion of RMD allocated into savings for monthly expenses
+2034/01,Deposit,Brokerage,6493.57,340406.08,Portion of RMD allocated into long-term investments
+2034/01,Payment,Savings,1229.08,0.0,Federal Income taxes for Self
+2034/02,Gain,Brokerage,1404.83,341810.91,Monthly price gain
+2034/02,Gain,Brokerage,1404.83,343215.74,Monthly income gain
 2034/02,Gain,IRA,19824.69,2394925.95,Monthly income gain
 2034/02,Gain,Roth,2019.97,123218.12,Monthly income gain
 2034/02,Withdraw,IRA,7722.65,2387203.3,RMD Withdraw
-2034/02,Deposit,Savings,1258.55,1258.55,Portion of RMD allocated into savings for monthly expenses
-2034/02,Deposit,Brokerage,6464.1,349358.72,Portion of RMD allocated into long-term investments
-2034/02,Payment,Savings,1258.55,0.0,Federal Income taxes for Self
-2034/03,Gain,Brokerage,1442.19,350800.91,Monthly price gain
-2034/03,Gain,Brokerage,1442.19,352243.1,Monthly income gain
+2034/02,Deposit,Savings,1234.63,1234.63,Portion of RMD allocated into savings for monthly expenses
+2034/02,Deposit,Brokerage,6488.02,349703.76,Portion of RMD allocated into long-term investments
+2034/02,Payment,Savings,1234.63,0.0,Federal Income taxes for Self
+2034/03,Gain,Brokerage,1443.58,351147.34,Monthly price gain
+2034/03,Gain,Brokerage,1443.58,352590.92,Monthly income gain
 2034/03,Gain,IRA,19925.54,2407128.84,Monthly income gain
 2034/03,Gain,Roth,2053.64,125271.76,Monthly income gain
 2034/03,Withdraw,IRA,7722.65,2399406.19,RMD Withdraw
-2034/03,Deposit,Savings,1267.05,1267.05,Portion of RMD allocated into savings for monthly expenses
-2034/03,Deposit,Brokerage,6455.6,358698.7,Portion of RMD allocated into long-term investments
-2034/03,Payment,Savings,1267.05,0.0,Federal Income taxes for Self
-2034/04,Gain,Brokerage,1481.13,360179.83,Monthly price gain
-2034/04,Gain,Brokerage,1481.13,361660.96,Monthly income gain
+2034/03,Deposit,Savings,1243.13,1243.13,Portion of RMD allocated into savings for monthly expenses
+2034/03,Deposit,Brokerage,6479.52,359070.44,Portion of RMD allocated into long-term investments
+2034/03,Payment,Savings,1243.13,0.0,Federal Income taxes for Self
+2034/04,Gain,Brokerage,1482.63,360553.07,Monthly price gain
+2034/04,Gain,Brokerage,1482.63,362035.7,Monthly income gain
 2034/04,Gain,IRA,20027.23,2419433.42,Monthly income gain
 2034/04,Gain,Roth,2087.86,127359.62,Monthly income gain
 2034/04,Withdraw,IRA,7722.65,2411710.77,RMD Withdraw
-2034/04,Deposit,Savings,1275.6,1275.6,Portion of RMD allocated into savings for monthly expenses
-2034/04,Deposit,Brokerage,6447.05,368108.01,Portion of RMD allocated into long-term investments
-2034/04,Payment,Savings,1275.6,0.0,Federal Income taxes for Self
-2034/05,Gain,Brokerage,1520.35,369628.36,Monthly price gain
-2034/05,Gain,Brokerage,1520.35,371148.71,Monthly income gain
+2034/04,Deposit,Savings,1251.8,1251.8,Portion of RMD allocated into savings for monthly expenses
+2034/04,Deposit,Brokerage,6470.85,368506.55,Portion of RMD allocated into long-term investments
+2034/04,Payment,Savings,1251.8,0.0,Federal Income taxes for Self
+2034/05,Gain,Brokerage,1521.96,370028.51,Monthly price gain
+2034/05,Gain,Brokerage,1521.96,371550.47,Monthly income gain
 2034/05,Gain,IRA,20129.77,2431840.54,Monthly income gain
 2034/05,Gain,Roth,2122.66,129482.28,Monthly income gain
 2034/05,Withdraw,IRA,7722.65,2424117.89,RMD Withdraw
-2034/05,Deposit,Savings,1284.22,1284.22,Portion of RMD allocated into savings for monthly expenses
-2034/05,Deposit,Brokerage,6438.43,377587.14,Portion of RMD allocated into long-term investments
-2034/05,Payment,Savings,1284.22,0.0,Federal Income taxes for Self
-2034/06,Gain,Brokerage,1559.87,379147.01,Monthly price gain
-2034/06,Gain,Brokerage,1559.87,380706.88,Monthly income gain
+2034/05,Deposit,Savings,1260.42,1260.42,Portion of RMD allocated into savings for monthly expenses
+2034/05,Deposit,Brokerage,6462.23,378012.7,Portion of RMD allocated into long-term investments
+2034/05,Payment,Savings,1260.42,0.0,Federal Income taxes for Self
+2034/06,Gain,Brokerage,1561.59,379574.29,Monthly price gain
+2034/06,Gain,Brokerage,1561.59,381135.88,Monthly income gain
 2034/06,Gain,IRA,20233.16,2444351.05,Monthly income gain
 2034/06,Gain,Roth,2158.04,131640.32,Monthly income gain
 2034/06,Withdraw,IRA,7722.65,2436628.4,RMD Withdraw
-2034/06,Deposit,Savings,1292.94,1292.94,Portion of RMD allocated into savings for monthly expenses
-2034/06,Deposit,Brokerage,6429.71,387136.59,Portion of RMD allocated into long-term investments
-2034/06,Payment,Savings,1292.94,0.0,Federal Income taxes for Self
-2034/07,Gain,Brokerage,1599.67,388736.26,Monthly price gain
-2034/07,Gain,Brokerage,1599.67,390335.93,Monthly income gain
+2034/06,Deposit,Savings,1269.13,1269.13,Portion of RMD allocated into savings for monthly expenses
+2034/06,Deposit,Brokerage,6453.52,387589.4,Portion of RMD allocated into long-term investments
+2034/06,Payment,Savings,1269.13,0.0,Federal Income taxes for Self
+2034/07,Gain,Brokerage,1601.51,389190.91,Monthly price gain
+2034/07,Gain,Brokerage,1601.51,390792.42,Monthly income gain
 2034/07,Gain,IRA,20337.41,2456965.81,Monthly income gain
 2034/07,Gain,Roth,2194.01,133834.33,Monthly income gain
 2034/07,Withdraw,IRA,7722.65,2449243.16,RMD Withdraw
-2034/07,Deposit,Savings,1301.61,1301.61,Portion of RMD allocated into savings for monthly expenses
-2034/07,Deposit,Brokerage,6421.04,396756.97,Portion of RMD allocated into long-term investments
-2034/07,Payment,Savings,1301.61,0.0,Federal Income taxes for Self
-2034/08,Gain,Brokerage,1639.78,398396.75,Monthly price gain
-2034/08,Gain,Brokerage,1639.78,400036.53,Monthly income gain
+2034/07,Deposit,Savings,1277.97,1277.97,Portion of RMD allocated into savings for monthly expenses
+2034/07,Deposit,Brokerage,6444.68,397237.1,Portion of RMD allocated into long-term investments
+2034/07,Payment,Savings,1277.97,0.0,Federal Income taxes for Self
+2034/08,Gain,Brokerage,1641.73,398878.83,Monthly price gain
+2034/08,Gain,Brokerage,1641.73,400520.56,Monthly income gain
 2034/08,Gain,IRA,20442.54,2469685.7,Monthly income gain
 2034/08,Gain,Roth,2230.57,136064.9,Monthly income gain
 2034/08,Withdraw,IRA,7722.65,2461963.05,RMD Withdraw
-2034/08,Deposit,Savings,1310.41,1310.41,Portion of RMD allocated into savings for monthly expenses
-2034/08,Deposit,Brokerage,6412.24,406448.77,Portion of RMD allocated into long-term investments
-2034/08,Payment,Savings,1310.41,0.0,Federal Income taxes for Self
-2034/09,Gain,Brokerage,1680.18,408128.95,Monthly price gain
-2034/09,Gain,Brokerage,1680.18,409809.13,Monthly income gain
+2034/08,Deposit,Savings,1286.77,1286.77,Portion of RMD allocated into savings for monthly expenses
+2034/08,Deposit,Brokerage,6435.88,406956.44,Portion of RMD allocated into long-term investments
+2034/08,Payment,Savings,1286.77,0.0,Federal Income taxes for Self
+2034/09,Gain,Brokerage,1682.24,408638.68,Monthly price gain
+2034/09,Gain,Brokerage,1682.24,410320.92,Monthly income gain
 2034/09,Gain,IRA,20548.54,2482511.59,Monthly income gain
 2034/09,Gain,Roth,2267.75,138332.65,Monthly income gain
 2034/09,Withdraw,IRA,7722.65,2474788.94,RMD Withdraw
-2034/09,Deposit,Savings,1319.4,1319.4,Portion of RMD allocated into savings for monthly expenses
-2034/09,Deposit,Brokerage,6403.25,416212.38,Portion of RMD allocated into long-term investments
-2034/09,Payment,Savings,1319.4,0.0,Federal Income taxes for Self
-2034/10,Gain,Brokerage,1720.88,417933.26,Monthly price gain
-2034/10,Gain,Brokerage,1720.88,419654.14,Monthly income gain
+2034/09,Deposit,Savings,1295.52,1295.52,Portion of RMD allocated into savings for monthly expenses
+2034/09,Deposit,Brokerage,6427.13,416748.05,Portion of RMD allocated into long-term investments
+2034/09,Payment,Savings,1295.52,0.0,Federal Income taxes for Self
+2034/10,Gain,Brokerage,1723.06,418471.11,Monthly price gain
+2034/10,Gain,Brokerage,1723.06,420194.17,Monthly income gain
 2034/10,Gain,IRA,20655.42,2495444.36,Monthly income gain
 2034/10,Gain,Roth,2305.54,140638.19,Monthly income gain
 2034/10,Withdraw,IRA,7722.65,2487721.71,RMD Withdraw
-2034/10,Deposit,Savings,1328.41,1328.41,Portion of RMD allocated into savings for monthly expenses
-2034/10,Deposit,Brokerage,6394.24,426048.38,Portion of RMD allocated into long-term investments
-2034/10,Payment,Savings,1328.41,0.0,Federal Income taxes for Self
-2034/11,Gain,Brokerage,1761.88,427810.26,Monthly price gain
-2034/11,Gain,Brokerage,1761.88,429572.14,Monthly income gain
+2034/10,Deposit,Savings,1304.52,1304.52,Portion of RMD allocated into savings for monthly expenses
+2034/10,Deposit,Brokerage,6418.13,426612.3,Portion of RMD allocated into long-term investments
+2034/10,Payment,Savings,1304.52,0.0,Federal Income taxes for Self
+2034/11,Gain,Brokerage,1764.18,428376.48,Monthly price gain
+2034/11,Gain,Brokerage,1764.18,430140.66,Monthly income gain
 2034/11,Gain,IRA,20763.19,2508484.9,Monthly income gain
 2034/11,Gain,Roth,2343.97,142982.16,Monthly income gain
 2034/11,Withdraw,IRA,7722.65,2500762.25,RMD Withdraw
-2034/11,Deposit,Savings,1337.4,1337.4,Portion of RMD allocated into savings for monthly expenses
-2034/11,Deposit,Brokerage,6385.25,435957.39,Portion of RMD allocated into long-term investments
-2034/11,Payment,Savings,1337.4,0.0,Federal Income taxes for Self
-2034/12,Gain,Brokerage,1803.19,437760.58,Monthly price gain
-2034/12,Gain,Brokerage,1803.19,439563.77,Monthly income gain
+2034/11,Deposit,Savings,1313.51,1313.51,Portion of RMD allocated into savings for monthly expenses
+2034/11,Deposit,Brokerage,6409.14,436549.8,Portion of RMD allocated into long-term investments
+2034/11,Payment,Savings,1313.51,0.0,Federal Income taxes for Self
+2034/12,Gain,Brokerage,1805.61,438355.41,Monthly price gain
+2034/12,Gain,Brokerage,1805.61,440161.02,Monthly income gain
 2034/12,Gain,IRA,20871.86,2521634.11,Monthly income gain
 2034/12,Gain,Roth,2383.04,145365.2,Monthly income gain
 2034/12,Withdraw,IRA,7722.66,2513911.45,RMD Withdraw
-2034/12,Deposit,Savings,1346.41,1346.41,Portion of RMD allocated into savings for monthly expenses
-2034/12,Deposit,Brokerage,6376.25,445940.02,Portion of RMD allocated into long-term investments
-2034/12,Payment,Savings,1346.41,0.0,Federal Income taxes for Self
+2034/12,Deposit,Savings,1323.52,1323.52,Portion of RMD allocated into savings for monthly expenses
+2034/12,Deposit,Brokerage,6399.14,446560.16,Portion of RMD allocated into long-term investments
+2034/12,Payment,Savings,1323.52,0.0,Federal Income taxes for Self
 2034/00,AccountInfo,Savings,,0.0,Account balance
-2034/00,AccountInfo,Brokerage,,445940.02,Account balance
+2034/00,AccountInfo,Brokerage,,446560.16,Account balance
 2034/00,AccountInfo,IRA,,2513911.45,Account balance
 2034/00,AccountInfo,Roth,,145365.2,Account balance
 2034/00,TaxInfo,FICA,,0.0,FICA Tax
 2034/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2034/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2034/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2034/00,TaxInfo,AGI,,111663.07,Adjusted Gross Income
-2034/00,TaxInfo,FederalTax,,15575.0,Federal income tax
+2034/00,TaxInfo,AGI,,111684.53,Adjusted Gross Income
+2034/00,TaxInfo,FederalTax,,15290.0,Federal income tax
 2034/00,TaxInfo,StateTax,,0.0,State income tax
 2034/00,TaxInfo,LocalTax,,0.0,Local income tax
-2035/01,Gain,Brokerage,1858.08,447798.1,Monthly price gain
-2035/01,Gain,Brokerage,1858.08,449656.18,Monthly income gain
+2035/01,Gain,Brokerage,1860.67,448420.83,Monthly price gain
+2035/01,Gain,Brokerage,1860.67,450281.5,Monthly income gain
 2035/01,Gain,IRA,20949.26,2534860.71,Monthly income gain
 2035/01,Gain,Roth,2422.75,147787.95,Monthly income gain
 2035/01,Withdraw,IRA,8515.96,2526344.75,RMD Withdraw
-2035/01,Deposit,Savings,1538.67,1538.67,Portion of RMD allocated into savings for monthly expenses
-2035/01,Deposit,Brokerage,6977.29,456633.47,Portion of RMD allocated into long-term investments
-2035/01,Payment,Savings,1538.67,0.0,Federal Income taxes for Self
-2035/02,Gain,Brokerage,1888.1,458521.57,Monthly price gain
-2035/02,Gain,Brokerage,1888.1,460409.67,Monthly income gain
+2035/01,Deposit,Savings,1510.58,1510.58,Portion of RMD allocated into savings for monthly expenses
+2035/01,Deposit,Brokerage,7005.38,457286.88,Portion of RMD allocated into long-term investments
+2035/01,Payment,Savings,1510.58,0.0,Federal Income taxes for Self
+2035/02,Gain,Brokerage,1890.77,459177.65,Monthly price gain
+2035/02,Gain,Brokerage,1890.77,461068.42,Monthly income gain
 2035/02,Gain,IRA,21088.36,2547433.11,Monthly income gain
 2035/02,Gain,Roth,2463.13,150251.08,Monthly income gain
 2035/02,Withdraw,IRA,8515.96,2538917.15,RMD Withdraw
-2035/02,Deposit,Savings,1545.94,1545.94,Portion of RMD allocated into savings for monthly expenses
-2035/02,Deposit,Brokerage,6970.02,467379.69,Portion of RMD allocated into long-term investments
-2035/02,Payment,Savings,1545.94,0.0,Federal Income taxes for Self
-2035/03,Gain,Brokerage,1932.89,469312.58,Monthly price gain
-2035/03,Gain,Brokerage,1932.89,471245.47,Monthly income gain
+2035/02,Deposit,Savings,1517.77,1517.77,Portion of RMD allocated into savings for monthly expenses
+2035/02,Deposit,Brokerage,6998.19,468066.61,Portion of RMD allocated into long-term investments
+2035/02,Payment,Savings,1517.77,0.0,Federal Income taxes for Self
+2035/03,Gain,Brokerage,1935.7,470002.31,Monthly price gain
+2035/03,Gain,Brokerage,1935.7,471938.01,Monthly income gain
 2035/03,Gain,IRA,21193.13,2560110.28,Monthly income gain
 2035/03,Gain,Roth,2504.18,152755.26,Monthly income gain
 2035/03,Withdraw,IRA,8515.96,2551594.32,RMD Withdraw
-2035/03,Deposit,Savings,1556.64,1556.64,Portion of RMD allocated into savings for monthly expenses
-2035/03,Deposit,Brokerage,6959.32,478204.79,Portion of RMD allocated into long-term investments
-2035/03,Payment,Savings,1556.64,0.0,Federal Income taxes for Self
-2035/04,Gain,Brokerage,1978.02,480182.81,Monthly price gain
-2035/04,Gain,Brokerage,1978.02,482160.83,Monthly income gain
+2035/03,Deposit,Savings,1528.57,1528.57,Portion of RMD allocated into savings for monthly expenses
+2035/03,Deposit,Brokerage,6987.39,478925.4,Portion of RMD allocated into long-term investments
+2035/03,Payment,Savings,1528.57,0.0,Federal Income taxes for Self
+2035/04,Gain,Brokerage,1980.97,480906.37,Monthly price gain
+2035/04,Gain,Brokerage,1980.97,482887.34,Monthly income gain
 2035/04,Gain,IRA,21298.77,2572893.09,Monthly income gain
 2035/04,Gain,Roth,2545.92,155301.18,Monthly income gain
 2035/04,Withdraw,IRA,8515.96,2564377.13,RMD Withdraw
-2035/04,Deposit,Savings,1567.42,1567.42,Portion of RMD allocated into savings for monthly expenses
-2035/04,Deposit,Brokerage,6948.54,489109.37,Portion of RMD allocated into long-term investments
-2035/04,Payment,Savings,1567.42,0.0,Federal Income taxes for Self
-2035/05,Gain,Brokerage,2023.48,491132.85,Monthly price gain
-2035/05,Gain,Brokerage,2023.48,493156.33,Monthly income gain
+2035/04,Deposit,Savings,1539.45,1539.45,Portion of RMD allocated into savings for monthly expenses
+2035/04,Deposit,Brokerage,6976.51,489863.85,Portion of RMD allocated into long-term investments
+2035/04,Payment,Savings,1539.45,0.0,Federal Income taxes for Self
+2035/05,Gain,Brokerage,2026.56,491890.41,Monthly price gain
+2035/05,Gain,Brokerage,2026.56,493916.97,Monthly income gain
 2035/05,Gain,IRA,21405.29,2585782.42,Monthly income gain
 2035/05,Gain,Roth,2588.35,157889.53,Monthly income gain
 2035/05,Withdraw,IRA,8515.96,2577266.46,RMD Withdraw
-2035/05,Deposit,Savings,1578.42,1578.42,Portion of RMD allocated into savings for monthly expenses
-2035/05,Deposit,Brokerage,6937.54,500093.87,Portion of RMD allocated into long-term investments
-2035/05,Payment,Savings,1578.42,0.0,Federal Income taxes for Self
-2035/06,Gain,Brokerage,2069.27,502163.14,Monthly price gain
-2035/06,Gain,Brokerage,2069.27,504232.41,Monthly income gain
+2035/05,Deposit,Savings,1550.33,1550.33,Portion of RMD allocated into savings for monthly expenses
+2035/05,Deposit,Brokerage,6965.63,500882.6,Portion of RMD allocated into long-term investments
+2035/05,Payment,Savings,1550.33,0.0,Federal Income taxes for Self
+2035/06,Gain,Brokerage,2072.5,502955.1,Monthly price gain
+2035/06,Gain,Brokerage,2072.5,505027.6,Monthly income gain
 2035/06,Gain,IRA,21512.7,2598779.16,Monthly income gain
 2035/06,Gain,Roth,2631.49,160521.02,Monthly income gain
 2035/06,Withdraw,IRA,8515.96,2590263.2,RMD Withdraw
-2035/06,Deposit,Savings,1589.42,1589.42,Portion of RMD allocated into savings for monthly expenses
-2035/06,Deposit,Brokerage,6926.54,511158.95,Portion of RMD allocated into long-term investments
-2035/06,Payment,Savings,1589.42,0.0,Federal Income taxes for Self
-2035/07,Gain,Brokerage,2115.4,513274.35,Monthly price gain
-2035/07,Gain,Brokerage,2115.4,515389.75,Monthly income gain
+2035/06,Deposit,Savings,1561.33,1561.33,Portion of RMD allocated into savings for monthly expenses
+2035/06,Deposit,Brokerage,6954.63,511982.23,Portion of RMD allocated into long-term investments
+2035/06,Payment,Savings,1561.33,0.0,Federal Income taxes for Self
+2035/07,Gain,Brokerage,2118.77,514101.0,Monthly price gain
+2035/07,Gain,Brokerage,2118.77,516219.77,Monthly income gain
 2035/07,Gain,IRA,21621.01,2611884.21,Monthly income gain
 2035/07,Gain,Roth,2675.35,163196.37,Monthly income gain
 2035/07,Withdraw,IRA,8515.96,2603368.25,RMD Withdraw
-2035/07,Deposit,Savings,1600.42,1600.42,Portion of RMD allocated into savings for monthly expenses
-2035/07,Deposit,Brokerage,6915.54,522305.29,Portion of RMD allocated into long-term investments
-2035/07,Payment,Savings,1600.42,0.0,Federal Income taxes for Self
-2035/08,Gain,Brokerage,2161.86,524467.15,Monthly price gain
-2035/08,Gain,Brokerage,2161.86,526629.01,Monthly income gain
+2035/07,Deposit,Savings,1572.5,1572.5,Portion of RMD allocated into savings for monthly expenses
+2035/07,Deposit,Brokerage,6943.46,523163.23,Portion of RMD allocated into long-term investments
+2035/07,Payment,Savings,1572.5,0.0,Federal Income taxes for Self
+2035/08,Gain,Brokerage,2165.38,525328.61,Monthly price gain
+2035/08,Gain,Brokerage,2165.38,527493.99,Monthly income gain
 2035/08,Gain,IRA,21730.22,2625098.47,Monthly income gain
 2035/08,Gain,Roth,2719.94,165916.31,Monthly income gain
 2035/08,Withdraw,IRA,8515.96,2616582.51,RMD Withdraw
-2035/08,Deposit,Savings,1611.61,1611.61,Portion of RMD allocated into savings for monthly expenses
-2035/08,Deposit,Brokerage,6904.35,533533.36,Portion of RMD allocated into long-term investments
-2035/08,Payment,Savings,1611.61,0.0,Federal Income taxes for Self
-2035/09,Gain,Brokerage,2208.67,535742.03,Monthly price gain
-2035/09,Gain,Brokerage,2208.67,537950.7,Monthly income gain
+2035/08,Deposit,Savings,1583.69,1583.69,Portion of RMD allocated into savings for monthly expenses
+2035/08,Deposit,Brokerage,6932.27,534426.26,Portion of RMD allocated into long-term investments
+2035/08,Payment,Savings,1583.69,0.0,Federal Income taxes for Self
+2035/09,Gain,Brokerage,2212.33,536638.59,Monthly price gain
+2035/09,Gain,Brokerage,2212.33,538850.92,Monthly income gain
 2035/09,Gain,IRA,21840.34,2638422.85,Monthly income gain
 2035/09,Gain,Roth,2765.27,168681.58,Monthly income gain
 2035/09,Withdraw,IRA,8515.96,2629906.89,RMD Withdraw
-2035/09,Deposit,Savings,1622.86,1622.86,Portion of RMD allocated into savings for monthly expenses
-2035/09,Deposit,Brokerage,6893.1,544843.8,Portion of RMD allocated into long-term investments
-2035/09,Payment,Savings,1622.86,0.0,Federal Income taxes for Self
-2035/10,Gain,Brokerage,2255.82,547099.62,Monthly price gain
-2035/10,Gain,Brokerage,2255.82,549355.44,Monthly income gain
+2035/09,Deposit,Savings,1594.95,1594.95,Portion of RMD allocated into savings for monthly expenses
+2035/09,Deposit,Brokerage,6921.01,545771.93,Portion of RMD allocated into long-term investments
+2035/09,Payment,Savings,1594.95,0.0,Federal Income taxes for Self
+2035/10,Gain,Brokerage,2259.63,548031.56,Monthly price gain
+2035/10,Gain,Brokerage,2259.63,550291.19,Monthly income gain
 2035/10,Gain,IRA,21951.37,2651858.26,Monthly income gain
 2035/10,Gain,Roth,2811.36,171492.94,Monthly income gain
 2035/10,Withdraw,IRA,8515.96,2643342.3,RMD Withdraw
-2035/10,Deposit,Savings,1634.2,1634.2,Portion of RMD allocated into savings for monthly expenses
-2035/10,Deposit,Brokerage,6881.76,556237.2,Portion of RMD allocated into long-term investments
-2035/10,Payment,Savings,1634.2,0.0,Federal Income taxes for Self
-2035/11,Gain,Brokerage,2303.32,558540.52,Monthly price gain
-2035/11,Gain,Brokerage,2303.32,560843.84,Monthly income gain
+2035/10,Deposit,Savings,1606.28,1606.28,Portion of RMD allocated into savings for monthly expenses
+2035/10,Deposit,Brokerage,6909.68,557200.87,Portion of RMD allocated into long-term investments
+2035/10,Payment,Savings,1606.28,0.0,Federal Income taxes for Self
+2035/11,Gain,Brokerage,2307.28,559508.15,Monthly price gain
+2035/11,Gain,Brokerage,2307.28,561815.43,Monthly income gain
 2035/11,Gain,IRA,22063.34,2665405.64,Monthly income gain
 2035/11,Gain,Roth,2858.22,174351.16,Monthly income gain
 2035/11,Withdraw,IRA,8515.96,2656889.68,RMD Withdraw
-2035/11,Deposit,Savings,1645.7,1645.7,Portion of RMD allocated into savings for monthly expenses
-2035/11,Deposit,Brokerage,6870.26,567714.1,Portion of RMD allocated into long-term investments
-2035/11,Payment,Savings,1645.7,0.0,Federal Income taxes for Self
-2035/12,Gain,Brokerage,2351.16,570065.26,Monthly price gain
-2035/12,Gain,Brokerage,2351.16,572416.42,Monthly income gain
+2035/11,Deposit,Savings,1617.77,1617.77,Portion of RMD allocated into savings for monthly expenses
+2035/11,Deposit,Brokerage,6898.19,568713.62,Portion of RMD allocated into long-term investments
+2035/11,Payment,Savings,1617.77,0.0,Federal Income taxes for Self
+2035/12,Gain,Brokerage,2355.27,571068.89,Monthly price gain
+2035/12,Gain,Brokerage,2355.27,573424.16,Monthly income gain
 2035/12,Gain,IRA,22176.23,2679065.91,Monthly income gain
 2035/12,Gain,Roth,2905.85,177257.01,Monthly income gain
 2035/12,Withdraw,IRA,8515.96,2670549.95,RMD Withdraw
-2035/12,Deposit,Savings,1656.7,1656.7,Portion of RMD allocated into savings for monthly expenses
-2035/12,Deposit,Brokerage,6859.26,579275.68,Portion of RMD allocated into long-term investments
-2035/12,Payment,Savings,1656.7,0.0,Federal Income taxes for Self
+2035/12,Deposit,Savings,1629.78,1629.78,Portion of RMD allocated into savings for monthly expenses
+2035/12,Deposit,Brokerage,6886.18,580310.34,Portion of RMD allocated into long-term investments
+2035/12,Payment,Savings,1629.78,0.0,Federal Income taxes for Self
 2035/00,AccountInfo,Savings,,0.0,Account balance
-2035/00,AccountInfo,Brokerage,,579275.68,Account balance
+2035/00,AccountInfo,Brokerage,,580310.34,Account balance
 2035/00,AccountInfo,IRA,,2670549.95,Account balance
 2035/00,AccountInfo,Roth,,177257.01,Account balance
 2035/00,TaxInfo,FICA,,0.0,FICA Tax
 2035/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2035/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2035/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2035/00,TaxInfo,AGI,,127337.59,Adjusted Gross Income
-2035/00,TaxInfo,FederalTax,,19148.0,Federal income tax
+2035/00,TaxInfo,AGI,,127377.35,Adjusted Gross Income
+2035/00,TaxInfo,FederalTax,,18813.0,Federal income tax
 2035/00,TaxInfo,StateTax,,0.0,State income tax
 2035/00,TaxInfo,LocalTax,,0.0,Local income tax
