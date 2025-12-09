@@ -15,7 +15,7 @@ void runTestCases(
   // Execute the test cases
   int index = 1;
   for (final testCase in testCases) {
-    test('($index) IRMAA Adjustement for $testCase', () {
+    test('($index) RMD Test for $testCase', () {
       double rmd = rmdEstimator(
           testCase.iraBalance, testCase.birthdate, testCase.targetYear);
       expect(rmd, testCase.expected);
