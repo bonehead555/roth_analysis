@@ -173,14 +173,14 @@ class FederalTaxByFilingStatus extends TaxBase {
     return totalIncomeBeforeSS + taxableSocialSecurity(totalIncomeBeforeSS);
   }
 
-  /// Returns the Adjusted Gross Income (AGI) apprpriate for the configured filing status
+  /// Returns the Adjusted Gross Income (AGI) appropriate for the configured filing status
   /// * Includes totalIncome;
   /// * Schedule 1 adjustements are ignored
   double get adjustedGrossIncome {
     return totalIncome();
   }
 
-  /// Returns the MOdified Adjusted Gross Income (AGI) apprpriate for the configured filing status
+  /// Returns the Modified Adjusted Gross Income (AGI) appropriate for the configured filing status
   /// * Includes totalIncome;
   /// * All MAGI adjustements are ignored
   double get modifiedAdjustedGrossIncome {
@@ -417,7 +417,7 @@ class FederalTaxByFilingStatus extends TaxBase {
     return result;
   }
 
-  /// Returns the allowed dedection amount based on owener's age, modifiedAdjustedGroasIncome
+  /// Returns the allowed deduction amount based on owner's age, modifiedAdjustedGrossIncome
   /// and targetYear.
   /// * [ownerType] - Identifies whether calculation is for self or spouse.
   double seniorTaxDeduction(OwnerType ownerType) {
