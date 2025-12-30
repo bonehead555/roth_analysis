@@ -258,7 +258,7 @@ class FederalTaxByFilingStatus extends TaxBase {
     );
     // return the agi minus deduction adjusted back to match the target year.
     return adjustForTime(
-      valueToAdjust: max(0.0, agi - standardDeduction),
+      valueToAdjust: max(0.0, agi - standardDeduction()),
       toYear: filingSettings.targetYear,
       fromYear: taxRules.year,
     );
@@ -344,8 +344,8 @@ class FederalTaxByFilingStatus extends TaxBase {
     );
 
     // initalize some variables to use in the loop below
-    final incomeLessCapGains =
-        max(0.0, adjustedAgi - standardDeduction - adjustedCapitalGainsIncome);
+    final incomeLessCapGains = max(
+        0.0, adjustedAgi - standardDeduction() - adjustedCapitalGainsIncome);
     double remainingCapGains = adjustedCapitalGainsIncome;
     double capGainsTax = 0;
     //
@@ -393,8 +393,27 @@ class FederalTaxByFilingStatus extends TaxBase {
         fromYear: taxRules.year);
   }
 
-  /// Returns the standard deduction amount
-  double get standardDeduction {
+  /// Returns an estimate of the standard deduction amount based on an optionaly supplied MAGI.
+  /// * [estimatedMAGI] - Optionally supplied MAGI value to compute standard deduction. If
+  /// not supplied it will be calculated based on other tax information.
+  double estimateStandardDeduction({double? estimatedMAGI}) {
+    // Use computed MAGI, if estimatedMAGI not supplied or it is smaller than the computed MAGI
+    final double currentMagi = modifiedAdjustedGrossIncome;
+    if (estimatedMAGI == null || currentMagi > estimatedMAGI) {
+      estimatedMAGI = currentMagi;
+    }
+    var taxRulesStdDeduction = standardDeduction(estimatedMAGI: estimatedMAGI);
+
+    return adjustForTime(
+        valueToAdjust: taxRulesStdDeduction,
+        toYear: filingSettings.targetYear,
+        fromYear: taxRules.year);
+  }
+
+  /// Returns the standard deduction amount based on an optionaly supplied MAGI.
+  /// * [estimatedMAGI] - Optionally supplied MAGI value to compute standard deduction. If
+  /// not supplied it will be calculated based on other tax information.
+  double standardDeduction({double? estimatedMAGI}) {
     var result = taxRules.standardDeduction.base;
 
     if (filingSettings.selfInventory.age >= 65) {
@@ -411,17 +430,24 @@ class FederalTaxByFilingStatus extends TaxBase {
       if (filingSettings.spouseInventory!.isBlind) {
         result = result + taxRules.standardDeduction.additional;
       }
-      result += seniorTaxDeduction(OwnerType.self);
-      result += seniorTaxDeduction(OwnerType.spouse);
     }
+    estimatedMAGI ??= modifiedAdjustedGrossIncome;
+    result += _seniorTaxDeduction(OwnerType.self, estimatedMAGI);
+    result += _seniorTaxDeduction(OwnerType.spouse, estimatedMAGI);
     return result;
   }
 
   /// Returns the allowed deduction amount based on owner's age, modifiedAdjustedGrossIncome
   /// and targetYear.
   /// * [ownerType] - Identifies whether calculation is for self or spouse.
-  double seniorTaxDeduction(OwnerType ownerType) {
-    // get the age based on the aspecified OwnerType, either sewlf or spouse.
+  /// * [estimatedMAGI] - MAGI value to be used to caclulate senior deduction limits
+  double _seniorTaxDeduction(OwnerType ownerType, double estimatedMAGI) {
+    // deduction valid for OwnerType of spouse when filingStatus.isMarried
+    if (ownerType == OwnerType.spouse && !filingStatus.isMarried) {
+      return 0.0;
+    }
+
+    // get the age based on the aspecified OwnerType, either self or spouse.
     int age = ownerType == OwnerType.self
         ? filingSettings.selfInventory.age
         : filingSettings.spouseInventory!.age;
@@ -433,15 +459,14 @@ class FederalTaxByFilingStatus extends TaxBase {
     if (targetYear < 2025 || targetYear > 2028) {
       return 0.0;
     }
-    // deduction amount must be reduced by 6% for every dollar amount for the 
+    // deduction amount must be reduced by 6% for every dollar amount for the
     // given filing status.
     double maxDeduction = 6000.0;
     double deductionBreakpoint =
         filingSettings.filingStatus == FilingStatus.marriedFilingJointly
             ? 150000
             : 75000;
-    double excessIncome =
-        max(0.0, modifiedAdjustedGrossIncome - deductionBreakpoint);
+    double excessIncome = max(0.0, estimatedMAGI - deductionBreakpoint);
     double deductionReduction = min(maxDeduction, excessIncome * 0.06);
     return maxDeduction - deductionReduction;
   }
