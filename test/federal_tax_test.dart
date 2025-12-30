@@ -5,7 +5,7 @@ import 'package:roth_analysis/models/enums/filing_status.dart';
 import 'package:test/test.dart';
 
 // define a type that can hold configuration for test cases
-typedef TestCase = ({
+typedef TaxTestCase = ({
   double ssIncome,
   double rmdIncome,
   double capGains,
@@ -15,9 +15,9 @@ typedef TestCase = ({
   double expected,
 });
 
-void runTestCases(
+void runIncomeTaxTestCases(
   TaxFilingSettings initialSettings,
-  List<TestCase> testCases,
+  List<TaxTestCase> testCases,
 ) {
   int testNum = 0;
   for (final testCase in testCases) {
@@ -41,12 +41,51 @@ void runTestCases(
   }
 }
 
+typedef StandardDeductionTestCase = ({
+  int targetYear,
+  FilingStatus filingStatus,
+  int age,
+  bool isBlind,
+  double regularIncome,
+  double estimatedMAGI,
+  double expected,
+});
+
+void runStandardDeductionTestCases(
+  TaxFilingSettings initialSettings,
+  List<StandardDeductionTestCase> testCases,
+) {
+  int testNum = 0;
+  for (final testCase in testCases) {
+    var settings = initialSettings.copyWith(
+        targetYear: testCase.targetYear,
+        filingStatus: testCase.filingStatus,
+        selfInventory: initialSettings.selfInventory.copyWith(
+          age: testCase.age,
+          isBlind: testCase.isBlind,
+          regularIncome: testCase.regularIncome,
+        ),
+        spouseInventory: initialSettings.spouseInventory?.copyWith(
+          age: testCase.age,
+          isBlind: testCase.isBlind,
+        ));
+    var expected = testCase.expected;
+    testNum += 1;
+    test('($testNum) Starndard Deduction for: $testCase', () {
+      FederalTaxByFilingStatus federalTBFS = FederalTaxByFilingStatus(settings);
+      final double standardDeduction = federalTBFS.estimateStandardDeduction(
+          estimatedMAGI: testCase.estimatedMAGI);
+      expect(standardDeduction, expected);
+    });
+  }
+}
+
 void main() {
   group(
       'Federal Tax Test Cases for filingStatus: marriedFilingJointly, year: 2021',
       () {
     // define the range of test cases
-    final List<TestCase> testCases = [
+    final List<TaxTestCase> testCases = [
       (
         ssIncome: 0,
         rmdIncome: 19900,
@@ -145,13 +184,13 @@ void main() {
       selfInventory: PersonInventory(age: 66, isBlind: false),
       spouseInventory: PersonInventory(age: 64, isBlind: false),
     );
-    runTestCases(settings, testCases);
+    runIncomeTaxTestCases(settings, testCases);
   });
 
   group('Some of the same Federal Tax Test Cases again, but with spouse blind',
       () {
     // define the range of test cases
-    final List<TestCase> testCases = [
+    final List<TaxTestCase> testCases = [
       (
         ssIncome: 0,
         rmdIncome: 19900,
@@ -189,7 +228,7 @@ void main() {
       spouseInventory: PersonInventory(age: 64, isBlind: true),
     );
     // Execute the test cases
-    runTestCases(settings, testCases);
+    runIncomeTaxTestCases(settings, testCases);
   });
 
   group("Federal Tax Test Cases for filingStatus: headOfHousehold, year: 2021",
@@ -202,7 +241,7 @@ void main() {
       selfInventory: PersonInventory(age: 64, isBlind: false),
     );
     // define the range of test cases
-    final List<TestCase> testCases = [
+    final List<TaxTestCase> testCases = [
       (
         ssIncome: 0,
         rmdIncome: 14200,
@@ -232,7 +271,7 @@ void main() {
       ),
     ];
     // Execute the test cases
-    runTestCases(settings, testCases);
+    runIncomeTaxTestCases(settings, testCases);
   });
 
   group("Federal Tax Test Cases for filingStatus: headOfHousehold, year: 2024",
@@ -245,7 +284,7 @@ void main() {
       selfInventory: PersonInventory(age: 64, isBlind: false),
     );
     // define the range of test cases
-    final List<TestCase> testCases = [
+    final List<TaxTestCase> testCases = [
       (
         ssIncome: 0,
         rmdIncome: 14200,
@@ -275,7 +314,7 @@ void main() {
       ),
     ];
     // Execute the test cases
-    runTestCases(settings, testCases);
+    runIncomeTaxTestCases(settings, testCases);
   });
   group("Federal Tax Test Cases for filingStatus: headOfHousehold, year: 2023",
       () {
@@ -287,7 +326,7 @@ void main() {
       selfInventory: PersonInventory(age: 64, isBlind: false),
     );
     // define the range of test cases
-    final List<TestCase> testCases = [
+    final List<TaxTestCase> testCases = [
       (
         ssIncome: 0,
         rmdIncome: 14200,
@@ -317,13 +356,13 @@ void main() {
       ),
     ];
     // Execute the test cases
-    runTestCases(settings, testCases);
+    runIncomeTaxTestCases(settings, testCases);
   });
   group(
       'Federal Tax Test Cases for filingStatus: marriedFilingJointly, year: 2025',
       () {
     // define the range of test cases
-    final List<TestCase> testCases = [
+    final List<TaxTestCase> testCases = [
       (
         ssIncome: 0,
         rmdIncome: 19900,
@@ -377,6 +416,118 @@ void main() {
       selfInventory: PersonInventory(age: 66, isBlind: false),
       spouseInventory: PersonInventory(age: 65, isBlind: false),
     );
-    runTestCases(settings, testCases);
+    runIncomeTaxTestCases(settings, testCases);
+  });
+  group('Standard Deduction Test Cases', () {
+    // define the range of test cases
+    final List<StandardDeductionTestCase> testCases = [
+      (
+        targetYear: 2024,
+        filingStatus: FilingStatus.single,
+        age: 64,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 0.0,
+        expected: 14600.0,
+      ),
+      (
+        targetYear: 2024,
+        filingStatus: FilingStatus.headOfHousehold,
+        age: 64,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 0.0,
+        expected: 21900.0,
+      ),
+      (
+        targetYear: 2024,
+        filingStatus: FilingStatus.marriedFilingJointly,
+        age: 64,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 0.0,
+        expected: 29200.0,
+      ),
+      (
+        targetYear: 2025,
+        filingStatus: FilingStatus.single,
+        age: 65,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 0.0,
+        expected: 23750.0,
+      ),
+      (
+        targetYear: 2025,
+        filingStatus: FilingStatus.marriedFilingJointly,
+        age: 65,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 0.0,
+        expected: 46700.0,
+      ),
+      (
+        targetYear: 2025,
+        filingStatus: FilingStatus.single,
+        age: 65,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 75000.0,
+        expected: 23750.0,
+      ),
+      (
+        targetYear: 2025,
+        filingStatus: FilingStatus.marriedFilingJointly,
+        age: 65,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 150000.0,
+        expected: 46700.0,
+      ),
+      (
+        targetYear: 2025,
+        filingStatus: FilingStatus.single,
+        age: 65,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 125000.0,
+        expected: 20750.0,
+      ),
+      (
+        targetYear: 2025,
+        filingStatus: FilingStatus.marriedFilingJointly,
+        age: 65,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 200000.0,
+        expected: 40700.0,
+      ),
+      (
+        targetYear: 2025,
+        filingStatus: FilingStatus.single,
+        age: 65,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 175000.0,
+        expected: 17750.0,
+      ),
+      (
+        targetYear: 2025,
+        filingStatus: FilingStatus.marriedFilingJointly,
+        age: 65,
+        isBlind: false,
+        regularIncome: 0.0,
+        estimatedMAGI: 250000.0,
+        expected: 34700.0,
+      ),
+    ];
+    final settings = TaxFilingSettings(
+      targetYear: 1,
+      filingStatus: FilingStatus.marriedFilingJointly,
+      filingState: FilingState.other,
+      selfInventory: PersonInventory(age: 1),
+      spouseInventory: PersonInventory(age: 1),
+    );
+    runStandardDeductionTestCases(settings, testCases);
   });
 }
