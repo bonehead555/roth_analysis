@@ -1,41 +1,41 @@
 Date, Type, Account, Amount, Balance, Memo
 2025/01,Withdraw,IRA,12475.59,1087524.41,Monthly ROTH conversion
 2025/01,Deposit,Roth,12475.59,32475.59,Monthly ROTH conversion
-2025/01,Payment,Savings,2043.08,47956.92,Federal Income taxes for Self
+2025/01,Payment,Savings,2012.67,47987.33,Federal Income taxes for Self
 2025/02,Withdraw,IRA,12475.59,1075048.82,Monthly ROTH conversion
 2025/02,Deposit,Roth,12475.59,44951.18,Monthly ROTH conversion
-2025/02,Payment,Savings,2043.08,45913.84,Federal Income taxes for Self
+2025/02,Payment,Savings,2012.67,45974.66,Federal Income taxes for Self
 2025/03,Withdraw,IRA,12475.59,1062573.23,Monthly ROTH conversion
 2025/03,Deposit,Roth,12475.59,57426.77,Monthly ROTH conversion
-2025/03,Payment,Savings,2043.08,43870.76,Federal Income taxes for Self
+2025/03,Payment,Savings,2012.67,43961.99,Federal Income taxes for Self
 2025/04,Withdraw,IRA,12475.59,1050097.64,Monthly ROTH conversion
 2025/04,Deposit,Roth,12475.59,69902.36,Monthly ROTH conversion
-2025/04,Payment,Savings,2043.08,41827.68,Federal Income taxes for Self
+2025/04,Payment,Savings,2012.67,41949.32,Federal Income taxes for Self
 2025/05,Withdraw,IRA,12475.59,1037622.05,Monthly ROTH conversion
 2025/05,Deposit,Roth,12475.59,82377.95,Monthly ROTH conversion
-2025/05,Payment,Savings,2043.09,39784.59,Federal Income taxes for Self
+2025/05,Payment,Savings,2012.67,39936.65,Federal Income taxes for Self
 2025/06,Withdraw,IRA,12475.59,1025146.46,Monthly ROTH conversion
 2025/06,Deposit,Roth,12475.59,94853.54,Monthly ROTH conversion
-2025/06,Payment,Savings,2043.09,37741.5,Federal Income taxes for Self
+2025/06,Payment,Savings,2012.66,37923.99,Federal Income taxes for Self
 2025/07,Withdraw,IRA,12475.59,1012670.87,Monthly ROTH conversion
 2025/07,Deposit,Roth,12475.59,107329.13,Monthly ROTH conversion
-2025/07,Payment,Savings,2043.09,35698.41,Federal Income taxes for Self
+2025/07,Payment,Savings,2012.66,35911.33,Federal Income taxes for Self
 2025/08,Withdraw,IRA,12475.59,1000195.28,Monthly ROTH conversion
 2025/08,Deposit,Roth,12475.59,119804.72,Monthly ROTH conversion
-2025/08,Payment,Savings,2043.09,33655.32,Federal Income taxes for Self
+2025/08,Payment,Savings,2012.66,33898.67,Federal Income taxes for Self
 2025/09,Withdraw,IRA,12475.59,987719.69,Monthly ROTH conversion
 2025/09,Deposit,Roth,12475.59,132280.31,Monthly ROTH conversion
-2025/09,Payment,Savings,2043.09,31612.23,Federal Income taxes for Self
+2025/09,Payment,Savings,2012.66,31886.01,Federal Income taxes for Self
 2025/10,Withdraw,IRA,12475.59,975244.1,Monthly ROTH conversion
 2025/10,Deposit,Roth,12475.59,144755.9,Monthly ROTH conversion
-2025/10,Payment,Savings,2043.09,29569.14,Federal Income taxes for Self
+2025/10,Payment,Savings,2012.66,29873.35,Federal Income taxes for Self
 2025/11,Withdraw,IRA,12475.59,962768.51,Monthly ROTH conversion
 2025/11,Deposit,Roth,12475.59,157231.49,Monthly ROTH conversion
-2025/11,Payment,Savings,2043.09,27526.05,Federal Income taxes for Self
+2025/11,Payment,Savings,2012.66,27860.69,Federal Income taxes for Self
 2025/12,Withdraw,IRA,12475.54,950292.97,Monthly ROTH conversion
 2025/12,Deposit,Roth,12475.54,169707.03,Monthly ROTH conversion
-2025/12,Payment,Savings,2043.05,25483.0,Federal Income taxes for Self
-2025/00,AccountInfo,Savings,,25483.0,Account balance
+2025/12,Payment,Savings,2012.69,25848.0,Federal Income taxes for Self
+2025/00,AccountInfo,Savings,,25848.0,Account balance
 2025/00,AccountInfo,IRA,,950292.97,Account balance
 2025/00,AccountInfo,Roth,,169707.03,Account balance
 2025/00,TaxInfo,FICA,,0.0,FICA Tax
@@ -43,46 +43,46 @@ Date, Type, Account, Amount, Balance, Memo
 2025/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2025/00,TaxInfo,CapGins,,0.0,Capital Gains Income
 2025/00,TaxInfo,AGI,,149707.03,Adjusted Gross Income
-2025/00,TaxInfo,FederalTax,,24517.0,Federal income tax
+2025/00,TaxInfo,FederalTax,,24152.0,Federal income tax
 2025/00,TaxInfo,StateTax,,0.0,State income tax
 2025/00,TaxInfo,LocalTax,,0.0,Local income tax
 2026/01,Withdraw,IRA,12475.59,937817.38,Monthly ROTH conversion
 2026/01,Deposit,Roth,12475.59,182182.62,Monthly ROTH conversion
-2026/01,Payment,Savings,2014.33,23468.67,Federal Income taxes for Self
+2026/01,Payment,Savings,1983.92,23864.08,Federal Income taxes for Self
 2026/02,Withdraw,IRA,12475.59,925341.79,Monthly ROTH conversion
 2026/02,Deposit,Roth,12475.59,194658.21,Monthly ROTH conversion
-2026/02,Payment,Savings,2014.33,21454.34,Federal Income taxes for Self
+2026/02,Payment,Savings,1983.92,21880.16,Federal Income taxes for Self
 2026/03,Withdraw,IRA,12475.59,912866.2,Monthly ROTH conversion
 2026/03,Deposit,Roth,12475.59,207133.8,Monthly ROTH conversion
-2026/03,Payment,Savings,2014.33,19440.01,Federal Income taxes for Self
+2026/03,Payment,Savings,1983.92,19896.24,Federal Income taxes for Self
 2026/04,Withdraw,IRA,12475.59,900390.61,Monthly ROTH conversion
 2026/04,Deposit,Roth,12475.59,219609.39,Monthly ROTH conversion
-2026/04,Payment,Savings,2014.33,17425.68,Federal Income taxes for Self
+2026/04,Payment,Savings,1983.92,17912.32,Federal Income taxes for Self
 2026/05,Withdraw,IRA,12475.59,887915.02,Monthly ROTH conversion
 2026/05,Deposit,Roth,12475.59,232084.98,Monthly ROTH conversion
-2026/05,Payment,Savings,2014.34,15411.34,Federal Income taxes for Self
+2026/05,Payment,Savings,1983.92,15928.4,Federal Income taxes for Self
 2026/06,Withdraw,IRA,12475.59,875439.43,Monthly ROTH conversion
 2026/06,Deposit,Roth,12475.59,244560.57,Monthly ROTH conversion
-2026/06,Payment,Savings,2014.34,13397.0,Federal Income taxes for Self
+2026/06,Payment,Savings,1983.91,13944.49,Federal Income taxes for Self
 2026/07,Withdraw,IRA,12475.59,862963.84,Monthly ROTH conversion
 2026/07,Deposit,Roth,12475.59,257036.16,Monthly ROTH conversion
-2026/07,Payment,Savings,2014.34,11382.66,Federal Income taxes for Self
+2026/07,Payment,Savings,1983.91,11960.58,Federal Income taxes for Self
 2026/08,Withdraw,IRA,12475.59,850488.25,Monthly ROTH conversion
 2026/08,Deposit,Roth,12475.59,269511.75,Monthly ROTH conversion
-2026/08,Payment,Savings,2014.34,9368.32,Federal Income taxes for Self
+2026/08,Payment,Savings,1983.91,9976.67,Federal Income taxes for Self
 2026/09,Withdraw,IRA,12475.59,838012.66,Monthly ROTH conversion
 2026/09,Deposit,Roth,12475.59,281987.34,Monthly ROTH conversion
-2026/09,Payment,Savings,2014.34,7353.98,Federal Income taxes for Self
+2026/09,Payment,Savings,1983.91,7992.76,Federal Income taxes for Self
 2026/10,Withdraw,IRA,12475.59,825537.07,Monthly ROTH conversion
 2026/10,Deposit,Roth,12475.59,294462.93,Monthly ROTH conversion
-2026/10,Payment,Savings,2014.34,5339.64,Federal Income taxes for Self
+2026/10,Payment,Savings,1983.91,6008.85,Federal Income taxes for Self
 2026/11,Withdraw,IRA,12475.59,813061.48,Monthly ROTH conversion
 2026/11,Deposit,Roth,12475.59,306938.52,Monthly ROTH conversion
-2026/11,Payment,Savings,2014.34,3325.3,Federal Income taxes for Self
+2026/11,Payment,Savings,1983.91,4024.94,Federal Income taxes for Self
 2026/12,Withdraw,IRA,12475.54,800585.94,Monthly ROTH conversion
 2026/12,Deposit,Roth,12475.54,319414.06,Monthly ROTH conversion
-2026/12,Payment,Savings,2014.3,1311.0,Federal Income taxes for Self
-2026/00,AccountInfo,Savings,,1311.0,Account balance
+2026/12,Payment,Savings,1983.94,2041.0,Federal Income taxes for Self
+2026/00,AccountInfo,Savings,,2041.0,Account balance
 2026/00,AccountInfo,IRA,,800585.94,Account balance
 2026/00,AccountInfo,Roth,,319414.06,Account balance
 2026/00,TaxInfo,FICA,,0.0,FICA Tax
@@ -90,82 +90,76 @@ Date, Type, Account, Amount, Balance, Memo
 2026/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2026/00,TaxInfo,CapGins,,0.0,Capital Gains Income
 2026/00,TaxInfo,AGI,,149707.03,Adjusted Gross Income
-2026/00,TaxInfo,FederalTax,,24172.0,Federal income tax
+2026/00,TaxInfo,FederalTax,,23807.0,Federal income tax
 2026/00,TaxInfo,StateTax,,0.0,State income tax
 2026/00,TaxInfo,LocalTax,,0.0,Local income tax
-2027/01,Payment,Savings,216.83,1094.17,IRMAA taxes for Self
-2027/02,Payment,Savings,216.83,877.34,IRMAA taxes for Self
-2027/03,Payment,Savings,216.83,660.51,IRMAA taxes for Self
-2027/04,Payment,Savings,216.83,443.68,IRMAA taxes for Self
-2027/05,Payment,Savings,216.83,226.85,IRMAA taxes for Self
-2027/06,Payment,Savings,216.83,10.02,IRMAA taxes for Self
-2027/07,Withdraw,IRA,206.81,800379.13,Cover monthly taxes & living expenses
-2027/07,Deposit,Savings,206.81,216.83,Cover monthly taxes & living expenses
-2027/07,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2027/08,Withdraw,IRA,216.83,800162.3,Cover monthly taxes & living expenses
-2027/08,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
-2027/08,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2027/09,Withdraw,IRA,216.83,799945.47,Cover monthly taxes & living expenses
-2027/09,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
-2027/09,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2027/10,Withdraw,IRA,216.83,799728.64,Cover monthly taxes & living expenses
-2027/10,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
+2027/01,Payment,Savings,216.83,1824.17,IRMAA taxes for Self
+2027/02,Payment,Savings,216.83,1607.34,IRMAA taxes for Self
+2027/03,Payment,Savings,216.83,1390.51,IRMAA taxes for Self
+2027/04,Payment,Savings,216.83,1173.68,IRMAA taxes for Self
+2027/05,Payment,Savings,216.83,956.85,IRMAA taxes for Self
+2027/06,Payment,Savings,216.83,740.02,IRMAA taxes for Self
+2027/07,Payment,Savings,216.83,523.19,IRMAA taxes for Self
+2027/08,Payment,Savings,216.83,306.36,IRMAA taxes for Self
+2027/09,Payment,Savings,216.83,89.53,IRMAA taxes for Self
+2027/10,Withdraw,IRA,127.3,800458.64,Cover monthly taxes & living expenses
+2027/10,Deposit,Savings,127.3,216.83,Cover monthly taxes & living expenses
 2027/10,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2027/11,Withdraw,IRA,216.83,799511.81,Cover monthly taxes & living expenses
+2027/11,Withdraw,IRA,216.83,800241.81,Cover monthly taxes & living expenses
 2027/11,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2027/11,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2027/12,Withdraw,IRA,216.87,799294.94,Cover monthly taxes & living expenses
+2027/12,Withdraw,IRA,216.87,800024.94,Cover monthly taxes & living expenses
 2027/12,Deposit,Savings,216.87,216.87,Cover monthly taxes & living expenses
 2027/12,Payment,Savings,216.87,0.0,IRMAA taxes for Self
 2027/00,AccountInfo,Savings,,0.0,Account balance
-2027/00,AccountInfo,IRA,,799294.94,Account balance
+2027/00,AccountInfo,IRA,,800024.94,Account balance
 2027/00,AccountInfo,Roth,,319414.06,Account balance
 2027/00,TaxInfo,FICA,,0.0,FICA Tax
 2027/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2027/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
 2027/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2027/00,TaxInfo,AGI,,1291.0,Adjusted Gross Income
+2027/00,TaxInfo,AGI,,561.0,Adjusted Gross Income
 2027/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2027/00,TaxInfo,StateTax,,0.0,State income tax
 2027/00,TaxInfo,LocalTax,,0.0,Local income tax
-2028/01,Withdraw,IRA,216.83,799078.11,Cover monthly taxes & living expenses
+2028/01,Withdraw,IRA,216.83,799808.11,Cover monthly taxes & living expenses
 2028/01,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/01,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/02,Withdraw,IRA,216.83,798861.28,Cover monthly taxes & living expenses
+2028/02,Withdraw,IRA,216.83,799591.28,Cover monthly taxes & living expenses
 2028/02,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/02,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/03,Withdraw,IRA,216.83,798644.45,Cover monthly taxes & living expenses
+2028/03,Withdraw,IRA,216.83,799374.45,Cover monthly taxes & living expenses
 2028/03,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/03,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/04,Withdraw,IRA,216.83,798427.62,Cover monthly taxes & living expenses
+2028/04,Withdraw,IRA,216.83,799157.62,Cover monthly taxes & living expenses
 2028/04,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/04,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/05,Withdraw,IRA,216.83,798210.79,Cover monthly taxes & living expenses
+2028/05,Withdraw,IRA,216.83,798940.79,Cover monthly taxes & living expenses
 2028/05,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/05,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/06,Withdraw,IRA,216.83,797993.96,Cover monthly taxes & living expenses
+2028/06,Withdraw,IRA,216.83,798723.96,Cover monthly taxes & living expenses
 2028/06,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/06,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/07,Withdraw,IRA,216.83,797777.13,Cover monthly taxes & living expenses
+2028/07,Withdraw,IRA,216.83,798507.13,Cover monthly taxes & living expenses
 2028/07,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/07,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/08,Withdraw,IRA,216.83,797560.3,Cover monthly taxes & living expenses
+2028/08,Withdraw,IRA,216.83,798290.3,Cover monthly taxes & living expenses
 2028/08,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/08,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/09,Withdraw,IRA,216.83,797343.47,Cover monthly taxes & living expenses
+2028/09,Withdraw,IRA,216.83,798073.47,Cover monthly taxes & living expenses
 2028/09,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/09,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/10,Withdraw,IRA,216.83,797126.64,Cover monthly taxes & living expenses
+2028/10,Withdraw,IRA,216.83,797856.64,Cover monthly taxes & living expenses
 2028/10,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/10,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/11,Withdraw,IRA,216.83,796909.81,Cover monthly taxes & living expenses
+2028/11,Withdraw,IRA,216.83,797639.81,Cover monthly taxes & living expenses
 2028/11,Deposit,Savings,216.83,216.83,Cover monthly taxes & living expenses
 2028/11,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2028/12,Withdraw,IRA,216.87,796692.94,Cover monthly taxes & living expenses
+2028/12,Withdraw,IRA,216.87,797422.94,Cover monthly taxes & living expenses
 2028/12,Deposit,Savings,216.87,216.87,Cover monthly taxes & living expenses
 2028/12,Payment,Savings,216.87,0.0,IRMAA taxes for Self
 2028/00,AccountInfo,Savings,,0.0,Account balance
-2028/00,AccountInfo,IRA,,796692.94,Account balance
+2028/00,AccountInfo,IRA,,797422.94,Account balance
 2028/00,AccountInfo,Roth,,319414.06,Account balance
 2028/00,TaxInfo,FICA,,0.0,FICA Tax
 2028/00,TaxInfo,Medicare,,0.0,Medicare Tax
@@ -175,32 +169,32 @@ Date, Type, Account, Amount, Balance, Memo
 2028/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2028/00,TaxInfo,StateTax,,0.0,State income tax
 2028/00,TaxInfo,LocalTax,,0.0,Local income tax
-2029/01,Withdraw,IRA,1489.26,795203.68,Monthly ROTH conversion
+2029/01,Withdraw,IRA,1489.26,795933.68,Monthly ROTH conversion
 2029/01,Deposit,Roth,1489.26,320903.32,Monthly ROTH conversion
-2029/02,Withdraw,IRA,1489.26,793714.42,Monthly ROTH conversion
+2029/02,Withdraw,IRA,1489.26,794444.42,Monthly ROTH conversion
 2029/02,Deposit,Roth,1489.26,322392.58,Monthly ROTH conversion
-2029/03,Withdraw,IRA,1489.26,792225.16,Monthly ROTH conversion
+2029/03,Withdraw,IRA,1489.26,792955.16,Monthly ROTH conversion
 2029/03,Deposit,Roth,1489.26,323881.84,Monthly ROTH conversion
-2029/04,Withdraw,IRA,1489.26,790735.9,Monthly ROTH conversion
+2029/04,Withdraw,IRA,1489.26,791465.9,Monthly ROTH conversion
 2029/04,Deposit,Roth,1489.26,325371.1,Monthly ROTH conversion
-2029/05,Withdraw,IRA,1489.26,789246.64,Monthly ROTH conversion
+2029/05,Withdraw,IRA,1489.26,789976.64,Monthly ROTH conversion
 2029/05,Deposit,Roth,1489.26,326860.36,Monthly ROTH conversion
-2029/06,Withdraw,IRA,1489.26,787757.38,Monthly ROTH conversion
+2029/06,Withdraw,IRA,1489.26,788487.38,Monthly ROTH conversion
 2029/06,Deposit,Roth,1489.26,328349.62,Monthly ROTH conversion
-2029/07,Withdraw,IRA,1489.26,786268.12,Monthly ROTH conversion
+2029/07,Withdraw,IRA,1489.26,786998.12,Monthly ROTH conversion
 2029/07,Deposit,Roth,1489.26,329838.88,Monthly ROTH conversion
-2029/08,Withdraw,IRA,1489.26,784778.86,Monthly ROTH conversion
+2029/08,Withdraw,IRA,1489.26,785508.86,Monthly ROTH conversion
 2029/08,Deposit,Roth,1489.26,331328.14,Monthly ROTH conversion
-2029/09,Withdraw,IRA,1489.26,783289.6,Monthly ROTH conversion
+2029/09,Withdraw,IRA,1489.26,784019.6,Monthly ROTH conversion
 2029/09,Deposit,Roth,1489.26,332817.4,Monthly ROTH conversion
-2029/10,Withdraw,IRA,1489.26,781800.34,Monthly ROTH conversion
+2029/10,Withdraw,IRA,1489.26,782530.34,Monthly ROTH conversion
 2029/10,Deposit,Roth,1489.26,334306.66,Monthly ROTH conversion
-2029/11,Withdraw,IRA,1489.26,780311.08,Monthly ROTH conversion
+2029/11,Withdraw,IRA,1489.26,781041.08,Monthly ROTH conversion
 2029/11,Deposit,Roth,1489.26,335795.92,Monthly ROTH conversion
-2029/12,Withdraw,IRA,1489.23,778821.85,Monthly ROTH conversion
+2029/12,Withdraw,IRA,1489.23,779551.85,Monthly ROTH conversion
 2029/12,Deposit,Roth,1489.23,337285.15,Monthly ROTH conversion
 2029/00,AccountInfo,Savings,,0.0,Account balance
-2029/00,AccountInfo,IRA,,778821.85,Account balance
+2029/00,AccountInfo,IRA,,779551.85,Account balance
 2029/00,AccountInfo,Roth,,337285.15,Account balance
 2029/00,TaxInfo,FICA,,0.0,FICA Tax
 2029/00,TaxInfo,Medicare,,0.0,Medicare Tax
@@ -210,32 +204,32 @@ Date, Type, Account, Amount, Balance, Memo
 2029/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2029/00,TaxInfo,StateTax,,0.0,State income tax
 2029/00,TaxInfo,LocalTax,,0.0,Local income tax
-2030/01,Withdraw,IRA,1489.26,777332.59,Monthly ROTH conversion
+2030/01,Withdraw,IRA,1489.26,778062.59,Monthly ROTH conversion
 2030/01,Deposit,Roth,1489.26,338774.41,Monthly ROTH conversion
-2030/02,Withdraw,IRA,1489.26,775843.33,Monthly ROTH conversion
+2030/02,Withdraw,IRA,1489.26,776573.33,Monthly ROTH conversion
 2030/02,Deposit,Roth,1489.26,340263.67,Monthly ROTH conversion
-2030/03,Withdraw,IRA,1489.26,774354.07,Monthly ROTH conversion
+2030/03,Withdraw,IRA,1489.26,775084.07,Monthly ROTH conversion
 2030/03,Deposit,Roth,1489.26,341752.93,Monthly ROTH conversion
-2030/04,Withdraw,IRA,1489.26,772864.81,Monthly ROTH conversion
+2030/04,Withdraw,IRA,1489.26,773594.81,Monthly ROTH conversion
 2030/04,Deposit,Roth,1489.26,343242.19,Monthly ROTH conversion
-2030/05,Withdraw,IRA,1489.26,771375.55,Monthly ROTH conversion
+2030/05,Withdraw,IRA,1489.26,772105.55,Monthly ROTH conversion
 2030/05,Deposit,Roth,1489.26,344731.45,Monthly ROTH conversion
-2030/06,Withdraw,IRA,1489.26,769886.29,Monthly ROTH conversion
+2030/06,Withdraw,IRA,1489.26,770616.29,Monthly ROTH conversion
 2030/06,Deposit,Roth,1489.26,346220.71,Monthly ROTH conversion
-2030/07,Withdraw,IRA,1489.26,768397.03,Monthly ROTH conversion
+2030/07,Withdraw,IRA,1489.26,769127.03,Monthly ROTH conversion
 2030/07,Deposit,Roth,1489.26,347709.97,Monthly ROTH conversion
-2030/08,Withdraw,IRA,1489.26,766907.77,Monthly ROTH conversion
+2030/08,Withdraw,IRA,1489.26,767637.77,Monthly ROTH conversion
 2030/08,Deposit,Roth,1489.26,349199.23,Monthly ROTH conversion
-2030/09,Withdraw,IRA,1489.26,765418.51,Monthly ROTH conversion
+2030/09,Withdraw,IRA,1489.26,766148.51,Monthly ROTH conversion
 2030/09,Deposit,Roth,1489.26,350688.49,Monthly ROTH conversion
-2030/10,Withdraw,IRA,1489.26,763929.25,Monthly ROTH conversion
+2030/10,Withdraw,IRA,1489.26,764659.25,Monthly ROTH conversion
 2030/10,Deposit,Roth,1489.26,352177.75,Monthly ROTH conversion
-2030/11,Withdraw,IRA,1489.26,762439.99,Monthly ROTH conversion
+2030/11,Withdraw,IRA,1489.26,763169.99,Monthly ROTH conversion
 2030/11,Deposit,Roth,1489.26,353667.01,Monthly ROTH conversion
-2030/12,Withdraw,IRA,1489.23,760950.76,Monthly ROTH conversion
+2030/12,Withdraw,IRA,1489.23,761680.76,Monthly ROTH conversion
 2030/12,Deposit,Roth,1489.23,355156.24,Monthly ROTH conversion
 2030/00,AccountInfo,Savings,,0.0,Account balance
-2030/00,AccountInfo,IRA,,760950.76,Account balance
+2030/00,AccountInfo,IRA,,761680.76,Account balance
 2030/00,AccountInfo,Roth,,355156.24,Account balance
 2030/00,TaxInfo,FICA,,0.0,FICA Tax
 2030/00,TaxInfo,Medicare,,0.0,Medicare Tax
@@ -245,32 +239,32 @@ Date, Type, Account, Amount, Balance, Memo
 2030/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2030/00,TaxInfo,StateTax,,0.0,State income tax
 2030/00,TaxInfo,LocalTax,,0.0,Local income tax
-2031/01,Withdraw,IRA,1489.26,759461.5,Monthly ROTH conversion
+2031/01,Withdraw,IRA,1489.26,760191.5,Monthly ROTH conversion
 2031/01,Deposit,Roth,1489.26,356645.5,Monthly ROTH conversion
-2031/02,Withdraw,IRA,1489.26,757972.24,Monthly ROTH conversion
+2031/02,Withdraw,IRA,1489.26,758702.24,Monthly ROTH conversion
 2031/02,Deposit,Roth,1489.26,358134.76,Monthly ROTH conversion
-2031/03,Withdraw,IRA,1489.26,756482.98,Monthly ROTH conversion
+2031/03,Withdraw,IRA,1489.26,757212.98,Monthly ROTH conversion
 2031/03,Deposit,Roth,1489.26,359624.02,Monthly ROTH conversion
-2031/04,Withdraw,IRA,1489.26,754993.72,Monthly ROTH conversion
+2031/04,Withdraw,IRA,1489.26,755723.72,Monthly ROTH conversion
 2031/04,Deposit,Roth,1489.26,361113.28,Monthly ROTH conversion
-2031/05,Withdraw,IRA,1489.26,753504.46,Monthly ROTH conversion
+2031/05,Withdraw,IRA,1489.26,754234.46,Monthly ROTH conversion
 2031/05,Deposit,Roth,1489.26,362602.54,Monthly ROTH conversion
-2031/06,Withdraw,IRA,1489.26,752015.2,Monthly ROTH conversion
+2031/06,Withdraw,IRA,1489.26,752745.2,Monthly ROTH conversion
 2031/06,Deposit,Roth,1489.26,364091.8,Monthly ROTH conversion
-2031/07,Withdraw,IRA,1489.26,750525.94,Monthly ROTH conversion
+2031/07,Withdraw,IRA,1489.26,751255.94,Monthly ROTH conversion
 2031/07,Deposit,Roth,1489.26,365581.06,Monthly ROTH conversion
-2031/08,Withdraw,IRA,1489.26,749036.68,Monthly ROTH conversion
+2031/08,Withdraw,IRA,1489.26,749766.68,Monthly ROTH conversion
 2031/08,Deposit,Roth,1489.26,367070.32,Monthly ROTH conversion
-2031/09,Withdraw,IRA,1489.26,747547.42,Monthly ROTH conversion
+2031/09,Withdraw,IRA,1489.26,748277.42,Monthly ROTH conversion
 2031/09,Deposit,Roth,1489.26,368559.58,Monthly ROTH conversion
-2031/10,Withdraw,IRA,1489.26,746058.16,Monthly ROTH conversion
+2031/10,Withdraw,IRA,1489.26,746788.16,Monthly ROTH conversion
 2031/10,Deposit,Roth,1489.26,370048.84,Monthly ROTH conversion
-2031/11,Withdraw,IRA,1489.26,744568.9,Monthly ROTH conversion
+2031/11,Withdraw,IRA,1489.26,745298.9,Monthly ROTH conversion
 2031/11,Deposit,Roth,1489.26,371538.1,Monthly ROTH conversion
-2031/12,Withdraw,IRA,1489.23,743079.67,Monthly ROTH conversion
+2031/12,Withdraw,IRA,1489.23,743809.67,Monthly ROTH conversion
 2031/12,Deposit,Roth,1489.23,373027.33,Monthly ROTH conversion
 2031/00,AccountInfo,Savings,,0.0,Account balance
-2031/00,AccountInfo,IRA,,743079.67,Account balance
+2031/00,AccountInfo,IRA,,743809.67,Account balance
 2031/00,AccountInfo,Roth,,373027.33,Account balance
 2031/00,TaxInfo,FICA,,0.0,FICA Tax
 2031/00,TaxInfo,Medicare,,0.0,Medicare Tax
@@ -280,32 +274,32 @@ Date, Type, Account, Amount, Balance, Memo
 2031/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2031/00,TaxInfo,StateTax,,0.0,State income tax
 2031/00,TaxInfo,LocalTax,,0.0,Local income tax
-2032/01,Withdraw,IRA,1489.26,741590.41,Monthly ROTH conversion
+2032/01,Withdraw,IRA,1489.26,742320.41,Monthly ROTH conversion
 2032/01,Deposit,Roth,1489.26,374516.59,Monthly ROTH conversion
-2032/02,Withdraw,IRA,1489.26,740101.15,Monthly ROTH conversion
+2032/02,Withdraw,IRA,1489.26,740831.15,Monthly ROTH conversion
 2032/02,Deposit,Roth,1489.26,376005.85,Monthly ROTH conversion
-2032/03,Withdraw,IRA,1489.26,738611.89,Monthly ROTH conversion
+2032/03,Withdraw,IRA,1489.26,739341.89,Monthly ROTH conversion
 2032/03,Deposit,Roth,1489.26,377495.11,Monthly ROTH conversion
-2032/04,Withdraw,IRA,1489.26,737122.63,Monthly ROTH conversion
+2032/04,Withdraw,IRA,1489.26,737852.63,Monthly ROTH conversion
 2032/04,Deposit,Roth,1489.26,378984.37,Monthly ROTH conversion
-2032/05,Withdraw,IRA,1489.26,735633.37,Monthly ROTH conversion
+2032/05,Withdraw,IRA,1489.26,736363.37,Monthly ROTH conversion
 2032/05,Deposit,Roth,1489.26,380473.63,Monthly ROTH conversion
-2032/06,Withdraw,IRA,1489.26,734144.11,Monthly ROTH conversion
+2032/06,Withdraw,IRA,1489.26,734874.11,Monthly ROTH conversion
 2032/06,Deposit,Roth,1489.26,381962.89,Monthly ROTH conversion
-2032/07,Withdraw,IRA,1489.26,732654.85,Monthly ROTH conversion
+2032/07,Withdraw,IRA,1489.26,733384.85,Monthly ROTH conversion
 2032/07,Deposit,Roth,1489.26,383452.15,Monthly ROTH conversion
-2032/08,Withdraw,IRA,1489.26,731165.59,Monthly ROTH conversion
+2032/08,Withdraw,IRA,1489.26,731895.59,Monthly ROTH conversion
 2032/08,Deposit,Roth,1489.26,384941.41,Monthly ROTH conversion
-2032/09,Withdraw,IRA,1489.26,729676.33,Monthly ROTH conversion
+2032/09,Withdraw,IRA,1489.26,730406.33,Monthly ROTH conversion
 2032/09,Deposit,Roth,1489.26,386430.67,Monthly ROTH conversion
-2032/10,Withdraw,IRA,1489.26,728187.07,Monthly ROTH conversion
+2032/10,Withdraw,IRA,1489.26,728917.07,Monthly ROTH conversion
 2032/10,Deposit,Roth,1489.26,387919.93,Monthly ROTH conversion
-2032/11,Withdraw,IRA,1489.26,726697.81,Monthly ROTH conversion
+2032/11,Withdraw,IRA,1489.26,727427.81,Monthly ROTH conversion
 2032/11,Deposit,Roth,1489.26,389409.19,Monthly ROTH conversion
-2032/12,Withdraw,IRA,1489.23,725208.58,Monthly ROTH conversion
+2032/12,Withdraw,IRA,1489.23,725938.58,Monthly ROTH conversion
 2032/12,Deposit,Roth,1489.23,390898.42,Monthly ROTH conversion
 2032/00,AccountInfo,Savings,,0.0,Account balance
-2032/00,AccountInfo,IRA,,725208.58,Account balance
+2032/00,AccountInfo,IRA,,725938.58,Account balance
 2032/00,AccountInfo,Roth,,390898.42,Account balance
 2032/00,TaxInfo,FICA,,0.0,FICA Tax
 2032/00,TaxInfo,Medicare,,0.0,Medicare Tax
@@ -315,854 +309,853 @@ Date, Type, Account, Amount, Balance, Memo
 2032/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2032/00,TaxInfo,StateTax,,0.0,State income tax
 2032/00,TaxInfo,LocalTax,,0.0,Local income tax
-2033/01,Withdraw,IRA,2280.53,722928.05,RMD Withdraw
-2033/01,Deposit,Savings,2016.75,2016.75,Portion of RMD allocated into savings for monthly expenses
-2033/01,Deposit,Savings,263.78,2280.53,Portion of RMD allocated into long-term investments
-2033/01,Withdraw,IRA,10205.08,712722.97,Monthly ROTH conversion
+2033/01,Withdraw,IRA,2282.83,723655.75,RMD Withdraw
+2033/01,Deposit,Savings,2017.25,2017.25,Portion of RMD allocated into savings for monthly expenses
+2033/01,Deposit,Savings,265.58,2282.83,Portion of RMD allocated into long-term investments
+2033/01,Withdraw,IRA,10205.08,713450.67,Monthly ROTH conversion
 2033/01,Deposit,Roth,10205.08,401103.5,Monthly ROTH conversion
-2033/01,Payment,Savings,2016.75,263.78,Federal Income taxes for Self
-2033/02,Withdraw,IRA,2280.53,710442.44,RMD Withdraw
-2033/02,Deposit,Savings,1752.97,2016.75,Portion of RMD allocated into savings for monthly expenses
-2033/02,Deposit,Savings,527.56,2544.31,Portion of RMD allocated into long-term investments
-2033/02,Withdraw,IRA,10205.08,700237.36,Monthly ROTH conversion
+2033/01,Payment,Savings,2017.25,265.58,Federal Income taxes for Self
+2033/02,Withdraw,IRA,2282.83,711167.84,RMD Withdraw
+2033/02,Deposit,Savings,1751.67,2017.25,Portion of RMD allocated into savings for monthly expenses
+2033/02,Deposit,Savings,531.16,2548.41,Portion of RMD allocated into long-term investments
+2033/02,Withdraw,IRA,10205.08,700962.76,Monthly ROTH conversion
 2033/02,Deposit,Roth,10205.08,411308.58,Monthly ROTH conversion
-2033/02,Payment,Savings,2016.75,527.56,Federal Income taxes for Self
-2033/03,Withdraw,IRA,2280.53,697956.83,RMD Withdraw
-2033/03,Deposit,Savings,1489.19,2016.75,Portion of RMD allocated into savings for monthly expenses
-2033/03,Deposit,Savings,791.34,2808.09,Portion of RMD allocated into long-term investments
-2033/03,Withdraw,IRA,10205.08,687751.75,Monthly ROTH conversion
+2033/02,Payment,Savings,2017.25,531.16,Federal Income taxes for Self
+2033/03,Withdraw,IRA,2282.83,698679.93,RMD Withdraw
+2033/03,Deposit,Savings,1486.09,2017.25,Portion of RMD allocated into savings for monthly expenses
+2033/03,Deposit,Savings,796.74,2813.99,Portion of RMD allocated into long-term investments
+2033/03,Withdraw,IRA,10205.08,688474.85,Monthly ROTH conversion
 2033/03,Deposit,Roth,10205.08,421513.66,Monthly ROTH conversion
-2033/03,Payment,Savings,2016.75,791.34,Federal Income taxes for Self
-2033/04,Withdraw,IRA,2280.53,685471.22,RMD Withdraw
-2033/04,Deposit,Savings,1225.41,2016.75,Portion of RMD allocated into savings for monthly expenses
-2033/04,Deposit,Savings,1055.12,3071.87,Portion of RMD allocated into long-term investments
-2033/04,Withdraw,IRA,10205.08,675266.14,Monthly ROTH conversion
+2033/03,Payment,Savings,2017.25,796.74,Federal Income taxes for Self
+2033/04,Withdraw,IRA,2282.83,686192.02,RMD Withdraw
+2033/04,Deposit,Savings,1220.51,2017.25,Portion of RMD allocated into savings for monthly expenses
+2033/04,Deposit,Savings,1062.32,3079.57,Portion of RMD allocated into long-term investments
+2033/04,Withdraw,IRA,10205.08,675986.94,Monthly ROTH conversion
 2033/04,Deposit,Roth,10205.08,431718.74,Monthly ROTH conversion
-2033/04,Payment,Savings,2016.75,1055.12,Federal Income taxes for Self
-2033/05,Withdraw,IRA,2280.53,672985.61,RMD Withdraw
-2033/05,Deposit,Savings,961.63,2016.75,Portion of RMD allocated into savings for monthly expenses
-2033/05,Deposit,Savings,1318.9,3335.65,Portion of RMD allocated into long-term investments
-2033/05,Withdraw,IRA,10205.08,662780.53,Monthly ROTH conversion
+2033/04,Payment,Savings,2017.25,1062.32,Federal Income taxes for Self
+2033/05,Withdraw,IRA,2282.83,673704.11,RMD Withdraw
+2033/05,Deposit,Savings,954.93,2017.25,Portion of RMD allocated into savings for monthly expenses
+2033/05,Deposit,Savings,1327.9,3345.15,Portion of RMD allocated into long-term investments
+2033/05,Withdraw,IRA,10205.08,663499.03,Monthly ROTH conversion
 2033/05,Deposit,Roth,10205.08,441923.82,Monthly ROTH conversion
-2033/05,Payment,Savings,2016.75,1318.9,Federal Income taxes for Self
-2033/06,Withdraw,IRA,2280.53,660500.0,RMD Withdraw
-2033/06,Deposit,Savings,697.85,2016.75,Portion of RMD allocated into savings for monthly expenses
-2033/06,Deposit,Savings,1582.68,3599.43,Portion of RMD allocated into long-term investments
-2033/06,Withdraw,IRA,10205.08,650294.92,Monthly ROTH conversion
+2033/05,Payment,Savings,2017.25,1327.9,Federal Income taxes for Self
+2033/06,Withdraw,IRA,2282.83,661216.2,RMD Withdraw
+2033/06,Deposit,Savings,689.35,2017.25,Portion of RMD allocated into savings for monthly expenses
+2033/06,Deposit,Savings,1593.48,3610.73,Portion of RMD allocated into long-term investments
+2033/06,Withdraw,IRA,10205.08,651011.12,Monthly ROTH conversion
 2033/06,Deposit,Roth,10205.08,452128.9,Monthly ROTH conversion
-2033/06,Payment,Savings,2016.75,1582.68,Federal Income taxes for Self
-2033/07,Withdraw,IRA,2280.53,648014.39,RMD Withdraw
-2033/07,Deposit,Savings,434.07,2016.75,Portion of RMD allocated into savings for monthly expenses
-2033/07,Deposit,Savings,1846.46,3863.21,Portion of RMD allocated into long-term investments
-2033/07,Withdraw,IRA,10205.08,637809.31,Monthly ROTH conversion
+2033/06,Payment,Savings,2017.25,1593.48,Federal Income taxes for Self
+2033/07,Withdraw,IRA,2282.83,648728.29,RMD Withdraw
+2033/07,Deposit,Savings,423.77,2017.25,Portion of RMD allocated into savings for monthly expenses
+2033/07,Deposit,Savings,1859.06,3876.31,Portion of RMD allocated into long-term investments
+2033/07,Withdraw,IRA,10205.08,638523.21,Monthly ROTH conversion
 2033/07,Deposit,Roth,10205.08,462333.98,Monthly ROTH conversion
-2033/07,Payment,Savings,2016.75,1846.46,Federal Income taxes for Self
-2033/08,Withdraw,IRA,2280.53,635528.78,RMD Withdraw
-2033/08,Deposit,Savings,170.29,2016.75,Portion of RMD allocated into savings for monthly expenses
-2033/08,Deposit,Savings,2110.24,4126.99,Portion of RMD allocated into long-term investments
-2033/08,Withdraw,IRA,10205.08,625323.7,Monthly ROTH conversion
+2033/07,Payment,Savings,2017.25,1859.06,Federal Income taxes for Self
+2033/08,Withdraw,IRA,2282.83,636240.38,RMD Withdraw
+2033/08,Deposit,Savings,158.19,2017.25,Portion of RMD allocated into savings for monthly expenses
+2033/08,Deposit,Savings,2124.64,4141.89,Portion of RMD allocated into long-term investments
+2033/08,Withdraw,IRA,10205.08,626035.3,Monthly ROTH conversion
 2033/08,Deposit,Roth,10205.08,472539.06,Monthly ROTH conversion
-2033/08,Payment,Savings,2016.75,2110.24,Federal Income taxes for Self
-2033/09,Withdraw,IRA,2280.53,623043.17,RMD Withdraw
-2033/09,Deposit,Savings,2280.53,4390.77,RMD fully allocated into long-term investments
-2033/09,Withdraw,IRA,10205.08,612838.09,Monthly ROTH conversion
+2033/08,Payment,Savings,2017.25,2124.64,Federal Income taxes for Self
+2033/09,Withdraw,IRA,2282.83,623752.47,RMD Withdraw
+2033/09,Deposit,Savings,2282.83,4407.47,RMD fully allocated into long-term investments
+2033/09,Withdraw,IRA,10205.08,613547.39,Monthly ROTH conversion
 2033/09,Deposit,Roth,10205.08,482744.14,Monthly ROTH conversion
-2033/09,Payment,Savings,2016.75,2374.02,Federal Income taxes for Self
-2033/10,Withdraw,IRA,2280.53,610557.56,RMD Withdraw
-2033/10,Deposit,Savings,2280.53,4654.55,RMD fully allocated into long-term investments
-2033/10,Withdraw,IRA,10205.08,600352.48,Monthly ROTH conversion
+2033/09,Payment,Savings,2017.25,2390.22,Federal Income taxes for Self
+2033/10,Withdraw,IRA,2282.83,611264.56,RMD Withdraw
+2033/10,Deposit,Savings,2282.83,4673.05,RMD fully allocated into long-term investments
+2033/10,Withdraw,IRA,10205.08,601059.48,Monthly ROTH conversion
 2033/10,Deposit,Roth,10205.08,492949.22,Monthly ROTH conversion
-2033/10,Payment,Savings,2016.75,2637.8,Federal Income taxes for Self
-2033/11,Withdraw,IRA,2280.53,598071.95,RMD Withdraw
-2033/11,Deposit,Savings,2280.53,4918.33,RMD fully allocated into long-term investments
-2033/11,Withdraw,IRA,10205.08,587866.87,Monthly ROTH conversion
+2033/10,Payment,Savings,2017.25,2655.8,Federal Income taxes for Self
+2033/11,Withdraw,IRA,2282.83,598776.65,RMD Withdraw
+2033/11,Deposit,Savings,2282.83,4938.63,RMD fully allocated into long-term investments
+2033/11,Withdraw,IRA,10205.08,588571.57,Monthly ROTH conversion
 2033/11,Deposit,Roth,10205.08,503154.3,Monthly ROTH conversion
-2033/11,Payment,Savings,2016.75,2901.58,Federal Income taxes for Self
-2033/12,Withdraw,IRA,2280.53,585586.34,RMD Withdraw
-2033/12,Deposit,Savings,2280.53,5182.11,RMD fully allocated into long-term investments
-2033/12,Withdraw,IRA,10205.06,575381.28,Monthly ROTH conversion
+2033/11,Payment,Savings,2017.25,2921.38,Federal Income taxes for Self
+2033/12,Withdraw,IRA,2282.78,586288.79,RMD Withdraw
+2033/12,Deposit,Savings,2282.78,5204.16,RMD fully allocated into long-term investments
+2033/12,Withdraw,IRA,10205.06,576083.73,Monthly ROTH conversion
 2033/12,Deposit,Roth,10205.06,513359.36,Monthly ROTH conversion
-2033/12,Payment,Savings,2016.75,3165.36,Federal Income taxes for Self
-2033/00,AccountInfo,Savings,,3165.36,Account balance
-2033/00,AccountInfo,IRA,,575381.28,Account balance
+2033/12,Payment,Savings,2017.25,3186.91,Federal Income taxes for Self
+2033/00,AccountInfo,Savings,,3186.91,Account balance
+2033/00,AccountInfo,IRA,,576083.73,Account balance
 2033/00,AccountInfo,Roth,,513359.36,Account balance
 2033/00,TaxInfo,FICA,,0.0,FICA Tax
 2033/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2033/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2033/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2033/00,TaxInfo,AGI,,149827.3,Adjusted Gross Income
-2033/00,TaxInfo,FederalTax,,24201.0,Federal income tax
+2033/00,TaxInfo,AGI,,149854.85,Adjusted Gross Income
+2033/00,TaxInfo,FederalTax,,24207.0,Federal income tax
 2033/00,TaxInfo,StateTax,,0.0,State income tax
 2033/00,TaxInfo,LocalTax,,0.0,Local income tax
-2034/01,Withdraw,IRA,1880.33,573500.95,RMD Withdraw
-2034/01,Deposit,Savings,1880.33,5045.69,RMD fully allocated into long-term investments
-2034/01,Withdraw,IRA,10595.7,562905.25,Monthly ROTH conversion
+2034/01,Withdraw,IRA,1882.63,574201.1,RMD Withdraw
+2034/01,Deposit,Savings,1882.63,5069.54,RMD fully allocated into long-term investments
+2034/01,Withdraw,IRA,10595.7,563605.4,Monthly ROTH conversion
 2034/01,Deposit,Roth,10595.7,523955.06,Monthly ROTH conversion
-2034/01,Payment,Savings,2014.42,3031.27,Federal Income taxes for Self
-2034/02,Withdraw,IRA,1880.33,561024.92,RMD Withdraw
-2034/02,Deposit,Savings,1880.33,4911.6,RMD fully allocated into long-term investments
-2034/02,Withdraw,IRA,10595.7,550429.22,Monthly ROTH conversion
+2034/01,Payment,Savings,2015.0,3054.54,Federal Income taxes for Self
+2034/02,Withdraw,IRA,1882.63,561722.77,RMD Withdraw
+2034/02,Deposit,Savings,1882.63,4937.17,RMD fully allocated into long-term investments
+2034/02,Withdraw,IRA,10595.7,551127.07,Monthly ROTH conversion
 2034/02,Deposit,Roth,10595.7,534550.76,Monthly ROTH conversion
-2034/02,Payment,Savings,2014.42,2897.18,Federal Income taxes for Self
-2034/03,Withdraw,IRA,1880.33,548548.89,RMD Withdraw
-2034/03,Deposit,Savings,1880.33,4777.51,RMD fully allocated into long-term investments
-2034/03,Withdraw,IRA,10595.7,537953.19,Monthly ROTH conversion
+2034/02,Payment,Savings,2015.0,2922.17,Federal Income taxes for Self
+2034/03,Withdraw,IRA,1882.63,549244.44,RMD Withdraw
+2034/03,Deposit,Savings,1882.63,4804.8,RMD fully allocated into long-term investments
+2034/03,Withdraw,IRA,10595.7,538648.74,Monthly ROTH conversion
 2034/03,Deposit,Roth,10595.7,545146.46,Monthly ROTH conversion
-2034/03,Payment,Savings,2014.42,2763.09,Federal Income taxes for Self
-2034/04,Withdraw,IRA,1880.33,536072.86,RMD Withdraw
-2034/04,Deposit,Savings,1880.33,4643.42,RMD fully allocated into long-term investments
-2034/04,Withdraw,IRA,10595.7,525477.16,Monthly ROTH conversion
+2034/03,Payment,Savings,2015.0,2789.8,Federal Income taxes for Self
+2034/04,Withdraw,IRA,1882.63,536766.11,RMD Withdraw
+2034/04,Deposit,Savings,1882.63,4672.43,RMD fully allocated into long-term investments
+2034/04,Withdraw,IRA,10595.7,526170.41,Monthly ROTH conversion
 2034/04,Deposit,Roth,10595.7,555742.16,Monthly ROTH conversion
-2034/04,Payment,Savings,2014.42,2629.0,Federal Income taxes for Self
-2034/05,Withdraw,IRA,1880.33,523596.83,RMD Withdraw
-2034/05,Deposit,Savings,1880.33,4509.33,RMD fully allocated into long-term investments
-2034/05,Withdraw,IRA,10595.71,513001.12,Monthly ROTH conversion
+2034/04,Payment,Savings,2015.0,2657.43,Federal Income taxes for Self
+2034/05,Withdraw,IRA,1882.63,524287.78,RMD Withdraw
+2034/05,Deposit,Savings,1882.63,4540.06,RMD fully allocated into long-term investments
+2034/05,Withdraw,IRA,10595.71,513692.07,Monthly ROTH conversion
 2034/05,Deposit,Roth,10595.71,566337.87,Monthly ROTH conversion
-2034/05,Payment,Savings,2014.42,2494.91,Federal Income taxes for Self
-2034/06,Withdraw,IRA,1880.33,511120.79,RMD Withdraw
-2034/06,Deposit,Savings,1880.33,4375.24,RMD fully allocated into long-term investments
-2034/06,Withdraw,IRA,10595.7,500525.09,Monthly ROTH conversion
+2034/05,Payment,Savings,2015.0,2525.06,Federal Income taxes for Self
+2034/06,Withdraw,IRA,1882.63,511809.44,RMD Withdraw
+2034/06,Deposit,Savings,1882.63,4407.69,RMD fully allocated into long-term investments
+2034/06,Withdraw,IRA,10595.7,501213.74,Monthly ROTH conversion
 2034/06,Deposit,Roth,10595.7,576933.57,Monthly ROTH conversion
-2034/06,Payment,Savings,2014.41,2360.83,Federal Income taxes for Self
-2034/07,Withdraw,IRA,1880.33,498644.76,RMD Withdraw
-2034/07,Deposit,Savings,1880.33,4241.16,RMD fully allocated into long-term investments
-2034/07,Withdraw,IRA,10595.71,488049.05,Monthly ROTH conversion
+2034/06,Payment,Savings,2015.0,2392.69,Federal Income taxes for Self
+2034/07,Withdraw,IRA,1882.63,499331.11,RMD Withdraw
+2034/07,Deposit,Savings,1882.63,4275.32,RMD fully allocated into long-term investments
+2034/07,Withdraw,IRA,10595.71,488735.4,Monthly ROTH conversion
 2034/07,Deposit,Roth,10595.71,587529.28,Monthly ROTH conversion
-2034/07,Payment,Savings,2014.41,2226.75,Federal Income taxes for Self
-2034/08,Withdraw,IRA,1880.33,486168.72,RMD Withdraw
-2034/08,Deposit,Savings,1880.33,4107.08,RMD fully allocated into long-term investments
-2034/08,Withdraw,IRA,10595.7,475573.02,Monthly ROTH conversion
+2034/07,Payment,Savings,2015.0,2260.32,Federal Income taxes for Self
+2034/08,Withdraw,IRA,1882.63,486852.77,RMD Withdraw
+2034/08,Deposit,Savings,1882.63,4142.95,RMD fully allocated into long-term investments
+2034/08,Withdraw,IRA,10595.7,476257.07,Monthly ROTH conversion
 2034/08,Deposit,Roth,10595.7,598124.98,Monthly ROTH conversion
-2034/08,Payment,Savings,2014.41,2092.67,Federal Income taxes for Self
-2034/09,Withdraw,IRA,1880.33,473692.69,RMD Withdraw
-2034/09,Deposit,Savings,1880.33,3973.0,RMD fully allocated into long-term investments
-2034/09,Withdraw,IRA,10595.7,463096.99,Monthly ROTH conversion
+2034/08,Payment,Savings,2015.0,2127.95,Federal Income taxes for Self
+2034/09,Withdraw,IRA,1882.63,474374.44,RMD Withdraw
+2034/09,Deposit,Savings,1882.63,4010.58,RMD fully allocated into long-term investments
+2034/09,Withdraw,IRA,10595.7,463778.74,Monthly ROTH conversion
 2034/09,Deposit,Roth,10595.7,608720.68,Monthly ROTH conversion
-2034/09,Payment,Savings,2014.41,1958.59,Federal Income taxes for Self
-2034/10,Withdraw,IRA,1880.33,461216.66,RMD Withdraw
-2034/10,Deposit,Savings,55.82,2014.41,Portion of RMD allocated into savings for monthly expenses
-2034/10,Deposit,Savings,1824.51,3838.92,Portion of RMD allocated into long-term investments
-2034/10,Withdraw,IRA,10595.7,450620.96,Monthly ROTH conversion
+2034/09,Payment,Savings,2015.0,1995.58,Federal Income taxes for Self
+2034/10,Withdraw,IRA,1882.63,461896.11,RMD Withdraw
+2034/10,Deposit,Savings,19.42,2015.0,Portion of RMD allocated into savings for monthly expenses
+2034/10,Deposit,Savings,1863.21,3878.21,Portion of RMD allocated into long-term investments
+2034/10,Withdraw,IRA,10595.7,451300.41,Monthly ROTH conversion
 2034/10,Deposit,Roth,10595.7,619316.38,Monthly ROTH conversion
-2034/10,Payment,Savings,2014.41,1824.51,Federal Income taxes for Self
-2034/11,Withdraw,IRA,1880.33,448740.63,RMD Withdraw
-2034/11,Deposit,Savings,189.9,2014.41,Portion of RMD allocated into savings for monthly expenses
-2034/11,Deposit,Savings,1690.43,3704.84,Portion of RMD allocated into long-term investments
-2034/11,Withdraw,IRA,10595.7,438144.93,Monthly ROTH conversion
+2034/10,Payment,Savings,2015.0,1863.21,Federal Income taxes for Self
+2034/11,Withdraw,IRA,1882.63,449417.78,RMD Withdraw
+2034/11,Deposit,Savings,151.79,2015.0,Portion of RMD allocated into savings for monthly expenses
+2034/11,Deposit,Savings,1730.84,3745.84,Portion of RMD allocated into long-term investments
+2034/11,Withdraw,IRA,10595.7,438822.08,Monthly ROTH conversion
 2034/11,Deposit,Roth,10595.7,629912.08,Monthly ROTH conversion
-2034/11,Payment,Savings,2014.41,1690.43,Federal Income taxes for Self
-2034/12,Withdraw,IRA,1880.34,436264.59,RMD Withdraw
-2034/12,Deposit,Savings,324.01,2014.44,Portion of RMD allocated into savings for monthly expenses
-2034/12,Deposit,Savings,1556.33,3570.77,Portion of RMD allocated into long-term investments
-2034/12,Withdraw,IRA,10595.72,425668.87,Monthly ROTH conversion
+2034/11,Payment,Savings,2015.0,1730.84,Federal Income taxes for Self
+2034/12,Withdraw,IRA,1882.59,436939.49,RMD Withdraw
+2034/12,Deposit,Savings,284.16,2015.0,Portion of RMD allocated into savings for monthly expenses
+2034/12,Deposit,Savings,1598.43,3613.43,Portion of RMD allocated into long-term investments
+2034/12,Withdraw,IRA,10595.72,426343.77,Monthly ROTH conversion
 2034/12,Deposit,Roth,10595.72,640507.8,Monthly ROTH conversion
-2034/12,Payment,Savings,2014.44,1556.33,Federal Income taxes for Self
-2034/00,AccountInfo,Savings,,1556.33,Account balance
-2034/00,AccountInfo,IRA,,425668.87,Account balance
+2034/12,Payment,Savings,2015.0,1598.43,Federal Income taxes for Self
+2034/00,AccountInfo,Savings,,1598.43,Account balance
+2034/00,AccountInfo,IRA,,426343.77,Account balance
 2034/00,AccountInfo,Roth,,640507.8,Account balance
 2034/00,TaxInfo,FICA,,0.0,FICA Tax
 2034/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2034/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2034/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2034/00,TaxInfo,AGI,,149712.41,Adjusted Gross Income
-2034/00,TaxInfo,FederalTax,,24173.0,Federal income tax
+2034/00,TaxInfo,AGI,,149739.96,Adjusted Gross Income
+2034/00,TaxInfo,FederalTax,,24180.0,Federal income tax
 2034/00,TaxInfo,StateTax,,0.0,State income tax
 2034/00,TaxInfo,LocalTax,,0.0,Local income tax
-2035/01,Withdraw,IRA,1441.97,424226.9,RMD Withdraw
-2035/01,Deposit,Savings,14.42,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/01,Deposit,Savings,1427.55,2998.3,Portion of RMD allocated into long-term investments
-2035/01,Payment,Savings,216.83,2781.47,IRMAA taxes for Self
-2035/01,Withdraw,IRA,8227.54,415999.36,Monthly ROTH conversion
-2035/01,Deposit,Roth,8227.54,648735.34,Monthly ROTH conversion
-2035/01,Payment,Savings,1353.92,1427.55,Federal Income taxes for Self
-2035/02,Withdraw,IRA,1441.97,414557.39,RMD Withdraw
-2035/02,Deposit,Savings,143.2,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/02,Deposit,Savings,1298.77,2869.52,Portion of RMD allocated into long-term investments
-2035/02,Payment,Savings,216.83,2652.69,IRMAA taxes for Self
-2035/02,Withdraw,IRA,8227.54,406329.85,Monthly ROTH conversion
-2035/02,Deposit,Roth,8227.54,656962.88,Monthly ROTH conversion
-2035/02,Payment,Savings,1353.92,1298.77,Federal Income taxes for Self
-2035/03,Withdraw,IRA,1441.97,404887.88,RMD Withdraw
-2035/03,Deposit,Savings,271.98,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/03,Deposit,Savings,1169.99,2740.74,Portion of RMD allocated into long-term investments
-2035/03,Payment,Savings,216.83,2523.91,IRMAA taxes for Self
-2035/03,Withdraw,IRA,8227.54,396660.34,Monthly ROTH conversion
-2035/03,Deposit,Roth,8227.54,665190.42,Monthly ROTH conversion
-2035/03,Payment,Savings,1353.92,1169.99,Federal Income taxes for Self
-2035/04,Withdraw,IRA,1441.97,395218.37,RMD Withdraw
-2035/04,Deposit,Savings,400.76,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/04,Deposit,Savings,1041.21,2611.96,Portion of RMD allocated into long-term investments
-2035/04,Payment,Savings,216.83,2395.13,IRMAA taxes for Self
-2035/04,Withdraw,IRA,8227.54,386990.83,Monthly ROTH conversion
-2035/04,Deposit,Roth,8227.54,673417.96,Monthly ROTH conversion
-2035/04,Payment,Savings,1353.92,1041.21,Federal Income taxes for Self
-2035/05,Withdraw,IRA,1441.97,385548.86,RMD Withdraw
-2035/05,Deposit,Savings,529.54,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/05,Deposit,Savings,912.43,2483.18,Portion of RMD allocated into long-term investments
-2035/05,Payment,Savings,216.83,2266.35,IRMAA taxes for Self
-2035/05,Withdraw,IRA,8227.54,377321.32,Monthly ROTH conversion
-2035/05,Deposit,Roth,8227.54,681645.5,Monthly ROTH conversion
-2035/05,Payment,Savings,1353.92,912.43,Federal Income taxes for Self
-2035/06,Withdraw,IRA,1441.97,375879.35,RMD Withdraw
-2035/06,Deposit,Savings,658.32,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/06,Deposit,Savings,783.65,2354.4,Portion of RMD allocated into long-term investments
-2035/06,Payment,Savings,216.83,2137.57,IRMAA taxes for Self
-2035/06,Withdraw,IRA,8227.54,367651.81,Monthly ROTH conversion
-2035/06,Deposit,Roth,8227.54,689873.04,Monthly ROTH conversion
-2035/06,Payment,Savings,1353.92,783.65,Federal Income taxes for Self
-2035/07,Withdraw,IRA,1441.97,366209.84,RMD Withdraw
-2035/07,Deposit,Savings,787.1,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/07,Deposit,Savings,654.87,2225.62,Portion of RMD allocated into long-term investments
-2035/07,Payment,Savings,216.83,2008.79,IRMAA taxes for Self
-2035/07,Withdraw,IRA,8227.54,357982.3,Monthly ROTH conversion
-2035/07,Deposit,Roth,8227.54,698100.58,Monthly ROTH conversion
-2035/07,Payment,Savings,1353.92,654.87,Federal Income taxes for Self
-2035/08,Withdraw,IRA,1441.97,356540.33,RMD Withdraw
-2035/08,Deposit,Savings,915.88,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/08,Deposit,Savings,526.09,2096.84,Portion of RMD allocated into long-term investments
-2035/08,Payment,Savings,216.83,1880.01,IRMAA taxes for Self
-2035/08,Withdraw,IRA,8227.54,348312.79,Monthly ROTH conversion
-2035/08,Deposit,Roth,8227.54,706328.12,Monthly ROTH conversion
-2035/08,Payment,Savings,1353.92,526.09,Federal Income taxes for Self
-2035/09,Withdraw,IRA,1441.97,346870.82,RMD Withdraw
-2035/09,Deposit,Savings,1044.66,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/09,Deposit,Savings,397.31,1968.06,Portion of RMD allocated into long-term investments
-2035/09,Payment,Savings,216.83,1751.23,IRMAA taxes for Self
-2035/09,Withdraw,IRA,8227.54,338643.28,Monthly ROTH conversion
-2035/09,Deposit,Roth,8227.54,714555.66,Monthly ROTH conversion
-2035/09,Payment,Savings,1353.92,397.31,Federal Income taxes for Self
-2035/10,Withdraw,IRA,1441.97,337201.31,RMD Withdraw
-2035/10,Deposit,Savings,1173.44,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/10,Deposit,Savings,268.53,1839.28,Portion of RMD allocated into long-term investments
-2035/10,Payment,Savings,216.83,1622.45,IRMAA taxes for Self
-2035/10,Withdraw,IRA,8227.54,328973.77,Monthly ROTH conversion
-2035/10,Deposit,Roth,8227.54,722783.2,Monthly ROTH conversion
-2035/10,Payment,Savings,1353.92,268.53,Federal Income taxes for Self
-2035/11,Withdraw,IRA,1441.97,327531.8,RMD Withdraw
-2035/11,Deposit,Savings,1302.22,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/11,Deposit,Savings,139.75,1710.5,Portion of RMD allocated into long-term investments
-2035/11,Payment,Savings,216.83,1493.67,IRMAA taxes for Self
-2035/11,Withdraw,IRA,8227.53,319304.27,Monthly ROTH conversion
-2035/11,Deposit,Roth,8227.53,731010.73,Monthly ROTH conversion
-2035/11,Payment,Savings,1353.92,139.75,Federal Income taxes for Self
-2035/12,Withdraw,IRA,1441.94,317862.33,RMD Withdraw
-2035/12,Deposit,Savings,1431.0,1570.75,Portion of RMD allocated into savings for monthly expenses
-2035/12,Deposit,Savings,10.94,1581.69,Portion of RMD allocated into long-term investments
-2035/12,Payment,Savings,216.87,1364.82,IRMAA taxes for Self
-2035/12,Withdraw,IRA,8227.54,309634.79,Monthly ROTH conversion
-2035/12,Deposit,Roth,8227.54,739238.27,Monthly ROTH conversion
-2035/12,Payment,Savings,1353.88,10.94,Federal Income taxes for Self
-2035/00,AccountInfo,Savings,,10.94,Account balance
-2035/00,AccountInfo,IRA,,309634.79,Account balance
-2035/00,AccountInfo,Roth,,739238.27,Account balance
+2035/01,Withdraw,IRA,1444.25,424899.52,RMD Withdraw
+2035/01,Deposit,Savings,1444.25,3042.68,RMD fully allocated into long-term investments
+2035/01,Payment,Savings,216.83,2825.85,IRMAA taxes for Self
+2035/01,Withdraw,IRA,8251.95,416647.57,Monthly ROTH conversion
+2035/01,Deposit,Roth,8251.95,648759.75,Monthly ROTH conversion
+2035/01,Payment,Savings,1359.75,1466.1,Federal Income taxes for Self
+2035/02,Withdraw,IRA,1444.25,415203.32,RMD Withdraw
+2035/02,Deposit,Savings,110.48,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/02,Deposit,Savings,1333.77,2910.35,Portion of RMD allocated into long-term investments
+2035/02,Payment,Savings,216.83,2693.52,IRMAA taxes for Self
+2035/02,Withdraw,IRA,8251.95,406951.37,Monthly ROTH conversion
+2035/02,Deposit,Roth,8251.95,657011.7,Monthly ROTH conversion
+2035/02,Payment,Savings,1359.75,1333.77,Federal Income taxes for Self
+2035/03,Withdraw,IRA,1444.25,405507.12,RMD Withdraw
+2035/03,Deposit,Savings,242.81,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/03,Deposit,Savings,1201.44,2778.02,Portion of RMD allocated into long-term investments
+2035/03,Payment,Savings,216.83,2561.19,IRMAA taxes for Self
+2035/03,Withdraw,IRA,8251.95,397255.17,Monthly ROTH conversion
+2035/03,Deposit,Roth,8251.95,665263.65,Monthly ROTH conversion
+2035/03,Payment,Savings,1359.75,1201.44,Federal Income taxes for Self
+2035/04,Withdraw,IRA,1444.25,395810.92,RMD Withdraw
+2035/04,Deposit,Savings,375.14,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/04,Deposit,Savings,1069.11,2645.69,Portion of RMD allocated into long-term investments
+2035/04,Payment,Savings,216.83,2428.86,IRMAA taxes for Self
+2035/04,Withdraw,IRA,8251.95,387558.97,Monthly ROTH conversion
+2035/04,Deposit,Roth,8251.95,673515.6,Monthly ROTH conversion
+2035/04,Payment,Savings,1359.75,1069.11,Federal Income taxes for Self
+2035/05,Withdraw,IRA,1444.25,386114.72,RMD Withdraw
+2035/05,Deposit,Savings,507.47,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/05,Deposit,Savings,936.78,2513.36,Portion of RMD allocated into long-term investments
+2035/05,Payment,Savings,216.83,2296.53,IRMAA taxes for Self
+2035/05,Withdraw,IRA,8251.96,377862.76,Monthly ROTH conversion
+2035/05,Deposit,Roth,8251.96,681767.56,Monthly ROTH conversion
+2035/05,Payment,Savings,1359.75,936.78,Federal Income taxes for Self
+2035/06,Withdraw,IRA,1444.25,376418.51,RMD Withdraw
+2035/06,Deposit,Savings,639.8,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/06,Deposit,Savings,804.45,2381.03,Portion of RMD allocated into long-term investments
+2035/06,Payment,Savings,216.83,2164.2,IRMAA taxes for Self
+2035/06,Withdraw,IRA,8251.95,368166.56,Monthly ROTH conversion
+2035/06,Deposit,Roth,8251.95,690019.51,Monthly ROTH conversion
+2035/06,Payment,Savings,1359.75,804.45,Federal Income taxes for Self
+2035/07,Withdraw,IRA,1444.25,366722.31,RMD Withdraw
+2035/07,Deposit,Savings,772.13,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/07,Deposit,Savings,672.12,2248.7,Portion of RMD allocated into long-term investments
+2035/07,Payment,Savings,216.83,2031.87,IRMAA taxes for Self
+2035/07,Withdraw,IRA,8251.96,358470.35,Monthly ROTH conversion
+2035/07,Deposit,Roth,8251.96,698271.47,Monthly ROTH conversion
+2035/07,Payment,Savings,1359.75,672.12,Federal Income taxes for Self
+2035/08,Withdraw,IRA,1444.25,357026.1,RMD Withdraw
+2035/08,Deposit,Savings,904.46,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/08,Deposit,Savings,539.79,2116.37,Portion of RMD allocated into long-term investments
+2035/08,Payment,Savings,216.83,1899.54,IRMAA taxes for Self
+2035/08,Withdraw,IRA,8251.95,348774.15,Monthly ROTH conversion
+2035/08,Deposit,Roth,8251.95,706523.42,Monthly ROTH conversion
+2035/08,Payment,Savings,1359.75,539.79,Federal Income taxes for Self
+2035/09,Withdraw,IRA,1444.25,347329.9,RMD Withdraw
+2035/09,Deposit,Savings,1036.79,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/09,Deposit,Savings,407.46,1984.04,Portion of RMD allocated into long-term investments
+2035/09,Payment,Savings,216.83,1767.21,IRMAA taxes for Self
+2035/09,Withdraw,IRA,8251.95,339077.95,Monthly ROTH conversion
+2035/09,Deposit,Roth,8251.95,714775.37,Monthly ROTH conversion
+2035/09,Payment,Savings,1359.75,407.46,Federal Income taxes for Self
+2035/10,Withdraw,IRA,1444.25,337633.7,RMD Withdraw
+2035/10,Deposit,Savings,1169.12,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/10,Deposit,Savings,275.13,1851.71,Portion of RMD allocated into long-term investments
+2035/10,Payment,Savings,216.83,1634.88,IRMAA taxes for Self
+2035/10,Withdraw,IRA,8251.95,329381.75,Monthly ROTH conversion
+2035/10,Deposit,Roth,8251.95,723027.32,Monthly ROTH conversion
+2035/10,Payment,Savings,1359.75,275.13,Federal Income taxes for Self
+2035/11,Withdraw,IRA,1444.25,327937.5,RMD Withdraw
+2035/11,Deposit,Savings,1301.45,1576.58,Portion of RMD allocated into savings for monthly expenses
+2035/11,Deposit,Savings,142.8,1719.38,Portion of RMD allocated into long-term investments
+2035/11,Payment,Savings,216.83,1502.55,IRMAA taxes for Self
+2035/11,Withdraw,IRA,8251.95,319685.55,Monthly ROTH conversion
+2035/11,Deposit,Roth,8251.95,731279.27,Monthly ROTH conversion
+2035/11,Payment,Savings,1359.75,142.8,Federal Income taxes for Self
+2035/12,Withdraw,IRA,1444.3,318241.25,RMD Withdraw
+2035/12,Deposit,Savings,1433.82,1576.62,Portion of RMD allocated into savings for monthly expenses
+2035/12,Deposit,Savings,10.48,1587.1,Portion of RMD allocated into long-term investments
+2035/12,Payment,Savings,216.87,1370.23,IRMAA taxes for Self
+2035/12,Withdraw,IRA,8251.97,309989.28,Monthly ROTH conversion
+2035/12,Deposit,Roth,8251.97,739531.24,Monthly ROTH conversion
+2035/12,Payment,Savings,1359.75,10.48,Federal Income taxes for Self
+2035/00,AccountInfo,Savings,,10.48,Account balance
+2035/00,AccountInfo,IRA,,309989.28,Account balance
+2035/00,AccountInfo,Roth,,739531.24,Account balance
 2035/00,TaxInfo,FICA,,0.0,FICA Tax
 2035/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2035/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
 2035/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2035/00,TaxInfo,AGI,,116034.08,Adjusted Gross Income
-2035/00,TaxInfo,FederalTax,,16247.0,Federal income tax
+2035/00,TaxInfo,AGI,,116354.49,Adjusted Gross Income
+2035/00,TaxInfo,FederalTax,,16317.0,Federal income tax
 2035/00,TaxInfo,StateTax,,0.0,State income tax
 2035/00,TaxInfo,LocalTax,,0.0,Local income tax
-2036/01,Withdraw,IRA,1088.73,308546.06,RMD Withdraw
-2036/01,Deposit,Savings,1073.89,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/01,Deposit,Savings,14.84,1099.67,Portion of RMD allocated into long-term investments
-2036/01,Payment,Savings,216.83,882.84,IRMAA taxes for Self
-2036/01,Withdraw,IRA,6372.07,302173.99,Monthly ROTH conversion
-2036/01,Deposit,Roth,6372.07,745610.34,Monthly ROTH conversion
-2036/01,Payment,Savings,868.0,14.84,Federal Income taxes for Self
-2036/02,Withdraw,IRA,1088.73,301085.26,RMD Withdraw
-2036/02,Deposit,Savings,1069.99,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/02,Deposit,Savings,18.74,1103.57,Portion of RMD allocated into long-term investments
-2036/02,Payment,Savings,216.83,886.74,IRMAA taxes for Self
-2036/02,Withdraw,IRA,6372.07,294713.19,Monthly ROTH conversion
-2036/02,Deposit,Roth,6372.07,751982.41,Monthly ROTH conversion
-2036/02,Payment,Savings,868.0,18.74,Federal Income taxes for Self
-2036/03,Withdraw,IRA,1088.73,293624.46,RMD Withdraw
-2036/03,Deposit,Savings,1066.09,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/03,Deposit,Savings,22.64,1107.47,Portion of RMD allocated into long-term investments
-2036/03,Payment,Savings,216.83,890.64,IRMAA taxes for Self
-2036/03,Withdraw,IRA,6372.07,287252.39,Monthly ROTH conversion
-2036/03,Deposit,Roth,6372.07,758354.48,Monthly ROTH conversion
-2036/03,Payment,Savings,868.0,22.64,Federal Income taxes for Self
-2036/04,Withdraw,IRA,1088.73,286163.66,RMD Withdraw
-2036/04,Deposit,Savings,1062.19,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/04,Deposit,Savings,26.54,1111.37,Portion of RMD allocated into long-term investments
-2036/04,Payment,Savings,216.83,894.54,IRMAA taxes for Self
-2036/04,Withdraw,IRA,6372.07,279791.59,Monthly ROTH conversion
-2036/04,Deposit,Roth,6372.07,764726.55,Monthly ROTH conversion
-2036/04,Payment,Savings,868.0,26.54,Federal Income taxes for Self
-2036/05,Withdraw,IRA,1088.73,278702.86,RMD Withdraw
-2036/05,Deposit,Savings,1058.29,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/05,Deposit,Savings,30.44,1115.27,Portion of RMD allocated into long-term investments
-2036/05,Payment,Savings,216.83,898.44,IRMAA taxes for Self
-2036/05,Withdraw,IRA,6372.07,272330.79,Monthly ROTH conversion
-2036/05,Deposit,Roth,6372.07,771098.62,Monthly ROTH conversion
-2036/05,Payment,Savings,868.0,30.44,Federal Income taxes for Self
-2036/06,Withdraw,IRA,1088.73,271242.06,RMD Withdraw
-2036/06,Deposit,Savings,1054.39,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/06,Deposit,Savings,34.34,1119.17,Portion of RMD allocated into long-term investments
-2036/06,Payment,Savings,216.83,902.34,IRMAA taxes for Self
-2036/06,Withdraw,IRA,6372.07,264869.99,Monthly ROTH conversion
-2036/06,Deposit,Roth,6372.07,777470.69,Monthly ROTH conversion
-2036/06,Payment,Savings,868.0,34.34,Federal Income taxes for Self
-2036/07,Withdraw,IRA,1088.73,263781.26,RMD Withdraw
-2036/07,Deposit,Savings,1050.49,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/07,Deposit,Savings,38.24,1123.07,Portion of RMD allocated into long-term investments
-2036/07,Payment,Savings,216.83,906.24,IRMAA taxes for Self
-2036/07,Withdraw,IRA,6372.07,257409.19,Monthly ROTH conversion
-2036/07,Deposit,Roth,6372.07,783842.76,Monthly ROTH conversion
-2036/07,Payment,Savings,868.0,38.24,Federal Income taxes for Self
-2036/08,Withdraw,IRA,1088.73,256320.46,RMD Withdraw
-2036/08,Deposit,Savings,1046.59,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/08,Deposit,Savings,42.14,1126.97,Portion of RMD allocated into long-term investments
-2036/08,Payment,Savings,216.83,910.14,IRMAA taxes for Self
-2036/08,Withdraw,IRA,6372.07,249948.39,Monthly ROTH conversion
-2036/08,Deposit,Roth,6372.07,790214.83,Monthly ROTH conversion
-2036/08,Payment,Savings,868.0,42.14,Federal Income taxes for Self
-2036/09,Withdraw,IRA,1088.73,248859.66,RMD Withdraw
-2036/09,Deposit,Savings,1042.69,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/09,Deposit,Savings,46.04,1130.87,Portion of RMD allocated into long-term investments
-2036/09,Payment,Savings,216.83,914.04,IRMAA taxes for Self
-2036/09,Withdraw,IRA,6372.07,242487.59,Monthly ROTH conversion
-2036/09,Deposit,Roth,6372.07,796586.9,Monthly ROTH conversion
-2036/09,Payment,Savings,868.0,46.04,Federal Income taxes for Self
-2036/10,Withdraw,IRA,1088.73,241398.86,RMD Withdraw
-2036/10,Deposit,Savings,1038.79,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/10,Deposit,Savings,49.94,1134.77,Portion of RMD allocated into long-term investments
-2036/10,Payment,Savings,216.83,917.94,IRMAA taxes for Self
-2036/10,Withdraw,IRA,6372.07,235026.79,Monthly ROTH conversion
-2036/10,Deposit,Roth,6372.07,802958.97,Monthly ROTH conversion
-2036/10,Payment,Savings,868.0,49.94,Federal Income taxes for Self
-2036/11,Withdraw,IRA,1088.73,233938.06,RMD Withdraw
-2036/11,Deposit,Savings,1034.89,1084.83,Portion of RMD allocated into savings for monthly expenses
-2036/11,Deposit,Savings,53.84,1138.67,Portion of RMD allocated into long-term investments
-2036/11,Payment,Savings,216.83,921.84,IRMAA taxes for Self
-2036/11,Withdraw,IRA,6372.07,227565.99,Monthly ROTH conversion
-2036/11,Deposit,Roth,6372.07,809331.04,Monthly ROTH conversion
-2036/11,Payment,Savings,868.0,53.84,Federal Income taxes for Self
-2036/12,Withdraw,IRA,1088.73,226477.26,RMD Withdraw
-2036/12,Deposit,Savings,1031.03,1084.87,Portion of RMD allocated into savings for monthly expenses
-2036/12,Deposit,Savings,57.7,1142.57,Portion of RMD allocated into long-term investments
-2036/12,Payment,Savings,216.87,925.7,IRMAA taxes for Self
-2036/12,Withdraw,IRA,6372.07,220105.19,Monthly ROTH conversion
-2036/12,Deposit,Roth,6372.07,815703.11,Monthly ROTH conversion
-2036/12,Payment,Savings,868.0,57.7,Federal Income taxes for Self
-2036/00,AccountInfo,Savings,,57.7,Account balance
-2036/00,AccountInfo,IRA,,220105.19,Account balance
-2036/00,AccountInfo,Roth,,815703.11,Account balance
+2036/01,Withdraw,IRA,1089.98,308899.3,RMD Withdraw
+2036/01,Deposit,Savings,1079.93,1090.41,Portion of RMD allocated into savings for monthly expenses
+2036/01,Deposit,Savings,10.05,1100.46,Portion of RMD allocated into long-term investments
+2036/01,Payment,Savings,216.83,883.63,IRMAA taxes for Self
+2036/01,Withdraw,IRA,6396.48,302502.82,Monthly ROTH conversion
+2036/01,Deposit,Roth,6396.48,745927.72,Monthly ROTH conversion
+2036/01,Payment,Savings,873.58,10.05,Federal Income taxes for Self
+2036/02,Withdraw,IRA,1089.98,301412.84,RMD Withdraw
+2036/02,Deposit,Savings,1080.36,1090.41,Portion of RMD allocated into savings for monthly expenses
+2036/02,Deposit,Savings,9.62,1100.03,Portion of RMD allocated into long-term investments
+2036/02,Payment,Savings,216.83,883.2,IRMAA taxes for Self
+2036/02,Withdraw,IRA,6396.48,295016.36,Monthly ROTH conversion
+2036/02,Deposit,Roth,6396.48,752324.2,Monthly ROTH conversion
+2036/02,Payment,Savings,873.58,9.62,Federal Income taxes for Self
+2036/03,Withdraw,IRA,1089.98,293926.38,RMD Withdraw
+2036/03,Deposit,Savings,1080.79,1090.41,Portion of RMD allocated into savings for monthly expenses
+2036/03,Deposit,Savings,9.19,1099.6,Portion of RMD allocated into long-term investments
+2036/03,Payment,Savings,216.83,882.77,IRMAA taxes for Self
+2036/03,Withdraw,IRA,6396.49,287529.89,Monthly ROTH conversion
+2036/03,Deposit,Roth,6396.49,758720.69,Monthly ROTH conversion
+2036/03,Payment,Savings,873.58,9.19,Federal Income taxes for Self
+2036/04,Withdraw,IRA,1089.98,286439.91,RMD Withdraw
+2036/04,Deposit,Savings,1081.22,1090.41,Portion of RMD allocated into savings for monthly expenses
+2036/04,Deposit,Savings,8.76,1099.17,Portion of RMD allocated into long-term investments
+2036/04,Payment,Savings,216.83,882.34,IRMAA taxes for Self
+2036/04,Withdraw,IRA,6396.48,280043.43,Monthly ROTH conversion
+2036/04,Deposit,Roth,6396.48,765117.17,Monthly ROTH conversion
+2036/04,Payment,Savings,873.58,8.76,Federal Income taxes for Self
+2036/05,Withdraw,IRA,1089.98,278953.45,RMD Withdraw
+2036/05,Deposit,Savings,1081.66,1090.42,Portion of RMD allocated into savings for monthly expenses
+2036/05,Deposit,Savings,8.32,1098.74,Portion of RMD allocated into long-term investments
+2036/05,Payment,Savings,216.83,881.91,IRMAA taxes for Self
+2036/05,Withdraw,IRA,6396.49,272556.96,Monthly ROTH conversion
+2036/05,Deposit,Roth,6396.49,771513.66,Monthly ROTH conversion
+2036/05,Payment,Savings,873.59,8.32,Federal Income taxes for Self
+2036/06,Withdraw,IRA,1089.98,271466.98,RMD Withdraw
+2036/06,Deposit,Savings,1082.1,1090.42,Portion of RMD allocated into savings for monthly expenses
+2036/06,Deposit,Savings,7.88,1098.3,Portion of RMD allocated into long-term investments
+2036/06,Payment,Savings,216.83,881.47,IRMAA taxes for Self
+2036/06,Withdraw,IRA,6396.48,265070.5,Monthly ROTH conversion
+2036/06,Deposit,Roth,6396.48,777910.14,Monthly ROTH conversion
+2036/06,Payment,Savings,873.59,7.88,Federal Income taxes for Self
+2036/07,Withdraw,IRA,1089.98,263980.52,RMD Withdraw
+2036/07,Deposit,Savings,1082.54,1090.42,Portion of RMD allocated into savings for monthly expenses
+2036/07,Deposit,Savings,7.44,1097.86,Portion of RMD allocated into long-term investments
+2036/07,Payment,Savings,216.83,881.03,IRMAA taxes for Self
+2036/07,Withdraw,IRA,6396.49,257584.03,Monthly ROTH conversion
+2036/07,Deposit,Roth,6396.49,784306.63,Monthly ROTH conversion
+2036/07,Payment,Savings,873.59,7.44,Federal Income taxes for Self
+2036/08,Withdraw,IRA,1089.98,256494.05,RMD Withdraw
+2036/08,Deposit,Savings,1082.98,1090.42,Portion of RMD allocated into savings for monthly expenses
+2036/08,Deposit,Savings,7.0,1097.42,Portion of RMD allocated into long-term investments
+2036/08,Payment,Savings,216.83,880.59,IRMAA taxes for Self
+2036/08,Withdraw,IRA,6396.49,250097.56,Monthly ROTH conversion
+2036/08,Deposit,Roth,6396.49,790703.12,Monthly ROTH conversion
+2036/08,Payment,Savings,873.59,7.0,Federal Income taxes for Self
+2036/09,Withdraw,IRA,1089.98,249007.58,RMD Withdraw
+2036/09,Deposit,Savings,1083.42,1090.42,Portion of RMD allocated into savings for monthly expenses
+2036/09,Deposit,Savings,6.56,1096.98,Portion of RMD allocated into long-term investments
+2036/09,Payment,Savings,216.83,880.15,IRMAA taxes for Self
+2036/09,Withdraw,IRA,6396.49,242611.09,Monthly ROTH conversion
+2036/09,Deposit,Roth,6396.49,797099.61,Monthly ROTH conversion
+2036/09,Payment,Savings,873.59,6.56,Federal Income taxes for Self
+2036/10,Withdraw,IRA,1089.98,241521.11,RMD Withdraw
+2036/10,Deposit,Savings,1083.86,1090.42,Portion of RMD allocated into savings for monthly expenses
+2036/10,Deposit,Savings,6.12,1096.54,Portion of RMD allocated into long-term investments
+2036/10,Payment,Savings,216.83,879.71,IRMAA taxes for Self
+2036/10,Withdraw,IRA,6396.49,235124.62,Monthly ROTH conversion
+2036/10,Deposit,Roth,6396.49,803496.1,Monthly ROTH conversion
+2036/10,Payment,Savings,873.59,6.12,Federal Income taxes for Self
+2036/11,Withdraw,IRA,1089.98,234034.64,RMD Withdraw
+2036/11,Deposit,Savings,1084.3,1090.42,Portion of RMD allocated into savings for monthly expenses
+2036/11,Deposit,Savings,5.68,1096.1,Portion of RMD allocated into long-term investments
+2036/11,Payment,Savings,216.83,879.27,IRMAA taxes for Self
+2036/11,Withdraw,IRA,6396.49,227638.15,Monthly ROTH conversion
+2036/11,Deposit,Roth,6396.49,809892.59,Monthly ROTH conversion
+2036/11,Payment,Savings,873.59,5.68,Federal Income taxes for Self
+2036/12,Withdraw,IRA,1089.94,226548.21,RMD Withdraw
+2036/12,Deposit,Savings,1084.74,1090.42,Portion of RMD allocated into savings for monthly expenses
+2036/12,Deposit,Savings,5.2,1095.62,Portion of RMD allocated into long-term investments
+2036/12,Payment,Savings,216.87,878.75,IRMAA taxes for Self
+2036/12,Withdraw,IRA,6396.46,220151.75,Monthly ROTH conversion
+2036/12,Deposit,Roth,6396.46,816289.05,Monthly ROTH conversion
+2036/12,Payment,Savings,873.55,5.2,Federal Income taxes for Self
+2036/00,AccountInfo,Savings,,5.2,Account balance
+2036/00,AccountInfo,IRA,,220151.75,Account balance
+2036/00,AccountInfo,Roth,,816289.05,Account balance
 2036/00,TaxInfo,FICA,,0.0,FICA Tax
 2036/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2036/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
 2036/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2036/00,TaxInfo,AGI,,89529.6,Adjusted Gross Income
-2036/00,TaxInfo,FederalTax,,10416.0,Federal income tax
+2036/00,TaxInfo,AGI,,89837.53,Adjusted Gross Income
+2036/00,TaxInfo,FederalTax,,10483.0,Federal income tax
 2036/00,TaxInfo,StateTax,,0.0,State income tax
 2036/00,TaxInfo,LocalTax,,0.0,Local income tax
-2037/01,Withdraw,IRA,800.97,219304.22,RMD Withdraw
-2037/01,Deposit,Savings,747.38,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/01,Deposit,Savings,53.59,858.67,Portion of RMD allocated into long-term investments
-2037/01,Payment,Savings,86.33,772.34,IRMAA taxes for Self
-2037/01,Withdraw,IRA,5981.45,213322.77,Monthly ROTH conversion
-2037/01,Deposit,Roth,5981.45,821684.56,Monthly ROTH conversion
-2037/01,Payment,Savings,718.75,53.59,Federal Income taxes for Self
-2037/02,Withdraw,IRA,800.97,212521.8,RMD Withdraw
-2037/02,Deposit,Savings,751.49,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/02,Deposit,Savings,49.48,854.56,Portion of RMD allocated into long-term investments
-2037/02,Payment,Savings,86.33,768.23,IRMAA taxes for Self
-2037/02,Withdraw,IRA,5981.44,206540.36,Monthly ROTH conversion
-2037/02,Deposit,Roth,5981.44,827666.0,Monthly ROTH conversion
-2037/02,Payment,Savings,718.75,49.48,Federal Income taxes for Self
-2037/03,Withdraw,IRA,800.97,205739.39,RMD Withdraw
-2037/03,Deposit,Savings,755.6,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/03,Deposit,Savings,45.37,850.45,Portion of RMD allocated into long-term investments
-2037/03,Payment,Savings,86.33,764.12,IRMAA taxes for Self
-2037/03,Withdraw,IRA,5981.45,199757.94,Monthly ROTH conversion
-2037/03,Deposit,Roth,5981.45,833647.45,Monthly ROTH conversion
-2037/03,Payment,Savings,718.75,45.37,Federal Income taxes for Self
-2037/04,Withdraw,IRA,800.97,198956.97,RMD Withdraw
-2037/04,Deposit,Savings,759.71,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/04,Deposit,Savings,41.26,846.34,Portion of RMD allocated into long-term investments
-2037/04,Payment,Savings,86.33,760.01,IRMAA taxes for Self
-2037/04,Withdraw,IRA,5981.44,192975.53,Monthly ROTH conversion
-2037/04,Deposit,Roth,5981.44,839628.89,Monthly ROTH conversion
-2037/04,Payment,Savings,718.75,41.26,Federal Income taxes for Self
-2037/05,Withdraw,IRA,800.97,192174.56,RMD Withdraw
-2037/05,Deposit,Savings,763.82,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/05,Deposit,Savings,37.15,842.23,Portion of RMD allocated into long-term investments
-2037/05,Payment,Savings,86.33,755.9,IRMAA taxes for Self
-2037/05,Withdraw,IRA,5981.44,186193.12,Monthly ROTH conversion
-2037/05,Deposit,Roth,5981.44,845610.33,Monthly ROTH conversion
-2037/05,Payment,Savings,718.75,37.15,Federal Income taxes for Self
-2037/06,Withdraw,IRA,800.97,185392.15,RMD Withdraw
-2037/06,Deposit,Savings,767.93,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/06,Deposit,Savings,33.04,838.12,Portion of RMD allocated into long-term investments
-2037/06,Payment,Savings,86.33,751.79,IRMAA taxes for Self
-2037/06,Withdraw,IRA,5981.44,179410.71,Monthly ROTH conversion
-2037/06,Deposit,Roth,5981.44,851591.77,Monthly ROTH conversion
-2037/06,Payment,Savings,718.75,33.04,Federal Income taxes for Self
-2037/07,Withdraw,IRA,800.97,178609.74,RMD Withdraw
-2037/07,Deposit,Savings,772.04,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/07,Deposit,Savings,28.93,834.01,Portion of RMD allocated into long-term investments
-2037/07,Payment,Savings,86.33,747.68,IRMAA taxes for Self
-2037/07,Withdraw,IRA,5981.44,172628.3,Monthly ROTH conversion
-2037/07,Deposit,Roth,5981.44,857573.21,Monthly ROTH conversion
-2037/07,Payment,Savings,718.75,28.93,Federal Income taxes for Self
-2037/08,Withdraw,IRA,800.97,171827.33,RMD Withdraw
-2037/08,Deposit,Savings,776.15,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/08,Deposit,Savings,24.82,829.9,Portion of RMD allocated into long-term investments
-2037/08,Payment,Savings,86.33,743.57,IRMAA taxes for Self
-2037/08,Withdraw,IRA,5981.44,165845.89,Monthly ROTH conversion
-2037/08,Deposit,Roth,5981.44,863554.65,Monthly ROTH conversion
-2037/08,Payment,Savings,718.75,24.82,Federal Income taxes for Self
-2037/09,Withdraw,IRA,800.97,165044.92,RMD Withdraw
-2037/09,Deposit,Savings,780.26,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/09,Deposit,Savings,20.71,825.79,Portion of RMD allocated into long-term investments
-2037/09,Payment,Savings,86.33,739.46,IRMAA taxes for Self
-2037/09,Withdraw,IRA,5981.44,159063.48,Monthly ROTH conversion
-2037/09,Deposit,Roth,5981.44,869536.09,Monthly ROTH conversion
-2037/09,Payment,Savings,718.75,20.71,Federal Income taxes for Self
-2037/10,Withdraw,IRA,800.97,158262.51,RMD Withdraw
-2037/10,Deposit,Savings,784.37,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/10,Deposit,Savings,16.6,821.68,Portion of RMD allocated into long-term investments
-2037/10,Payment,Savings,86.33,735.35,IRMAA taxes for Self
-2037/10,Withdraw,IRA,5981.44,152281.07,Monthly ROTH conversion
-2037/10,Deposit,Roth,5981.44,875517.53,Monthly ROTH conversion
-2037/10,Payment,Savings,718.75,16.6,Federal Income taxes for Self
-2037/11,Withdraw,IRA,800.97,151480.1,RMD Withdraw
-2037/11,Deposit,Savings,788.48,805.08,Portion of RMD allocated into savings for monthly expenses
-2037/11,Deposit,Savings,12.49,817.57,Portion of RMD allocated into long-term investments
-2037/11,Payment,Savings,86.33,731.24,IRMAA taxes for Self
-2037/11,Withdraw,IRA,5981.44,145498.66,Monthly ROTH conversion
-2037/11,Deposit,Roth,5981.44,881498.97,Monthly ROTH conversion
-2037/11,Payment,Savings,718.75,12.49,Federal Income taxes for Self
-2037/12,Withdraw,IRA,800.91,144697.75,RMD Withdraw
-2037/12,Deposit,Savings,792.63,805.12,Portion of RMD allocated into savings for monthly expenses
-2037/12,Deposit,Savings,8.28,813.4,Portion of RMD allocated into long-term investments
-2037/12,Payment,Savings,86.37,727.03,IRMAA taxes for Self
-2037/12,Withdraw,IRA,5981.48,138716.27,Monthly ROTH conversion
-2037/12,Deposit,Roth,5981.48,887480.45,Monthly ROTH conversion
-2037/12,Payment,Savings,718.75,8.28,Federal Income taxes for Self
-2037/00,AccountInfo,Savings,,8.28,Account balance
-2037/00,AccountInfo,IRA,,138716.27,Account balance
-2037/00,AccountInfo,Roth,,887480.45,Account balance
+2037/01,Withdraw,IRA,801.13,219350.62,RMD Withdraw
+2037/01,Deposit,Savings,794.55,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/01,Deposit,Savings,6.58,806.33,Portion of RMD allocated into long-term investments
+2037/01,Payment,Savings,86.33,720.0,IRMAA taxes for Self
+2037/01,Withdraw,IRA,5957.03,213393.59,Monthly ROTH conversion
+2037/01,Deposit,Roth,5957.03,822246.08,Monthly ROTH conversion
+2037/01,Payment,Savings,713.42,6.58,Federal Income taxes for Self
+2037/02,Withdraw,IRA,801.13,212592.46,RMD Withdraw
+2037/02,Deposit,Savings,793.17,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/02,Deposit,Savings,7.96,807.71,Portion of RMD allocated into long-term investments
+2037/02,Payment,Savings,86.33,721.38,IRMAA taxes for Self
+2037/02,Withdraw,IRA,5957.03,206635.43,Monthly ROTH conversion
+2037/02,Deposit,Roth,5957.03,828203.11,Monthly ROTH conversion
+2037/02,Payment,Savings,713.42,7.96,Federal Income taxes for Self
+2037/03,Withdraw,IRA,801.13,205834.3,RMD Withdraw
+2037/03,Deposit,Savings,791.79,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/03,Deposit,Savings,9.34,809.09,Portion of RMD allocated into long-term investments
+2037/03,Payment,Savings,86.33,722.76,IRMAA taxes for Self
+2037/03,Withdraw,IRA,5957.03,199877.27,Monthly ROTH conversion
+2037/03,Deposit,Roth,5957.03,834160.14,Monthly ROTH conversion
+2037/03,Payment,Savings,713.42,9.34,Federal Income taxes for Self
+2037/04,Withdraw,IRA,801.13,199076.14,RMD Withdraw
+2037/04,Deposit,Savings,790.41,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/04,Deposit,Savings,10.72,810.47,Portion of RMD allocated into long-term investments
+2037/04,Payment,Savings,86.33,724.14,IRMAA taxes for Self
+2037/04,Withdraw,IRA,5957.03,193119.11,Monthly ROTH conversion
+2037/04,Deposit,Roth,5957.03,840117.17,Monthly ROTH conversion
+2037/04,Payment,Savings,713.42,10.72,Federal Income taxes for Self
+2037/05,Withdraw,IRA,801.13,192317.98,RMD Withdraw
+2037/05,Deposit,Savings,789.03,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/05,Deposit,Savings,12.1,811.85,Portion of RMD allocated into long-term investments
+2037/05,Payment,Savings,86.33,725.52,IRMAA taxes for Self
+2037/05,Withdraw,IRA,5957.03,186360.95,Monthly ROTH conversion
+2037/05,Deposit,Roth,5957.03,846074.2,Monthly ROTH conversion
+2037/05,Payment,Savings,713.42,12.1,Federal Income taxes for Self
+2037/06,Withdraw,IRA,801.13,185559.82,RMD Withdraw
+2037/06,Deposit,Savings,787.65,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/06,Deposit,Savings,13.48,813.23,Portion of RMD allocated into long-term investments
+2037/06,Payment,Savings,86.33,726.9,IRMAA taxes for Self
+2037/06,Withdraw,IRA,5957.03,179602.79,Monthly ROTH conversion
+2037/06,Deposit,Roth,5957.03,852031.23,Monthly ROTH conversion
+2037/06,Payment,Savings,713.42,13.48,Federal Income taxes for Self
+2037/07,Withdraw,IRA,801.13,178801.66,RMD Withdraw
+2037/07,Deposit,Savings,786.27,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/07,Deposit,Savings,14.86,814.61,Portion of RMD allocated into long-term investments
+2037/07,Payment,Savings,86.33,728.28,IRMAA taxes for Self
+2037/07,Withdraw,IRA,5957.03,172844.63,Monthly ROTH conversion
+2037/07,Deposit,Roth,5957.03,857988.26,Monthly ROTH conversion
+2037/07,Payment,Savings,713.42,14.86,Federal Income taxes for Self
+2037/08,Withdraw,IRA,801.13,172043.5,RMD Withdraw
+2037/08,Deposit,Savings,784.89,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/08,Deposit,Savings,16.24,815.99,Portion of RMD allocated into long-term investments
+2037/08,Payment,Savings,86.33,729.66,IRMAA taxes for Self
+2037/08,Withdraw,IRA,5957.03,166086.47,Monthly ROTH conversion
+2037/08,Deposit,Roth,5957.03,863945.29,Monthly ROTH conversion
+2037/08,Payment,Savings,713.42,16.24,Federal Income taxes for Self
+2037/09,Withdraw,IRA,801.13,165285.34,RMD Withdraw
+2037/09,Deposit,Savings,783.51,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/09,Deposit,Savings,17.62,817.37,Portion of RMD allocated into long-term investments
+2037/09,Payment,Savings,86.33,731.04,IRMAA taxes for Self
+2037/09,Withdraw,IRA,5957.04,159328.3,Monthly ROTH conversion
+2037/09,Deposit,Roth,5957.04,869902.33,Monthly ROTH conversion
+2037/09,Payment,Savings,713.42,17.62,Federal Income taxes for Self
+2037/10,Withdraw,IRA,801.13,158527.17,RMD Withdraw
+2037/10,Deposit,Savings,782.13,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/10,Deposit,Savings,19.0,818.75,Portion of RMD allocated into long-term investments
+2037/10,Payment,Savings,86.33,732.42,IRMAA taxes for Self
+2037/10,Withdraw,IRA,5957.04,152570.13,Monthly ROTH conversion
+2037/10,Deposit,Roth,5957.04,875859.37,Monthly ROTH conversion
+2037/10,Payment,Savings,713.42,19.0,Federal Income taxes for Self
+2037/11,Withdraw,IRA,801.13,151769.0,RMD Withdraw
+2037/11,Deposit,Savings,780.75,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/11,Deposit,Savings,20.38,820.13,Portion of RMD allocated into long-term investments
+2037/11,Payment,Savings,86.33,733.8,IRMAA taxes for Self
+2037/11,Withdraw,IRA,5957.04,145811.96,Monthly ROTH conversion
+2037/11,Deposit,Roth,5957.04,881816.41,Monthly ROTH conversion
+2037/11,Payment,Savings,713.42,20.38,Federal Income taxes for Self
+2037/12,Withdraw,IRA,801.18,145010.78,RMD Withdraw
+2037/12,Deposit,Savings,779.37,799.75,Portion of RMD allocated into savings for monthly expenses
+2037/12,Deposit,Savings,21.81,821.56,Portion of RMD allocated into long-term investments
+2037/12,Payment,Savings,86.37,735.19,IRMAA taxes for Self
+2037/12,Withdraw,IRA,5957.02,139053.76,Monthly ROTH conversion
+2037/12,Deposit,Roth,5957.02,887773.43,Monthly ROTH conversion
+2037/12,Payment,Savings,713.38,21.81,Federal Income taxes for Self
+2037/00,AccountInfo,Savings,,21.81,Account balance
+2037/00,AccountInfo,IRA,,139053.76,Account balance
+2037/00,AccountInfo,Roth,,887773.43,Account balance
 2037/00,TaxInfo,FICA,,0.0,FICA Tax
 2037/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2037/00,TaxInfo,IRMAA,,1036.0,IRMAA Tax
 2037/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2037/00,TaxInfo,AGI,,81388.92,Adjusted Gross Income
-2037/00,TaxInfo,FederalTax,,8625.0,Federal income tax
+2037/00,TaxInfo,AGI,,81097.99,Adjusted Gross Income
+2037/00,TaxInfo,FederalTax,,8561.0,Federal income tax
 2037/00,TaxInfo,StateTax,,0.0,State income tax
 2037/00,TaxInfo,LocalTax,,0.0,Local income tax
-2038/01,Withdraw,IRA,525.44,138190.83,RMD Withdraw
-2038/01,Deposit,Savings,515.55,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/01,Deposit,Savings,9.89,533.72,Portion of RMD allocated into long-term investments
-2038/01,Withdraw,IRA,5371.09,132819.74,Monthly ROTH conversion
-2038/01,Deposit,Roth,5371.09,892851.54,Monthly ROTH conversion
-2038/01,Payment,Savings,523.83,9.89,Federal Income taxes for Self
-2038/02,Withdraw,IRA,525.44,132294.3,RMD Withdraw
-2038/02,Deposit,Savings,513.94,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/02,Deposit,Savings,11.5,535.33,Portion of RMD allocated into long-term investments
-2038/02,Withdraw,IRA,5371.09,126923.21,Monthly ROTH conversion
-2038/02,Deposit,Roth,5371.09,898222.63,Monthly ROTH conversion
-2038/02,Payment,Savings,523.83,11.5,Federal Income taxes for Self
-2038/03,Withdraw,IRA,525.44,126397.77,RMD Withdraw
-2038/03,Deposit,Savings,512.33,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/03,Deposit,Savings,13.11,536.94,Portion of RMD allocated into long-term investments
-2038/03,Withdraw,IRA,5371.09,121026.68,Monthly ROTH conversion
-2038/03,Deposit,Roth,5371.09,903593.72,Monthly ROTH conversion
-2038/03,Payment,Savings,523.83,13.11,Federal Income taxes for Self
-2038/04,Withdraw,IRA,525.44,120501.24,RMD Withdraw
-2038/04,Deposit,Savings,510.72,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/04,Deposit,Savings,14.72,538.55,Portion of RMD allocated into long-term investments
-2038/04,Withdraw,IRA,5371.1,115130.14,Monthly ROTH conversion
-2038/04,Deposit,Roth,5371.1,908964.82,Monthly ROTH conversion
-2038/04,Payment,Savings,523.83,14.72,Federal Income taxes for Self
-2038/05,Withdraw,IRA,525.44,114604.7,RMD Withdraw
-2038/05,Deposit,Savings,509.11,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/05,Deposit,Savings,16.33,540.16,Portion of RMD allocated into long-term investments
-2038/05,Withdraw,IRA,5371.09,109233.61,Monthly ROTH conversion
-2038/05,Deposit,Roth,5371.09,914335.91,Monthly ROTH conversion
-2038/05,Payment,Savings,523.83,16.33,Federal Income taxes for Self
-2038/06,Withdraw,IRA,525.44,108708.17,RMD Withdraw
-2038/06,Deposit,Savings,507.5,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/06,Deposit,Savings,17.94,541.77,Portion of RMD allocated into long-term investments
-2038/06,Withdraw,IRA,5371.1,103337.07,Monthly ROTH conversion
-2038/06,Deposit,Roth,5371.1,919707.01,Monthly ROTH conversion
-2038/06,Payment,Savings,523.83,17.94,Federal Income taxes for Self
-2038/07,Withdraw,IRA,525.44,102811.63,RMD Withdraw
-2038/07,Deposit,Savings,505.89,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/07,Deposit,Savings,19.55,543.38,Portion of RMD allocated into long-term investments
-2038/07,Withdraw,IRA,5371.1,97440.53,Monthly ROTH conversion
-2038/07,Deposit,Roth,5371.1,925078.11,Monthly ROTH conversion
-2038/07,Payment,Savings,523.83,19.55,Federal Income taxes for Self
-2038/08,Withdraw,IRA,525.44,96915.09,RMD Withdraw
-2038/08,Deposit,Savings,504.28,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/08,Deposit,Savings,21.16,544.99,Portion of RMD allocated into long-term investments
-2038/08,Withdraw,IRA,5371.1,91543.99,Monthly ROTH conversion
-2038/08,Deposit,Roth,5371.1,930449.21,Monthly ROTH conversion
-2038/08,Payment,Savings,523.83,21.16,Federal Income taxes for Self
-2038/09,Withdraw,IRA,525.44,91018.55,RMD Withdraw
-2038/09,Deposit,Savings,502.67,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/09,Deposit,Savings,22.77,546.6,Portion of RMD allocated into long-term investments
-2038/09,Withdraw,IRA,5371.1,85647.45,Monthly ROTH conversion
-2038/09,Deposit,Roth,5371.1,935820.31,Monthly ROTH conversion
-2038/09,Payment,Savings,523.83,22.77,Federal Income taxes for Self
-2038/10,Withdraw,IRA,525.44,85122.01,RMD Withdraw
-2038/10,Deposit,Savings,501.06,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/10,Deposit,Savings,24.38,548.21,Portion of RMD allocated into long-term investments
-2038/10,Withdraw,IRA,5371.1,79750.91,Monthly ROTH conversion
-2038/10,Deposit,Roth,5371.1,941191.41,Monthly ROTH conversion
-2038/10,Payment,Savings,523.83,24.38,Federal Income taxes for Self
-2038/11,Withdraw,IRA,525.44,79225.47,RMD Withdraw
-2038/11,Deposit,Savings,499.45,523.83,Portion of RMD allocated into savings for monthly expenses
-2038/11,Deposit,Savings,25.99,549.82,Portion of RMD allocated into long-term investments
-2038/11,Withdraw,IRA,5371.1,73854.37,Monthly ROTH conversion
-2038/11,Deposit,Roth,5371.1,946562.51,Monthly ROTH conversion
-2038/11,Payment,Savings,523.83,25.99,Federal Income taxes for Self
-2038/12,Withdraw,IRA,525.45,73328.92,RMD Withdraw
-2038/12,Deposit,Savings,497.88,523.87,Portion of RMD allocated into savings for monthly expenses
-2038/12,Deposit,Savings,27.57,551.44,Portion of RMD allocated into long-term investments
-2038/12,Withdraw,IRA,5371.07,67957.85,Monthly ROTH conversion
-2038/12,Deposit,Roth,5371.07,951933.58,Monthly ROTH conversion
-2038/12,Payment,Savings,523.87,27.57,Federal Income taxes for Self
-2038/00,AccountInfo,Savings,,27.57,Account balance
-2038/00,AccountInfo,IRA,,67957.85,Account balance
-2038/00,AccountInfo,Roth,,951933.58,Account balance
+2038/01,Withdraw,IRA,526.72,138527.04,RMD Withdraw
+2038/01,Deposit,Savings,502.27,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/01,Deposit,Savings,24.45,548.53,Portion of RMD allocated into long-term investments
+2038/01,Withdraw,IRA,5371.09,133155.95,Monthly ROTH conversion
+2038/01,Deposit,Roth,5371.09,893144.52,Monthly ROTH conversion
+2038/01,Payment,Savings,524.08,24.45,Federal Income taxes for Self
+2038/02,Withdraw,IRA,526.72,132629.23,RMD Withdraw
+2038/02,Deposit,Savings,499.63,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/02,Deposit,Savings,27.09,551.17,Portion of RMD allocated into long-term investments
+2038/02,Withdraw,IRA,5371.09,127258.14,Monthly ROTH conversion
+2038/02,Deposit,Roth,5371.09,898515.61,Monthly ROTH conversion
+2038/02,Payment,Savings,524.08,27.09,Federal Income taxes for Self
+2038/03,Withdraw,IRA,526.72,126731.42,RMD Withdraw
+2038/03,Deposit,Savings,496.99,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/03,Deposit,Savings,29.73,553.81,Portion of RMD allocated into long-term investments
+2038/03,Withdraw,IRA,5371.09,121360.33,Monthly ROTH conversion
+2038/03,Deposit,Roth,5371.09,903886.7,Monthly ROTH conversion
+2038/03,Payment,Savings,524.08,29.73,Federal Income taxes for Self
+2038/04,Withdraw,IRA,526.72,120833.61,RMD Withdraw
+2038/04,Deposit,Savings,494.35,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/04,Deposit,Savings,32.37,556.45,Portion of RMD allocated into long-term investments
+2038/04,Withdraw,IRA,5371.1,115462.51,Monthly ROTH conversion
+2038/04,Deposit,Roth,5371.1,909257.8,Monthly ROTH conversion
+2038/04,Payment,Savings,524.08,32.37,Federal Income taxes for Self
+2038/05,Withdraw,IRA,526.72,114935.79,RMD Withdraw
+2038/05,Deposit,Savings,491.71,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/05,Deposit,Savings,35.01,559.09,Portion of RMD allocated into long-term investments
+2038/05,Withdraw,IRA,5371.09,109564.7,Monthly ROTH conversion
+2038/05,Deposit,Roth,5371.09,914628.89,Monthly ROTH conversion
+2038/05,Payment,Savings,524.08,35.01,Federal Income taxes for Self
+2038/06,Withdraw,IRA,526.72,109037.98,RMD Withdraw
+2038/06,Deposit,Savings,489.07,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/06,Deposit,Savings,37.65,561.73,Portion of RMD allocated into long-term investments
+2038/06,Withdraw,IRA,5371.1,103666.88,Monthly ROTH conversion
+2038/06,Deposit,Roth,5371.1,919999.99,Monthly ROTH conversion
+2038/06,Payment,Savings,524.08,37.65,Federal Income taxes for Self
+2038/07,Withdraw,IRA,526.72,103140.16,RMD Withdraw
+2038/07,Deposit,Savings,486.43,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/07,Deposit,Savings,40.29,564.37,Portion of RMD allocated into long-term investments
+2038/07,Withdraw,IRA,5371.1,97769.06,Monthly ROTH conversion
+2038/07,Deposit,Roth,5371.1,925371.09,Monthly ROTH conversion
+2038/07,Payment,Savings,524.08,40.29,Federal Income taxes for Self
+2038/08,Withdraw,IRA,526.72,97242.34,RMD Withdraw
+2038/08,Deposit,Savings,483.79,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/08,Deposit,Savings,42.93,567.01,Portion of RMD allocated into long-term investments
+2038/08,Withdraw,IRA,5371.1,91871.24,Monthly ROTH conversion
+2038/08,Deposit,Roth,5371.1,930742.19,Monthly ROTH conversion
+2038/08,Payment,Savings,524.08,42.93,Federal Income taxes for Self
+2038/09,Withdraw,IRA,526.72,91344.52,RMD Withdraw
+2038/09,Deposit,Savings,481.15,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/09,Deposit,Savings,45.57,569.65,Portion of RMD allocated into long-term investments
+2038/09,Withdraw,IRA,5371.1,85973.42,Monthly ROTH conversion
+2038/09,Deposit,Roth,5371.1,936113.29,Monthly ROTH conversion
+2038/09,Payment,Savings,524.08,45.57,Federal Income taxes for Self
+2038/10,Withdraw,IRA,526.72,85446.7,RMD Withdraw
+2038/10,Deposit,Savings,478.51,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/10,Deposit,Savings,48.21,572.29,Portion of RMD allocated into long-term investments
+2038/10,Withdraw,IRA,5371.1,80075.6,Monthly ROTH conversion
+2038/10,Deposit,Roth,5371.1,941484.39,Monthly ROTH conversion
+2038/10,Payment,Savings,524.08,48.21,Federal Income taxes for Self
+2038/11,Withdraw,IRA,526.72,79548.88,RMD Withdraw
+2038/11,Deposit,Savings,475.87,524.08,Portion of RMD allocated into savings for monthly expenses
+2038/11,Deposit,Savings,50.85,574.93,Portion of RMD allocated into long-term investments
+2038/11,Withdraw,IRA,5371.1,74177.78,Monthly ROTH conversion
+2038/11,Deposit,Roth,5371.1,946855.49,Monthly ROTH conversion
+2038/11,Payment,Savings,524.08,50.85,Federal Income taxes for Self
+2038/12,Withdraw,IRA,526.71,73651.07,RMD Withdraw
+2038/12,Deposit,Savings,473.27,524.12,Portion of RMD allocated into savings for monthly expenses
+2038/12,Deposit,Savings,53.44,577.56,Portion of RMD allocated into long-term investments
+2038/12,Withdraw,IRA,5371.07,68280.0,Monthly ROTH conversion
+2038/12,Deposit,Roth,5371.07,952226.56,Monthly ROTH conversion
+2038/12,Payment,Savings,524.12,53.44,Federal Income taxes for Self
+2038/00,AccountInfo,Savings,,53.44,Account balance
+2038/00,AccountInfo,IRA,,68280.0,Account balance
+2038/00,AccountInfo,Roth,,952226.56,Account balance
 2038/00,TaxInfo,FICA,,0.0,FICA Tax
 2038/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2038/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2038/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2038/00,TaxInfo,AGI,,70758.42,Adjusted Gross Income
-2038/00,TaxInfo,FederalTax,,6286.0,Federal income tax
+2038/00,TaxInfo,AGI,,70773.76,Adjusted Gross Income
+2038/00,TaxInfo,FederalTax,,6289.0,Federal income tax
 2038/00,TaxInfo,StateTax,,0.0,State income tax
 2038/00,TaxInfo,LocalTax,,0.0,Local income tax
-2039/01,Withdraw,IRA,268.4,67689.45,RMD Withdraw
-2039/01,Deposit,Savings,241.93,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/01,Deposit,Savings,26.47,295.97,Portion of RMD allocated into long-term investments
-2039/01,Withdraw,IRA,3662.11,64027.34,Monthly ROTH conversion
-2039/01,Deposit,Roth,3662.11,955595.69,Monthly ROTH conversion
-2039/01,Payment,Savings,269.5,26.47,Federal Income taxes for Self
-2039/02,Withdraw,IRA,268.4,63758.94,RMD Withdraw
-2039/02,Deposit,Savings,243.03,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/02,Deposit,Savings,25.37,294.87,Portion of RMD allocated into long-term investments
-2039/02,Withdraw,IRA,3662.11,60096.83,Monthly ROTH conversion
-2039/02,Deposit,Roth,3662.11,959257.8,Monthly ROTH conversion
-2039/02,Payment,Savings,269.5,25.37,Federal Income taxes for Self
-2039/03,Withdraw,IRA,268.4,59828.43,RMD Withdraw
-2039/03,Deposit,Savings,244.13,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/03,Deposit,Savings,24.27,293.77,Portion of RMD allocated into long-term investments
-2039/03,Withdraw,IRA,3662.11,56166.32,Monthly ROTH conversion
-2039/03,Deposit,Roth,3662.11,962919.91,Monthly ROTH conversion
-2039/03,Payment,Savings,269.5,24.27,Federal Income taxes for Self
-2039/04,Withdraw,IRA,268.4,55897.92,RMD Withdraw
-2039/04,Deposit,Savings,245.23,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/04,Deposit,Savings,23.17,292.67,Portion of RMD allocated into long-term investments
-2039/04,Withdraw,IRA,3662.11,52235.81,Monthly ROTH conversion
-2039/04,Deposit,Roth,3662.11,966582.02,Monthly ROTH conversion
-2039/04,Payment,Savings,269.5,23.17,Federal Income taxes for Self
-2039/05,Withdraw,IRA,268.4,51967.41,RMD Withdraw
-2039/05,Deposit,Savings,246.33,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/05,Deposit,Savings,22.07,291.57,Portion of RMD allocated into long-term investments
-2039/05,Withdraw,IRA,3662.11,48305.3,Monthly ROTH conversion
-2039/05,Deposit,Roth,3662.11,970244.13,Monthly ROTH conversion
-2039/05,Payment,Savings,269.5,22.07,Federal Income taxes for Self
-2039/06,Withdraw,IRA,268.4,48036.9,RMD Withdraw
-2039/06,Deposit,Savings,247.43,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/06,Deposit,Savings,20.97,290.47,Portion of RMD allocated into long-term investments
-2039/06,Withdraw,IRA,3662.11,44374.79,Monthly ROTH conversion
-2039/06,Deposit,Roth,3662.11,973906.24,Monthly ROTH conversion
-2039/06,Payment,Savings,269.5,20.97,Federal Income taxes for Self
-2039/07,Withdraw,IRA,268.4,44106.39,RMD Withdraw
-2039/07,Deposit,Savings,248.53,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/07,Deposit,Savings,19.87,289.37,Portion of RMD allocated into long-term investments
-2039/07,Withdraw,IRA,3662.11,40444.28,Monthly ROTH conversion
-2039/07,Deposit,Roth,3662.11,977568.35,Monthly ROTH conversion
-2039/07,Payment,Savings,269.5,19.87,Federal Income taxes for Self
-2039/08,Withdraw,IRA,268.4,40175.88,RMD Withdraw
-2039/08,Deposit,Savings,249.63,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/08,Deposit,Savings,18.77,288.27,Portion of RMD allocated into long-term investments
-2039/08,Withdraw,IRA,3662.11,36513.77,Monthly ROTH conversion
-2039/08,Deposit,Roth,3662.11,981230.46,Monthly ROTH conversion
-2039/08,Payment,Savings,269.5,18.77,Federal Income taxes for Self
-2039/09,Withdraw,IRA,268.4,36245.37,RMD Withdraw
-2039/09,Deposit,Savings,250.73,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/09,Deposit,Savings,17.67,287.17,Portion of RMD allocated into long-term investments
-2039/09,Withdraw,IRA,3662.11,32583.26,Monthly ROTH conversion
-2039/09,Deposit,Roth,3662.11,984892.57,Monthly ROTH conversion
-2039/09,Payment,Savings,269.5,17.67,Federal Income taxes for Self
-2039/10,Withdraw,IRA,268.4,32314.86,RMD Withdraw
-2039/10,Deposit,Savings,251.83,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/10,Deposit,Savings,16.57,286.07,Portion of RMD allocated into long-term investments
-2039/10,Withdraw,IRA,3662.11,28652.75,Monthly ROTH conversion
-2039/10,Deposit,Roth,3662.11,988554.68,Monthly ROTH conversion
-2039/10,Payment,Savings,269.5,16.57,Federal Income taxes for Self
-2039/11,Withdraw,IRA,268.4,28384.35,RMD Withdraw
-2039/11,Deposit,Savings,252.93,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/11,Deposit,Savings,15.47,284.97,Portion of RMD allocated into long-term investments
-2039/11,Withdraw,IRA,3662.11,24722.24,Monthly ROTH conversion
-2039/11,Deposit,Roth,3662.11,992216.79,Monthly ROTH conversion
-2039/11,Payment,Savings,269.5,15.47,Federal Income taxes for Self
-2039/12,Withdraw,IRA,268.35,24453.89,RMD Withdraw
-2039/12,Deposit,Savings,254.03,269.5,Portion of RMD allocated into savings for monthly expenses
-2039/12,Deposit,Savings,14.32,283.82,Portion of RMD allocated into long-term investments
-2039/12,Withdraw,IRA,3662.1,20791.79,Monthly ROTH conversion
-2039/12,Deposit,Roth,3662.1,995878.89,Monthly ROTH conversion
-2039/12,Payment,Savings,269.5,14.32,Federal Income taxes for Self
-2039/00,AccountInfo,Savings,,14.32,Account balance
-2039/00,AccountInfo,IRA,,20791.79,Account balance
-2039/00,AccountInfo,Roth,,995878.89,Account balance
+2039/01,Withdraw,IRA,269.67,68010.33,RMD Withdraw
+2039/01,Deposit,Savings,219.14,272.58,Portion of RMD allocated into savings for monthly expenses
+2039/01,Deposit,Savings,50.53,323.11,Portion of RMD allocated into long-term investments
+2039/01,Withdraw,IRA,3686.52,64323.81,Monthly ROTH conversion
+2039/01,Deposit,Roth,3686.52,955913.08,Monthly ROTH conversion
+2039/01,Payment,Savings,272.58,50.53,Federal Income taxes for Self
+2039/02,Withdraw,IRA,269.67,64054.14,RMD Withdraw
+2039/02,Deposit,Savings,222.05,272.58,Portion of RMD allocated into savings for monthly expenses
+2039/02,Deposit,Savings,47.62,320.2,Portion of RMD allocated into long-term investments
+2039/02,Withdraw,IRA,3686.52,60367.62,Monthly ROTH conversion
+2039/02,Deposit,Roth,3686.52,959599.6,Monthly ROTH conversion
+2039/02,Payment,Savings,272.58,47.62,Federal Income taxes for Self
+2039/03,Withdraw,IRA,269.67,60097.95,RMD Withdraw
+2039/03,Deposit,Savings,224.96,272.58,Portion of RMD allocated into savings for monthly expenses
+2039/03,Deposit,Savings,44.71,317.29,Portion of RMD allocated into long-term investments
+2039/03,Withdraw,IRA,3686.52,56411.43,Monthly ROTH conversion
+2039/03,Deposit,Roth,3686.52,963286.12,Monthly ROTH conversion
+2039/03,Payment,Savings,272.58,44.71,Federal Income taxes for Self
+2039/04,Withdraw,IRA,269.67,56141.76,RMD Withdraw
+2039/04,Deposit,Savings,227.87,272.58,Portion of RMD allocated into savings for monthly expenses
+2039/04,Deposit,Savings,41.8,314.38,Portion of RMD allocated into long-term investments
+2039/04,Withdraw,IRA,3686.52,52455.24,Monthly ROTH conversion
+2039/04,Deposit,Roth,3686.52,966972.64,Monthly ROTH conversion
+2039/04,Payment,Savings,272.58,41.8,Federal Income taxes for Self
+2039/05,Withdraw,IRA,269.67,52185.57,RMD Withdraw
+2039/05,Deposit,Savings,230.79,272.59,Portion of RMD allocated into savings for monthly expenses
+2039/05,Deposit,Savings,38.88,311.47,Portion of RMD allocated into long-term investments
+2039/05,Withdraw,IRA,3686.52,48499.05,Monthly ROTH conversion
+2039/05,Deposit,Roth,3686.52,970659.16,Monthly ROTH conversion
+2039/05,Payment,Savings,272.59,38.88,Federal Income taxes for Self
+2039/06,Withdraw,IRA,269.67,48229.38,RMD Withdraw
+2039/06,Deposit,Savings,233.7,272.58,Portion of RMD allocated into savings for monthly expenses
+2039/06,Deposit,Savings,35.97,308.55,Portion of RMD allocated into long-term investments
+2039/06,Withdraw,IRA,3686.53,44542.85,Monthly ROTH conversion
+2039/06,Deposit,Roth,3686.53,974345.69,Monthly ROTH conversion
+2039/06,Payment,Savings,272.58,35.97,Federal Income taxes for Self
+2039/07,Withdraw,IRA,269.67,44273.18,RMD Withdraw
+2039/07,Deposit,Savings,236.62,272.59,Portion of RMD allocated into savings for monthly expenses
+2039/07,Deposit,Savings,33.05,305.64,Portion of RMD allocated into long-term investments
+2039/07,Withdraw,IRA,3686.53,40586.65,Monthly ROTH conversion
+2039/07,Deposit,Roth,3686.53,978032.22,Monthly ROTH conversion
+2039/07,Payment,Savings,272.59,33.05,Federal Income taxes for Self
+2039/08,Withdraw,IRA,269.67,40316.98,RMD Withdraw
+2039/08,Deposit,Savings,239.54,272.59,Portion of RMD allocated into savings for monthly expenses
+2039/08,Deposit,Savings,30.13,302.72,Portion of RMD allocated into long-term investments
+2039/08,Withdraw,IRA,3686.52,36630.46,Monthly ROTH conversion
+2039/08,Deposit,Roth,3686.52,981718.74,Monthly ROTH conversion
+2039/08,Payment,Savings,272.59,30.13,Federal Income taxes for Self
+2039/09,Withdraw,IRA,269.67,36360.79,RMD Withdraw
+2039/09,Deposit,Savings,242.46,272.59,Portion of RMD allocated into savings for monthly expenses
+2039/09,Deposit,Savings,27.21,299.8,Portion of RMD allocated into long-term investments
+2039/09,Withdraw,IRA,3686.53,32674.26,Monthly ROTH conversion
+2039/09,Deposit,Roth,3686.53,985405.27,Monthly ROTH conversion
+2039/09,Payment,Savings,272.59,27.21,Federal Income taxes for Self
+2039/10,Withdraw,IRA,269.67,32404.59,RMD Withdraw
+2039/10,Deposit,Savings,245.38,272.59,Portion of RMD allocated into savings for monthly expenses
+2039/10,Deposit,Savings,24.29,296.88,Portion of RMD allocated into long-term investments
+2039/10,Withdraw,IRA,3686.53,28718.06,Monthly ROTH conversion
+2039/10,Deposit,Roth,3686.53,989091.8,Monthly ROTH conversion
+2039/10,Payment,Savings,272.59,24.29,Federal Income taxes for Self
+2039/11,Withdraw,IRA,269.67,28448.39,RMD Withdraw
+2039/11,Deposit,Savings,248.3,272.59,Portion of RMD allocated into savings for monthly expenses
+2039/11,Deposit,Savings,21.37,293.96,Portion of RMD allocated into long-term investments
+2039/11,Withdraw,IRA,3686.53,24761.86,Monthly ROTH conversion
+2039/11,Deposit,Roth,3686.53,992778.33,Monthly ROTH conversion
+2039/11,Payment,Savings,272.59,21.37,Federal Income taxes for Self
+2039/12,Withdraw,IRA,269.65,24492.21,RMD Withdraw
+2039/12,Deposit,Savings,251.19,272.56,Portion of RMD allocated into savings for monthly expenses
+2039/12,Deposit,Savings,18.46,291.02,Portion of RMD allocated into long-term investments
+2039/12,Withdraw,IRA,3686.51,20805.7,Monthly ROTH conversion
+2039/12,Deposit,Roth,3686.51,996464.84,Monthly ROTH conversion
+2039/12,Payment,Savings,272.56,18.46,Federal Income taxes for Self
+2039/00,AccountInfo,Savings,,18.46,Account balance
+2039/00,AccountInfo,IRA,,20805.7,Account balance
+2039/00,AccountInfo,Roth,,996464.84,Account balance
 2039/00,TaxInfo,FICA,,0.0,FICA Tax
 2039/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2039/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2039/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2039/00,TaxInfo,AGI,,47166.06,Adjusted Gross Income
-2039/00,TaxInfo,FederalTax,,3234.0,Federal income tax
+2039/00,TaxInfo,AGI,,47474.3,Adjusted Gross Income
+2039/00,TaxInfo,FederalTax,,3271.0,Federal income tax
 2039/00,TaxInfo,StateTax,,0.0,State income tax
 2039/00,TaxInfo,LocalTax,,0.0,Local income tax
-2040/01,Withdraw,IRA,85.78,20706.01,RMD Withdraw
-2040/01,Deposit,Savings,6.6,20.92,Portion of RMD allocated into savings for monthly expenses
-2040/01,Deposit,Savings,79.18,100.1,Portion of RMD allocated into long-term investments
-2040/01,Withdraw,IRA,1635.74,19070.27,Monthly ROTH conversion
-2040/01,Deposit,Roth,1635.74,997514.63,Monthly ROTH conversion
-2040/01,Payment,Savings,20.92,79.18,Federal Income taxes for Self
-2040/02,Withdraw,IRA,85.78,18984.49,RMD Withdraw
-2040/02,Deposit,Savings,85.78,164.96,RMD fully allocated into long-term investments
-2040/02,Withdraw,IRA,1635.74,17348.75,Monthly ROTH conversion
-2040/02,Deposit,Roth,1635.74,999150.37,Monthly ROTH conversion
-2040/02,Payment,Savings,20.92,144.04,Federal Income taxes for Self
-2040/03,Withdraw,IRA,85.78,17262.97,RMD Withdraw
-2040/03,Deposit,Savings,85.78,229.82,RMD fully allocated into long-term investments
-2040/03,Withdraw,IRA,1635.74,15627.23,Monthly ROTH conversion
-2040/03,Deposit,Roth,1635.74,1000786.11,Monthly ROTH conversion
-2040/03,Payment,Savings,20.92,208.9,Federal Income taxes for Self
-2040/04,Withdraw,IRA,85.78,15541.45,RMD Withdraw
-2040/04,Deposit,Savings,85.78,294.68,RMD fully allocated into long-term investments
-2040/04,Withdraw,IRA,1635.74,13905.71,Monthly ROTH conversion
-2040/04,Deposit,Roth,1635.74,1002421.85,Monthly ROTH conversion
-2040/04,Payment,Savings,20.92,273.76,Federal Income taxes for Self
-2040/05,Withdraw,IRA,85.78,13819.93,RMD Withdraw
-2040/05,Deposit,Savings,85.78,359.54,RMD fully allocated into long-term investments
-2040/05,Withdraw,IRA,1635.74,12184.19,Monthly ROTH conversion
-2040/05,Deposit,Roth,1635.74,1004057.59,Monthly ROTH conversion
-2040/05,Payment,Savings,20.92,338.62,Federal Income taxes for Self
-2040/06,Withdraw,IRA,85.78,12098.41,RMD Withdraw
-2040/06,Deposit,Savings,85.78,424.4,RMD fully allocated into long-term investments
-2040/06,Withdraw,IRA,1635.74,10462.67,Monthly ROTH conversion
-2040/06,Deposit,Roth,1635.74,1005693.33,Monthly ROTH conversion
-2040/06,Payment,Savings,20.91,403.49,Federal Income taxes for Self
-2040/07,Withdraw,IRA,85.78,10376.89,RMD Withdraw
-2040/07,Deposit,Savings,85.78,489.27,RMD fully allocated into long-term investments
-2040/07,Withdraw,IRA,1635.74,8741.15,Monthly ROTH conversion
-2040/07,Deposit,Roth,1635.74,1007329.07,Monthly ROTH conversion
-2040/07,Payment,Savings,20.91,468.36,Federal Income taxes for Self
-2040/08,Withdraw,IRA,85.78,8655.37,RMD Withdraw
-2040/08,Deposit,Savings,85.78,554.14,RMD fully allocated into long-term investments
-2040/08,Withdraw,IRA,1635.74,7019.63,Monthly ROTH conversion
-2040/08,Deposit,Roth,1635.74,1008964.81,Monthly ROTH conversion
-2040/08,Payment,Savings,20.91,533.23,Federal Income taxes for Self
-2040/09,Withdraw,IRA,85.78,6933.85,RMD Withdraw
-2040/09,Deposit,Savings,85.78,619.01,RMD fully allocated into long-term investments
-2040/09,Withdraw,IRA,1635.74,5298.11,Monthly ROTH conversion
-2040/09,Deposit,Roth,1635.74,1010600.55,Monthly ROTH conversion
-2040/09,Payment,Savings,20.91,598.1,Federal Income taxes for Self
-2040/10,Withdraw,IRA,85.78,5212.33,RMD Withdraw
-2040/10,Deposit,Savings,85.78,683.88,RMD fully allocated into long-term investments
-2040/10,Withdraw,IRA,1635.74,3576.59,Monthly ROTH conversion
-2040/10,Deposit,Roth,1635.74,1012236.29,Monthly ROTH conversion
-2040/10,Payment,Savings,20.91,662.97,Federal Income taxes for Self
-2040/11,Withdraw,IRA,85.78,3490.81,RMD Withdraw
-2040/11,Deposit,Savings,85.78,748.75,RMD fully allocated into long-term investments
-2040/11,Withdraw,IRA,1635.74,1855.07,Monthly ROTH conversion
-2040/11,Deposit,Roth,1635.74,1013872.03,Monthly ROTH conversion
-2040/11,Payment,Savings,20.91,727.84,Federal Income taxes for Self
-2040/12,Withdraw,IRA,85.72,1769.35,RMD Withdraw
-2040/12,Deposit,Savings,85.72,813.56,RMD fully allocated into long-term investments
-2040/12,Withdraw,IRA,1635.77,133.58,Monthly ROTH conversion
-2040/12,Deposit,Roth,1635.77,1015507.8,Monthly ROTH conversion
-2040/12,Payment,Savings,20.94,792.62,Federal Income taxes for Self
-2040/00,AccountInfo,Savings,,792.62,Account balance
-2040/00,AccountInfo,IRA,,133.58,Account balance
-2040/00,AccountInfo,Roth,,1015507.8,Account balance
+2040/01,Withdraw,IRA,85.83,20719.87,RMD Withdraw
+2040/01,Deposit,Savings,2.46,20.92,Portion of RMD allocated into savings for monthly expenses
+2040/01,Deposit,Savings,83.37,104.29,Portion of RMD allocated into long-term investments
+2040/01,Withdraw,IRA,1635.74,19084.13,Monthly ROTH conversion
+2040/01,Deposit,Roth,1635.74,998100.58,Monthly ROTH conversion
+2040/01,Payment,Savings,20.92,83.37,Federal Income taxes for Self
+2040/02,Withdraw,IRA,85.83,18998.3,RMD Withdraw
+2040/02,Deposit,Savings,85.83,169.2,RMD fully allocated into long-term investments
+2040/02,Withdraw,IRA,1635.74,17362.56,Monthly ROTH conversion
+2040/02,Deposit,Roth,1635.74,999736.32,Monthly ROTH conversion
+2040/02,Payment,Savings,20.92,148.28,Federal Income taxes for Self
+2040/03,Withdraw,IRA,85.83,17276.73,RMD Withdraw
+2040/03,Deposit,Savings,85.83,234.11,RMD fully allocated into long-term investments
+2040/03,Withdraw,IRA,1635.74,15640.99,Monthly ROTH conversion
+2040/03,Deposit,Roth,1635.74,1001372.06,Monthly ROTH conversion
+2040/03,Payment,Savings,20.92,213.19,Federal Income taxes for Self
+2040/04,Withdraw,IRA,85.83,15555.16,RMD Withdraw
+2040/04,Deposit,Savings,85.83,299.02,RMD fully allocated into long-term investments
+2040/04,Withdraw,IRA,1635.74,13919.42,Monthly ROTH conversion
+2040/04,Deposit,Roth,1635.74,1003007.8,Monthly ROTH conversion
+2040/04,Payment,Savings,20.92,278.1,Federal Income taxes for Self
+2040/05,Withdraw,IRA,85.83,13833.59,RMD Withdraw
+2040/05,Deposit,Savings,85.83,363.93,RMD fully allocated into long-term investments
+2040/05,Withdraw,IRA,1635.74,12197.85,Monthly ROTH conversion
+2040/05,Deposit,Roth,1635.74,1004643.54,Monthly ROTH conversion
+2040/05,Payment,Savings,20.92,343.01,Federal Income taxes for Self
+2040/06,Withdraw,IRA,85.83,12112.02,RMD Withdraw
+2040/06,Deposit,Savings,85.83,428.84,RMD fully allocated into long-term investments
+2040/06,Withdraw,IRA,1635.74,10476.28,Monthly ROTH conversion
+2040/06,Deposit,Roth,1635.74,1006279.28,Monthly ROTH conversion
+2040/06,Payment,Savings,20.91,407.93,Federal Income taxes for Self
+2040/07,Withdraw,IRA,85.83,10390.45,RMD Withdraw
+2040/07,Deposit,Savings,85.83,493.76,RMD fully allocated into long-term investments
+2040/07,Withdraw,IRA,1635.74,8754.71,Monthly ROTH conversion
+2040/07,Deposit,Roth,1635.74,1007915.02,Monthly ROTH conversion
+2040/07,Payment,Savings,20.91,472.85,Federal Income taxes for Self
+2040/08,Withdraw,IRA,85.83,8668.88,RMD Withdraw
+2040/08,Deposit,Savings,85.83,558.68,RMD fully allocated into long-term investments
+2040/08,Withdraw,IRA,1635.74,7033.14,Monthly ROTH conversion
+2040/08,Deposit,Roth,1635.74,1009550.76,Monthly ROTH conversion
+2040/08,Payment,Savings,20.91,537.77,Federal Income taxes for Self
+2040/09,Withdraw,IRA,85.83,6947.31,RMD Withdraw
+2040/09,Deposit,Savings,85.83,623.6,RMD fully allocated into long-term investments
+2040/09,Withdraw,IRA,1635.74,5311.57,Monthly ROTH conversion
+2040/09,Deposit,Roth,1635.74,1011186.5,Monthly ROTH conversion
+2040/09,Payment,Savings,20.91,602.69,Federal Income taxes for Self
+2040/10,Withdraw,IRA,85.83,5225.74,RMD Withdraw
+2040/10,Deposit,Savings,85.83,688.52,RMD fully allocated into long-term investments
+2040/10,Withdraw,IRA,1635.74,3590.0,Monthly ROTH conversion
+2040/10,Deposit,Roth,1635.74,1012822.24,Monthly ROTH conversion
+2040/10,Payment,Savings,20.91,667.61,Federal Income taxes for Self
+2040/11,Withdraw,IRA,85.83,3504.17,RMD Withdraw
+2040/11,Deposit,Savings,85.83,753.44,RMD fully allocated into long-term investments
+2040/11,Withdraw,IRA,1635.74,1868.43,Monthly ROTH conversion
+2040/11,Deposit,Roth,1635.74,1014457.98,Monthly ROTH conversion
+2040/11,Payment,Savings,20.91,732.53,Federal Income taxes for Self
+2040/12,Withdraw,IRA,85.86,1782.57,RMD Withdraw
+2040/12,Deposit,Savings,85.86,818.39,RMD fully allocated into long-term investments
+2040/12,Withdraw,IRA,1635.77,146.8,Monthly ROTH conversion
+2040/12,Deposit,Roth,1635.77,1016093.75,Monthly ROTH conversion
+2040/12,Payment,Savings,20.94,797.45,Federal Income taxes for Self
+2040/00,AccountInfo,Savings,,797.45,Account balance
+2040/00,AccountInfo,IRA,,146.8,Account balance
+2040/00,AccountInfo,Roth,,1016093.75,Account balance
 2040/00,TaxInfo,FICA,,0.0,FICA Tax
 2040/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2040/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2040/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2040/00,TaxInfo,AGI,,20658.21,Adjusted Gross Income
+2040/00,TaxInfo,AGI,,20658.9,Adjusted Gross Income
 2040/00,TaxInfo,FederalTax,,251.0,Federal income tax
 2040/00,TaxInfo,StateTax,,0.0,State income tax
 2040/00,TaxInfo,LocalTax,,0.0,Local income tax
-2041/01,Withdraw,IRA,0.57,133.01,RMD Withdraw
-2041/01,Deposit,Savings,0.57,793.19,RMD fully allocated into long-term investments
-2041/02,Withdraw,IRA,0.57,132.44,RMD Withdraw
-2041/02,Deposit,Savings,0.57,793.76,RMD fully allocated into long-term investments
-2041/03,Withdraw,IRA,0.57,131.87,RMD Withdraw
-2041/03,Deposit,Savings,0.57,794.33,RMD fully allocated into long-term investments
-2041/04,Withdraw,IRA,0.57,131.3,RMD Withdraw
-2041/04,Deposit,Savings,0.57,794.9,RMD fully allocated into long-term investments
-2041/05,Withdraw,IRA,0.57,130.73,RMD Withdraw
-2041/05,Deposit,Savings,0.57,795.47,RMD fully allocated into long-term investments
-2041/06,Withdraw,IRA,0.57,130.16,RMD Withdraw
-2041/06,Deposit,Savings,0.57,796.04,RMD fully allocated into long-term investments
-2041/07,Withdraw,IRA,0.57,129.59,RMD Withdraw
-2041/07,Deposit,Savings,0.57,796.61,RMD fully allocated into long-term investments
-2041/08,Withdraw,IRA,0.57,129.02,RMD Withdraw
-2041/08,Deposit,Savings,0.57,797.18,RMD fully allocated into long-term investments
-2041/09,Withdraw,IRA,0.57,128.45,RMD Withdraw
-2041/09,Deposit,Savings,0.57,797.75,RMD fully allocated into long-term investments
-2041/10,Withdraw,IRA,0.57,127.88,RMD Withdraw
-2041/10,Deposit,Savings,0.57,798.32,RMD fully allocated into long-term investments
-2041/11,Withdraw,IRA,0.57,127.31,RMD Withdraw
-2041/11,Deposit,Savings,0.57,798.89,RMD fully allocated into long-term investments
-2041/12,Withdraw,IRA,0.62,126.69,RMD Withdraw
-2041/12,Deposit,Savings,0.62,799.51,RMD fully allocated into long-term investments
-2041/00,AccountInfo,Savings,,799.51,Account balance
-2041/00,AccountInfo,IRA,,126.69,Account balance
-2041/00,AccountInfo,Roth,,1015507.8,Account balance
+2041/01,Withdraw,IRA,0.63,146.17,RMD Withdraw
+2041/01,Deposit,Savings,0.63,798.08,RMD fully allocated into long-term investments
+2041/02,Withdraw,IRA,0.63,145.54,RMD Withdraw
+2041/02,Deposit,Savings,0.63,798.71,RMD fully allocated into long-term investments
+2041/03,Withdraw,IRA,0.63,144.91,RMD Withdraw
+2041/03,Deposit,Savings,0.63,799.34,RMD fully allocated into long-term investments
+2041/04,Withdraw,IRA,0.63,144.28,RMD Withdraw
+2041/04,Deposit,Savings,0.63,799.97,RMD fully allocated into long-term investments
+2041/05,Withdraw,IRA,0.63,143.65,RMD Withdraw
+2041/05,Deposit,Savings,0.63,800.6,RMD fully allocated into long-term investments
+2041/06,Withdraw,IRA,0.63,143.02,RMD Withdraw
+2041/06,Deposit,Savings,0.63,801.23,RMD fully allocated into long-term investments
+2041/07,Withdraw,IRA,0.63,142.39,RMD Withdraw
+2041/07,Deposit,Savings,0.63,801.86,RMD fully allocated into long-term investments
+2041/08,Withdraw,IRA,0.63,141.76,RMD Withdraw
+2041/08,Deposit,Savings,0.63,802.49,RMD fully allocated into long-term investments
+2041/09,Withdraw,IRA,0.63,141.13,RMD Withdraw
+2041/09,Deposit,Savings,0.63,803.12,RMD fully allocated into long-term investments
+2041/10,Withdraw,IRA,0.63,140.5,RMD Withdraw
+2041/10,Deposit,Savings,0.63,803.75,RMD fully allocated into long-term investments
+2041/11,Withdraw,IRA,0.63,139.87,RMD Withdraw
+2041/11,Deposit,Savings,0.63,804.38,RMD fully allocated into long-term investments
+2041/12,Withdraw,IRA,0.64,139.23,RMD Withdraw
+2041/12,Deposit,Savings,0.64,805.02,RMD fully allocated into long-term investments
+2041/00,AccountInfo,Savings,,805.02,Account balance
+2041/00,AccountInfo,IRA,,139.23,Account balance
+2041/00,AccountInfo,Roth,,1016093.75,Account balance
 2041/00,TaxInfo,FICA,,0.0,FICA Tax
 2041/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2041/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2041/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2041/00,TaxInfo,AGI,,6.89,Adjusted Gross Income
+2041/00,TaxInfo,AGI,,7.57,Adjusted Gross Income
 2041/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2041/00,TaxInfo,StateTax,,0.0,State income tax
 2041/00,TaxInfo,LocalTax,,0.0,Local income tax
-2042/01,Withdraw,IRA,0.57,126.12,RMD Withdraw
-2042/01,Deposit,Savings,0.57,800.08,RMD fully allocated into long-term investments
-2042/02,Withdraw,IRA,0.57,125.55,RMD Withdraw
-2042/02,Deposit,Savings,0.57,800.65,RMD fully allocated into long-term investments
-2042/03,Withdraw,IRA,0.57,124.98,RMD Withdraw
-2042/03,Deposit,Savings,0.57,801.22,RMD fully allocated into long-term investments
-2042/04,Withdraw,IRA,0.57,124.41,RMD Withdraw
-2042/04,Deposit,Savings,0.57,801.79,RMD fully allocated into long-term investments
-2042/05,Withdraw,IRA,0.57,123.84,RMD Withdraw
-2042/05,Deposit,Savings,0.57,802.36,RMD fully allocated into long-term investments
-2042/06,Withdraw,IRA,0.57,123.27,RMD Withdraw
-2042/06,Deposit,Savings,0.57,802.93,RMD fully allocated into long-term investments
-2042/07,Withdraw,IRA,0.57,122.7,RMD Withdraw
-2042/07,Deposit,Savings,0.57,803.5,RMD fully allocated into long-term investments
-2042/08,Withdraw,IRA,0.57,122.13,RMD Withdraw
-2042/08,Deposit,Savings,0.57,804.07,RMD fully allocated into long-term investments
-2042/09,Withdraw,IRA,0.57,121.56,RMD Withdraw
-2042/09,Deposit,Savings,0.57,804.64,RMD fully allocated into long-term investments
-2042/10,Withdraw,IRA,0.57,120.99,RMD Withdraw
-2042/10,Deposit,Savings,0.57,805.21,RMD fully allocated into long-term investments
-2042/11,Withdraw,IRA,0.57,120.42,RMD Withdraw
-2042/11,Deposit,Savings,0.57,805.78,RMD fully allocated into long-term investments
-2042/12,Withdraw,IRA,0.58,119.84,RMD Withdraw
-2042/12,Deposit,Savings,0.58,806.36,RMD fully allocated into long-term investments
-2042/00,AccountInfo,Savings,,806.36,Account balance
-2042/00,AccountInfo,IRA,,119.84,Account balance
-2042/00,AccountInfo,Roth,,1015507.8,Account balance
+2042/01,Withdraw,IRA,0.63,138.6,RMD Withdraw
+2042/01,Deposit,Savings,0.63,805.65,RMD fully allocated into long-term investments
+2042/02,Withdraw,IRA,0.63,137.97,RMD Withdraw
+2042/02,Deposit,Savings,0.63,806.28,RMD fully allocated into long-term investments
+2042/03,Withdraw,IRA,0.63,137.34,RMD Withdraw
+2042/03,Deposit,Savings,0.63,806.91,RMD fully allocated into long-term investments
+2042/04,Withdraw,IRA,0.63,136.71,RMD Withdraw
+2042/04,Deposit,Savings,0.63,807.54,RMD fully allocated into long-term investments
+2042/05,Withdraw,IRA,0.63,136.08,RMD Withdraw
+2042/05,Deposit,Savings,0.63,808.17,RMD fully allocated into long-term investments
+2042/06,Withdraw,IRA,0.63,135.45,RMD Withdraw
+2042/06,Deposit,Savings,0.63,808.8,RMD fully allocated into long-term investments
+2042/07,Withdraw,IRA,0.63,134.82,RMD Withdraw
+2042/07,Deposit,Savings,0.63,809.43,RMD fully allocated into long-term investments
+2042/08,Withdraw,IRA,0.63,134.19,RMD Withdraw
+2042/08,Deposit,Savings,0.63,810.06,RMD fully allocated into long-term investments
+2042/09,Withdraw,IRA,0.63,133.56,RMD Withdraw
+2042/09,Deposit,Savings,0.63,810.69,RMD fully allocated into long-term investments
+2042/10,Withdraw,IRA,0.63,132.93,RMD Withdraw
+2042/10,Deposit,Savings,0.63,811.32,RMD fully allocated into long-term investments
+2042/11,Withdraw,IRA,0.63,132.3,RMD Withdraw
+2042/11,Deposit,Savings,0.63,811.95,RMD fully allocated into long-term investments
+2042/12,Withdraw,IRA,0.6,131.7,RMD Withdraw
+2042/12,Deposit,Savings,0.6,812.55,RMD fully allocated into long-term investments
+2042/00,AccountInfo,Savings,,812.55,Account balance
+2042/00,AccountInfo,IRA,,131.7,Account balance
+2042/00,AccountInfo,Roth,,1016093.75,Account balance
 2042/00,TaxInfo,FICA,,0.0,FICA Tax
 2042/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2042/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2042/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2042/00,TaxInfo,AGI,,6.85,Adjusted Gross Income
+2042/00,TaxInfo,AGI,,7.53,Adjusted Gross Income
 2042/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2042/00,TaxInfo,StateTax,,0.0,State income tax
 2042/00,TaxInfo,LocalTax,,0.0,Local income tax
-2043/01,Withdraw,IRA,0.56,119.28,RMD Withdraw
-2043/01,Deposit,Savings,0.56,806.92,RMD fully allocated into long-term investments
-2043/02,Withdraw,IRA,0.56,118.72,RMD Withdraw
-2043/02,Deposit,Savings,0.56,807.48,RMD fully allocated into long-term investments
-2043/03,Withdraw,IRA,0.56,118.16,RMD Withdraw
-2043/03,Deposit,Savings,0.56,808.04,RMD fully allocated into long-term investments
-2043/04,Withdraw,IRA,0.56,117.6,RMD Withdraw
-2043/04,Deposit,Savings,0.56,808.6,RMD fully allocated into long-term investments
-2043/05,Withdraw,IRA,0.56,117.04,RMD Withdraw
-2043/05,Deposit,Savings,0.56,809.16,RMD fully allocated into long-term investments
-2043/06,Withdraw,IRA,0.56,116.48,RMD Withdraw
-2043/06,Deposit,Savings,0.56,809.72,RMD fully allocated into long-term investments
-2043/07,Withdraw,IRA,0.56,115.92,RMD Withdraw
-2043/07,Deposit,Savings,0.56,810.28,RMD fully allocated into long-term investments
-2043/08,Withdraw,IRA,0.56,115.36,RMD Withdraw
-2043/08,Deposit,Savings,0.56,810.84,RMD fully allocated into long-term investments
-2043/09,Withdraw,IRA,0.56,114.8,RMD Withdraw
-2043/09,Deposit,Savings,0.56,811.4,RMD fully allocated into long-term investments
-2043/10,Withdraw,IRA,0.56,114.24,RMD Withdraw
-2043/10,Deposit,Savings,0.56,811.96,RMD fully allocated into long-term investments
-2043/11,Withdraw,IRA,0.56,113.68,RMD Withdraw
-2043/11,Deposit,Savings,0.56,812.52,RMD fully allocated into long-term investments
-2043/12,Withdraw,IRA,0.61,113.07,RMD Withdraw
-2043/12,Deposit,Savings,0.61,813.13,RMD fully allocated into long-term investments
-2043/00,AccountInfo,Savings,,813.13,Account balance
-2043/00,AccountInfo,IRA,,113.07,Account balance
-2043/00,AccountInfo,Roth,,1015507.8,Account balance
+2043/01,Withdraw,IRA,0.62,131.08,RMD Withdraw
+2043/01,Deposit,Savings,0.62,813.17,RMD fully allocated into long-term investments
+2043/02,Withdraw,IRA,0.62,130.46,RMD Withdraw
+2043/02,Deposit,Savings,0.62,813.79,RMD fully allocated into long-term investments
+2043/03,Withdraw,IRA,0.62,129.84,RMD Withdraw
+2043/03,Deposit,Savings,0.62,814.41,RMD fully allocated into long-term investments
+2043/04,Withdraw,IRA,0.62,129.22,RMD Withdraw
+2043/04,Deposit,Savings,0.62,815.03,RMD fully allocated into long-term investments
+2043/05,Withdraw,IRA,0.62,128.6,RMD Withdraw
+2043/05,Deposit,Savings,0.62,815.65,RMD fully allocated into long-term investments
+2043/06,Withdraw,IRA,0.62,127.98,RMD Withdraw
+2043/06,Deposit,Savings,0.62,816.27,RMD fully allocated into long-term investments
+2043/07,Withdraw,IRA,0.62,127.36,RMD Withdraw
+2043/07,Deposit,Savings,0.62,816.89,RMD fully allocated into long-term investments
+2043/08,Withdraw,IRA,0.62,126.74,RMD Withdraw
+2043/08,Deposit,Savings,0.62,817.51,RMD fully allocated into long-term investments
+2043/09,Withdraw,IRA,0.62,126.12,RMD Withdraw
+2043/09,Deposit,Savings,0.62,818.13,RMD fully allocated into long-term investments
+2043/10,Withdraw,IRA,0.62,125.5,RMD Withdraw
+2043/10,Deposit,Savings,0.62,818.75,RMD fully allocated into long-term investments
+2043/11,Withdraw,IRA,0.62,124.88,RMD Withdraw
+2043/11,Deposit,Savings,0.62,819.37,RMD fully allocated into long-term investments
+2043/12,Withdraw,IRA,0.62,124.26,RMD Withdraw
+2043/12,Deposit,Savings,0.62,819.99,RMD fully allocated into long-term investments
+2043/00,AccountInfo,Savings,,819.99,Account balance
+2043/00,AccountInfo,IRA,,124.26,Account balance
+2043/00,AccountInfo,Roth,,1016093.75,Account balance
 2043/00,TaxInfo,FICA,,0.0,FICA Tax
 2043/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2043/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2043/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2043/00,TaxInfo,AGI,,6.77,Adjusted Gross Income
+2043/00,TaxInfo,AGI,,7.44,Adjusted Gross Income
 2043/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2043/00,TaxInfo,StateTax,,0.0,State income tax
 2043/00,TaxInfo,LocalTax,,0.0,Local income tax
-2044/01,Withdraw,IRA,0.56,112.51,RMD Withdraw
-2044/01,Deposit,Savings,0.56,813.69,RMD fully allocated into long-term investments
-2044/02,Withdraw,IRA,0.56,111.95,RMD Withdraw
-2044/02,Deposit,Savings,0.56,814.25,RMD fully allocated into long-term investments
-2044/03,Withdraw,IRA,0.56,111.39,RMD Withdraw
-2044/03,Deposit,Savings,0.56,814.81,RMD fully allocated into long-term investments
-2044/04,Withdraw,IRA,0.56,110.83,RMD Withdraw
-2044/04,Deposit,Savings,0.56,815.37,RMD fully allocated into long-term investments
-2044/05,Withdraw,IRA,0.56,110.27,RMD Withdraw
-2044/05,Deposit,Savings,0.56,815.93,RMD fully allocated into long-term investments
-2044/06,Withdraw,IRA,0.56,109.71,RMD Withdraw
-2044/06,Deposit,Savings,0.56,816.49,RMD fully allocated into long-term investments
-2044/07,Withdraw,IRA,0.56,109.15,RMD Withdraw
-2044/07,Deposit,Savings,0.56,817.05,RMD fully allocated into long-term investments
-2044/08,Withdraw,IRA,0.56,108.59,RMD Withdraw
-2044/08,Deposit,Savings,0.56,817.61,RMD fully allocated into long-term investments
-2044/09,Withdraw,IRA,0.56,108.03,RMD Withdraw
-2044/09,Deposit,Savings,0.56,818.17,RMD fully allocated into long-term investments
-2044/10,Withdraw,IRA,0.56,107.47,RMD Withdraw
-2044/10,Deposit,Savings,0.56,818.73,RMD fully allocated into long-term investments
-2044/11,Withdraw,IRA,0.56,106.91,RMD Withdraw
-2044/11,Deposit,Savings,0.56,819.29,RMD fully allocated into long-term investments
-2044/12,Withdraw,IRA,0.57,106.34,RMD Withdraw
-2044/12,Deposit,Savings,0.57,819.86,RMD fully allocated into long-term investments
-2044/00,AccountInfo,Savings,,819.86,Account balance
-2044/00,AccountInfo,IRA,,106.34,Account balance
-2044/00,AccountInfo,Roth,,1015507.8,Account balance
+2044/01,Withdraw,IRA,0.62,123.64,RMD Withdraw
+2044/01,Deposit,Savings,0.62,820.61,RMD fully allocated into long-term investments
+2044/02,Withdraw,IRA,0.62,123.02,RMD Withdraw
+2044/02,Deposit,Savings,0.62,821.23,RMD fully allocated into long-term investments
+2044/03,Withdraw,IRA,0.62,122.4,RMD Withdraw
+2044/03,Deposit,Savings,0.62,821.85,RMD fully allocated into long-term investments
+2044/04,Withdraw,IRA,0.62,121.78,RMD Withdraw
+2044/04,Deposit,Savings,0.62,822.47,RMD fully allocated into long-term investments
+2044/05,Withdraw,IRA,0.62,121.16,RMD Withdraw
+2044/05,Deposit,Savings,0.62,823.09,RMD fully allocated into long-term investments
+2044/06,Withdraw,IRA,0.62,120.54,RMD Withdraw
+2044/06,Deposit,Savings,0.62,823.71,RMD fully allocated into long-term investments
+2044/07,Withdraw,IRA,0.62,119.92,RMD Withdraw
+2044/07,Deposit,Savings,0.62,824.33,RMD fully allocated into long-term investments
+2044/08,Withdraw,IRA,0.62,119.3,RMD Withdraw
+2044/08,Deposit,Savings,0.62,824.95,RMD fully allocated into long-term investments
+2044/09,Withdraw,IRA,0.62,118.68,RMD Withdraw
+2044/09,Deposit,Savings,0.62,825.57,RMD fully allocated into long-term investments
+2044/10,Withdraw,IRA,0.62,118.06,RMD Withdraw
+2044/10,Deposit,Savings,0.62,826.19,RMD fully allocated into long-term investments
+2044/11,Withdraw,IRA,0.62,117.44,RMD Withdraw
+2044/11,Deposit,Savings,0.62,826.81,RMD fully allocated into long-term investments
+2044/12,Withdraw,IRA,0.58,116.86,RMD Withdraw
+2044/12,Deposit,Savings,0.58,827.39,RMD fully allocated into long-term investments
+2044/00,AccountInfo,Savings,,827.39,Account balance
+2044/00,AccountInfo,IRA,,116.86,Account balance
+2044/00,AccountInfo,Roth,,1016093.75,Account balance
 2044/00,TaxInfo,FICA,,0.0,FICA Tax
 2044/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2044/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2044/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2044/00,TaxInfo,AGI,,6.73,Adjusted Gross Income
+2044/00,TaxInfo,AGI,,7.4,Adjusted Gross Income
 2044/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2044/00,TaxInfo,StateTax,,0.0,State income tax
 2044/00,TaxInfo,LocalTax,,0.0,Local income tax
-2045/01,Withdraw,IRA,0.55,105.79,RMD Withdraw
-2045/01,Deposit,Savings,0.55,820.41,RMD fully allocated into long-term investments
-2045/02,Withdraw,IRA,0.55,105.24,RMD Withdraw
-2045/02,Deposit,Savings,0.55,820.96,RMD fully allocated into long-term investments
-2045/03,Withdraw,IRA,0.55,104.69,RMD Withdraw
-2045/03,Deposit,Savings,0.55,821.51,RMD fully allocated into long-term investments
-2045/04,Withdraw,IRA,0.55,104.14,RMD Withdraw
-2045/04,Deposit,Savings,0.55,822.06,RMD fully allocated into long-term investments
-2045/05,Withdraw,IRA,0.55,103.59,RMD Withdraw
-2045/05,Deposit,Savings,0.55,822.61,RMD fully allocated into long-term investments
-2045/06,Withdraw,IRA,0.55,103.04,RMD Withdraw
-2045/06,Deposit,Savings,0.55,823.16,RMD fully allocated into long-term investments
-2045/07,Withdraw,IRA,0.55,102.49,RMD Withdraw
-2045/07,Deposit,Savings,0.55,823.71,RMD fully allocated into long-term investments
-2045/08,Withdraw,IRA,0.55,101.94,RMD Withdraw
-2045/08,Deposit,Savings,0.55,824.26,RMD fully allocated into long-term investments
-2045/09,Withdraw,IRA,0.55,101.39,RMD Withdraw
-2045/09,Deposit,Savings,0.55,824.81,RMD fully allocated into long-term investments
-2045/10,Withdraw,IRA,0.55,100.84,RMD Withdraw
-2045/10,Deposit,Savings,0.55,825.36,RMD fully allocated into long-term investments
-2045/11,Withdraw,IRA,0.55,100.29,RMD Withdraw
-2045/11,Deposit,Savings,0.55,825.91,RMD fully allocated into long-term investments
-2045/12,Withdraw,IRA,0.6,99.69,RMD Withdraw
-2045/12,Deposit,Savings,0.6,826.51,RMD fully allocated into long-term investments
-2045/00,AccountInfo,Savings,,826.51,Account balance
-2045/00,AccountInfo,IRA,,99.69,Account balance
-2045/00,AccountInfo,Roth,,1015507.8,Account balance
+2045/01,Withdraw,IRA,0.61,116.25,RMD Withdraw
+2045/01,Deposit,Savings,0.61,828.0,RMD fully allocated into long-term investments
+2045/02,Withdraw,IRA,0.61,115.64,RMD Withdraw
+2045/02,Deposit,Savings,0.61,828.61,RMD fully allocated into long-term investments
+2045/03,Withdraw,IRA,0.61,115.03,RMD Withdraw
+2045/03,Deposit,Savings,0.61,829.22,RMD fully allocated into long-term investments
+2045/04,Withdraw,IRA,0.61,114.42,RMD Withdraw
+2045/04,Deposit,Savings,0.61,829.83,RMD fully allocated into long-term investments
+2045/05,Withdraw,IRA,0.61,113.81,RMD Withdraw
+2045/05,Deposit,Savings,0.61,830.44,RMD fully allocated into long-term investments
+2045/06,Withdraw,IRA,0.61,113.2,RMD Withdraw
+2045/06,Deposit,Savings,0.61,831.05,RMD fully allocated into long-term investments
+2045/07,Withdraw,IRA,0.61,112.59,RMD Withdraw
+2045/07,Deposit,Savings,0.61,831.66,RMD fully allocated into long-term investments
+2045/08,Withdraw,IRA,0.61,111.98,RMD Withdraw
+2045/08,Deposit,Savings,0.61,832.27,RMD fully allocated into long-term investments
+2045/09,Withdraw,IRA,0.61,111.37,RMD Withdraw
+2045/09,Deposit,Savings,0.61,832.88,RMD fully allocated into long-term investments
+2045/10,Withdraw,IRA,0.61,110.76,RMD Withdraw
+2045/10,Deposit,Savings,0.61,833.49,RMD fully allocated into long-term investments
+2045/11,Withdraw,IRA,0.61,110.15,RMD Withdraw
+2045/11,Deposit,Savings,0.61,834.1,RMD fully allocated into long-term investments
+2045/12,Withdraw,IRA,0.59,109.56,RMD Withdraw
+2045/12,Deposit,Savings,0.59,834.69,RMD fully allocated into long-term investments
+2045/00,AccountInfo,Savings,,834.69,Account balance
+2045/00,AccountInfo,IRA,,109.56,Account balance
+2045/00,AccountInfo,Roth,,1016093.75,Account balance
 2045/00,TaxInfo,FICA,,0.0,FICA Tax
 2045/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2045/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2045/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2045/00,TaxInfo,AGI,,6.65,Adjusted Gross Income
+2045/00,TaxInfo,AGI,,7.3,Adjusted Gross Income
 2045/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2045/00,TaxInfo,StateTax,,0.0,State income tax
 2045/00,TaxInfo,LocalTax,,0.0,Local income tax

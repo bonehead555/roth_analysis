@@ -1,41 +1,41 @@
 Date, Type, Account, Amount, Balance, Memo
 2025/01,Withdraw,IRA,12475.59,1087524.41,Monthly ROTH conversion
 2025/01,Deposit,Roth,12475.59,32475.59,Monthly ROTH conversion
-2025/01,Payment,Savings,2043.08,47956.92,Federal Income taxes for Self
+2025/01,Payment,Savings,2012.67,47987.33,Federal Income taxes for Self
 2025/02,Withdraw,IRA,12475.59,1075048.82,Monthly ROTH conversion
 2025/02,Deposit,Roth,12475.59,44951.18,Monthly ROTH conversion
-2025/02,Payment,Savings,2043.08,45913.84,Federal Income taxes for Self
+2025/02,Payment,Savings,2012.67,45974.66,Federal Income taxes for Self
 2025/03,Withdraw,IRA,12475.59,1062573.23,Monthly ROTH conversion
 2025/03,Deposit,Roth,12475.59,57426.77,Monthly ROTH conversion
-2025/03,Payment,Savings,2043.08,43870.76,Federal Income taxes for Self
+2025/03,Payment,Savings,2012.67,43961.99,Federal Income taxes for Self
 2025/04,Withdraw,IRA,12475.59,1050097.64,Monthly ROTH conversion
 2025/04,Deposit,Roth,12475.59,69902.36,Monthly ROTH conversion
-2025/04,Payment,Savings,2043.08,41827.68,Federal Income taxes for Self
+2025/04,Payment,Savings,2012.67,41949.32,Federal Income taxes for Self
 2025/05,Withdraw,IRA,12475.59,1037622.05,Monthly ROTH conversion
 2025/05,Deposit,Roth,12475.59,82377.95,Monthly ROTH conversion
-2025/05,Payment,Savings,2043.09,39784.59,Federal Income taxes for Self
+2025/05,Payment,Savings,2012.67,39936.65,Federal Income taxes for Self
 2025/06,Withdraw,IRA,12475.59,1025146.46,Monthly ROTH conversion
 2025/06,Deposit,Roth,12475.59,94853.54,Monthly ROTH conversion
-2025/06,Payment,Savings,2043.09,37741.5,Federal Income taxes for Self
+2025/06,Payment,Savings,2012.66,37923.99,Federal Income taxes for Self
 2025/07,Withdraw,IRA,12475.59,1012670.87,Monthly ROTH conversion
 2025/07,Deposit,Roth,12475.59,107329.13,Monthly ROTH conversion
-2025/07,Payment,Savings,2043.09,35698.41,Federal Income taxes for Self
+2025/07,Payment,Savings,2012.66,35911.33,Federal Income taxes for Self
 2025/08,Withdraw,IRA,12475.59,1000195.28,Monthly ROTH conversion
 2025/08,Deposit,Roth,12475.59,119804.72,Monthly ROTH conversion
-2025/08,Payment,Savings,2043.09,33655.32,Federal Income taxes for Self
+2025/08,Payment,Savings,2012.66,33898.67,Federal Income taxes for Self
 2025/09,Withdraw,IRA,12475.59,987719.69,Monthly ROTH conversion
 2025/09,Deposit,Roth,12475.59,132280.31,Monthly ROTH conversion
-2025/09,Payment,Savings,2043.09,31612.23,Federal Income taxes for Self
+2025/09,Payment,Savings,2012.66,31886.01,Federal Income taxes for Self
 2025/10,Withdraw,IRA,12475.59,975244.1,Monthly ROTH conversion
 2025/10,Deposit,Roth,12475.59,144755.9,Monthly ROTH conversion
-2025/10,Payment,Savings,2043.09,29569.14,Federal Income taxes for Self
+2025/10,Payment,Savings,2012.66,29873.35,Federal Income taxes for Self
 2025/11,Withdraw,IRA,12475.59,962768.51,Monthly ROTH conversion
 2025/11,Deposit,Roth,12475.59,157231.49,Monthly ROTH conversion
-2025/11,Payment,Savings,2043.09,27526.05,Federal Income taxes for Self
+2025/11,Payment,Savings,2012.66,27860.69,Federal Income taxes for Self
 2025/12,Withdraw,IRA,12475.54,950292.97,Monthly ROTH conversion
 2025/12,Deposit,Roth,12475.54,169707.03,Monthly ROTH conversion
-2025/12,Payment,Savings,2043.05,25483.0,Federal Income taxes for Self
-2025/00,AccountInfo,Savings,,25483.0,Account balance
+2025/12,Payment,Savings,2012.69,25848.0,Federal Income taxes for Self
+2025/00,AccountInfo,Savings,,25848.0,Account balance
 2025/00,AccountInfo,IRA,,950292.97,Account balance
 2025/00,AccountInfo,Roth,,169707.03,Account balance
 2025/00,TaxInfo,FICA,,0.0,FICA Tax
@@ -43,46 +43,46 @@ Date, Type, Account, Amount, Balance, Memo
 2025/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2025/00,TaxInfo,CapGins,,0.0,Capital Gains Income
 2025/00,TaxInfo,AGI,,149707.03,Adjusted Gross Income
-2025/00,TaxInfo,FederalTax,,24517.0,Federal income tax
+2025/00,TaxInfo,FederalTax,,24152.0,Federal income tax
 2025/00,TaxInfo,StateTax,,0.0,State income tax
 2025/00,TaxInfo,LocalTax,,0.0,Local income tax
 2026/01,Withdraw,IRA,12475.59,937817.38,Monthly ROTH conversion
 2026/01,Deposit,Roth,12475.59,182182.62,Monthly ROTH conversion
-2026/01,Payment,Savings,2014.33,23468.67,Federal Income taxes for Self
+2026/01,Payment,Savings,1983.92,23864.08,Federal Income taxes for Self
 2026/02,Withdraw,IRA,12475.59,925341.79,Monthly ROTH conversion
 2026/02,Deposit,Roth,12475.59,194658.21,Monthly ROTH conversion
-2026/02,Payment,Savings,2014.33,21454.34,Federal Income taxes for Self
+2026/02,Payment,Savings,1983.92,21880.16,Federal Income taxes for Self
 2026/03,Withdraw,IRA,12475.59,912866.2,Monthly ROTH conversion
 2026/03,Deposit,Roth,12475.59,207133.8,Monthly ROTH conversion
-2026/03,Payment,Savings,2014.33,19440.01,Federal Income taxes for Self
+2026/03,Payment,Savings,1983.92,19896.24,Federal Income taxes for Self
 2026/04,Withdraw,IRA,12475.59,900390.61,Monthly ROTH conversion
 2026/04,Deposit,Roth,12475.59,219609.39,Monthly ROTH conversion
-2026/04,Payment,Savings,2014.33,17425.68,Federal Income taxes for Self
+2026/04,Payment,Savings,1983.92,17912.32,Federal Income taxes for Self
 2026/05,Withdraw,IRA,12475.59,887915.02,Monthly ROTH conversion
 2026/05,Deposit,Roth,12475.59,232084.98,Monthly ROTH conversion
-2026/05,Payment,Savings,2014.34,15411.34,Federal Income taxes for Self
+2026/05,Payment,Savings,1983.92,15928.4,Federal Income taxes for Self
 2026/06,Withdraw,IRA,12475.59,875439.43,Monthly ROTH conversion
 2026/06,Deposit,Roth,12475.59,244560.57,Monthly ROTH conversion
-2026/06,Payment,Savings,2014.34,13397.0,Federal Income taxes for Self
+2026/06,Payment,Savings,1983.91,13944.49,Federal Income taxes for Self
 2026/07,Withdraw,IRA,12475.59,862963.84,Monthly ROTH conversion
 2026/07,Deposit,Roth,12475.59,257036.16,Monthly ROTH conversion
-2026/07,Payment,Savings,2014.34,11382.66,Federal Income taxes for Self
+2026/07,Payment,Savings,1983.91,11960.58,Federal Income taxes for Self
 2026/08,Withdraw,IRA,12475.59,850488.25,Monthly ROTH conversion
 2026/08,Deposit,Roth,12475.59,269511.75,Monthly ROTH conversion
-2026/08,Payment,Savings,2014.34,9368.32,Federal Income taxes for Self
+2026/08,Payment,Savings,1983.91,9976.67,Federal Income taxes for Self
 2026/09,Withdraw,IRA,12475.59,838012.66,Monthly ROTH conversion
 2026/09,Deposit,Roth,12475.59,281987.34,Monthly ROTH conversion
-2026/09,Payment,Savings,2014.34,7353.98,Federal Income taxes for Self
+2026/09,Payment,Savings,1983.91,7992.76,Federal Income taxes for Self
 2026/10,Withdraw,IRA,12475.59,825537.07,Monthly ROTH conversion
 2026/10,Deposit,Roth,12475.59,294462.93,Monthly ROTH conversion
-2026/10,Payment,Savings,2014.34,5339.64,Federal Income taxes for Self
+2026/10,Payment,Savings,1983.91,6008.85,Federal Income taxes for Self
 2026/11,Withdraw,IRA,12475.59,813061.48,Monthly ROTH conversion
 2026/11,Deposit,Roth,12475.59,306938.52,Monthly ROTH conversion
-2026/11,Payment,Savings,2014.34,3325.3,Federal Income taxes for Self
+2026/11,Payment,Savings,1983.91,4024.94,Federal Income taxes for Self
 2026/12,Withdraw,IRA,12475.54,800585.94,Monthly ROTH conversion
 2026/12,Deposit,Roth,12475.54,319414.06,Monthly ROTH conversion
-2026/12,Payment,Savings,2014.3,1311.0,Federal Income taxes for Self
-2026/00,AccountInfo,Savings,,1311.0,Account balance
+2026/12,Payment,Savings,1983.94,2041.0,Federal Income taxes for Self
+2026/00,AccountInfo,Savings,,2041.0,Account balance
 2026/00,AccountInfo,IRA,,800585.94,Account balance
 2026/00,AccountInfo,Roth,,319414.06,Account balance
 2026/00,TaxInfo,FICA,,0.0,FICA Tax
@@ -90,250 +90,250 @@ Date, Type, Account, Amount, Balance, Memo
 2026/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
 2026/00,TaxInfo,CapGins,,0.0,Capital Gains Income
 2026/00,TaxInfo,AGI,,149707.03,Adjusted Gross Income
-2026/00,TaxInfo,FederalTax,,24172.0,Federal income tax
+2026/00,TaxInfo,FederalTax,,23807.0,Federal income tax
 2026/00,TaxInfo,StateTax,,0.0,State income tax
 2026/00,TaxInfo,LocalTax,,0.0,Local income tax
-2027/01,Withdraw,IRA,919.41,799666.53,Cover monthly taxes & living expenses
-2027/01,Deposit,Savings,919.41,2230.41,Cover monthly taxes & living expenses
-2027/01,Payment,Savings,216.83,2013.58,IRMAA taxes for Self
-2027/01,Withdraw,IRA,10351.56,789314.97,Monthly ROTH conversion
-2027/01,Deposit,Roth,10351.56,329765.62,Monthly ROTH conversion
-2027/01,Payment,Savings,2013.58,0.0,Federal Income taxes for Self
-2027/02,Withdraw,IRA,2230.41,787084.56,Cover monthly taxes & living expenses
-2027/02,Deposit,Savings,2230.41,2230.41,Cover monthly taxes & living expenses
-2027/02,Payment,Savings,216.83,2013.58,IRMAA taxes for Self
-2027/02,Withdraw,IRA,10351.56,776733.0,Monthly ROTH conversion
-2027/02,Deposit,Roth,10351.56,340117.18,Monthly ROTH conversion
-2027/02,Payment,Savings,2013.58,0.0,Federal Income taxes for Self
-2027/03,Withdraw,IRA,2230.41,774502.59,Cover monthly taxes & living expenses
-2027/03,Deposit,Savings,2230.41,2230.41,Cover monthly taxes & living expenses
-2027/03,Payment,Savings,216.83,2013.58,IRMAA taxes for Self
-2027/03,Withdraw,IRA,10351.56,764151.03,Monthly ROTH conversion
-2027/03,Deposit,Roth,10351.56,350468.74,Monthly ROTH conversion
-2027/03,Payment,Savings,2013.58,0.0,Federal Income taxes for Self
-2027/04,Withdraw,IRA,2230.41,761920.62,Cover monthly taxes & living expenses
-2027/04,Deposit,Savings,2230.41,2230.41,Cover monthly taxes & living expenses
-2027/04,Payment,Savings,216.83,2013.58,IRMAA taxes for Self
-2027/04,Withdraw,IRA,10351.56,751569.06,Monthly ROTH conversion
-2027/04,Deposit,Roth,10351.56,360820.3,Monthly ROTH conversion
-2027/04,Payment,Savings,2013.58,0.0,Federal Income taxes for Self
-2027/05,Withdraw,IRA,2230.42,749338.64,Cover monthly taxes & living expenses
-2027/05,Deposit,Savings,2230.42,2230.42,Cover monthly taxes & living expenses
-2027/05,Payment,Savings,216.83,2013.59,IRMAA taxes for Self
-2027/05,Withdraw,IRA,10351.56,738987.08,Monthly ROTH conversion
-2027/05,Deposit,Roth,10351.56,371171.86,Monthly ROTH conversion
-2027/05,Payment,Savings,2013.59,0.0,Federal Income taxes for Self
-2027/06,Withdraw,IRA,2230.13,736756.95,Cover monthly taxes & living expenses
-2027/06,Deposit,Savings,2230.13,2230.13,Cover monthly taxes & living expenses
-2027/06,Payment,Savings,216.83,2013.3,IRMAA taxes for Self
-2027/06,Withdraw,IRA,10351.56,726405.39,Monthly ROTH conversion
-2027/06,Deposit,Roth,10351.56,381523.42,Monthly ROTH conversion
-2027/06,Payment,Savings,2013.3,0.0,Federal Income taxes for Self
-2027/07,Withdraw,IRA,2230.13,724175.26,Cover monthly taxes & living expenses
-2027/07,Deposit,Savings,2230.13,2230.13,Cover monthly taxes & living expenses
-2027/07,Payment,Savings,216.83,2013.3,IRMAA taxes for Self
-2027/07,Withdraw,IRA,10351.57,713823.69,Monthly ROTH conversion
-2027/07,Deposit,Roth,10351.57,391874.99,Monthly ROTH conversion
-2027/07,Payment,Savings,2013.3,0.0,Federal Income taxes for Self
-2027/08,Withdraw,IRA,2230.33,711593.36,Cover monthly taxes & living expenses
-2027/08,Deposit,Savings,2230.33,2230.33,Cover monthly taxes & living expenses
-2027/08,Payment,Savings,216.83,2013.5,IRMAA taxes for Self
-2027/08,Withdraw,IRA,10351.56,701241.8,Monthly ROTH conversion
-2027/08,Deposit,Roth,10351.56,402226.55,Monthly ROTH conversion
-2027/08,Payment,Savings,2013.5,0.0,Federal Income taxes for Self
-2027/09,Withdraw,IRA,2230.33,699011.47,Cover monthly taxes & living expenses
-2027/09,Deposit,Savings,2230.33,2230.33,Cover monthly taxes & living expenses
-2027/09,Payment,Savings,216.83,2013.5,IRMAA taxes for Self
-2027/09,Withdraw,IRA,10351.57,688659.9,Monthly ROTH conversion
-2027/09,Deposit,Roth,10351.57,412578.12,Monthly ROTH conversion
-2027/09,Payment,Savings,2013.5,0.0,Federal Income taxes for Self
-2027/10,Withdraw,IRA,2230.33,686429.57,Cover monthly taxes & living expenses
-2027/10,Deposit,Savings,2230.33,2230.33,Cover monthly taxes & living expenses
-2027/10,Payment,Savings,216.83,2013.5,IRMAA taxes for Self
-2027/10,Withdraw,IRA,10351.56,676078.01,Monthly ROTH conversion
-2027/10,Deposit,Roth,10351.56,422929.68,Monthly ROTH conversion
-2027/10,Payment,Savings,2013.5,0.0,Federal Income taxes for Self
-2027/11,Withdraw,IRA,2230.83,673847.18,Cover monthly taxes & living expenses
-2027/11,Deposit,Savings,2230.83,2230.83,Cover monthly taxes & living expenses
-2027/11,Payment,Savings,216.83,2014.0,IRMAA taxes for Self
-2027/11,Withdraw,IRA,10351.56,663495.62,Monthly ROTH conversion
-2027/11,Deposit,Roth,10351.56,433281.24,Monthly ROTH conversion
-2027/11,Payment,Savings,2014.0,0.0,Federal Income taxes for Self
-2027/12,Withdraw,IRA,2229.86,661265.76,Cover monthly taxes & living expenses
-2027/12,Deposit,Savings,2229.86,2229.86,Cover monthly taxes & living expenses
-2027/12,Payment,Savings,216.87,2012.99,IRMAA taxes for Self
-2027/12,Withdraw,IRA,10351.57,650914.19,Monthly ROTH conversion
-2027/12,Deposit,Roth,10351.57,443632.81,Monthly ROTH conversion
-2027/12,Payment,Savings,2012.99,0.0,Federal Income taxes for Self
+2027/01,Withdraw,IRA,161.16,800424.78,Cover monthly taxes & living expenses
+2027/01,Deposit,Savings,161.16,2202.16,Cover monthly taxes & living expenses
+2027/01,Payment,Savings,216.83,1985.33,IRMAA taxes for Self
+2027/01,Withdraw,IRA,10449.22,789975.56,Monthly ROTH conversion
+2027/01,Deposit,Roth,10449.22,329863.28,Monthly ROTH conversion
+2027/01,Payment,Savings,1985.33,0.0,Federal Income taxes for Self
+2027/02,Withdraw,IRA,2202.16,787773.4,Cover monthly taxes & living expenses
+2027/02,Deposit,Savings,2202.16,2202.16,Cover monthly taxes & living expenses
+2027/02,Payment,Savings,216.83,1985.33,IRMAA taxes for Self
+2027/02,Withdraw,IRA,10449.22,777324.18,Monthly ROTH conversion
+2027/02,Deposit,Roth,10449.22,340312.5,Monthly ROTH conversion
+2027/02,Payment,Savings,1985.33,0.0,Federal Income taxes for Self
+2027/03,Withdraw,IRA,2202.16,775122.02,Cover monthly taxes & living expenses
+2027/03,Deposit,Savings,2202.16,2202.16,Cover monthly taxes & living expenses
+2027/03,Payment,Savings,216.83,1985.33,IRMAA taxes for Self
+2027/03,Withdraw,IRA,10449.22,764672.8,Monthly ROTH conversion
+2027/03,Deposit,Roth,10449.22,350761.72,Monthly ROTH conversion
+2027/03,Payment,Savings,1985.33,0.0,Federal Income taxes for Self
+2027/04,Withdraw,IRA,2202.16,762470.64,Cover monthly taxes & living expenses
+2027/04,Deposit,Savings,2202.16,2202.16,Cover monthly taxes & living expenses
+2027/04,Payment,Savings,216.83,1985.33,IRMAA taxes for Self
+2027/04,Withdraw,IRA,10449.22,752021.42,Monthly ROTH conversion
+2027/04,Deposit,Roth,10449.22,361210.94,Monthly ROTH conversion
+2027/04,Payment,Savings,1985.33,0.0,Federal Income taxes for Self
+2027/05,Withdraw,IRA,2202.17,749819.25,Cover monthly taxes & living expenses
+2027/05,Deposit,Savings,2202.17,2202.17,Cover monthly taxes & living expenses
+2027/05,Payment,Savings,216.83,1985.34,IRMAA taxes for Self
+2027/05,Withdraw,IRA,10449.22,739370.03,Monthly ROTH conversion
+2027/05,Deposit,Roth,10449.22,371660.16,Monthly ROTH conversion
+2027/05,Payment,Savings,1985.34,0.0,Federal Income taxes for Self
+2027/06,Withdraw,IRA,2202.17,737167.86,Cover monthly taxes & living expenses
+2027/06,Deposit,Savings,2202.17,2202.17,Cover monthly taxes & living expenses
+2027/06,Payment,Savings,216.83,1985.34,IRMAA taxes for Self
+2027/06,Withdraw,IRA,10449.22,726718.64,Monthly ROTH conversion
+2027/06,Deposit,Roth,10449.22,382109.38,Monthly ROTH conversion
+2027/06,Payment,Savings,1985.34,0.0,Federal Income taxes for Self
+2027/07,Withdraw,IRA,2202.17,724516.47,Cover monthly taxes & living expenses
+2027/07,Deposit,Savings,2202.17,2202.17,Cover monthly taxes & living expenses
+2027/07,Payment,Savings,216.83,1985.34,IRMAA taxes for Self
+2027/07,Withdraw,IRA,10449.22,714067.25,Monthly ROTH conversion
+2027/07,Deposit,Roth,10449.22,392558.6,Monthly ROTH conversion
+2027/07,Payment,Savings,1985.34,0.0,Federal Income taxes for Self
+2027/08,Withdraw,IRA,2201.76,711865.49,Cover monthly taxes & living expenses
+2027/08,Deposit,Savings,2201.76,2201.76,Cover monthly taxes & living expenses
+2027/08,Payment,Savings,216.83,1984.93,IRMAA taxes for Self
+2027/08,Withdraw,IRA,10449.22,701416.27,Monthly ROTH conversion
+2027/08,Deposit,Roth,10449.22,403007.82,Monthly ROTH conversion
+2027/08,Payment,Savings,1984.93,0.0,Federal Income taxes for Self
+2027/09,Withdraw,IRA,2202.01,699214.26,Cover monthly taxes & living expenses
+2027/09,Deposit,Savings,2202.01,2202.01,Cover monthly taxes & living expenses
+2027/09,Payment,Savings,216.83,1985.18,IRMAA taxes for Self
+2027/09,Withdraw,IRA,10449.22,688765.04,Monthly ROTH conversion
+2027/09,Deposit,Roth,10449.22,413457.04,Monthly ROTH conversion
+2027/09,Payment,Savings,1985.18,0.0,Federal Income taxes for Self
+2027/10,Withdraw,IRA,2202.01,686563.03,Cover monthly taxes & living expenses
+2027/10,Deposit,Savings,2202.01,2202.01,Cover monthly taxes & living expenses
+2027/10,Payment,Savings,216.83,1985.18,IRMAA taxes for Self
+2027/10,Withdraw,IRA,10449.22,676113.81,Monthly ROTH conversion
+2027/10,Deposit,Roth,10449.22,423906.26,Monthly ROTH conversion
+2027/10,Payment,Savings,1985.18,0.0,Federal Income taxes for Self
+2027/11,Withdraw,IRA,2202.51,673911.3,Cover monthly taxes & living expenses
+2027/11,Deposit,Savings,2202.51,2202.51,Cover monthly taxes & living expenses
+2027/11,Payment,Savings,216.83,1985.68,IRMAA taxes for Self
+2027/11,Withdraw,IRA,10449.22,663462.08,Monthly ROTH conversion
+2027/11,Deposit,Roth,10449.22,434355.48,Monthly ROTH conversion
+2027/11,Payment,Savings,1985.68,0.0,Federal Income taxes for Self
+2027/12,Withdraw,IRA,2201.56,661260.52,Cover monthly taxes & living expenses
+2027/12,Deposit,Savings,2201.56,2201.56,Cover monthly taxes & living expenses
+2027/12,Payment,Savings,216.87,1984.69,IRMAA taxes for Self
+2027/12,Withdraw,IRA,10449.21,650811.31,Monthly ROTH conversion
+2027/12,Deposit,Roth,10449.21,444804.69,Monthly ROTH conversion
+2027/12,Payment,Savings,1984.69,0.0,Federal Income taxes for Self
 2027/00,AccountInfo,Savings,,0.0,Account balance
-2027/00,AccountInfo,IRA,,650914.19,Account balance
-2027/00,AccountInfo,Roth,,443632.81,Account balance
+2027/00,AccountInfo,IRA,,650811.31,Account balance
+2027/00,AccountInfo,Roth,,444804.69,Account balance
 2027/00,TaxInfo,FICA,,0.0,FICA Tax
 2027/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2027/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
 2027/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2027/00,TaxInfo,AGI,,149671.75,Adjusted Gross Income
-2027/00,TaxInfo,FederalTax,,24163.0,Federal income tax
+2027/00,TaxInfo,AGI,,149774.63,Adjusted Gross Income
+2027/00,TaxInfo,FederalTax,,23825.0,Federal income tax
 2027/00,TaxInfo,StateTax,,0.0,State income tax
 2027/00,TaxInfo,LocalTax,,0.0,Local income tax
-2028/01,Withdraw,IRA,2234.0,648680.19,Cover monthly taxes & living expenses
-2028/01,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
-2028/01,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2028/01,Withdraw,IRA,10253.91,638426.28,Monthly ROTH conversion
-2028/01,Deposit,Roth,10253.91,453886.72,Monthly ROTH conversion
-2028/01,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2028/02,Withdraw,IRA,2234.0,636192.28,Cover monthly taxes & living expenses
-2028/02,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
-2028/02,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2028/02,Withdraw,IRA,10253.91,625938.37,Monthly ROTH conversion
-2028/02,Deposit,Roth,10253.91,464140.63,Monthly ROTH conversion
-2028/02,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2028/03,Withdraw,IRA,2234.0,623704.37,Cover monthly taxes & living expenses
-2028/03,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
-2028/03,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2028/03,Withdraw,IRA,10253.91,613450.46,Monthly ROTH conversion
-2028/03,Deposit,Roth,10253.91,474394.54,Monthly ROTH conversion
-2028/03,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2028/04,Withdraw,IRA,2234.11,611216.35,Cover monthly taxes & living expenses
-2028/04,Deposit,Savings,2234.11,2234.11,Cover monthly taxes & living expenses
-2028/04,Payment,Savings,216.83,2017.28,IRMAA taxes for Self
-2028/04,Withdraw,IRA,10253.91,600962.44,Monthly ROTH conversion
-2028/04,Deposit,Roth,10253.91,484648.45,Monthly ROTH conversion
-2028/04,Payment,Savings,2017.28,0.0,Federal Income taxes for Self
-2028/05,Withdraw,IRA,2234.11,598728.33,Cover monthly taxes & living expenses
-2028/05,Deposit,Savings,2234.11,2234.11,Cover monthly taxes & living expenses
-2028/05,Payment,Savings,216.83,2017.28,IRMAA taxes for Self
-2028/05,Withdraw,IRA,10253.91,588474.42,Monthly ROTH conversion
-2028/05,Deposit,Roth,10253.91,494902.36,Monthly ROTH conversion
-2028/05,Payment,Savings,2017.28,0.0,Federal Income taxes for Self
-2028/06,Withdraw,IRA,2233.82,586240.6,Cover monthly taxes & living expenses
-2028/06,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
-2028/06,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2028/06,Withdraw,IRA,10253.9,575986.7,Monthly ROTH conversion
-2028/06,Deposit,Roth,10253.9,505156.26,Monthly ROTH conversion
-2028/06,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2028/07,Withdraw,IRA,2233.82,573752.88,Cover monthly taxes & living expenses
-2028/07,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
-2028/07,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2028/07,Withdraw,IRA,10253.91,563498.97,Monthly ROTH conversion
-2028/07,Deposit,Roth,10253.91,515410.17,Monthly ROTH conversion
-2028/07,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2028/08,Withdraw,IRA,2233.82,561265.15,Cover monthly taxes & living expenses
-2028/08,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
-2028/08,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2028/08,Withdraw,IRA,10253.9,551011.25,Monthly ROTH conversion
-2028/08,Deposit,Roth,10253.9,525664.07,Monthly ROTH conversion
-2028/08,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2028/09,Withdraw,IRA,2234.07,548777.18,Cover monthly taxes & living expenses
-2028/09,Deposit,Savings,2234.07,2234.07,Cover monthly taxes & living expenses
-2028/09,Payment,Savings,216.83,2017.24,IRMAA taxes for Self
-2028/09,Withdraw,IRA,10253.91,538523.27,Monthly ROTH conversion
-2028/09,Deposit,Roth,10253.91,535917.98,Monthly ROTH conversion
-2028/09,Payment,Savings,2017.24,0.0,Federal Income taxes for Self
-2028/10,Withdraw,IRA,2234.07,536289.2,Cover monthly taxes & living expenses
-2028/10,Deposit,Savings,2234.07,2234.07,Cover monthly taxes & living expenses
-2028/10,Payment,Savings,216.83,2017.24,IRMAA taxes for Self
-2028/10,Withdraw,IRA,10253.91,526035.29,Monthly ROTH conversion
-2028/10,Deposit,Roth,10253.91,546171.89,Monthly ROTH conversion
-2028/10,Payment,Savings,2017.24,0.0,Federal Income taxes for Self
-2028/11,Withdraw,IRA,2234.57,523800.72,Cover monthly taxes & living expenses
-2028/11,Deposit,Savings,2234.57,2234.57,Cover monthly taxes & living expenses
-2028/11,Payment,Savings,216.83,2017.74,IRMAA taxes for Self
-2028/11,Withdraw,IRA,10253.91,513546.81,Monthly ROTH conversion
-2028/11,Deposit,Roth,10253.91,556425.8,Monthly ROTH conversion
-2028/11,Payment,Savings,2017.74,0.0,Federal Income taxes for Self
-2028/12,Withdraw,IRA,2233.61,511313.2,Cover monthly taxes & living expenses
-2028/12,Deposit,Savings,2233.61,2233.61,Cover monthly taxes & living expenses
-2028/12,Payment,Savings,216.87,2016.74,IRMAA taxes for Self
-2028/12,Withdraw,IRA,10253.89,501059.31,Monthly ROTH conversion
-2028/12,Deposit,Roth,10253.89,566679.69,Monthly ROTH conversion
-2028/12,Payment,Savings,2016.74,0.0,Federal Income taxes for Self
+2028/01,Withdraw,IRA,2201.83,648609.48,Cover monthly taxes & living expenses
+2028/01,Deposit,Savings,2201.83,2201.83,Cover monthly taxes & living expenses
+2028/01,Payment,Savings,216.83,1985.0,IRMAA taxes for Self
+2028/01,Withdraw,IRA,10278.32,638331.16,Monthly ROTH conversion
+2028/01,Deposit,Roth,10278.32,455083.01,Monthly ROTH conversion
+2028/01,Payment,Savings,1985.0,0.0,Federal Income taxes for Self
+2028/02,Withdraw,IRA,2201.83,636129.33,Cover monthly taxes & living expenses
+2028/02,Deposit,Savings,2201.83,2201.83,Cover monthly taxes & living expenses
+2028/02,Payment,Savings,216.83,1985.0,IRMAA taxes for Self
+2028/02,Withdraw,IRA,10278.32,625851.01,Monthly ROTH conversion
+2028/02,Deposit,Roth,10278.32,465361.33,Monthly ROTH conversion
+2028/02,Payment,Savings,1985.0,0.0,Federal Income taxes for Self
+2028/03,Withdraw,IRA,2201.83,623649.18,Cover monthly taxes & living expenses
+2028/03,Deposit,Savings,2201.83,2201.83,Cover monthly taxes & living expenses
+2028/03,Payment,Savings,216.83,1985.0,IRMAA taxes for Self
+2028/03,Withdraw,IRA,10278.32,613370.86,Monthly ROTH conversion
+2028/03,Deposit,Roth,10278.32,475639.65,Monthly ROTH conversion
+2028/03,Payment,Savings,1985.0,0.0,Federal Income taxes for Self
+2028/04,Withdraw,IRA,2201.94,611168.92,Cover monthly taxes & living expenses
+2028/04,Deposit,Savings,2201.94,2201.94,Cover monthly taxes & living expenses
+2028/04,Payment,Savings,216.83,1985.11,IRMAA taxes for Self
+2028/04,Withdraw,IRA,10278.32,600890.6,Monthly ROTH conversion
+2028/04,Deposit,Roth,10278.32,485917.97,Monthly ROTH conversion
+2028/04,Payment,Savings,1985.11,0.0,Federal Income taxes for Self
+2028/05,Withdraw,IRA,2201.94,598688.66,Cover monthly taxes & living expenses
+2028/05,Deposit,Savings,2201.94,2201.94,Cover monthly taxes & living expenses
+2028/05,Payment,Savings,216.83,1985.11,IRMAA taxes for Self
+2028/05,Withdraw,IRA,10278.32,588410.34,Monthly ROTH conversion
+2028/05,Deposit,Roth,10278.32,496196.29,Monthly ROTH conversion
+2028/05,Payment,Savings,1985.11,0.0,Federal Income taxes for Self
+2028/06,Withdraw,IRA,2201.94,586208.4,Cover monthly taxes & living expenses
+2028/06,Deposit,Savings,2201.94,2201.94,Cover monthly taxes & living expenses
+2028/06,Payment,Savings,216.83,1985.11,IRMAA taxes for Self
+2028/06,Withdraw,IRA,10278.32,575930.08,Monthly ROTH conversion
+2028/06,Deposit,Roth,10278.32,506474.61,Monthly ROTH conversion
+2028/06,Payment,Savings,1985.11,0.0,Federal Income taxes for Self
+2028/07,Withdraw,IRA,2201.44,573728.64,Cover monthly taxes & living expenses
+2028/07,Deposit,Savings,2201.44,2201.44,Cover monthly taxes & living expenses
+2028/07,Payment,Savings,216.83,1984.61,IRMAA taxes for Self
+2028/07,Withdraw,IRA,10278.32,563450.32,Monthly ROTH conversion
+2028/07,Deposit,Roth,10278.32,516752.93,Monthly ROTH conversion
+2028/07,Payment,Savings,1984.61,0.0,Federal Income taxes for Self
+2028/08,Withdraw,IRA,2201.64,561248.68,Cover monthly taxes & living expenses
+2028/08,Deposit,Savings,2201.64,2201.64,Cover monthly taxes & living expenses
+2028/08,Payment,Savings,216.83,1984.81,IRMAA taxes for Self
+2028/08,Withdraw,IRA,10278.32,550970.36,Monthly ROTH conversion
+2028/08,Deposit,Roth,10278.32,527031.25,Monthly ROTH conversion
+2028/08,Payment,Savings,1984.81,0.0,Federal Income taxes for Self
+2028/09,Withdraw,IRA,2201.89,548768.47,Cover monthly taxes & living expenses
+2028/09,Deposit,Savings,2201.89,2201.89,Cover monthly taxes & living expenses
+2028/09,Payment,Savings,216.83,1985.06,IRMAA taxes for Self
+2028/09,Withdraw,IRA,10278.32,538490.15,Monthly ROTH conversion
+2028/09,Deposit,Roth,10278.32,537309.57,Monthly ROTH conversion
+2028/09,Payment,Savings,1985.06,0.0,Federal Income taxes for Self
+2028/10,Withdraw,IRA,2201.89,536288.26,Cover monthly taxes & living expenses
+2028/10,Deposit,Savings,2201.89,2201.89,Cover monthly taxes & living expenses
+2028/10,Payment,Savings,216.83,1985.06,IRMAA taxes for Self
+2028/10,Withdraw,IRA,10278.32,526009.94,Monthly ROTH conversion
+2028/10,Deposit,Roth,10278.32,547587.89,Monthly ROTH conversion
+2028/10,Payment,Savings,1985.06,0.0,Federal Income taxes for Self
+2028/11,Withdraw,IRA,2202.39,523807.55,Cover monthly taxes & living expenses
+2028/11,Deposit,Savings,2202.39,2202.39,Cover monthly taxes & living expenses
+2028/11,Payment,Savings,216.83,1985.56,IRMAA taxes for Self
+2028/11,Withdraw,IRA,10278.32,513529.23,Monthly ROTH conversion
+2028/11,Deposit,Roth,10278.32,557866.21,Monthly ROTH conversion
+2028/11,Payment,Savings,1985.56,0.0,Federal Income taxes for Self
+2028/12,Withdraw,IRA,2201.44,511327.79,Cover monthly taxes & living expenses
+2028/12,Deposit,Savings,2201.44,2201.44,Cover monthly taxes & living expenses
+2028/12,Payment,Savings,216.87,1984.57,IRMAA taxes for Self
+2028/12,Withdraw,IRA,10278.32,501049.47,Monthly ROTH conversion
+2028/12,Deposit,Roth,10278.32,568144.53,Monthly ROTH conversion
+2028/12,Payment,Savings,1984.57,0.0,Federal Income taxes for Self
 2028/00,AccountInfo,Savings,,0.0,Account balance
-2028/00,AccountInfo,IRA,,501059.31,Account balance
-2028/00,AccountInfo,Roth,,566679.69,Account balance
+2028/00,AccountInfo,IRA,,501049.47,Account balance
+2028/00,AccountInfo,Roth,,568144.53,Account balance
 2028/00,TaxInfo,FICA,,0.0,FICA Tax
 2028/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2028/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
 2028/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2028/00,TaxInfo,AGI,,149854.88,Adjusted Gross Income
-2028/00,TaxInfo,FederalTax,,24207.0,Federal income tax
+2028/00,TaxInfo,AGI,,149761.84,Adjusted Gross Income
+2028/00,TaxInfo,FederalTax,,23821.0,Federal income tax
 2028/00,TaxInfo,StateTax,,0.0,State income tax
 2028/00,TaxInfo,LocalTax,,0.0,Local income tax
-2029/01,Withdraw,IRA,2234.0,498825.31,Cover monthly taxes & living expenses
+2029/01,Withdraw,IRA,2234.0,498815.47,Cover monthly taxes & living expenses
 2029/01,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
 2029/01,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2029/01,Withdraw,IRA,10253.91,488571.4,Monthly ROTH conversion
-2029/01,Deposit,Roth,10253.91,576933.6,Monthly ROTH conversion
+2029/01,Withdraw,IRA,10253.91,488561.56,Monthly ROTH conversion
+2029/01,Deposit,Roth,10253.91,578398.44,Monthly ROTH conversion
 2029/01,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2029/02,Withdraw,IRA,2234.0,486337.4,Cover monthly taxes & living expenses
+2029/02,Withdraw,IRA,2234.0,486327.56,Cover monthly taxes & living expenses
 2029/02,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
 2029/02,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2029/02,Withdraw,IRA,10253.91,476083.49,Monthly ROTH conversion
-2029/02,Deposit,Roth,10253.91,587187.51,Monthly ROTH conversion
+2029/02,Withdraw,IRA,10253.91,476073.65,Monthly ROTH conversion
+2029/02,Deposit,Roth,10253.91,588652.35,Monthly ROTH conversion
 2029/02,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2029/03,Withdraw,IRA,2234.0,473849.49,Cover monthly taxes & living expenses
+2029/03,Withdraw,IRA,2234.0,473839.65,Cover monthly taxes & living expenses
 2029/03,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
 2029/03,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2029/03,Withdraw,IRA,10253.91,463595.58,Monthly ROTH conversion
-2029/03,Deposit,Roth,10253.91,597441.42,Monthly ROTH conversion
+2029/03,Withdraw,IRA,10253.91,463585.74,Monthly ROTH conversion
+2029/03,Deposit,Roth,10253.91,598906.26,Monthly ROTH conversion
 2029/03,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2029/04,Withdraw,IRA,2234.11,461361.47,Cover monthly taxes & living expenses
+2029/04,Withdraw,IRA,2234.11,461351.63,Cover monthly taxes & living expenses
 2029/04,Deposit,Savings,2234.11,2234.11,Cover monthly taxes & living expenses
 2029/04,Payment,Savings,216.83,2017.28,IRMAA taxes for Self
-2029/04,Withdraw,IRA,10253.91,451107.56,Monthly ROTH conversion
-2029/04,Deposit,Roth,10253.91,607695.33,Monthly ROTH conversion
+2029/04,Withdraw,IRA,10253.91,451097.72,Monthly ROTH conversion
+2029/04,Deposit,Roth,10253.91,609160.17,Monthly ROTH conversion
 2029/04,Payment,Savings,2017.28,0.0,Federal Income taxes for Self
-2029/05,Withdraw,IRA,2234.11,448873.45,Cover monthly taxes & living expenses
+2029/05,Withdraw,IRA,2234.11,448863.61,Cover monthly taxes & living expenses
 2029/05,Deposit,Savings,2234.11,2234.11,Cover monthly taxes & living expenses
 2029/05,Payment,Savings,216.83,2017.28,IRMAA taxes for Self
-2029/05,Withdraw,IRA,10253.91,438619.54,Monthly ROTH conversion
-2029/05,Deposit,Roth,10253.91,617949.24,Monthly ROTH conversion
+2029/05,Withdraw,IRA,10253.91,438609.7,Monthly ROTH conversion
+2029/05,Deposit,Roth,10253.91,619414.08,Monthly ROTH conversion
 2029/05,Payment,Savings,2017.28,0.0,Federal Income taxes for Self
-2029/06,Withdraw,IRA,2233.82,436385.72,Cover monthly taxes & living expenses
+2029/06,Withdraw,IRA,2233.82,436375.88,Cover monthly taxes & living expenses
 2029/06,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
 2029/06,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2029/06,Withdraw,IRA,10253.9,426131.82,Monthly ROTH conversion
-2029/06,Deposit,Roth,10253.9,628203.14,Monthly ROTH conversion
+2029/06,Withdraw,IRA,10253.9,426121.98,Monthly ROTH conversion
+2029/06,Deposit,Roth,10253.9,629667.98,Monthly ROTH conversion
 2029/06,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2029/07,Withdraw,IRA,2233.82,423898.0,Cover monthly taxes & living expenses
+2029/07,Withdraw,IRA,2233.82,423888.16,Cover monthly taxes & living expenses
 2029/07,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
 2029/07,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2029/07,Withdraw,IRA,10253.91,413644.09,Monthly ROTH conversion
-2029/07,Deposit,Roth,10253.91,638457.05,Monthly ROTH conversion
+2029/07,Withdraw,IRA,10253.91,413634.25,Monthly ROTH conversion
+2029/07,Deposit,Roth,10253.91,639921.89,Monthly ROTH conversion
 2029/07,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2029/08,Withdraw,IRA,2233.82,411410.27,Cover monthly taxes & living expenses
+2029/08,Withdraw,IRA,2233.82,411400.43,Cover monthly taxes & living expenses
 2029/08,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
 2029/08,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2029/08,Withdraw,IRA,10253.9,401156.37,Monthly ROTH conversion
-2029/08,Deposit,Roth,10253.9,648710.95,Monthly ROTH conversion
+2029/08,Withdraw,IRA,10253.9,401146.53,Monthly ROTH conversion
+2029/08,Deposit,Roth,10253.9,650175.79,Monthly ROTH conversion
 2029/08,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2029/09,Withdraw,IRA,2234.07,398922.3,Cover monthly taxes & living expenses
+2029/09,Withdraw,IRA,2234.07,398912.46,Cover monthly taxes & living expenses
 2029/09,Deposit,Savings,2234.07,2234.07,Cover monthly taxes & living expenses
 2029/09,Payment,Savings,216.83,2017.24,IRMAA taxes for Self
-2029/09,Withdraw,IRA,10253.91,388668.39,Monthly ROTH conversion
-2029/09,Deposit,Roth,10253.91,658964.86,Monthly ROTH conversion
+2029/09,Withdraw,IRA,10253.91,388658.55,Monthly ROTH conversion
+2029/09,Deposit,Roth,10253.91,660429.7,Monthly ROTH conversion
 2029/09,Payment,Savings,2017.24,0.0,Federal Income taxes for Self
-2029/10,Withdraw,IRA,2234.07,386434.32,Cover monthly taxes & living expenses
+2029/10,Withdraw,IRA,2234.07,386424.48,Cover monthly taxes & living expenses
 2029/10,Deposit,Savings,2234.07,2234.07,Cover monthly taxes & living expenses
 2029/10,Payment,Savings,216.83,2017.24,IRMAA taxes for Self
-2029/10,Withdraw,IRA,10253.91,376180.41,Monthly ROTH conversion
-2029/10,Deposit,Roth,10253.91,669218.77,Monthly ROTH conversion
+2029/10,Withdraw,IRA,10253.91,376170.57,Monthly ROTH conversion
+2029/10,Deposit,Roth,10253.91,670683.61,Monthly ROTH conversion
 2029/10,Payment,Savings,2017.24,0.0,Federal Income taxes for Self
-2029/11,Withdraw,IRA,2234.57,373945.84,Cover monthly taxes & living expenses
+2029/11,Withdraw,IRA,2234.57,373936.0,Cover monthly taxes & living expenses
 2029/11,Deposit,Savings,2234.57,2234.57,Cover monthly taxes & living expenses
 2029/11,Payment,Savings,216.83,2017.74,IRMAA taxes for Self
-2029/11,Withdraw,IRA,10253.91,363691.93,Monthly ROTH conversion
-2029/11,Deposit,Roth,10253.91,679472.68,Monthly ROTH conversion
+2029/11,Withdraw,IRA,10253.91,363682.09,Monthly ROTH conversion
+2029/11,Deposit,Roth,10253.91,680937.52,Monthly ROTH conversion
 2029/11,Payment,Savings,2017.74,0.0,Federal Income taxes for Self
-2029/12,Withdraw,IRA,2233.61,361458.32,Cover monthly taxes & living expenses
+2029/12,Withdraw,IRA,2233.61,361448.48,Cover monthly taxes & living expenses
 2029/12,Deposit,Savings,2233.61,2233.61,Cover monthly taxes & living expenses
 2029/12,Payment,Savings,216.87,2016.74,IRMAA taxes for Self
-2029/12,Withdraw,IRA,10253.89,351204.43,Monthly ROTH conversion
-2029/12,Deposit,Roth,10253.89,689726.57,Monthly ROTH conversion
+2029/12,Withdraw,IRA,10253.89,351194.59,Monthly ROTH conversion
+2029/12,Deposit,Roth,10253.89,691191.41,Monthly ROTH conversion
 2029/12,Payment,Savings,2016.74,0.0,Federal Income taxes for Self
 2029/00,AccountInfo,Savings,,0.0,Account balance
-2029/00,AccountInfo,IRA,,351204.43,Account balance
-2029/00,AccountInfo,Roth,,689726.57,Account balance
+2029/00,AccountInfo,IRA,,351194.59,Account balance
+2029/00,AccountInfo,Roth,,691191.41,Account balance
 2029/00,TaxInfo,FICA,,0.0,FICA Tax
 2029/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2029/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
@@ -342,81 +342,81 @@ Date, Type, Account, Amount, Balance, Memo
 2029/00,TaxInfo,FederalTax,,24207.0,Federal income tax
 2029/00,TaxInfo,StateTax,,0.0,State income tax
 2029/00,TaxInfo,LocalTax,,0.0,Local income tax
-2030/01,Withdraw,IRA,2234.0,348970.43,Cover monthly taxes & living expenses
+2030/01,Withdraw,IRA,2234.0,348960.59,Cover monthly taxes & living expenses
 2030/01,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
 2030/01,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2030/01,Withdraw,IRA,10253.91,338716.52,Monthly ROTH conversion
-2030/01,Deposit,Roth,10253.91,699980.48,Monthly ROTH conversion
+2030/01,Withdraw,IRA,10253.91,338706.68,Monthly ROTH conversion
+2030/01,Deposit,Roth,10253.91,701445.32,Monthly ROTH conversion
 2030/01,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2030/02,Withdraw,IRA,2234.0,336482.52,Cover monthly taxes & living expenses
+2030/02,Withdraw,IRA,2234.0,336472.68,Cover monthly taxes & living expenses
 2030/02,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
 2030/02,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2030/02,Withdraw,IRA,10253.91,326228.61,Monthly ROTH conversion
-2030/02,Deposit,Roth,10253.91,710234.39,Monthly ROTH conversion
+2030/02,Withdraw,IRA,10253.91,326218.77,Monthly ROTH conversion
+2030/02,Deposit,Roth,10253.91,711699.23,Monthly ROTH conversion
 2030/02,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2030/03,Withdraw,IRA,2234.0,323994.61,Cover monthly taxes & living expenses
+2030/03,Withdraw,IRA,2234.0,323984.77,Cover monthly taxes & living expenses
 2030/03,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
 2030/03,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2030/03,Withdraw,IRA,10253.91,313740.7,Monthly ROTH conversion
-2030/03,Deposit,Roth,10253.91,720488.3,Monthly ROTH conversion
+2030/03,Withdraw,IRA,10253.91,313730.86,Monthly ROTH conversion
+2030/03,Deposit,Roth,10253.91,721953.14,Monthly ROTH conversion
 2030/03,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2030/04,Withdraw,IRA,2234.11,311506.59,Cover monthly taxes & living expenses
+2030/04,Withdraw,IRA,2234.11,311496.75,Cover monthly taxes & living expenses
 2030/04,Deposit,Savings,2234.11,2234.11,Cover monthly taxes & living expenses
 2030/04,Payment,Savings,216.83,2017.28,IRMAA taxes for Self
-2030/04,Withdraw,IRA,10253.91,301252.68,Monthly ROTH conversion
-2030/04,Deposit,Roth,10253.91,730742.21,Monthly ROTH conversion
+2030/04,Withdraw,IRA,10253.91,301242.84,Monthly ROTH conversion
+2030/04,Deposit,Roth,10253.91,732207.05,Monthly ROTH conversion
 2030/04,Payment,Savings,2017.28,0.0,Federal Income taxes for Self
-2030/05,Withdraw,IRA,2234.11,299018.57,Cover monthly taxes & living expenses
+2030/05,Withdraw,IRA,2234.11,299008.73,Cover monthly taxes & living expenses
 2030/05,Deposit,Savings,2234.11,2234.11,Cover monthly taxes & living expenses
 2030/05,Payment,Savings,216.83,2017.28,IRMAA taxes for Self
-2030/05,Withdraw,IRA,10253.91,288764.66,Monthly ROTH conversion
-2030/05,Deposit,Roth,10253.91,740996.12,Monthly ROTH conversion
+2030/05,Withdraw,IRA,10253.91,288754.82,Monthly ROTH conversion
+2030/05,Deposit,Roth,10253.91,742460.96,Monthly ROTH conversion
 2030/05,Payment,Savings,2017.28,0.0,Federal Income taxes for Self
-2030/06,Withdraw,IRA,2233.82,286530.84,Cover monthly taxes & living expenses
+2030/06,Withdraw,IRA,2233.82,286521.0,Cover monthly taxes & living expenses
 2030/06,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
 2030/06,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2030/06,Withdraw,IRA,10253.9,276276.94,Monthly ROTH conversion
-2030/06,Deposit,Roth,10253.9,751250.02,Monthly ROTH conversion
+2030/06,Withdraw,IRA,10253.9,276267.1,Monthly ROTH conversion
+2030/06,Deposit,Roth,10253.9,752714.86,Monthly ROTH conversion
 2030/06,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2030/07,Withdraw,IRA,2233.82,274043.12,Cover monthly taxes & living expenses
+2030/07,Withdraw,IRA,2233.82,274033.28,Cover monthly taxes & living expenses
 2030/07,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
 2030/07,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2030/07,Withdraw,IRA,10253.91,263789.21,Monthly ROTH conversion
-2030/07,Deposit,Roth,10253.91,761503.93,Monthly ROTH conversion
+2030/07,Withdraw,IRA,10253.91,263779.37,Monthly ROTH conversion
+2030/07,Deposit,Roth,10253.91,762968.77,Monthly ROTH conversion
 2030/07,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2030/08,Withdraw,IRA,2233.82,261555.39,Cover monthly taxes & living expenses
+2030/08,Withdraw,IRA,2233.82,261545.55,Cover monthly taxes & living expenses
 2030/08,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
 2030/08,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2030/08,Withdraw,IRA,10253.9,251301.49,Monthly ROTH conversion
-2030/08,Deposit,Roth,10253.9,771757.83,Monthly ROTH conversion
+2030/08,Withdraw,IRA,10253.9,251291.65,Monthly ROTH conversion
+2030/08,Deposit,Roth,10253.9,773222.67,Monthly ROTH conversion
 2030/08,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2030/09,Withdraw,IRA,2234.07,249067.42,Cover monthly taxes & living expenses
+2030/09,Withdraw,IRA,2234.07,249057.58,Cover monthly taxes & living expenses
 2030/09,Deposit,Savings,2234.07,2234.07,Cover monthly taxes & living expenses
 2030/09,Payment,Savings,216.83,2017.24,IRMAA taxes for Self
-2030/09,Withdraw,IRA,10253.91,238813.51,Monthly ROTH conversion
-2030/09,Deposit,Roth,10253.91,782011.74,Monthly ROTH conversion
+2030/09,Withdraw,IRA,10253.91,238803.67,Monthly ROTH conversion
+2030/09,Deposit,Roth,10253.91,783476.58,Monthly ROTH conversion
 2030/09,Payment,Savings,2017.24,0.0,Federal Income taxes for Self
-2030/10,Withdraw,IRA,2234.07,236579.44,Cover monthly taxes & living expenses
+2030/10,Withdraw,IRA,2234.07,236569.6,Cover monthly taxes & living expenses
 2030/10,Deposit,Savings,2234.07,2234.07,Cover monthly taxes & living expenses
 2030/10,Payment,Savings,216.83,2017.24,IRMAA taxes for Self
-2030/10,Withdraw,IRA,10253.91,226325.53,Monthly ROTH conversion
-2030/10,Deposit,Roth,10253.91,792265.65,Monthly ROTH conversion
+2030/10,Withdraw,IRA,10253.91,226315.69,Monthly ROTH conversion
+2030/10,Deposit,Roth,10253.91,793730.49,Monthly ROTH conversion
 2030/10,Payment,Savings,2017.24,0.0,Federal Income taxes for Self
-2030/11,Withdraw,IRA,2234.57,224090.96,Cover monthly taxes & living expenses
+2030/11,Withdraw,IRA,2234.57,224081.12,Cover monthly taxes & living expenses
 2030/11,Deposit,Savings,2234.57,2234.57,Cover monthly taxes & living expenses
 2030/11,Payment,Savings,216.83,2017.74,IRMAA taxes for Self
-2030/11,Withdraw,IRA,10253.91,213837.05,Monthly ROTH conversion
-2030/11,Deposit,Roth,10253.91,802519.56,Monthly ROTH conversion
+2030/11,Withdraw,IRA,10253.91,213827.21,Monthly ROTH conversion
+2030/11,Deposit,Roth,10253.91,803984.4,Monthly ROTH conversion
 2030/11,Payment,Savings,2017.74,0.0,Federal Income taxes for Self
-2030/12,Withdraw,IRA,2233.61,211603.44,Cover monthly taxes & living expenses
+2030/12,Withdraw,IRA,2233.61,211593.6,Cover monthly taxes & living expenses
 2030/12,Deposit,Savings,2233.61,2233.61,Cover monthly taxes & living expenses
 2030/12,Payment,Savings,216.87,2016.74,IRMAA taxes for Self
-2030/12,Withdraw,IRA,10253.89,201349.55,Monthly ROTH conversion
-2030/12,Deposit,Roth,10253.89,812773.45,Monthly ROTH conversion
+2030/12,Withdraw,IRA,10253.89,201339.71,Monthly ROTH conversion
+2030/12,Deposit,Roth,10253.89,814238.29,Monthly ROTH conversion
 2030/12,Payment,Savings,2016.74,0.0,Federal Income taxes for Self
 2030/00,AccountInfo,Savings,,0.0,Account balance
-2030/00,AccountInfo,IRA,,201349.55,Account balance
-2030/00,AccountInfo,Roth,,812773.45,Account balance
+2030/00,AccountInfo,IRA,,201339.71,Account balance
+2030/00,AccountInfo,Roth,,814238.29,Account balance
 2030/00,TaxInfo,FICA,,0.0,FICA Tax
 2030/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2030/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
@@ -425,81 +425,81 @@ Date, Type, Account, Amount, Balance, Memo
 2030/00,TaxInfo,FederalTax,,24207.0,Federal income tax
 2030/00,TaxInfo,StateTax,,0.0,State income tax
 2030/00,TaxInfo,LocalTax,,0.0,Local income tax
-2031/01,Withdraw,IRA,2234.0,199115.55,Cover monthly taxes & living expenses
+2031/01,Withdraw,IRA,2234.0,199105.71,Cover monthly taxes & living expenses
 2031/01,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
 2031/01,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2031/01,Withdraw,IRA,10253.91,188861.64,Monthly ROTH conversion
-2031/01,Deposit,Roth,10253.91,823027.36,Monthly ROTH conversion
+2031/01,Withdraw,IRA,10253.91,188851.8,Monthly ROTH conversion
+2031/01,Deposit,Roth,10253.91,824492.2,Monthly ROTH conversion
 2031/01,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2031/02,Withdraw,IRA,2234.0,186627.64,Cover monthly taxes & living expenses
+2031/02,Withdraw,IRA,2234.0,186617.8,Cover monthly taxes & living expenses
 2031/02,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
 2031/02,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2031/02,Withdraw,IRA,10253.91,176373.73,Monthly ROTH conversion
-2031/02,Deposit,Roth,10253.91,833281.27,Monthly ROTH conversion
+2031/02,Withdraw,IRA,10253.91,176363.89,Monthly ROTH conversion
+2031/02,Deposit,Roth,10253.91,834746.11,Monthly ROTH conversion
 2031/02,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2031/03,Withdraw,IRA,2234.0,174139.73,Cover monthly taxes & living expenses
+2031/03,Withdraw,IRA,2234.0,174129.89,Cover monthly taxes & living expenses
 2031/03,Deposit,Savings,2234.0,2234.0,Cover monthly taxes & living expenses
 2031/03,Payment,Savings,216.83,2017.17,IRMAA taxes for Self
-2031/03,Withdraw,IRA,10253.91,163885.82,Monthly ROTH conversion
-2031/03,Deposit,Roth,10253.91,843535.18,Monthly ROTH conversion
+2031/03,Withdraw,IRA,10253.91,163875.98,Monthly ROTH conversion
+2031/03,Deposit,Roth,10253.91,845000.02,Monthly ROTH conversion
 2031/03,Payment,Savings,2017.17,0.0,Federal Income taxes for Self
-2031/04,Withdraw,IRA,2234.11,161651.71,Cover monthly taxes & living expenses
+2031/04,Withdraw,IRA,2234.11,161641.87,Cover monthly taxes & living expenses
 2031/04,Deposit,Savings,2234.11,2234.11,Cover monthly taxes & living expenses
 2031/04,Payment,Savings,216.83,2017.28,IRMAA taxes for Self
-2031/04,Withdraw,IRA,10253.91,151397.8,Monthly ROTH conversion
-2031/04,Deposit,Roth,10253.91,853789.09,Monthly ROTH conversion
+2031/04,Withdraw,IRA,10253.91,151387.96,Monthly ROTH conversion
+2031/04,Deposit,Roth,10253.91,855253.93,Monthly ROTH conversion
 2031/04,Payment,Savings,2017.28,0.0,Federal Income taxes for Self
-2031/05,Withdraw,IRA,2234.11,149163.69,Cover monthly taxes & living expenses
+2031/05,Withdraw,IRA,2234.11,149153.85,Cover monthly taxes & living expenses
 2031/05,Deposit,Savings,2234.11,2234.11,Cover monthly taxes & living expenses
 2031/05,Payment,Savings,216.83,2017.28,IRMAA taxes for Self
-2031/05,Withdraw,IRA,10253.91,138909.78,Monthly ROTH conversion
-2031/05,Deposit,Roth,10253.91,864043.0,Monthly ROTH conversion
+2031/05,Withdraw,IRA,10253.91,138899.94,Monthly ROTH conversion
+2031/05,Deposit,Roth,10253.91,865507.84,Monthly ROTH conversion
 2031/05,Payment,Savings,2017.28,0.0,Federal Income taxes for Self
-2031/06,Withdraw,IRA,2233.82,136675.96,Cover monthly taxes & living expenses
+2031/06,Withdraw,IRA,2233.82,136666.12,Cover monthly taxes & living expenses
 2031/06,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
 2031/06,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2031/06,Withdraw,IRA,10253.9,126422.06,Monthly ROTH conversion
-2031/06,Deposit,Roth,10253.9,874296.9,Monthly ROTH conversion
+2031/06,Withdraw,IRA,10253.9,126412.22,Monthly ROTH conversion
+2031/06,Deposit,Roth,10253.9,875761.74,Monthly ROTH conversion
 2031/06,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2031/07,Withdraw,IRA,2233.82,124188.24,Cover monthly taxes & living expenses
+2031/07,Withdraw,IRA,2233.82,124178.4,Cover monthly taxes & living expenses
 2031/07,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
 2031/07,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2031/07,Withdraw,IRA,10253.91,113934.33,Monthly ROTH conversion
-2031/07,Deposit,Roth,10253.91,884550.81,Monthly ROTH conversion
+2031/07,Withdraw,IRA,10253.91,113924.49,Monthly ROTH conversion
+2031/07,Deposit,Roth,10253.91,886015.65,Monthly ROTH conversion
 2031/07,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2031/08,Withdraw,IRA,2233.82,111700.51,Cover monthly taxes & living expenses
+2031/08,Withdraw,IRA,2233.82,111690.67,Cover monthly taxes & living expenses
 2031/08,Deposit,Savings,2233.82,2233.82,Cover monthly taxes & living expenses
 2031/08,Payment,Savings,216.83,2016.99,IRMAA taxes for Self
-2031/08,Withdraw,IRA,10253.9,101446.61,Monthly ROTH conversion
-2031/08,Deposit,Roth,10253.9,894804.71,Monthly ROTH conversion
+2031/08,Withdraw,IRA,10253.9,101436.77,Monthly ROTH conversion
+2031/08,Deposit,Roth,10253.9,896269.55,Monthly ROTH conversion
 2031/08,Payment,Savings,2016.99,0.0,Federal Income taxes for Self
-2031/09,Withdraw,IRA,2234.07,99212.54,Cover monthly taxes & living expenses
+2031/09,Withdraw,IRA,2234.07,99202.7,Cover monthly taxes & living expenses
 2031/09,Deposit,Savings,2234.07,2234.07,Cover monthly taxes & living expenses
 2031/09,Payment,Savings,216.83,2017.24,IRMAA taxes for Self
-2031/09,Withdraw,IRA,10253.91,88958.63,Monthly ROTH conversion
-2031/09,Deposit,Roth,10253.91,905058.62,Monthly ROTH conversion
+2031/09,Withdraw,IRA,10253.91,88948.79,Monthly ROTH conversion
+2031/09,Deposit,Roth,10253.91,906523.46,Monthly ROTH conversion
 2031/09,Payment,Savings,2017.24,0.0,Federal Income taxes for Self
-2031/10,Withdraw,IRA,2234.07,86724.56,Cover monthly taxes & living expenses
+2031/10,Withdraw,IRA,2234.07,86714.72,Cover monthly taxes & living expenses
 2031/10,Deposit,Savings,2234.07,2234.07,Cover monthly taxes & living expenses
 2031/10,Payment,Savings,216.83,2017.24,IRMAA taxes for Self
-2031/10,Withdraw,IRA,10253.91,76470.65,Monthly ROTH conversion
-2031/10,Deposit,Roth,10253.91,915312.53,Monthly ROTH conversion
+2031/10,Withdraw,IRA,10253.91,76460.81,Monthly ROTH conversion
+2031/10,Deposit,Roth,10253.91,916777.37,Monthly ROTH conversion
 2031/10,Payment,Savings,2017.24,0.0,Federal Income taxes for Self
-2031/11,Withdraw,IRA,2234.57,74236.08,Cover monthly taxes & living expenses
+2031/11,Withdraw,IRA,2234.57,74226.24,Cover monthly taxes & living expenses
 2031/11,Deposit,Savings,2234.57,2234.57,Cover monthly taxes & living expenses
 2031/11,Payment,Savings,216.83,2017.74,IRMAA taxes for Self
-2031/11,Withdraw,IRA,10253.91,63982.17,Monthly ROTH conversion
-2031/11,Deposit,Roth,10253.91,925566.44,Monthly ROTH conversion
+2031/11,Withdraw,IRA,10253.91,63972.33,Monthly ROTH conversion
+2031/11,Deposit,Roth,10253.91,927031.28,Monthly ROTH conversion
 2031/11,Payment,Savings,2017.74,0.0,Federal Income taxes for Self
-2031/12,Withdraw,IRA,2233.61,61748.56,Cover monthly taxes & living expenses
+2031/12,Withdraw,IRA,2233.61,61738.72,Cover monthly taxes & living expenses
 2031/12,Deposit,Savings,2233.61,2233.61,Cover monthly taxes & living expenses
 2031/12,Payment,Savings,216.87,2016.74,IRMAA taxes for Self
-2031/12,Withdraw,IRA,10253.89,51494.67,Monthly ROTH conversion
-2031/12,Deposit,Roth,10253.89,935820.33,Monthly ROTH conversion
+2031/12,Withdraw,IRA,10253.89,51484.83,Monthly ROTH conversion
+2031/12,Deposit,Roth,10253.89,937285.17,Monthly ROTH conversion
 2031/12,Payment,Savings,2016.74,0.0,Federal Income taxes for Self
 2031/00,AccountInfo,Savings,,0.0,Account balance
-2031/00,AccountInfo,IRA,,51494.67,Account balance
-2031/00,AccountInfo,Roth,,935820.33,Account balance
+2031/00,AccountInfo,IRA,,51484.83,Account balance
+2031/00,AccountInfo,Roth,,937285.17,Account balance
 2031/00,TaxInfo,FICA,,0.0,FICA Tax
 2031/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2031/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
@@ -508,81 +508,81 @@ Date, Type, Account, Amount, Balance, Memo
 2031/00,TaxInfo,FederalTax,,24207.0,Federal income tax
 2031/00,TaxInfo,StateTax,,0.0,State income tax
 2031/00,TaxInfo,LocalTax,,0.0,Local income tax
-2032/01,Withdraw,IRA,529.25,50965.42,Cover monthly taxes & living expenses
+2032/01,Withdraw,IRA,529.25,50955.58,Cover monthly taxes & living expenses
 2032/01,Deposit,Savings,529.25,529.25,Cover monthly taxes & living expenses
 2032/01,Payment,Savings,216.83,312.42,IRMAA taxes for Self
-2032/01,Withdraw,IRA,3759.77,47205.65,Monthly ROTH conversion
-2032/01,Deposit,Roth,3759.77,939580.1,Monthly ROTH conversion
+2032/01,Withdraw,IRA,3759.77,47195.81,Monthly ROTH conversion
+2032/01,Deposit,Roth,3759.77,941044.94,Monthly ROTH conversion
 2032/01,Payment,Savings,312.42,0.0,Federal Income taxes for Self
-2032/02,Withdraw,IRA,529.25,46676.4,Cover monthly taxes & living expenses
+2032/02,Withdraw,IRA,529.25,46666.56,Cover monthly taxes & living expenses
 2032/02,Deposit,Savings,529.25,529.25,Cover monthly taxes & living expenses
 2032/02,Payment,Savings,216.83,312.42,IRMAA taxes for Self
-2032/02,Withdraw,IRA,3759.77,42916.63,Monthly ROTH conversion
-2032/02,Deposit,Roth,3759.77,943339.87,Monthly ROTH conversion
+2032/02,Withdraw,IRA,3759.77,42906.79,Monthly ROTH conversion
+2032/02,Deposit,Roth,3759.77,944804.71,Monthly ROTH conversion
 2032/02,Payment,Savings,312.42,0.0,Federal Income taxes for Self
-2032/03,Withdraw,IRA,529.25,42387.38,Cover monthly taxes & living expenses
+2032/03,Withdraw,IRA,529.25,42377.54,Cover monthly taxes & living expenses
 2032/03,Deposit,Savings,529.25,529.25,Cover monthly taxes & living expenses
 2032/03,Payment,Savings,216.83,312.42,IRMAA taxes for Self
-2032/03,Withdraw,IRA,3759.77,38627.61,Monthly ROTH conversion
-2032/03,Deposit,Roth,3759.77,947099.64,Monthly ROTH conversion
+2032/03,Withdraw,IRA,3759.77,38617.77,Monthly ROTH conversion
+2032/03,Deposit,Roth,3759.77,948564.48,Monthly ROTH conversion
 2032/03,Payment,Savings,312.42,0.0,Federal Income taxes for Self
-2032/04,Withdraw,IRA,529.25,38098.36,Cover monthly taxes & living expenses
+2032/04,Withdraw,IRA,529.25,38088.52,Cover monthly taxes & living expenses
 2032/04,Deposit,Savings,529.25,529.25,Cover monthly taxes & living expenses
 2032/04,Payment,Savings,216.83,312.42,IRMAA taxes for Self
-2032/04,Withdraw,IRA,3759.76,34338.6,Monthly ROTH conversion
-2032/04,Deposit,Roth,3759.76,950859.4,Monthly ROTH conversion
+2032/04,Withdraw,IRA,3759.76,34328.76,Monthly ROTH conversion
+2032/04,Deposit,Roth,3759.76,952324.24,Monthly ROTH conversion
 2032/04,Payment,Savings,312.42,0.0,Federal Income taxes for Self
-2032/05,Withdraw,IRA,529.24,33809.36,Cover monthly taxes & living expenses
+2032/05,Withdraw,IRA,529.24,33799.52,Cover monthly taxes & living expenses
 2032/05,Deposit,Savings,529.24,529.24,Cover monthly taxes & living expenses
 2032/05,Payment,Savings,216.83,312.41,IRMAA taxes for Self
-2032/05,Withdraw,IRA,3759.77,30049.59,Monthly ROTH conversion
-2032/05,Deposit,Roth,3759.77,954619.17,Monthly ROTH conversion
+2032/05,Withdraw,IRA,3759.77,30039.75,Monthly ROTH conversion
+2032/05,Deposit,Roth,3759.77,956084.01,Monthly ROTH conversion
 2032/05,Payment,Savings,312.41,0.0,Federal Income taxes for Self
-2032/06,Withdraw,IRA,529.39,29520.2,Cover monthly taxes & living expenses
+2032/06,Withdraw,IRA,529.39,29510.36,Cover monthly taxes & living expenses
 2032/06,Deposit,Savings,529.39,529.39,Cover monthly taxes & living expenses
 2032/06,Payment,Savings,216.83,312.56,IRMAA taxes for Self
-2032/06,Withdraw,IRA,3759.76,25760.44,Monthly ROTH conversion
-2032/06,Deposit,Roth,3759.76,958378.93,Monthly ROTH conversion
+2032/06,Withdraw,IRA,3759.76,25750.6,Monthly ROTH conversion
+2032/06,Deposit,Roth,3759.76,959843.77,Monthly ROTH conversion
 2032/06,Payment,Savings,312.56,0.0,Federal Income taxes for Self
-2032/07,Withdraw,IRA,529.39,25231.05,Cover monthly taxes & living expenses
+2032/07,Withdraw,IRA,529.39,25221.21,Cover monthly taxes & living expenses
 2032/07,Deposit,Savings,529.39,529.39,Cover monthly taxes & living expenses
 2032/07,Payment,Savings,216.83,312.56,IRMAA taxes for Self
-2032/07,Withdraw,IRA,3759.77,21471.28,Monthly ROTH conversion
-2032/07,Deposit,Roth,3759.77,962138.7,Monthly ROTH conversion
+2032/07,Withdraw,IRA,3759.77,21461.44,Monthly ROTH conversion
+2032/07,Deposit,Roth,3759.77,963603.54,Monthly ROTH conversion
 2032/07,Payment,Savings,312.56,0.0,Federal Income taxes for Self
-2032/08,Withdraw,IRA,529.39,20941.89,Cover monthly taxes & living expenses
+2032/08,Withdraw,IRA,529.39,20932.05,Cover monthly taxes & living expenses
 2032/08,Deposit,Savings,529.39,529.39,Cover monthly taxes & living expenses
 2032/08,Payment,Savings,216.83,312.56,IRMAA taxes for Self
-2032/08,Withdraw,IRA,3759.76,17182.13,Monthly ROTH conversion
-2032/08,Deposit,Roth,3759.76,965898.46,Monthly ROTH conversion
+2032/08,Withdraw,IRA,3759.76,17172.29,Monthly ROTH conversion
+2032/08,Deposit,Roth,3759.76,967363.3,Monthly ROTH conversion
 2032/08,Payment,Savings,312.56,0.0,Federal Income taxes for Self
-2032/09,Withdraw,IRA,529.39,16652.74,Cover monthly taxes & living expenses
+2032/09,Withdraw,IRA,529.39,16642.9,Cover monthly taxes & living expenses
 2032/09,Deposit,Savings,529.39,529.39,Cover monthly taxes & living expenses
 2032/09,Payment,Savings,216.83,312.56,IRMAA taxes for Self
-2032/09,Withdraw,IRA,3759.76,12892.98,Monthly ROTH conversion
-2032/09,Deposit,Roth,3759.76,969658.22,Monthly ROTH conversion
+2032/09,Withdraw,IRA,3759.76,12883.14,Monthly ROTH conversion
+2032/09,Deposit,Roth,3759.76,971123.06,Monthly ROTH conversion
 2032/09,Payment,Savings,312.56,0.0,Federal Income taxes for Self
-2032/10,Withdraw,IRA,529.39,12363.59,Cover monthly taxes & living expenses
+2032/10,Withdraw,IRA,529.39,12353.75,Cover monthly taxes & living expenses
 2032/10,Deposit,Savings,529.39,529.39,Cover monthly taxes & living expenses
 2032/10,Payment,Savings,216.83,312.56,IRMAA taxes for Self
-2032/10,Withdraw,IRA,3759.76,8603.83,Monthly ROTH conversion
-2032/10,Deposit,Roth,3759.76,973417.98,Monthly ROTH conversion
+2032/10,Withdraw,IRA,3759.76,8593.99,Monthly ROTH conversion
+2032/10,Deposit,Roth,3759.76,974882.82,Monthly ROTH conversion
 2032/10,Payment,Savings,312.56,0.0,Federal Income taxes for Self
-2032/11,Withdraw,IRA,529.39,8074.44,Cover monthly taxes & living expenses
+2032/11,Withdraw,IRA,529.39,8064.6,Cover monthly taxes & living expenses
 2032/11,Deposit,Savings,529.39,529.39,Cover monthly taxes & living expenses
 2032/11,Payment,Savings,216.83,312.56,IRMAA taxes for Self
-2032/11,Withdraw,IRA,3759.76,4314.68,Monthly ROTH conversion
-2032/11,Deposit,Roth,3759.76,977177.74,Monthly ROTH conversion
+2032/11,Withdraw,IRA,3759.76,4304.84,Monthly ROTH conversion
+2032/11,Deposit,Roth,3759.76,978642.58,Monthly ROTH conversion
 2032/11,Payment,Savings,312.56,0.0,Federal Income taxes for Self
-2032/12,Withdraw,IRA,528.42,3786.26,Cover monthly taxes & living expenses
+2032/12,Withdraw,IRA,528.42,3776.42,Cover monthly taxes & living expenses
 2032/12,Deposit,Savings,528.42,528.42,Cover monthly taxes & living expenses
 2032/12,Payment,Savings,216.87,311.55,IRMAA taxes for Self
-2032/12,Withdraw,IRA,3759.78,26.48,Monthly ROTH conversion
-2032/12,Deposit,Roth,3759.78,980937.52,Monthly ROTH conversion
+2032/12,Withdraw,IRA,3759.78,16.64,Monthly ROTH conversion
+2032/12,Deposit,Roth,3759.78,982402.36,Monthly ROTH conversion
 2032/12,Payment,Savings,311.55,0.0,Federal Income taxes for Self
 2032/00,AccountInfo,Savings,,0.0,Account balance
-2032/00,AccountInfo,IRA,,26.48,Account balance
-2032/00,AccountInfo,Roth,,980937.52,Account balance
+2032/00,AccountInfo,IRA,,16.64,Account balance
+2032/00,AccountInfo,Roth,,982402.36,Account balance
 2032/00,TaxInfo,FICA,,0.0,FICA Tax
 2032/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2032/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
@@ -591,90 +591,84 @@ Date, Type, Account, Amount, Balance, Memo
 2032/00,TaxInfo,FederalTax,,3750.0,Federal income tax
 2032/00,TaxInfo,StateTax,,0.0,State income tax
 2032/00,TaxInfo,LocalTax,,0.0,Local income tax
-2033/01,Withdraw,IRA,0.08,26.4,RMD Withdraw
-2033/01,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/01,Withdraw,IRA,25.48,0.92,Cover monthly taxes & living expenses
-2033/01,Deposit,Savings,25.48,25.56,Cover monthly taxes & living expenses
-2033/01,Withdraw,Roth,191.27,980746.25,Cover monthly taxes & living expenses
-2033/01,Deposit,Savings,191.27,216.83,Cover monthly taxes & living expenses
+2033/01,Withdraw,IRA,0.05,16.59,RMD Withdraw
+2033/01,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/01,Withdraw,IRA,16.01,0.58,Cover monthly taxes & living expenses
+2033/01,Deposit,Savings,16.01,16.06,Cover monthly taxes & living expenses
+2033/01,Withdraw,Roth,200.77,982201.59,Cover monthly taxes & living expenses
+2033/01,Deposit,Savings,200.77,216.83,Cover monthly taxes & living expenses
 2033/01,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/02,Withdraw,IRA,0.08,0.84,RMD Withdraw
-2033/02,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/02,Withdraw,IRA,0.0,0.84,Cover monthly taxes & living expenses
-2033/02,Deposit,Savings,0.0,0.08,Cover monthly taxes & living expenses
-2033/02,Withdraw,Roth,216.75,980529.5,Cover monthly taxes & living expenses
-2033/02,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/02,Withdraw,IRA,0.05,0.53,RMD Withdraw
+2033/02,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/02,Withdraw,Roth,216.78,981984.81,Cover monthly taxes & living expenses
+2033/02,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/02,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/03,Withdraw,IRA,0.08,0.76,RMD Withdraw
-2033/03,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/03,Withdraw,Roth,216.75,980312.75,Cover monthly taxes & living expenses
-2033/03,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/03,Withdraw,IRA,0.05,0.48,RMD Withdraw
+2033/03,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/03,Withdraw,IRA,0.0,0.48,Cover monthly taxes & living expenses
+2033/03,Deposit,Savings,0.0,0.05,Cover monthly taxes & living expenses
+2033/03,Withdraw,Roth,216.78,981768.03,Cover monthly taxes & living expenses
+2033/03,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/03,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/04,Withdraw,IRA,0.08,0.68,RMD Withdraw
-2033/04,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/04,Withdraw,IRA,0.0,0.68,Cover monthly taxes & living expenses
-2033/04,Deposit,Savings,0.0,0.08,Cover monthly taxes & living expenses
-2033/04,Withdraw,Roth,216.75,980096.0,Cover monthly taxes & living expenses
-2033/04,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/04,Withdraw,IRA,0.05,0.43,RMD Withdraw
+2033/04,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/04,Withdraw,Roth,216.78,981551.25,Cover monthly taxes & living expenses
+2033/04,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/04,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/05,Withdraw,IRA,0.08,0.6,RMD Withdraw
-2033/05,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/05,Withdraw,IRA,0.0,0.6,Cover monthly taxes & living expenses
-2033/05,Deposit,Savings,0.0,0.08,Cover monthly taxes & living expenses
-2033/05,Withdraw,Roth,216.75,979879.25,Cover monthly taxes & living expenses
-2033/05,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/05,Withdraw,IRA,0.05,0.38,RMD Withdraw
+2033/05,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/05,Withdraw,Roth,216.78,981334.47,Cover monthly taxes & living expenses
+2033/05,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/05,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/06,Withdraw,IRA,0.08,0.52,RMD Withdraw
-2033/06,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/06,Withdraw,IRA,0.0,0.52,Cover monthly taxes & living expenses
-2033/06,Deposit,Savings,0.0,0.08,Cover monthly taxes & living expenses
-2033/06,Withdraw,Roth,216.75,979662.5,Cover monthly taxes & living expenses
-2033/06,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/06,Withdraw,IRA,0.05,0.33,RMD Withdraw
+2033/06,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/06,Withdraw,Roth,216.78,981117.69,Cover monthly taxes & living expenses
+2033/06,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/06,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/07,Withdraw,IRA,0.08,0.44,RMD Withdraw
-2033/07,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/07,Withdraw,Roth,216.75,979445.75,Cover monthly taxes & living expenses
-2033/07,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/07,Withdraw,IRA,0.05,0.28,RMD Withdraw
+2033/07,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/07,Withdraw,Roth,216.78,980900.91,Cover monthly taxes & living expenses
+2033/07,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/07,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/08,Withdraw,IRA,0.08,0.36,RMD Withdraw
-2033/08,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/08,Withdraw,Roth,216.75,979229.0,Cover monthly taxes & living expenses
-2033/08,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/08,Withdraw,IRA,0.05,0.23,RMD Withdraw
+2033/08,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/08,Withdraw,Roth,216.78,980684.13,Cover monthly taxes & living expenses
+2033/08,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/08,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/09,Withdraw,IRA,0.08,0.28,RMD Withdraw
-2033/09,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/09,Withdraw,Roth,216.75,979012.25,Cover monthly taxes & living expenses
-2033/09,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/09,Withdraw,IRA,0.05,0.18,RMD Withdraw
+2033/09,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/09,Withdraw,Roth,216.78,980467.35,Cover monthly taxes & living expenses
+2033/09,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/09,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/10,Withdraw,IRA,0.08,0.2,RMD Withdraw
-2033/10,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/10,Withdraw,Roth,216.75,978795.5,Cover monthly taxes & living expenses
-2033/10,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/10,Withdraw,IRA,0.05,0.13,RMD Withdraw
+2033/10,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/10,Withdraw,Roth,216.78,980250.57,Cover monthly taxes & living expenses
+2033/10,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/10,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/11,Withdraw,IRA,0.08,0.12,RMD Withdraw
-2033/11,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
-2033/11,Withdraw,Roth,216.75,978578.75,Cover monthly taxes & living expenses
-2033/11,Deposit,Savings,216.75,216.83,Cover monthly taxes & living expenses
+2033/11,Withdraw,IRA,0.05,0.08,RMD Withdraw
+2033/11,Deposit,Savings,0.05,0.05,RMD fully allocated into savings for monthly expenses
+2033/11,Withdraw,Roth,216.78,980033.79,Cover monthly taxes & living expenses
+2033/11,Deposit,Savings,216.78,216.83,Cover monthly taxes & living expenses
 2033/11,Payment,Savings,216.83,0.0,IRMAA taxes for Self
-2033/12,Withdraw,IRA,0.12,0.0,RMD Withdraw
-2033/12,Deposit,Savings,0.12,0.12,RMD fully allocated into savings for monthly expenses
-2033/12,Withdraw,Roth,216.75,978362.0,Cover monthly taxes & living expenses
-2033/12,Deposit,Savings,216.75,216.87,Cover monthly taxes & living expenses
+2033/12,Withdraw,IRA,0.08,0.0,RMD Withdraw
+2033/12,Deposit,Savings,0.08,0.08,RMD fully allocated into savings for monthly expenses
+2033/12,Withdraw,Roth,216.79,979817.0,Cover monthly taxes & living expenses
+2033/12,Deposit,Savings,216.79,216.87,Cover monthly taxes & living expenses
 2033/12,Payment,Savings,216.87,0.0,IRMAA taxes for Self
 2033/00,AccountInfo,Savings,,0.0,Account balance
 2033/00,AccountInfo,IRA,,0.0,Account balance
-2033/00,AccountInfo,Roth,,978362.0,Account balance
+2033/00,AccountInfo,Roth,,979817.0,Account balance
 2033/00,TaxInfo,FICA,,0.0,FICA Tax
 2033/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2033/00,TaxInfo,IRMAA,,2602.0,IRMAA Tax
 2033/00,TaxInfo,CapGins,,0.0,Capital Gains Income
-2033/00,TaxInfo,AGI,,26.48,Adjusted Gross Income
+2033/00,TaxInfo,AGI,,16.64,Adjusted Gross Income
 2033/00,TaxInfo,FederalTax,,0.0,Federal income tax
 2033/00,TaxInfo,StateTax,,0.0,State income tax
 2033/00,TaxInfo,LocalTax,,0.0,Local income tax
 2034/00,AccountInfo,Savings,,0.0,Account balance
 2034/00,AccountInfo,IRA,,0.0,Account balance
-2034/00,AccountInfo,Roth,,978362.0,Account balance
+2034/00,AccountInfo,Roth,,979817.0,Account balance
 2034/00,TaxInfo,FICA,,0.0,FICA Tax
 2034/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2034/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
@@ -685,7 +679,7 @@ Date, Type, Account, Amount, Balance, Memo
 2034/00,TaxInfo,LocalTax,,0.0,Local income tax
 2035/00,AccountInfo,Savings,,0.0,Account balance
 2035/00,AccountInfo,IRA,,0.0,Account balance
-2035/00,AccountInfo,Roth,,978362.0,Account balance
+2035/00,AccountInfo,Roth,,979817.0,Account balance
 2035/00,TaxInfo,FICA,,0.0,FICA Tax
 2035/00,TaxInfo,Medicare,,0.0,Medicare Tax
 2035/00,TaxInfo,IRMAA,,0.0,IRMAA Tax
