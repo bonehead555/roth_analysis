@@ -13,8 +13,8 @@
 migrate_working_dir/
 
 # Temporary Test Results
-test/results/*
-!test/results/verified/*
+test/results/differences/*
+test/results/lastTestResults/*
 
 # IntelliJ related
 *.iml
