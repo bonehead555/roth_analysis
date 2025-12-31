@@ -259,7 +259,7 @@ void main() {
         regularIncome: 50000,
         selfEmploymentIncome: 0.0,
         pensionIncome: 0.0,
-        expected: 961
+        expected: 982
       ),
       (
         filingState: FilingState.oh,
