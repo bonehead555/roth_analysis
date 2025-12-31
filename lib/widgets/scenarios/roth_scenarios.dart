@@ -241,7 +241,7 @@ class _RothScenariosState extends ConsumerState<RothScenarios> {
                 columnWidths: const <int, TableColumnWidth>{
                   0: FixedColumnWidth(220.0),
                   1: FixedColumnWidth(8.0),
-                  2: FixedColumnWidth(150.0),
+                  2: FixedColumnWidth(160.0),
                   3: FixedColumnWidth(20.0),
                   4: FixedColumnWidth(60.0),
                   5: FixedColumnWidth(8.0),

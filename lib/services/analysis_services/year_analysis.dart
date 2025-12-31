@@ -424,7 +424,7 @@ class YearAnalysis {
   /// * Modifies filingSettings.selfInventory.prevPrevYearsMAGI
   /// * Modifies filingSettings.spouseInventory.prevPrevYearsMAGI
   void _initalizeIrmaaMagi() {
-    // Before we can caluclate IRMAA taxes we must get MAGI values for two years prior.
+    // Before we can calculate IRMAA taxes we must get MAGI values for two years prior.
     if (prevYearsAnalysis != null &&
         prevYearsAnalysis!.prevYearsAnalysis != null) {
       // We have a year analysis from two years prior; use it to intialize prevPrevYearsMAGI
@@ -459,7 +459,8 @@ class YearAnalysis {
       // The user specified a fixed amount to convert per year.
       configuredRothConversionAmount =
           analysisConfig.currentScenario.amountConstraint.fixedAmount;
-    } else {
+    } else if (analysisConfig.currentScenario.amountConstraint.type ==
+        AmountConstraintType.magiLimit) {
       // Configured Roth Conversion Amount is MAGI limited; its the only option left …
       // Get the configured MAGI limit, adjusted for time.
       configuredMagiLimit = adjustForTime(
@@ -467,6 +468,17 @@ class YearAnalysis {
               analysisConfig.currentScenario.amountConstraint.fixedAmount,
           toYear: targetYear,
           fromYear: rothConversionStartingYear);
+    } else {
+      // Configured Roth Conversion Amount is Taxable Income limited; its the only option left …
+      // Compute a configured MAGI limit, adjusted for time, then add this years standard deduction estimate
+      double computedMagiLimit = adjustForTime(
+          valueToAdjust:
+              analysisConfig.currentScenario.amountConstraint.fixedAmount,
+          toYear: targetYear,
+          fromYear: rothConversionStartingYear);
+      configuredMagiLimit = computedMagiLimit +
+          _federalIncomeTaxService
+              .estimateStandardDeduction(estimatedMAGI: configuredMagiLimit);
     }
     _rothConversionConstraints = (
       configuredRothConversionAmount: configuredRothConversionAmount,

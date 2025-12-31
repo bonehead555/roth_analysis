@@ -1,10 +1,12 @@
 /// Enumerated Type that identifies how the Roth conversion amount constraint is specified.
-/// [amount] - Indicates that it is a fixed amount to be convereted each year
-/// [magiLimit] - Indicates that it is to be calculated such that it does not exceed a certain federal MAGI
+/// [amount] - Indicates that it is a fixed amount to be convereted each year.
+/// [magiLimit] - Indicates that it is to be calculated such that it does not exceed a certain federal MAGI.
+/// [tiLimit] - Indicates that it is to be calculated such that it does not exceed a certain federal Taxable Income.
 /// [label] - Provides a human readable textual label for the cooresponding enum value
 enum AmountConstraintType {
   amount('Fixed Amount'),
-  magiLimit('MAGI Limit');
+  magiLimit('MAGI Limit'),
+  tiLimit("Taxable Income Limit");
 
   final String label;
 

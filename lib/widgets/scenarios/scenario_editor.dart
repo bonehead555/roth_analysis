@@ -141,7 +141,7 @@ class _ScenarioEditorState extends State<ScenarioEditor> {
             key: formKey,
             child: Table(
                 columnWidths: const <int, TableColumnWidth>{
-                  0: FixedColumnWidth(220.0),
+                  0: FixedColumnWidth(240.0),
                   1: FixedColumnWidth(40.0),
                   2: FixedColumnWidth(220.0),
                   3: FixedColumnWidth(40.0),
